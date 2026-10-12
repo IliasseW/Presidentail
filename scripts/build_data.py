@@ -69,6 +69,33 @@ def load(year):
     return cands, errors, warnings
 
 
+STATUTS_AFFAIRE = {"enquete", "mise_en_examen", "renvoi_proces", "condamnation_non_definitive",
+                   "condamnation_definitive", "relaxe", "non_lieu", "classement", "prescription", "autre"}
+
+
+def load_affaires(slugs):
+    """Affaires judiciaires, une fiche par personne (data/affaires/<slug>.json), valables pour toutes les années."""
+    errors, out = [], {}
+    for path in sorted(glob.glob(os.path.join(DATA, "affaires", "*.json"))):
+        name = f"affaires/{os.path.basename(path)}"
+        try:
+            a = json.load(open(path, encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            errors.append(f"{name}: JSON invalide ({e})")
+            continue
+        if a.get("slug") not in slugs:
+            errors.append(f"{name}: aucune fiche candidat pour le slug {a.get('slug')!r}")
+            continue
+        for i, af in enumerate(a.get("affaires", [])):
+            where = f"{name} #{i} « {af.get('intitule', '')[:40]} »"
+            if af.get("statut") not in STATUTS_AFFAIRE:
+                errors.append(f"{where}: statut inconnu {af.get('statut')!r}")
+            if not af.get("sources") or not all(str(s.get("url", "")).startswith("http") for s in af["sources"]):
+                errors.append(f"{where}: chaque affaire doit avoir au moins une source avec une URL")
+        out[a["slug"]] = {k: a.get(k) for k in ("affaires", "aucune_affaire_trouvee", "notes", "verifie_le")}
+    return out, errors
+
+
 def main():
     check_only = "--check" in sys.argv
     all_cands, all_errors, all_warnings = [], [], []
@@ -78,6 +105,9 @@ def main():
         all_errors += errors
         all_warnings += warnings
         print(f"{year} : {len(cands)} fiches, {sum(len(c['propositions']) for c in cands)} propositions")
+    affaires, errors = load_affaires({c["slug"] for c in all_cands})
+    all_errors += errors
+    print(f"affaires : {len(affaires)} fiches, {sum(len(a['affaires'] or []) for a in affaires.values())} affaires")
     for w in all_warnings:
         print("avertissement :", w)
     for e in all_errors:
@@ -91,6 +121,7 @@ def main():
         "genere_le": max((c.get("verifie_le") or "" for c in all_cands), default=""),
         "themes": THEMES,
         "candidats": all_cands,
+        "affaires": affaires,
     }
     with open(os.path.join(DATA, "programmes.json"), "w", encoding="utf-8") as f:
         json.dump(bundle, f, ensure_ascii=False, separators=(",", ":"))

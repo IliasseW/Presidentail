@@ -8,6 +8,10 @@
   --accent-soft: #e6ecfb;
   --warn-soft: #fdf1dc;
   --warn: #8a5a00;
+  --danger: #a3261b;
+  --danger-soft: #fbe5e2;
+  --ok: #2c6b3f;
+  --ok-soft: #e1f2e6;
   --radius: 10px;
   color-scheme: light;
 }
@@ -22,6 +26,10 @@
     --accent-soft: #263257;
     --warn-soft: #3a2e17;
     --warn: #f2c26b;
+    --danger: #ff9b8f;
+    --danger-soft: #45201c;
+    --ok: #8fd6a5;
+    --ok-soft: #1d3a26;
     color-scheme: dark;
   }
 }
@@ -122,6 +130,12 @@ input[type="search"] {
 
 .badge { display: inline-block; font-size: .72rem; font-weight: 600; padding: 1px 7px; border-radius: 999px; vertical-align: middle; }
 .badge-nature { background: var(--warn-soft); color: var(--warn); }
+.st-condamne { background: var(--danger-soft); color: var(--danger); }
+.st-encours { background: var(--warn-soft); color: var(--warn); }
+.st-clos { background: var(--ok-soft); color: var(--ok); }
+.affaires { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 10px; }
+.affaires-sum { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+.presomption { color: var(--muted); font-size: .8rem; margin: 10px 0 0; }
 .empty, .hint { color: var(--muted); font-size: .9rem; }
 .empty { font-style: italic; }
 mark { background: #ffe58a; color: #1c1d21; border-radius: 2px; }

@@ -14,6 +14,20 @@ const PROGRAMME = {
   aucun: "Pas de programme publié",
 };
 const NATURE = { declaration: "Déclaration", livre: "Livre" };
+// Statuts des affaires judiciaires et leur famille (couleur de l'étiquette).
+const AFFAIRE = {
+  enquete: ["Enquête en cours", "encours"],
+  mise_en_examen: ["Mise en examen", "encours"],
+  renvoi_proces: ["Renvoyé en procès", "encours"],
+  condamnation_non_definitive: ["Condamnation non définitive", "condamne"],
+  condamnation_definitive: ["Condamnation définitive", "condamne"],
+  relaxe: ["Relaxe", "clos"],
+  non_lieu: ["Non-lieu", "clos"],
+  classement: ["Classement sans suite", "clos"],
+  prescription: ["Prescription", "clos"],
+  autre: ["Autre issue", "clos"],
+};
+const PRESOMPTION = "Toute personne est présumée innocente tant qu'une condamnation définitive n'a pas été prononcée. Seules les procédures judiciaires visant personnellement le candidat et rapportées par des sources fiables sont recensées.";
 const GROUPS = [
   { titre: "Candidats déclarés 2027", test: (c) => c.annee === 2027 && (c.statut_candidature === "declare" || c.statut_candidature === "primaire") },
   { titre: "Pressentis 2027", test: (c) => c.annee === 2027 && c.statut_candidature === "pressenti" },
@@ -119,6 +133,34 @@ function statutLine(c) {
   return c.date_declaration && c.annee === 2027 ? `${s} (${fmtDate(c.date_declaration)})` : s;
 }
 
+function affaireBadge(statut) {
+  const [lib, fam] = AFFAIRE[statut] || [statut, "clos"];
+  return `<span class="badge st-${fam}">${esc(lib)}</span>`;
+}
+
+// Résumé court : « 1 condamnation non définitive, 1 relaxe ».
+function affairesSummary(c) {
+  const a = DATA.affaires?.[c.slug];
+  if (!a) return `<span class="none">Non vérifié</span>`;
+  if (!a.affaires?.length) return `<span class="none">Aucune procédure recensée</span>`;
+  const counts = {};
+  a.affaires.forEach((af) => { counts[af.statut] = (counts[af.statut] || 0) + 1; });
+  return Object.entries(counts).map(([st, n]) => `${n > 1 ? `${n} × ` : ""}${affaireBadge(st)}`).join(" ");
+}
+
+function affairesDetail(c) {
+  const a = DATA.affaires?.[c.slug];
+  if (!a?.affaires?.length) return affairesSummary(c);
+  return `<div class="affaires-sum">${affairesSummary(c)}</div>
+    <details><summary>Détail des ${a.affaires.length} procédure${a.affaires.length > 1 ? "s" : ""}</summary>
+    <ul class="affaires">${a.affaires.map((af) => `<li>
+      <div class="prop-title">${esc(af.intitule)}</div>
+      <div class="prop-meta">${affaireBadge(af.statut)}${af.qualification ? `<span>${esc(af.qualification)}</span>` : ""}${af.date_derniere_etape ? `<span>${fmtDate(af.date_derniere_etape)}</span>` : ""}</div>
+      ${af.resume ? `<p class="prop-detail">${esc(af.resume)}</p>` : ""}
+      <div class="prop-meta">${(af.sources || []).map((src) => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.media || "Source")}</a>`).join("")}</div>
+    </li>`).join("")}</ul></details>`;
+}
+
 // Bandeau collant : un en-tête par candidat, aligné sur les colonnes du comparatif.
 function renderCompareHead(cols) {
   $("#compare-head").style.setProperty("--n", cols.length);
@@ -142,6 +184,7 @@ function renderSynthese(cols, perTheme) {
       <tbody>
         <tr><th scope="row">Statut</th>${cols.map((c) => `<td>${esc(statutLine(c))}</td>`).join("")}</tr>
         <tr><th scope="row">Programme</th>${cols.map((c) => `<td>${programmeLine(c)}${c.programme?.titre ? `<span class="prog-title">${esc(c.programme.titre)}</span>` : ""}</td>`).join("")}</tr>
+        <tr><th scope="row">Affaires judiciaires</th>${cols.map((c) => `<td>${affairesDetail(c)}</td>`).join("")}</tr>
         <tr><th scope="row">Notes</th>${cols.map((c) => `<td>${c.notes ? `<details><summary>Incertitudes</summary><p>${esc(c.notes)}</p></details>` : "—"}</td>`).join("")}</tr>
         ${cols.some((c) => c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`)) ? `<tr><th scope="row">2022</th>${cols.map((c) =>
           c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`) && !state.selected.includes(`${c.slug}@2022`)
@@ -152,6 +195,7 @@ function renderSynthese(cols, perTheme) {
         ${rows}
       </tbody>
     </table></div>
+    <p class="presomption">${PRESOMPTION}</p>
   </div>`;
 }
 
@@ -199,17 +243,19 @@ function renderCompare() {
 
 function renderOverview() {
   const table = (titre, rows, showResult) => `<div class="overview"><h2>${titre}</h2><div class="table-scroll"><table>
-    <thead><tr><th>Candidat</th><th>Parti</th><th>${showResult ? "Résultat" : "Statut"}</th><th>Programme</th><th class="num">Propositions</th></tr></thead>
+    <thead><tr><th>Candidat</th><th>Parti</th><th>${showResult ? "Résultat" : "Statut"}</th><th>Programme</th><th class="num">Propositions</th><th>Affaires judiciaires</th></tr></thead>
     <tbody>${rows.map((c) => `<tr>
       <td><button type="button" class="link" data-pick="${esc(keyOf(c))}">${esc(c.nom)}</button></td>
       <td>${esc(c.parti || "")}</td>
       <td>${esc(showResult ? c.resultat || "" : STATUT[c.statut_candidature] || "")}</td>
       <td>${programmeLine(c)}</td>
-      <td class="num">${c.propositions.length}</td></tr>`).join("")}</tbody></table></div></div>`;
+      <td class="num">${c.propositions.length}</td>
+      <td>${affairesSummary(c)}</td></tr>`).join("")}</tbody></table></div></div>`;
   const y2027 = DATA.candidats.filter((c) => c.annee === 2027);
   const y2022 = DATA.candidats.filter((c) => c.annee === 2022);
   $("#overview").innerHTML = `<p class="hint">Cliquez sur un nom pour l'ajouter au comparatif.</p>`
-    + table("Tous les candidats 2027", y2027, false) + (y2022.length ? table("Programmes de 2022", y2022, true) : "");
+    + table("Tous les candidats 2027", y2027, false) + (y2022.length ? table("Programmes de 2022", y2022, true) : "")
+    + `<p class="presomption">${PRESOMPTION}</p>`;
 }
 
 function render() {
