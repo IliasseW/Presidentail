@@ -40,6 +40,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Répartir le travail entre tous sans perte de salaire",
       "detail": "Objectif « zéro chômeur » par la baisse du temps de travail : « travailler moins pour travailler tous ».",
       "nature": "programme",
@@ -48,6 +49,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Interdire les licenciements",
       "detail": "Mesure relevée par Public Sénat dans son comparatif emploi des candidats.",
       "nature": "declaration",
@@ -56,6 +58,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Revenir à la retraite à 60 ans",
       "detail": "Retour de l'âge de départ à 60 ans.",
       "nature": "declaration",
@@ -64,6 +67,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Embaucher massivement dans les hôpitaux, Ehpad, écoles et transports publics",
       "detail": "Selon les besoins listés par les personnels : « des centaines de milliers d'emplois utiles ».",
       "nature": "programme",
@@ -72,6 +76,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Mettre fin aux « emplois jetables »",
       "detail": "Mêmes droits conventionnels pour tous les travailleurs.",
       "nature": "declaration",
@@ -104,6 +109,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Rouvrir lits, maternités et centres de santé fermés",
       "detail": "Contre la « loi du profit » à l'hôpital et dans les Ehpad ; soins gratuits.",
       "nature": "declaration",
@@ -112,6 +118,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Supprimer les brevets et la propriété intellectuelle des laboratoires",
       "detail": "Pour faire produire les vaccins sans recherche de profit.",
       "nature": "declaration",
@@ -152,6 +159,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Exproprier les grands groupes pour planifier la protection de la planète",
       "detail": "Mettre fin à la concurrence et au « gâchis capitaliste » en recensant les besoins.",
       "nature": "programme",
@@ -160,6 +168,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Restreindre l'élevage intensif et l'abattage industriel",
       "detail": "Mesure citée par VL Média.",
       "nature": "declaration",

@@ -12,69 +12,530 @@
     "date_publication": "2026-02-10"
   },
   "propositions": [
-    {"theme": "education", "titre": "Sanctuariser le budget de l'Éducation et hausser de 20 % la dépense par élève en 10 ans", "detail": "Budget hors pensions revalorisé au moins de l'inflation, puis maintenu en part du PIB une fois le déficit sous 3 %.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Revaloriser d'au moins 10 % les salaires de tous les personnels scolaires", "detail": "Avec une grande conférence sociale sur les métiers de l'enseignement.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Consacrer les après-midis aux savoirs appliqués, du primaire au lycée", "detail": "Pratique, recherche, écriture, création, théâtre, sport ; création de Maisons des Arts, des Sports, des Techniques et du Lien.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Instaurer un « semestre civique » à partir de 15 ans", "detail": "En lien avec les réserves citoyennes et opérationnelles.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Créer « Signal Éduc » et un registre national des auteurs de violences sur mineurs", "detail": "Plateforme de signalement indépendante de la hiérarchie ; registre consultable par les recruteurs, avec garanties ; coordinateur bien-être dans chaque établissement.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Interdire effectivement les téléphones portables dans les établissements", "detail": "Avec des temps sans écrans et une exposition graduée selon l'âge.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Moduler le financement du privé sous contrat selon la mixité sociale", "detail": "Objectifs de mixité et chiffres publiés chaque année ; moyens de l'éducation prioritaire calculés selon les indices de position sociale.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Instaurer des évaluations nationales annuelles en français, maths et histoire", "detail": "Du primaire au collège, avec certifications nationales par niveaux ; mathématiques érigées en priorité nationale.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Recalibrer Parcoursup en outil d'aide à la décision", "detail": "Pour les conseillers d'orientation ; parcours précoces de découverte des métiers.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "education", "titre": "Imposer un délai de deux ans avant l'application de toute réforme scolaire", "detail": "Et faire de la liberté pédagogique la règle.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "territoires", "titre": "Transformer les écoles de village plutôt que les fermer", "detail": "Certaines deviendraient des antennes éducatives.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "societe", "titre": "Créer une commission laïcité dans chaque conseil d'école ou d'établissement", "detail": "Avec un référent laïcité.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html", "source_date": "2026-09-01"},
-    {"theme": "economie", "titre": "Supprimer toutes les niches fiscales et sociales sur le quinquennat", "detail": "Environ 175 Md€ et 400 mesures ; TVA réduite sur les produits essentiels et quotient familial conservés ; économies d'environ 35 Md€ par an.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "economie", "titre": "Réduire la fiscalité à neuf impôts et un code d'environ 40 pages", "detail": "Impôt unique sur le revenu, IS, TVA, impôt unique sur la fortune, droits de succession renforcés (donations du vivant exonérées), CSG à taux unique, taxe foncière, prix du carbone unique, taxe de prévention.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "ecologie_energie", "titre": "Instaurer un prix du carbone unique reversé en dividende climatique universel", "detail": "« Un juste prix du carbone, intégralement rendu aux ménages ».", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "pouvoir_achat", "titre": "Basculer plus de 200 Md€ de cotisations non contributives vers la CSG", "detail": "Hausse d'environ un point de CSG par an sur deux quinquennats ; salaires réels +6 % (environ 90 € par mois au Smic) et coût du travail -3 % attendus.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "finances_publiques", "titre": "Ramener le déficit sous 3 % du PIB en 2031", "detail": "Effort de 125 Md€ d'ici 2031 (dont 65 Md€ restant à trouver : deux tiers via les niches, environ 8 Md€ d'impôt sur la fortune, 9 Md€ de fiscalité environnementale, 2,5 Md€ de lutte contre la fraude).", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "finances_publiques", "titre": "Voter un « budget de mandat » quinquennal contraignant", "detail": "Par loi organique, éventuellement approuvée par référendum ; règle d'or organique d'équilibre des comptes sociaux.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "finances_publiques", "titre": "Constitutionnaliser le Haut Conseil des finances publiques", "detail": "Renforcement de la Cour des comptes et rétablissement de la responsabilité financière des comptables publics.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "economie", "titre": "Créer un fonds souverain national dont chaque citoyen est actionnaire dès la naissance", "detail": "Financé par les économies de niches, un demi-point de CSG, l'épargne volontaire et, après 2031, les recettes d'autoroutes reprises en gestion publique ; volet épargne retraite publique à rendement garanti.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "institutions", "titre": "Simplifier le droit par ordonnances selon la méthode du Code civil", "detail": "Commissions de juristes, assistance de l'IA et participation du public.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html", "source_date": "2026-08-28"},
-    {"theme": "europe_international", "titre": "Recourir à des euro-obligations et à des taux BCE préférentiels pour l'investissement vert", "detail": "Socle de dette souveraine protégée pour adoucir la réduction des déficits.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html", "source_date": "2026-08-21"},
-    {"theme": "ecologie_energie", "titre": "Planifier l'électrification des usages avec des moyens pluriannuels", "detail": "Planification écologique et énergétique liée à la programmation budgétaire, à l'abri des alternances ; inscrite dans la Constitution selon le discours de la Sorbonne.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html", "source_date": "2026-06-28"},
-    {"theme": "ecologie_energie", "titre": "Décentraliser l'exécution de la transition écologique vers les maires", "detail": "L'État fixe les objectifs et délègue moyens financiers et humains ; plan massif d'atténuation et d'adaptation.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html", "source_date": "2026-06-28"},
-    {"theme": "agriculture", "titre": "Viser 500 000 exploitations agricoles en 2035", "detail": "À taille humaine et à direction familiale ; aides concentrées sur l'installation ; foncières publiques avec baux de location-vente.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "source_date": "2026-02-25"},
-    {"theme": "agriculture", "titre": "Réduire de moitié l'usage des phytosanitaires d'ici 2030", "detail": "Restauration des haies et mares, rémunération des services environnementaux, responsabilité judiciaire des producteurs de pesticides.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "source_date": "2026-02-25"},
-    {"theme": "agriculture", "titre": "Viser un excédent agricole et agroalimentaire de 10 Md€", "detail": "Clauses miroirs, contrôles renforcés et extension du mécanisme d'ajustement carbone aux frontières aux produits agricoles.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "source_date": "2026-02-25"},
-    {"theme": "agriculture", "titre": "Ouvrir la question des prix planchers agricoles", "detail": "Contractualisation et partage de la valeur ; associations de producteurs interlocutrices obligatoires de la grande distribution.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "source_date": "2026-02-25"},
-    {"theme": "agriculture", "titre": "Orienter la restauration collective publique vers les produits français", "detail": "Cantines, hôpitaux et administrations, avec traçabilité de l'origine.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html", "source_date": "2026-02-25"},
-    {"theme": "numerique_recherche", "titre": "Créer une Autorité de sûreté de l'IA, homologue de l'ASN", "detail": "Pouvoirs d'enquête et d'autorisation des déploiements ; Conseil de l'IA auprès du président.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html", "source_date": "2026-06-13"},
-    {"theme": "numerique_recherche", "titre": "Inscrire des « droits cognitifs inaliénables » dans le préambule de la Constitution", "detail": "Dont le droit à la décision humaine ; déclaration universelle des droits cognitifs proposée pour le 10 décembre 2028.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html", "source_date": "2026-02-10"},
-    {"theme": "numerique_recherche", "titre": "Créer un « Nutri-Score numérique » des contenus générés par IA", "detail": "Trois catégories : IA seule, IA supervisée, sans IA, avec mention du modèle.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html", "source_date": "2026-02-10"},
-    {"theme": "numerique_recherche", "titre": "Adopter un second AI Act européen", "detail": "Droit à l'effacement des données des jeunes, autorisation préalable de diffusion des modèles ; chambres judiciaires spécialisées en IA.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html", "source_date": "2026-02-10"},
-    {"theme": "numerique_recherche", "titre": "Faire de l'État le coactionnaire de projets d'IA européens sur le modèle d'ITER", "detail": "Réserver « des centaines de milliards d'euros » de capacité de calcul en s'appuyant sur le nucléaire.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html", "source_date": "2026-06-13"},
-    {"theme": "travail_retraites", "titre": "Créer un « revenu de transition » pour les métiers les plus exposés à l'IA", "detail": "Dans une grande loi d'accompagnement, financée par l'adoption de l'IA.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html", "source_date": "2026-06-13"},
-    {"theme": "culture_medias", "titre": "Créer un statut de l'artiste et un revenu minimal d'environ 1 000 € par mois", "detail": "Revenu d'émergence sous forme d'impôt négatif ; opposition au relèvement du seuil des 507 heures des intermittents.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Taxer les contenus culturels générés par IA au profit de la création humaine", "detail": "À l'échelle européenne, avec label obligatoire et consentement préalable à l'entraînement des IA.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Prélever 1,50 € par billet dans les salles de plus de 1 500 places", "detail": "Fléché vers les petites salles (modèle de Liverpool).", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Imposer 20 % de programmation culturelle à chaque société de l'audiovisuel public", "detail": "Rendez-vous culturel quotidien en première partie de soirée ; financement pluriannuel ; refus des fusions effaçant les identités éditoriales.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Créer 5 000 résidences d'artistes et 500 pôles culturels en cinq ans", "detail": "Résidences prioritairement en milieu rural et quartiers prioritaires ; 500 médiathèques transformées.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Garantir au moins 100 heures annuelles de pratique artistique à l'école", "detail": "Une heure d'histoire de l'art au collège, dix films analysés par an.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "numerique_recherche", "titre": "Interdire le défilement infini et les algorithmes de recommandation pour les mineurs", "detail": "Loi de transparence des algorithmes ; plateformes requalifiées en éditeurs.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "culture_medias", "titre": "Maintenir le budget de la culture en euros constants sur cinq ans", "detail": "Pluriannualité généralisée et contrats d'objectifs avec les collectivités.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html", "source_date": "2026-07-23"},
-    {"theme": "institutions", "titre": "Nommer un gouvernement provisoire restreint d'une dizaine de ministères", "detail": "Personnalités de la haute fonction publique, de l'armée ou de la société civile ; accord de gouvernement soumis au Congrès à Versailles.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html", "source_date": "2026-05-24"},
-    {"theme": "institutions", "titre": "Instaurer une motion de défiance constructive", "detail": "Tout renversement d'un gouvernement supposerait un gouvernement alternatif ; vote de confiance systématique.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html", "source_date": "2026-05-24"},
-    {"theme": "institutions", "titre": "Créer un référendum d'initiative citoyenne encadré", "detail": "Préparé par une convention citoyenne permanente.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "territoires", "titre": "Réunir un Conseil des territoires autour du président", "detail": "Présidents de régions et de collectivités d'outre-mer ; rationalisation des compétences et contractualisation État-régions.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html", "source_date": "2026-05-24"},
-    {"theme": "travail_retraites", "titre": "Remplacer l'âge légal par une règle de durée de cotisation", "detail": "Avec prise en compte de la pénibilité ; réforme préparée par conférence sociale et convention citoyenne, référendum possible au bout de 18 mois.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "institutions", "titre": "Rétablir l'ENA et les grands corps", "detail": "Annoncé dans le discours de la Sorbonne.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "immigration", "titre": "Conclure des accords de réciprocité visas contre laissez-passer consulaires", "detail": "Pays par pays ; priorité aux visas de circulation et intégration par la langue et la formation.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "securite_justice", "titre": "Déraciner le narcotrafic et augmenter les patrouilles", "detail": "Annoncé dans le discours de la Sorbonne, sans chiffrage.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "social", "titre": "Organiser des Assises de la famille", "detail": "Divorce, succession, garde alternée, fiscalité ; priorité à la lutte contre les violences familiales.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "sante", "titre": "Lancer un plan de santé mentale des jeunes", "detail": "Annoncé dans le discours de la Sorbonne.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "culture_medias", "titre": "Encadrer la concentration des médias", "detail": "Avec renforcement de l'autorité judiciaire.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html", "source_date": "2026-03-27"},
-    {"theme": "europe_international", "titre": "Créer un Conseil de sécurité européen à cinq", "detail": "Allemagne, Espagne, France, Italie, Pologne, avec voix prépondérante collective ; extension de la majorité qualifiée.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "europe_international", "titre": "Suspendre les élargissements de l'UE sauf pour l'Ukraine", "detail": "Pause sur l'unification et Schengen ; procédure accélérée à seuils pour l'Ukraine avec sauvegarde de l'État de droit d'au moins dix ans.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "europe_international", "titre": "Instaurer un impôt minimum européen de 15 % sur les bénéfices", "detail": "Standards fiscaux communs et extension de la taxe carbone aux frontières.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "education", "titre": "Proposer un semestre Erasmus à tous les étudiants de bac+2", "detail": "Obligation pour les établissements.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "defense", "titre": "Créer une DARPA européenne d'environ 4 milliards de dollars par an", "detail": "Volet défense du manifeste européen.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "defense", "titre": "Lancer un porte-avions nucléaire de nouvelle génération financé par l'UE", "detail": "Coût unitaire d'environ 10 Md€ ; planification commune des besoins à 2035 et 2050.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "defense", "titre": "Préparer une sécurité européenne « viable sans l'OTAN »", "detail": "Discussion sur une doctrine nucléaire européenne et projet de nouveau traité de type Helsinki.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "ecologie_energie", "titre": "Créer une agence européenne de souveraineté énergétique", "detail": "Pacte de financement des interconnexions et soutien au nucléaire et aux renouvelables.", "nature": "programme", "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html", "source_date": "2026-03-06"},
-    {"theme": "institutions", "titre": "Créer une convention citoyenne de la jeunesse", "detail": "Et ouvrir le débat sur le droit de vote dès 16 ans.", "nature": "declaration", "source_url": "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france", "source_date": "2026-10-02"}
+    {
+      "theme": "education",
+      "titre": "Sanctuariser le budget de l'Éducation et hausser de 20 % la dépense par élève en 10 ans",
+      "detail": "Budget hors pensions revalorisé au moins de l'inflation, puis maintenu en part du PIB une fois le déficit sous 3 %.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser d'au moins 10 % les salaires de tous les personnels scolaires",
+      "detail": "Avec une grande conférence sociale sur les métiers de l'enseignement.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Consacrer les après-midis aux savoirs appliqués, du primaire au lycée",
+      "detail": "Pratique, recherche, écriture, création, théâtre, sport ; création de Maisons des Arts, des Sports, des Techniques et du Lien.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer un « semestre civique » à partir de 15 ans",
+      "detail": "En lien avec les réserves citoyennes et opérationnelles.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer « Signal Éduc » et un registre national des auteurs de violences sur mineurs",
+      "detail": "Plateforme de signalement indépendante de la hiérarchie ; registre consultable par les recruteurs, avec garanties ; coordinateur bien-être dans chaque établissement.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Interdire effectivement les téléphones portables dans les établissements",
+      "detail": "Avec des temps sans écrans et une exposition graduée selon l'âge.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Moduler le financement du privé sous contrat selon la mixité sociale",
+      "detail": "Objectifs de mixité et chiffres publiés chaque année ; moyens de l'éducation prioritaire calculés selon les indices de position sociale.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer des évaluations nationales annuelles en français, maths et histoire",
+      "detail": "Du primaire au collège, avec certifications nationales par niveaux ; mathématiques érigées en priorité nationale.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Recalibrer Parcoursup en outil d'aide à la décision",
+      "detail": "Pour les conseillers d'orientation ; parcours précoces de découverte des métiers.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "education",
+      "titre": "Imposer un délai de deux ans avant l'application de toute réforme scolaire",
+      "detail": "Et faire de la liberté pédagogique la règle.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "territoires",
+      "sujet": "ruralite",
+      "titre": "Transformer les écoles de village plutôt que les fermer",
+      "detail": "Certaines deviendraient des antennes éducatives.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "societe",
+      "titre": "Créer une commission laïcité dans chaque conseil d'école ou d'établissement",
+      "detail": "Avec un référent laïcité.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer toutes les niches fiscales et sociales sur le quinquennat",
+      "detail": "Environ 175 Md€ et 400 mesures ; TVA réduite sur les produits essentiels et quotient familial conservés ; économies d'environ 35 Md€ par an.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Réduire la fiscalité à neuf impôts et un code d'environ 40 pages",
+      "detail": "Impôt unique sur le revenu, IS, TVA, impôt unique sur la fortune, droits de succession renforcés (donations du vivant exonérées), CSG à taux unique, taxe foncière, prix du carbone unique, taxe de prévention.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
+      "titre": "Instaurer un prix du carbone unique reversé en dividende climatique universel",
+      "detail": "« Un juste prix du carbone, intégralement rendu aux ménages ».",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Basculer plus de 200 Md€ de cotisations non contributives vers la CSG",
+      "detail": "Hausse d'environ un point de CSG par an sur deux quinquennats ; salaires réels +6 % (environ 90 € par mois au Smic) et coût du travail -3 % attendus.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ramener le déficit sous 3 % du PIB en 2031",
+      "detail": "Effort de 125 Md€ d'ici 2031 (dont 65 Md€ restant à trouver : deux tiers via les niches, environ 8 Md€ d'impôt sur la fortune, 9 Md€ de fiscalité environnementale, 2,5 Md€ de lutte contre la fraude).",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Voter un « budget de mandat » quinquennal contraignant",
+      "detail": "Par loi organique, éventuellement approuvée par référendum ; règle d'or organique d'équilibre des comptes sociaux.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Constitutionnaliser le Haut Conseil des finances publiques",
+      "detail": "Renforcement de la Cour des comptes et rétablissement de la responsabilité financière des comptables publics.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un fonds souverain national dont chaque citoyen est actionnaire dès la naissance",
+      "detail": "Financé par les économies de niches, un demi-point de CSG, l'épargne volontaire et, après 2031, les recettes d'autoroutes reprises en gestion publique ; volet épargne retraite publique à rendement garanti.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Simplifier le droit par ordonnances selon la méthode du Code civil",
+      "detail": "Commissions de juristes, assistance de l'IA et participation du public.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Recourir à des euro-obligations et à des taux BCE préférentiels pour l'investissement vert",
+      "detail": "Socle de dette souveraine protégée pour adoucir la réduction des déficits.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+      "source_date": "2026-08-21"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "climat_planification",
+      "titre": "Planifier l'électrification des usages avec des moyens pluriannuels",
+      "detail": "Planification écologique et énergétique liée à la programmation budgétaire, à l'abri des alternances ; inscrite dans la Constitution selon le discours de la Sorbonne.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html",
+      "source_date": "2026-06-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "climat_planification",
+      "titre": "Décentraliser l'exécution de la transition écologique vers les maires",
+      "detail": "L'État fixe les objectifs et délègue moyens financiers et humains ; plan massif d'atténuation et d'adaptation.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/pourquoi-je-suis-ecogaulliste.html",
+      "source_date": "2026-06-28"
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "installation_foncier",
+      "titre": "Viser 500 000 exploitations agricoles en 2035",
+      "detail": "À taille humaine et à direction familiale ; aides concentrées sur l'installation ; foncières publiques avec baux de location-vente.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "source_date": "2026-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "normes_pesticides",
+      "titre": "Réduire de moitié l'usage des phytosanitaires d'ici 2030",
+      "detail": "Restauration des haies et mares, rémunération des services environnementaux, responsabilité judiciaire des producteurs de pesticides.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "source_date": "2026-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "commerce_pac",
+      "titre": "Viser un excédent agricole et agroalimentaire de 10 Md€",
+      "detail": "Clauses miroirs, contrôles renforcés et extension du mécanisme d'ajustement carbone aux frontières aux produits agricoles.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "source_date": "2026-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "revenu_prix",
+      "titre": "Ouvrir la question des prix planchers agricoles",
+      "detail": "Contractualisation et partage de la valeur ; associations de producteurs interlocutrices obligatoires de la grande distribution.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "source_date": "2026-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "alimentation",
+      "titre": "Orienter la restauration collective publique vers les produits français",
+      "detail": "Cantines, hôpitaux et administrations, avec traçabilité de l'origine.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/souverainete-agricole-et-alimentaire.html",
+      "source_date": "2026-02-25"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Créer une Autorité de sûreté de l'IA, homologue de l'ASN",
+      "detail": "Pouvoirs d'enquête et d'autorisation des déploiements ; Conseil de l'IA auprès du président.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+      "source_date": "2026-06-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Inscrire des « droits cognitifs inaliénables » dans le préambule de la Constitution",
+      "detail": "Dont le droit à la décision humaine ; déclaration universelle des droits cognitifs proposée pour le 10 décembre 2028.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html",
+      "source_date": "2026-02-10"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Créer un « Nutri-Score numérique » des contenus générés par IA",
+      "detail": "Trois catégories : IA seule, IA supervisée, sans IA, avec mention du modèle.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html",
+      "source_date": "2026-02-10"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Adopter un second AI Act européen",
+      "detail": "Droit à l'effacement des données des jeunes, autorisation préalable de diffusion des modèles ; chambres judiciaires spécialisées en IA.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/humanisme-intelligence-artificielle.html",
+      "source_date": "2026-02-10"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Faire de l'État le coactionnaire de projets d'IA européens sur le modèle d'ITER",
+      "detail": "Réserver « des centaines de milliards d'euros » de capacité de calcul en s'appuyant sur le nucléaire.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+      "source_date": "2026-06-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
+      "titre": "Créer un « revenu de transition » pour les métiers les plus exposés à l'IA",
+      "detail": "Dans une grande loi d'accompagnement, financée par l'adoption de l'IA.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/ia-pouvoir-de-dire-non-monopole-americain.html",
+      "source_date": "2026-06-13"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer un statut de l'artiste et un revenu minimal d'environ 1 000 € par mois",
+      "detail": "Revenu d'émergence sous forme d'impôt négatif ; opposition au relèvement du seuil des 507 heures des intermittents.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Taxer les contenus culturels générés par IA au profit de la création humaine",
+      "detail": "À l'échelle européenne, avec label obligatoire et consentement préalable à l'entraînement des IA.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Prélever 1,50 € par billet dans les salles de plus de 1 500 places",
+      "detail": "Fléché vers les petites salles (modèle de Liverpool).",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Imposer 20 % de programmation culturelle à chaque société de l'audiovisuel public",
+      "detail": "Rendez-vous culturel quotidien en première partie de soirée ; financement pluriannuel ; refus des fusions effaçant les identités éditoriales.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer 5 000 résidences d'artistes et 500 pôles culturels en cinq ans",
+      "detail": "Résidences prioritairement en milieu rural et quartiers prioritaires ; 500 médiathèques transformées.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Garantir au moins 100 heures annuelles de pratique artistique à l'école",
+      "detail": "Une heure d'histoire de l'art au collège, dix films analysés par an.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
+      "titre": "Interdire le défilement infini et les algorithmes de recommandation pour les mineurs",
+      "detail": "Loi de transparence des algorithmes ; plateformes requalifiées en éditeurs.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Maintenir le budget de la culture en euros constants sur cinq ans",
+      "detail": "Pluriannualité généralisée et contrats d'objectifs avec les collectivités.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/la-republique-culturelle.html",
+      "source_date": "2026-07-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Nommer un gouvernement provisoire restreint d'une dizaine de ministères",
+      "detail": "Personnalités de la haute fonction publique, de l'armée ou de la société civile ; accord de gouvernement soumis au Congrès à Versailles.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "source_date": "2026-05-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer une motion de défiance constructive",
+      "detail": "Tout renversement d'un gouvernement supposerait un gouvernement alternatif ; vote de confiance systématique.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "source_date": "2026-05-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer un référendum d'initiative citoyenne encadré",
+      "detail": "Préparé par une convention citoyenne permanente.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "territoires",
+      "sujet": "amenagement",
+      "titre": "Réunir un Conseil des territoires autour du président",
+      "detail": "Présidents de régions et de collectivités d'outre-mer ; rationalisation des compétences et contractualisation État-régions.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "source_date": "2026-05-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "age_retraite",
+      "titre": "Remplacer l'âge légal par une règle de durée de cotisation",
+      "detail": "Avec prise en compte de la pénibilité ; réforme préparée par conférence sociale et convention citoyenne, référendum possible au bout de 18 mois.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rétablir l'ENA et les grands corps",
+      "detail": "Annoncé dans le discours de la Sorbonne.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conclure des accords de réciprocité visas contre laissez-passer consulaires",
+      "detail": "Pays par pays ; priorité aux visas de circulation et intégration par la langue et la formation.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Déraciner le narcotrafic et augmenter les patrouilles",
+      "detail": "Annoncé dans le discours de la Sorbonne, sans chiffrage.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "social",
+      "titre": "Organiser des Assises de la famille",
+      "detail": "Divorce, succession, garde alternée, fiscalité ; priorité à la lutte contre les violences familiales.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "sante",
+      "sujet": "prevention_mentale",
+      "titre": "Lancer un plan de santé mentale des jeunes",
+      "detail": "Annoncé dans le discours de la Sorbonne.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Encadrer la concentration des médias",
+      "detail": "Avec renforcement de l'autorité judiciaire.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "source_date": "2026-03-27"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Créer un Conseil de sécurité européen à cinq",
+      "detail": "Allemagne, Espagne, France, Italie, Pologne, avec voix prépondérante collective ; extension de la majorité qualifiée.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Suspendre les élargissements de l'UE sauf pour l'Ukraine",
+      "detail": "Pause sur l'unification et Schengen ; procédure accélérée à seuils pour l'Ukraine avec sauvegarde de l'État de droit d'au moins dix ans.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Instaurer un impôt minimum européen de 15 % sur les bénéfices",
+      "detail": "Standards fiscaux communs et extension de la taxe carbone aux frontières.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "education",
+      "titre": "Proposer un semestre Erasmus à tous les étudiants de bac+2",
+      "detail": "Obligation pour les établissements.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "defense",
+      "titre": "Créer une DARPA européenne d'environ 4 milliards de dollars par an",
+      "detail": "Volet défense du manifeste européen.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "defense",
+      "titre": "Lancer un porte-avions nucléaire de nouvelle génération financé par l'UE",
+      "detail": "Coût unitaire d'environ 10 Md€ ; planification commune des besoins à 2035 et 2050.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "defense",
+      "titre": "Préparer une sécurité européenne « viable sans l'OTAN »",
+      "detail": "Discussion sur une doctrine nucléaire européenne et projet de nouveau traité de type Helsinki.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
+      "titre": "Créer une agence européenne de souveraineté énergétique",
+      "detail": "Pacte de financement des interconnexions et soutien au nucléaire et aux renouvelables.",
+      "nature": "programme",
+      "source_url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "source_date": "2026-03-06"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer une convention citoyenne de la jeunesse",
+      "detail": "Et ouvrir le débat sur le droit de vote dès 16 ans.",
+      "nature": "declaration",
+      "source_url": "https://lafrancehumaniste.fr/articles/prenons-au-serieux-ce-que-dit-la-jeunesse-de-france",
+      "source_date": "2026-10-02"
+    }
   ],
   "sources_consultees": [
     "https://lafrancehumaniste.fr",

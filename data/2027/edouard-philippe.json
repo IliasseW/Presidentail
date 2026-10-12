@@ -12,85 +12,660 @@
     "date_publication": null
   },
   "propositions": [
-    {"theme": "securite_justice", "titre": "Instaurer des peines courtes et dissuasives dès la première infraction", "detail": "Sur le modèle des pays du Nord de l'Europe.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Instaurer des peines planchers pour les infractions les plus graves", "detail": "Notamment pour les atteintes aux personnes dépositaires de l'autorité publique.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Supprimer le juge d'application des peines", "detail": "Mesure inscrite dans le volet « Rétablir l'autorité, la fermeté et l'efficacité de la Justice ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Ouvrir le recrutement des magistrats à des profils venus d'autres métiers du droit", "detail": "Révision de la formation et du recrutement des magistrats.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Réviser la composition du CSM et créer un « devoir de redevabilité » des juges", "detail": "Renforcer la responsabilité des magistrats, notamment envers les victimes.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Permettre au garde des Sceaux de donner des instructions individuelles aux procureurs", "detail": "Renforcer l'autorité du ministre de la Justice sur le parquet.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Donner aux maires un pouvoir de sanction pénale pour les petites infractions", "detail": "Incivilités et petites infractions ; le plan narcotrafic prévoit aussi que le maire puisse sanctionner l'usage de stupéfiants et fermer des établissements.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Créer un « état d'urgence narco »", "detail": "Moyens juridiques d'exception limités dans le temps et l'espace, pouvant aller jusqu'à une reconnaissance faciale ciblée.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Créer une « fiche S financière » pour les condamnés pour narcotrafic", "detail": "Profil bancaire spécifique des personnes condamnées pour trafic de stupéfiants.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Lever l'excuse de minorité et créer la comparution immédiate des mineurs pour narcotrafic", "detail": "Avec création d'établissements de réinsertion et de soin pour les mineurs condamnés.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Aligner l'application des peines des grands narcotrafiquants sur celle des terroristes", "detail": "Le plan d'Horizons prévoit aussi la suppression de la confusion des peines.", "nature": "programme", "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/", "source_date": null},
-    {"theme": "securite_justice", "titre": "Mobiliser la DGSI contre le narcotrafic et saisir les avoirs, y compris en cryptomonnaies", "detail": "Réforme du renseignement économique et financier pour tracer les fonds.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Mener un plan anticorruption avec criblage des fonctions publiques sensibles", "detail": "Greffiers, agents fiscaux, préfectures ; réforme des habilitations.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Recouvrer de force les amendes impayées sur les prestations sociales", "detail": "Mesure également appliquée aux opérations « place nette » en boîtes de nuit et festivals.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Informer l'employeur public d'un agent poursuivi pour usage de stupéfiants", "detail": "Information systématique des employeurs publics.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "securite_justice", "titre": "Lancer un « plan Marshall » de sécurisation des ports et aéroports", "detail": "Volet « flux mondiaux » du plan contre le narcotrafic.", "nature": "programme", "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/", "source_date": null},
-    {"theme": "europe_international", "titre": "Créer une liste noire européenne des pays non coopératifs contre la drogue", "detail": "« Diplomatie narco » visant pays producteurs et de transit.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "territoires", "titre": "Étendre l'opération Harpie en Guyane et créer une « Harpie maritime » aux Antilles", "detail": "Volet outre-mer du plan contre le narcotrafic.", "nature": "programme", "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/", "source_date": null},
-    {"theme": "immigration", "titre": "Diviser au moins par deux l'immigration sur le quinquennat", "detail": "Objectif d'un niveau « largement inférieur à 200 000 » titres de séjour par an ; seules l'immigration de travail et la protection des persécutés seraient retenues.", "nature": "declaration", "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite", "source_date": "2026-10-08"},
-    {"theme": "immigration", "titre": "Dénoncer l'accord franco-algérien de 1968", "detail": "Mesure du volet « Reprendre le contrôle de nos frontières ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "immigration", "titre": "Faire voter chaque année par le Parlement une liste de pays sûrs pour l'asile", "detail": "Afin de mettre fin au « détournement de l'asile » ; il a aussi défendu une liste commune de pays sûrs à l'échelle de l'UE.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "immigration", "titre": "Restreindre l'immigration familiale", "detail": "Restriction du regroupement familial.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "immigration", "titre": "Instaurer des quotas pour l'immigration économique", "detail": "Quotas migratoires pour choisir l'immigration de travail.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "immigration", "titre": "Exiger une preuve de ressources des étudiants étrangers", "detail": "Preuve financière obligatoire, annoncée parmi les leviers de réduction de l'immigration.", "nature": "declaration", "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite", "source_date": "2026-10-08"},
-    {"theme": "immigration", "titre": "Expulser immédiatement les étrangers délinquants et supprimer leurs aides sociales", "detail": "Recours aux centres de retour prévus par le règlement européen « retour ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "immigration", "titre": "Fonder l'intégration sur la langue, le travail et les valeurs républicaines", "detail": "Politique d'intégration affichée dans le volet frontières.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "defense", "titre": "Porter les réservistes de 45 000 à 250 000", "detail": "Et le service militaire volontaire de 3 000 à 50 000 places par an.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "defense", "titre": "Massifier la production et l'achat de drones tactiques", "detail": "Sur le modèle du programme américain de 300 000 drones.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "defense", "titre": "Lancer un grand plan munitions", "detail": "Dépasser les 100 000 obus par an pour viser l'échelle des 700 000 produits annuellement par l'Allemagne.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "defense", "titre": "Doubler le nombre de navires aux Antilles et renforcer la flotte", "detail": "Renforcement de la flotte navale.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "defense", "titre": "Adopter une nouvelle loi de programmation militaire « de la massification »", "detail": "Nouvelle LPM.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "source_date": null},
-    {"theme": "social", "titre": "Imposer une mesure de protection immédiate à chaque plainte concernant un enfant", "detail": "« Principe de précaution pénal » pour la victime potentielle.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "social", "titre": "Créer un « droit de savoir » pour les parents sur les antécédents des intervenants", "detail": "Inspiré de la Sarah's law britannique : vérification par la police des antécédents d'une personne en contact avec l'enfant.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "securite_justice", "titre": "Rendre imprescriptibles les crimes sur mineurs", "detail": "Volet « Protéger nos enfants ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "numerique_recherche", "titre": "Faire fermer les sites facilitant le proxénétisme en ligne", "detail": "Lutte contre le proxénétisme en ligne.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Généraliser les certificats d'honorabilité dans le périscolaire", "detail": "Réforme du périscolaire avec un « choc de formation ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Faire des chefs d'établissement les « patrons » de l'école", "detail": "Liberté d'adapter méthodes et horaires, d'imposer l'uniforme, de fixer la discipline, de choisir et d'évaluer les enseignants.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Revaloriser massivement le métier de professeur", "detail": "Hausse des rémunérations, révision du recrutement, de la formation et de l'accompagnement (non chiffrée).", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Raccourcir les journées scolaires et les vacances d'été", "detail": "Rythmes centrés sur les besoins des enfants, avec plus de sport et de culture ; annoncé au meeting de l'Adidas Arena du 5 juillet 2026.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Recentrer le primaire sur lire, écrire, compter", "detail": "Enseignement primaire recentré sur les savoirs fondamentaux.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "education", "titre": "Créer un service public universel du soutien scolaire", "detail": "Combinant un assistant IA personnalisé et des « brigades » d'anciens professeurs et d'étudiants volontaires.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "social", "titre": "Créer une allocation familiale unique de 350 € par mois dès le premier enfant", "detail": "Dégressive selon le revenu, fusionnant une dizaine de dispositifs, à coût constant.", "nature": "declaration", "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite", "source_date": "2026-10-08"},
-    {"theme": "pouvoir_achat", "titre": "Exonérer d'impôt sur le revenu les jeunes parents des classes moyennes pendant 3 ans", "detail": "Exonération pour les foyers payant moins de 3 000 € d'impôt, réduction de 3 000 € au-delà, jusqu'à l'entrée à l'école de l'enfant ; coût estimé 3 Md€ par an.", "nature": "declaration", "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite", "source_date": "2026-10-08"},
-    {"theme": "logement", "titre": "Accorder un prêt à taux zéro à chaque naissance", "detail": "Pour faciliter le déménagement des familles qui s'agrandissent.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "social", "titre": "Créer un temps partiel parental à 80 % payé 100 % pendant 2 mois", "detail": "À l'issue des congés parentaux.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "source_date": null},
-    {"theme": "travail_retraites", "titre": "Porter l'âge légal de départ à 65 ans et la durée de cotisation à 45 ans", "detail": "Progressivement, en moins de dix ans à partir de la réforme de 2023 ; « un Français sur trois » pourrait partir entre 60 et 64 ans (carrières longues, métiers pénibles).", "nature": "declaration", "source_url": "https://lcp.fr/actualites/retraites-edouard-philippe-veut-porter-l-age-de-depart-a-65-ans-et-la-duree-de", "source_date": "2026-09-29"},
-    {"theme": "travail_retraites", "titre": "Créer un pilier de capitalisation représentant 10 à 15 % des pensions", "detail": "D'ici quinze ans ; l'État ferait un premier versement sur le plan d'épargne de chaque jeune dès son premier emploi.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "travail_retraites", "titre": "Confier la gestion du régime de retraite équilibré aux partenaires sociaux", "detail": "Dans le cadre d'un système de retraites à l'équilibre.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "travail_retraites", "titre": "Mettre fin aux 35 heures uniformes et fixer le temps de travail par accord d'entreprise", "detail": "« Travailler plus pour gagner plus » ; heures au-delà de 35 h défiscalisées et exonérées de cotisations salariales, aucune cotisation patronale au-delà de 37 h ; plus de 1 000 € par an pour un salarié au Smic passant à 37 h.", "nature": "declaration", "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite", "source_date": "2026-10-08"},
-    {"theme": "travail_retraites", "titre": "Ramener l'indemnisation chômage de 18 à 12 mois pour les moins de 50 ans", "detail": "Annoncé dans L'Heure de vérité (France 2).", "nature": "declaration", "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ", "source_date": "2026-10-09"},
-    {"theme": "finances_publiques", "titre": "Ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat", "detail": "Effort portant pour moitié sur les dépenses sociales et pour un quart sur les collectivités.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "finances_publiques", "titre": "Inscrire une règle d'or de maîtrise des déficits dans la Constitution", "detail": "Volet « comptes publics ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "finances_publiques", "titre": "Ne remplacer qu'un fonctionnaire sur trois partant à la retraite", "detail": "Soit environ 250 000 postes supprimés sur cinq ans.", "nature": "declaration", "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ", "source_date": "2026-10-09"},
-    {"theme": "finances_publiques", "titre": "Regrouper ou privatiser des agences et opérateurs de l'État", "detail": "Réorganisation de l'État et forte simplification des procédures.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "sante", "titre": "Stabiliser les dépenses de santé", "detail": "Par une dépense plus efficace, la prévention et l'innovation technologique plutôt que par la seule hausse des moyens.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "economie", "titre": "Baisser de 50 Md€ les impôts de production contre 50 Md€ d'aides aux entreprises", "detail": "« Pacte fiscal » : suppression de 50 Md€ d'aides publiques jugées improductives en échange.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "economie", "titre": "Instaurer un moratoire normatif et fiscal sur le quinquennat", "detail": "Aucune nouvelle norme ni aucun nouvel impôt pendant cinq ans.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "pouvoir_achat", "titre": "Financer le modèle social moins par le travail pour augmenter le salaire net", "detail": "Volet « retraites et modèle social ».", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "agriculture", "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire", "detail": "Avec un plan de transmission et de modernisation et l'inscription du développement agricole dans la Charte de l'environnement.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "europe_international", "titre": "Protéger le marché européen de la concurrence chinoise jugée déloyale", "detail": "Transferts de technologie, quotas de production et coentreprises dans les secteurs stratégiques (automobile, sidérurgie, nucléaire).", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "europe_international", "titre": "Achever le marché unique et créer une union des marchés de capitaux", "detail": "Suppression des spécifications nationales faisant office de barrières douanières.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "source_date": null},
-    {"theme": "numerique_recherche", "titre": "Doubler la capacité de calcul en IA en cinq ans", "detail": "Infrastructure d'IA européenne souveraine et soutien aux champions nationaux.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "numerique_recherche", "titre": "Adopter un « Buy European Tech Act »", "detail": "Avec achats technologiques groupés entre États membres ; accès préférentiel à l'énergie décarbonée pour les acteurs européens de l'IA.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "numerique_recherche", "titre": "Simplifier le cadre juridique européen de l'IA", "detail": "En maintenant une régulation éthique et la protection des enfants.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "economie", "titre": "Créer un « livret capital France » pour financer les champions technologiques", "detail": "Mobilisation de l'épargne dormante et de la capitalisation retraite.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "education", "titre": "Former 100 000 ingénieurs par an d'ici cinq ans", "detail": "Contre 40 000 aujourd'hui selon le site ; adaptation de l'enseignement à l'IA.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "travail_retraites", "titre": "Créer un droit à la reconversion pour les métiers menacés par l'IA", "detail": "Adaptation du recrutement et de la formation continue.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "ecologie_energie", "titre": "Relancer le nucléaire, développer les renouvelables et électrifier massivement", "detail": "Objectif de souveraineté énergétique.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "ecologie_energie", "titre": "Concentrer l'action climatique sur le fret, la rénovation et la grande industrie", "detail": "Avec investissement massif dans la capture de carbone.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "europe_international", "titre": "Instaurer un prix du carbone aux frontières européennes", "detail": "Pour protéger les industries qui décarbonent.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "ecologie_energie", "titre": "Créer un fonds unique d'adaptation au changement climatique de 2 Md€ par an", "detail": "Fusion du Fonds Barnier et du Fonds vert ; le site parle de doubler le Fonds vert, recentré sur l'adaptation et la climatisation des bâtiments publics.", "nature": "declaration", "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite", "source_date": "2026-09-17"},
-    {"theme": "ecologie_energie", "titre": "Climatiser massivement les lieux accueillant des personnes fragiles", "detail": "Volet adaptation des villes au réchauffement.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "ecologie_energie", "titre": "Lancer un plan baignade national pour rendre toutes les rivières baignables", "detail": "Avec rénovation des piscines.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "territoires", "titre": "Créer une « DATAR 2.0 », opérateur unique de l'adaptation climatique", "detail": "Mobilisant ingénieurs, agronomes et urbanistes dans les territoires ; plantations d'arbres et assouplissement des règles d'urbanisme.", "nature": "programme", "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "source_date": null},
-    {"theme": "defense", "titre": "Produire un bombardier d'eau français pendant le quinquennat", "detail": "« Canadair français » pour ne plus dépendre de fournisseurs étrangers.", "nature": "declaration", "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite", "source_date": "2026-09-17"},
-    {"theme": "ecologie_energie", "titre": "Créer une journée nationale d'alerte et former tous les jeunes aux premiers secours", "detail": "Sur le modèle allemand pour la journée d'alerte.", "nature": "declaration", "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite", "source_date": "2026-09-17"},
-    {"theme": "ecologie_energie", "titre": "Réutiliser 10 % des eaux usées traitées", "detail": "Sur l'exemple italien ; augmentation du stockage d'eau pour l'agriculture.", "nature": "declaration", "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite", "source_date": "2026-09-17"},
-    {"theme": "economie", "titre": "Abroger le code de la commande publique si la simplification européenne aboutit", "detail": "Annoncé lors de la présentation du plan d'adaptation climatique.", "nature": "declaration", "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite", "source_date": "2026-09-17"},
-    {"theme": "institutions", "titre": "Adopter une vingtaine d'ordonnances dès l'été 2027", "detail": "Présentées lors d'une session extraordinaire en juillet 2027 pour une entrée en vigueur « dès l'automne ».", "nature": "declaration", "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ", "source_date": "2026-10-09"}
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer des peines courtes et dissuasives dès la première infraction",
+      "detail": "Sur le modèle des pays du Nord de l'Europe.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer des peines planchers pour les infractions les plus graves",
+      "detail": "Notamment pour les atteintes aux personnes dépositaires de l'autorité publique.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Supprimer le juge d'application des peines",
+      "detail": "Mesure inscrite dans le volet « Rétablir l'autorité, la fermeté et l'efficacité de la Justice ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Ouvrir le recrutement des magistrats à des profils venus d'autres métiers du droit",
+      "detail": "Révision de la formation et du recrutement des magistrats.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Réviser la composition du CSM et créer un « devoir de redevabilité » des juges",
+      "detail": "Renforcer la responsabilité des magistrats, notamment envers les victimes.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Permettre au garde des Sceaux de donner des instructions individuelles aux procureurs",
+      "detail": "Renforcer l'autorité du ministre de la Justice sur le parquet.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Donner aux maires un pouvoir de sanction pénale pour les petites infractions",
+      "detail": "Incivilités et petites infractions ; le plan narcotrafic prévoit aussi que le maire puisse sanctionner l'usage de stupéfiants et fermer des établissements.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer un « état d'urgence narco »",
+      "detail": "Moyens juridiques d'exception limités dans le temps et l'espace, pouvant aller jusqu'à une reconnaissance faciale ciblée.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une « fiche S financière » pour les condamnés pour narcotrafic",
+      "detail": "Profil bancaire spécifique des personnes condamnées pour trafic de stupéfiants.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Lever l'excuse de minorité et créer la comparution immédiate des mineurs pour narcotrafic",
+      "detail": "Avec création d'établissements de réinsertion et de soin pour les mineurs condamnés.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Aligner l'application des peines des grands narcotrafiquants sur celle des terroristes",
+      "detail": "Le plan d'Horizons prévoit aussi la suppression de la confusion des peines.",
+      "nature": "programme",
+      "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Mobiliser la DGSI contre le narcotrafic et saisir les avoirs, y compris en cryptomonnaies",
+      "detail": "Réforme du renseignement économique et financier pour tracer les fonds.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Mener un plan anticorruption avec criblage des fonctions publiques sensibles",
+      "detail": "Greffiers, agents fiscaux, préfectures ; réforme des habilitations.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recouvrer de force les amendes impayées sur les prestations sociales",
+      "detail": "Mesure également appliquée aux opérations « place nette » en boîtes de nuit et festivals.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Informer l'employeur public d'un agent poursuivi pour usage de stupéfiants",
+      "detail": "Information systématique des employeurs publics.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Lancer un « plan Marshall » de sécurisation des ports et aéroports",
+      "detail": "Volet « flux mondiaux » du plan contre le narcotrafic.",
+      "nature": "programme",
+      "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Créer une liste noire européenne des pays non coopératifs contre la drogue",
+      "detail": "« Diplomatie narco » visant pays producteurs et de transit.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "sujet": "outre_mer",
+      "titre": "Étendre l'opération Harpie en Guyane et créer une « Harpie maritime » aux Antilles",
+      "detail": "Volet outre-mer du plan contre le narcotrafic.",
+      "nature": "programme",
+      "source_url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Diviser au moins par deux l'immigration sur le quinquennat",
+      "detail": "Objectif d'un niveau « largement inférieur à 200 000 » titres de séjour par an ; seules l'immigration de travail et la protection des persécutés seraient retenues.",
+      "nature": "declaration",
+      "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Dénoncer l'accord franco-algérien de 1968",
+      "detail": "Mesure du volet « Reprendre le contrôle de nos frontières ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Faire voter chaque année par le Parlement une liste de pays sûrs pour l'asile",
+      "detail": "Afin de mettre fin au « détournement de l'asile » ; il a aussi défendu une liste commune de pays sûrs à l'échelle de l'UE.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Restreindre l'immigration familiale",
+      "detail": "Restriction du regroupement familial.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Instaurer des quotas pour l'immigration économique",
+      "detail": "Quotas migratoires pour choisir l'immigration de travail.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Exiger une preuve de ressources des étudiants étrangers",
+      "detail": "Preuve financière obligatoire, annoncée parmi les leviers de réduction de l'immigration.",
+      "nature": "declaration",
+      "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser immédiatement les étrangers délinquants et supprimer leurs aides sociales",
+      "detail": "Recours aux centres de retour prévus par le règlement européen « retour ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Fonder l'intégration sur la langue, le travail et les valeurs républicaines",
+      "detail": "Politique d'intégration affichée dans le volet frontières.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter les réservistes de 45 000 à 250 000",
+      "detail": "Et le service militaire volontaire de 3 000 à 50 000 places par an.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Massifier la production et l'achat de drones tactiques",
+      "detail": "Sur le modèle du programme américain de 300 000 drones.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Lancer un grand plan munitions",
+      "detail": "Dépasser les 100 000 obus par an pour viser l'échelle des 700 000 produits annuellement par l'Allemagne.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Doubler le nombre de navires aux Antilles et renforcer la flotte",
+      "detail": "Renforcement de la flotte navale.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Adopter une nouvelle loi de programmation militaire « de la massification »",
+      "detail": "Nouvelle LPM.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Imposer une mesure de protection immédiate à chaque plainte concernant un enfant",
+      "detail": "« Principe de précaution pénal » pour la victime potentielle.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un « droit de savoir » pour les parents sur les antécédents des intervenants",
+      "detail": "Inspiré de la Sarah's law britannique : vérification par la police des antécédents d'une personne en contact avec l'enfant.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rendre imprescriptibles les crimes sur mineurs",
+      "detail": "Volet « Protéger nos enfants ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
+      "titre": "Faire fermer les sites facilitant le proxénétisme en ligne",
+      "detail": "Lutte contre le proxénétisme en ligne.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Généraliser les certificats d'honorabilité dans le périscolaire",
+      "detail": "Réforme du périscolaire avec un « choc de formation ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Faire des chefs d'établissement les « patrons » de l'école",
+      "detail": "Liberté d'adapter méthodes et horaires, d'imposer l'uniforme, de fixer la discipline, de choisir et d'évaluer les enseignants.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser massivement le métier de professeur",
+      "detail": "Hausse des rémunérations, révision du recrutement, de la formation et de l'accompagnement (non chiffrée).",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Raccourcir les journées scolaires et les vacances d'été",
+      "detail": "Rythmes centrés sur les besoins des enfants, avec plus de sport et de culture ; annoncé au meeting de l'Adidas Arena du 5 juillet 2026.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Recentrer le primaire sur lire, écrire, compter",
+      "detail": "Enseignement primaire recentré sur les savoirs fondamentaux.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Créer un service public universel du soutien scolaire",
+      "detail": "Combinant un assistant IA personnalisé et des « brigades » d'anciens professeurs et d'étudiants volontaires.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer une allocation familiale unique de 350 € par mois dès le premier enfant",
+      "detail": "Dégressive selon le revenu, fusionnant une dizaine de dispositifs, à coût constant.",
+      "nature": "declaration",
+      "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer d'impôt sur le revenu les jeunes parents des classes moyennes pendant 3 ans",
+      "detail": "Exonération pour les foyers payant moins de 3 000 € d'impôt, réduction de 3 000 € au-delà, jusqu'à l'entrée à l'école de l'enfant ; coût estimé 3 Md€ par an.",
+      "nature": "declaration",
+      "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "logement",
+      "sujet": "accession_propriete",
+      "titre": "Accorder un prêt à taux zéro à chaque naissance",
+      "detail": "Pour faciliter le déménagement des familles qui s'agrandissent.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un temps partiel parental à 80 % payé 100 % pendant 2 mois",
+      "detail": "À l'issue des congés parentaux.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "age_retraite",
+      "titre": "Porter l'âge légal de départ à 65 ans et la durée de cotisation à 45 ans",
+      "detail": "Progressivement, en moins de dix ans à partir de la réforme de 2023 ; « un Français sur trois » pourrait partir entre 60 et 64 ans (carrières longues, métiers pénibles).",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/retraites-edouard-philippe-veut-porter-l-age-de-depart-a-65-ans-et-la-duree-de",
+      "source_date": "2026-09-29"
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
+      "titre": "Créer un pilier de capitalisation représentant 10 à 15 % des pensions",
+      "detail": "D'ici quinze ans ; l'État ferait un premier versement sur le plan d'épargne de chaque jeune dès son premier emploi.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
+      "titre": "Confier la gestion du régime de retraite équilibré aux partenaires sociaux",
+      "detail": "Dans le cadre d'un système de retraites à l'équilibre.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "temps_travail",
+      "titre": "Mettre fin aux 35 heures uniformes et fixer le temps de travail par accord d'entreprise",
+      "detail": "« Travailler plus pour gagner plus » ; heures au-delà de 35 h défiscalisées et exonérées de cotisations salariales, aucune cotisation patronale au-delà de 37 h ; plus de 1 000 € par an pour un salarié au Smic passant à 37 h.",
+      "nature": "declaration",
+      "source_url": "https://www.edouardphilippe.fr/actualites/trois-principales-annonces-dedouard-philippe-a-lheure-de-verite",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
+      "titre": "Ramener l'indemnisation chômage de 18 à 12 mois pour les moins de 50 ans",
+      "detail": "Annoncé dans L'Heure de vérité (France 2).",
+      "nature": "declaration",
+      "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat",
+      "detail": "Effort portant pour moitié sur les dépenses sociales et pour un quart sur les collectivités.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Inscrire une règle d'or de maîtrise des déficits dans la Constitution",
+      "detail": "Volet « comptes publics ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ne remplacer qu'un fonctionnaire sur trois partant à la retraite",
+      "detail": "Soit environ 250 000 postes supprimés sur cinq ans.",
+      "nature": "declaration",
+      "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Regrouper ou privatiser des agences et opérateurs de l'État",
+      "detail": "Réorganisation de l'État et forte simplification des procédures.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "sujet": "assurance_maladie",
+      "titre": "Stabiliser les dépenses de santé",
+      "detail": "Par une dépense plus efficace, la prévention et l'innovation technologique plutôt que par la seule hausse des moyens.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Baisser de 50 Md€ les impôts de production contre 50 Md€ d'aides aux entreprises",
+      "detail": "« Pacte fiscal » : suppression de 50 Md€ d'aides publiques jugées improductives en échange.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer un moratoire normatif et fiscal sur le quinquennat",
+      "detail": "Aucune nouvelle norme ni aucun nouvel impôt pendant cinq ans.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Financer le modèle social moins par le travail pour augmenter le salaire net",
+      "detail": "Volet « retraites et modèle social ».",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "sujet": "normes_pesticides",
+      "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire",
+      "detail": "Avec un plan de transmission et de modernisation et l'inscription du développement agricole dans la Charte de l'environnement.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Protéger le marché européen de la concurrence chinoise jugée déloyale",
+      "detail": "Transferts de technologie, quotas de production et coentreprises dans les secteurs stratégiques (automobile, sidérurgie, nucléaire).",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Achever le marché unique et créer une union des marchés de capitaux",
+      "detail": "Suppression des spécifications nationales faisant office de barrières douanières.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Doubler la capacité de calcul en IA en cinq ans",
+      "detail": "Infrastructure d'IA européenne souveraine et soutien aux champions nationaux.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
+      "titre": "Adopter un « Buy European Tech Act »",
+      "detail": "Avec achats technologiques groupés entre États membres ; accès préférentiel à l'énergie décarbonée pour les acteurs européens de l'IA.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "sujet": "ia",
+      "titre": "Simplifier le cadre juridique européen de l'IA",
+      "detail": "En maintenant une régulation éthique et la protection des enfants.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un « livret capital France » pour financer les champions technologiques",
+      "detail": "Mobilisation de l'épargne dormante et de la capitalisation retraite.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Former 100 000 ingénieurs par an d'ici cinq ans",
+      "detail": "Contre 40 000 aujourd'hui selon le site ; adaptation de l'enseignement à l'IA.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "sujet": "formation_pro",
+      "titre": "Créer un droit à la reconversion pour les métiers menacés par l'IA",
+      "detail": "Adaptation du recrutement et de la formation continue.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "nucleaire",
+      "titre": "Relancer le nucléaire, développer les renouvelables et électrifier massivement",
+      "detail": "Objectif de souveraineté énergétique.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "climat_planification",
+      "titre": "Concentrer l'action climatique sur le fret, la rénovation et la grande industrie",
+      "detail": "Avec investissement massif dans la capture de carbone.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Instaurer un prix du carbone aux frontières européennes",
+      "detail": "Pour protéger les industries qui décarbonent.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "climat_planification",
+      "titre": "Créer un fonds unique d'adaptation au changement climatique de 2 Md€ par an",
+      "detail": "Fusion du Fonds Barnier et du Fonds vert ; le site parle de doubler le Fonds vert, recentré sur l'adaptation et la climatisation des bâtiments publics.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "climat_planification",
+      "titre": "Climatiser massivement les lieux accueillant des personnes fragiles",
+      "detail": "Volet adaptation des villes au réchauffement.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
+      "titre": "Lancer un plan baignade national pour rendre toutes les rivières baignables",
+      "detail": "Avec rénovation des piscines.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "sujet": "amenagement",
+      "titre": "Créer une « DATAR 2.0 », opérateur unique de l'adaptation climatique",
+      "detail": "Mobilisant ingénieurs, agronomes et urbanistes dans les territoires ; plantations d'arbres et assouplissement des règles d'urbanisme.",
+      "nature": "programme",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Produire un bombardier d'eau français pendant le quinquennat",
+      "detail": "« Canadair français » pour ne plus dépendre de fournisseurs étrangers.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "autre",
+      "titre": "Créer une journée nationale d'alerte et former tous les jeunes aux premiers secours",
+      "detail": "Sur le modèle allemand pour la journée d'alerte.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
+      "titre": "Réutiliser 10 % des eaux usées traitées",
+      "detail": "Sur l'exemple italien ; augmentation du stockage d'eau pour l'agriculture.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Abroger le code de la commande publique si la simplification européenne aboutit",
+      "detail": "Annoncé lors de la présentation du plan d'adaptation climatique.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/entre-le-deni-du-rn-et-le-dogme-de-lfi-le-plan-dedouard-philippe-pour-une-politique-de-securite",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Adopter une vingtaine d'ordonnances dès l'été 2027",
+      "detail": "Présentées lors d'une session extraordinaire en juillet 2027 pour une entrée en vigueur « dès l'automne ».",
+      "nature": "declaration",
+      "source_url": "https://fr.euronews.com/2026/10/09/presidentielle-2027-edouard-philippe-mise-sur-le-travail-et-la-reduction-des-depenses-publ",
+      "source_date": "2026-10-09"
+    }
   ],
   "sources_consultees": [
     "https://www.edouardphilippe.fr",

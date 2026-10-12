@@ -24,6 +24,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Reporter progressivement l'âge légal de départ à 64 ans d'ici 2030",
       "detail": "« Deux années de travail en plus » à la fin de la décennie, mais pas pour ceux qui sont « usés par le boulot ».",
       "nature": "declaration",
@@ -32,6 +33,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Exonérer d'impôt et de charges les heures travaillées au-delà de 35 heures",
       "detail": "Pour l'employeur, exonération de charges de 2 € par heure au-delà de 35 h, afin de sortir des 35 h « sans drame ».",
       "nature": "declaration",
@@ -40,6 +42,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Réformer l'assurance chômage dans un sens orienté vers le retour à l'emploi",
       "detail": "Réforme voulue « plus ambitieuse » que celle du gouvernement.",
       "nature": "declaration",
@@ -48,6 +51,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Revenir sur l'objectif de réduction du nucléaire à 50 % de la production",
       "detail": "Défense de l'indépendance énergétique ; critique du « développement anarchique » de l'éolien.",
       "nature": "declaration",
@@ -136,6 +140,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Augmenter les places en centres d'addictologie",
       "detail": "Volet prévention de son programme de sécurité.",
       "nature": "declaration",
@@ -144,6 +149,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Instaurer une « République des territoires »",
       "detail": "L'État recentré sur le régalien ; plus de liberté, d'autonomie et de responsabilité pour les collectivités dans la vie quotidienne.",
       "nature": "declaration",

@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Fixer l'âge de départ à la retraite à 63 ans",
       "detail": "Âge pivot à 63 ans (contre un retour à 62 ans défendu par le PS), tenant compte de l'allongement de l'espérance de vie.",
       "nature": "livre",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Allonger progressivement la durée de cotisation selon l'espérance de vie",
       "detail": "Allongement indexé sur l'évolution de l'espérance de vie et l'équilibre démographique.",
       "nature": "livre",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Limiter à 1 % par an pendant cinq ans la revalorisation des pensions",
       "detail": "Selon l'auteur, la mesure rapporterait autant qu'un report d'un an de l'âge de départ.",
       "nature": "livre",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Introduire une part de capitalisation dans les retraites",
       "detail": "Part de capitalisation encadrée/contrôlée par les partenaires sociaux.",
       "nature": "livre",
@@ -118,6 +122,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Négocier avec les partenaires sociaux sur les effets de l'IA sur l'emploi",
       "detail": "Négociation globale proposée, sans détail chiffré.",
       "nature": "livre",
@@ -150,6 +155,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Doter chaque élève d'un répétiteur d'intelligence artificielle",
       "detail": "Sous la supervision des enseignants.",
       "nature": "livre",
@@ -198,6 +204,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Créer un compte carbone individuel",
       "detail": "Dans le cadre d'une planification écologique fondée sur l'investissement dans la décarbonation.",
       "nature": "livre",
@@ -206,6 +213,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Lancer une voiture électrique populaire avec l'appui de l'État",
       "detail": "Associée à une « réindustrialisation verte ».",
       "nature": "livre",

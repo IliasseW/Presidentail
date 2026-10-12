@@ -12,35 +12,18 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 YEARS = ["2027", "2022"]
 
-THEMES = [
-    ("economie", "Économie, entreprises, fiscalité"),
-    ("finances_publiques", "Finances publiques"),
-    ("travail_retraites", "Travail, emploi, retraites"),
-    ("pouvoir_achat", "Pouvoir d'achat, salaires"),
-    ("sante", "Santé"),
-    ("education", "Éducation, jeunesse"),
-    ("securite_justice", "Sécurité, justice"),
-    ("immigration", "Immigration"),
-    ("ecologie_energie", "Écologie, énergie, transports"),
-    ("agriculture", "Agriculture"),
-    ("institutions", "Institutions, démocratie"),
-    ("europe_international", "Europe, international"),
-    ("defense", "Défense"),
-    ("logement", "Logement"),
-    ("social", "Protection sociale, famille, égalité"),
-    ("numerique_recherche", "Numérique, IA, recherche"),
-    ("culture_medias", "Culture, médias, sport"),
-    ("territoires", "Services publics, territoires, outre-mer"),
-    ("societe", "Société, laïcité, droits"),
-]
-THEME_IDS = {t for t, _ in THEMES}
+# Thèmes et sujets (sous-thèmes) : data/themes.json. Le sujet sert à aligner, ligne par ligne,
+# les propositions de candidats différents qui portent sur la même question.
+THEMES = json.load(open(os.path.join(DATA, "themes.json"), encoding="utf-8"))
+SUJETS = {t["id"]: {s["id"] for s in t["sujets"]} for t in THEMES}
+THEME_IDS = set(SUJETS)
 NATURES = {"programme", "declaration", "livre"}
 STATUT_ORDRE = {"declare": 0, "candidat": 0, "primaire": 1, "non_qualifie": 2, "pressenti": 2, "retire": 3}
 
 # Champs conservés dans le fichier publié (le reste reste dans les fiches sources).
 CAND_FIELDS = ["slug", "nom", "parti", "bord", "statut_candidature", "date_declaration",
                "programme", "resultat", "notes", "verifie_le"]
-PROP_FIELDS = ["theme", "titre", "detail", "nature", "source_url", "source_date"]
+PROP_FIELDS = ["theme", "sujet", "titre", "detail", "nature", "source_url", "source_date"]
 
 
 def load(year):
@@ -71,6 +54,9 @@ def load(year):
                 continue
             if p.get("nature") not in NATURES:
                 warnings.append(f"{where}: nature inconnue {p.get('nature')!r}")
+            if p.get("sujet") not in SUJETS[p["theme"]]:
+                warnings.append(f"{where}: sujet {p.get('sujet')!r} absent du thème {p['theme']}, classé dans « autre »")
+                p = {**p, "sujet": "autre"}
             if len(p["titre"]) > 90:
                 warnings.append(f"{where}: titre de {len(p['titre'])} caractères")
             props.append({k: p.get(k) for k in PROP_FIELDS})
@@ -103,7 +89,7 @@ def main():
     bundle = {
         # Date de la vérification la plus récente : déterministe, pour que la CI puisse comparer.
         "genere_le": max((c.get("verifie_le") or "" for c in all_cands), default=""),
-        "themes": [{"id": t, "libelle": l} for t, l in THEMES],
+        "themes": THEMES,
         "candidats": all_cands,
     }
     with open(os.path.join(DATA, "programmes.json"), "w", encoding="utf-8") as f:

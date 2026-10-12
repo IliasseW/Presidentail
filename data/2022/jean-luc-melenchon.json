@@ -216,6 +216,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Inscrire la « règle verte » dans la Constitution",
       "detail": "Ne pas prélever davantage à la nature que ce qu'elle peut reconstituer ; planification écologique par lois-cadres.",
       "nature": "programme",
@@ -224,6 +225,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Réduire de 65 % les émissions de gaz à effet de serre d'ici 2030",
       "detail": "Contre un objectif de 40 % alors en vigueur, avec un bilan public annuel.",
       "nature": "programme",
@@ -232,6 +234,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Sortir du nucléaire et abandonner les projets d'EPR",
       "detail": "Planifier le démantèlement et la reconversion des sites et de leurs bassins de vie.",
       "nature": "programme",
@@ -240,6 +243,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Atteindre 100 % d'énergies renouvelables en 2050",
       "detail": "Planification fondée sur la sobriété et l'efficacité énergétique ; fin des subventions aux énergies fossiles.",
       "nature": "programme",
@@ -248,6 +252,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Renationaliser EDF et Engie dans un pôle public de l'énergie",
       "detail": "Annuler la libéralisation du marché de l'électricité et du gaz, stopper la privatisation des barrages.",
       "nature": "programme",
@@ -256,6 +261,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renovation",
       "titre": "Isoler au moins 700 000 logements par an",
       "detail": "Interdire réellement la location des passoires thermiques et cibler les aides selon les revenus.",
       "nature": "programme",
@@ -264,6 +270,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Renationaliser la SNCF et refuser l'ouverture à la concurrence",
       "detail": "Rouvrir des lignes du quotidien et maintenir des guichets en gare.",
       "nature": "programme",
@@ -272,6 +279,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Supprimer les vols intérieurs quand le train met moins de 4 heures",
       "detail": "Avec un plan de ferroutage et de report modal.",
       "nature": "programme",
@@ -280,6 +288,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Interdire les plastiques à usage unique et rétablir la consigne",
       "detail": "Consigne pour bouteilles et bocaux en verre ; abolition de l'obsolescence programmée.",
       "nature": "programme",
@@ -288,6 +297,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Assurer une gestion 100 % publique de l'eau",
       "detail": "Haut-commissariat à l'eau, régies publiques, gratuité des mètres cubes indispensables.",
       "nature": "programme",
@@ -296,6 +306,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Créer 300 000 emplois agricoles",
       "detail": "Par une agriculture relocalisée, diversifiée et écologique ; réforme agraire pour l'installation.",
       "nature": "programme",
@@ -304,6 +315,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Garantir des prix planchers aux agriculteurs",
       "detail": "Interdire les ventes à perte et encadrer les marges de la grande distribution par un coefficient multiplicateur.",
       "nature": "programme",
@@ -312,6 +324,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire immédiatement le glyphosate et les néonicotinoïdes",
       "detail": "Et planifier la réduction des engrais et pesticides.",
       "nature": "programme",
@@ -320,6 +333,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Interdire les fermes-usines",
       "detail": "Limiter le transport d'animaux vivants, interdire l'élevage en batterie et le broyage des poussins.",
       "nature": "programme",
@@ -328,6 +342,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Servir une alimentation 100 % bio et locale en restauration collective",
       "detail": "Avec une option végétarienne quotidienne.",
       "nature": "programme",
@@ -368,6 +383,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Rétablir la retraite à 60 ans à taux plein après 40 annuités",
       "detail": "Hausse de 0,25 point par an des cotisations vieillesse et cotisations sur l'intéressement et la participation.",
       "nature": "programme",
@@ -376,6 +392,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Porter toutes les pensions au minimum au niveau du SMIC",
       "detail": "Pour une carrière complète ; minimum vieillesse au seuil de pauvreté ; indexation des retraites sur les salaires.",
       "nature": "programme",
@@ -384,6 +401,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Rétablir les 35 heures et passer à 32 heures dans les métiers pénibles",
       "detail": "Heures supplémentaires majorées à 25 % puis 50 % ; généralisation des 32 heures par la négociation.",
       "nature": "programme",
@@ -392,6 +410,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Instaurer une sixième semaine de congés payés",
       "detail": "Pour tous les salariés.",
       "nature": "programme",
@@ -400,6 +419,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Créer une garantie d'emploi pour les chômeurs de longue durée",
       "detail": "Embauche au moins au SMIC revalorisé dans un secteur d'urgence.",
       "nature": "programme",
@@ -408,6 +428,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Plafonner les contrats précaires à 10 % en PME et 5 % en grande entreprise",
       "detail": "Quota maximal de contrats précaires par entreprise.",
       "nature": "programme",
@@ -416,6 +437,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Abroger la loi El Khomri et les ordonnances Pénicaud",
       "detail": "Rétablir le principe de faveur (loi > branche > entreprise).",
       "nature": "programme",
@@ -424,6 +446,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Requalifier en salariés les travailleurs des plateformes",
       "detail": "Uber, Deliveroo et faux indépendants.",
       "nature": "programme",
@@ -432,6 +455,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Abroger la réforme Macron de l'assurance chômage",
       "detail": "Indemnisation selon les derniers salaires, dès le premier jour.",
       "nature": "programme",
@@ -440,6 +464,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Donner aux CE un droit de veto suspensif sur les licenciements",
       "detail": "Et un droit de préemption pour reprendre l'entreprise en coopérative.",
       "nature": "programme",
@@ -448,6 +473,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Interdire les licenciements boursiers",
       "detail": "Pour les entreprises qui versent des dividendes ou reçoivent des aides publiques.",
       "nature": "programme",
@@ -552,6 +578,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Instaurer le « 100 % Sécu »",
       "detail": "Rembourser à 100 % les soins prescrits en intégrant les mutuelles dans la Sécurité sociale.",
       "nature": "programme",
@@ -560,6 +587,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer la tarification à l'acte à l'hôpital",
       "detail": "Retour à la dotation globale et arrêt des suppressions de lits.",
       "nature": "programme",
@@ -568,6 +596,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Garantir un service de santé public à moins de 30 minutes",
       "detail": "Réouverture de services d'urgences, de maternités et d'Ehpad publics.",
       "nature": "programme",
@@ -576,6 +605,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "formation_medecins",
       "titre": "Supprimer réellement le numerus clausus contre les déserts médicaux",
       "detail": "Recruter des médecins publics et créer des centres de santé pluridisciplinaires.",
       "nature": "programme",
@@ -584,6 +614,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Créer un pôle public du médicament",
       "detail": "Relocaliser la production et constituer une réserve stratégique.",
       "nature": "programme",
@@ -592,6 +623,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Créer 10 000 places par an en Ehpad publics",
       "detail": "Pendant cinq ans, avec un service public de la dépendance et 210 000 recrutements.",
       "nature": "programme",
@@ -712,6 +744,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Construire 200 000 logements publics par an",
       "detail": "Pendant cinq ans, aux normes écologiques les plus exigeantes.",
       "nature": "programme",
@@ -720,6 +753,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Encadrer les loyers partout et les baisser dans les grandes villes",
       "detail": "Encadrement sur tout le territoire.",
       "nature": "programme",
@@ -728,6 +762,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Interdire les expulsions locatives sans relogement",
       "detail": "Avec une garantie universelle des loyers.",
       "nature": "programme",
@@ -736,6 +771,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Porter à 30 % le quota de logements sociaux (loi SRU)",
       "detail": "Et alourdir les sanctions contre les communes hors la loi.",
       "nature": "programme",
@@ -744,6 +780,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Réquisitionner les logements vides",
       "detail": "Et limiter les locations de courte durée type Airbnb aux propriétaires occupants.",
       "nature": "programme",
@@ -888,6 +925,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Rehausser l'investissement public dans la recherche",
       "detail": "Renforcer les grands organismes (CNRS, Inserm…) et supprimer l'ANR.",
       "nature": "programme",
@@ -896,6 +934,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "inclusion_numerique",
       "titre": "Garantir un accès minimal gratuit à Internet",
       "detail": "Et la couverture en fibre de tout le pays d'ici 2025.",
       "nature": "programme",
@@ -904,6 +943,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "inclusion_numerique",
       "titre": "Passer sous contrôle public les infrastructures télécoms",
       "detail": "Garantir la neutralité du Net.",
       "nature": "programme",
@@ -912,6 +952,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Garantir les services publics à 15-30 minutes de chaque habitation",
       "detail": "École, gare, hôpital, bureau de poste, en particulier dans les zones rurales, quartiers populaires et Outre-mer.",
       "nature": "programme",
@@ -920,6 +961,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Garantir l'eau potable à tous les habitants des Outre-mer",
       "detail": "Travaux financés par l'État, gestion en régie.",
       "nature": "programme",

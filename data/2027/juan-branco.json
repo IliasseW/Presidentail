@@ -198,6 +198,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Fusionner les caisses de retraite publiques et privées",
       "detail": "Alignement des régimes et des taux de cotisation, fin des complémentaires publiques ; suppression de l'abattement fiscal de 10 % sur les pensions.",
       "nature": "programme",
@@ -206,6 +207,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Remplacer Unédic et France Travail par une caisse de sécurité professionnelle",
       "detail": "Allocations chômage dégressives dès la première année et ouverture de trois mois de droits en cas de démission.",
       "nature": "programme",
@@ -238,6 +240,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Abolir les complémentaires santé au profit d'un service public universel",
       "detail": "Abolition des complémentaires santé et mutuelles, service public de santé universel.",
       "nature": "programme",
@@ -246,6 +249,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Lancer un plan d'urgence contre les déserts médicaux",
       "detail": "Plan d'éradication des déserts médicaux ; fin de l'intérim hospitalier remplacé par des obligations de service public.",
       "nature": "programme",
@@ -254,6 +258,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer les agences régionales de santé",
       "detail": "Suppression des ARS et fusion de nombreuses agences et opérateurs du secteur de la santé.",
       "nature": "programme",
@@ -262,6 +267,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Organiser un référendum sur la suppression des dépassements d'honoraires",
       "detail": "Mesure de la réforme Santé ; prévoit aussi le remboursement intégral des soins dentaires.",
       "nature": "programme",
@@ -286,6 +292,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Doubler les budgets de la recherche et de l'enseignement",
       "detail": "Objectif du pilier « Investir » du projet.",
       "nature": "programme",
@@ -294,6 +301,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "inclusion_numerique",
       "titre": "Exproprier les opérateurs télécoms au profit d'un opérateur unique",
       "detail": "Création d'un opérateur public unique des réseaux et télécoms et plan d'indépendance numérique sur 20 ans.",
       "nature": "programme",
@@ -342,6 +350,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Construire 14 réacteurs EPR2",
       "detail": "Relance nucléaire avec 14 EPR2, fin de la privatisation des projets SMR, stockage des déchets en subsurface.",
       "nature": "programme",
@@ -350,6 +359,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Sortir du marché européen de l'électricité",
       "detail": "Sortie du marché européen et nationalisation de la distribution d'électricité.",
       "nature": "programme",
@@ -358,6 +368,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Abolir les zones à faibles émissions (ZFE)",
       "detail": "Abolition des ZFE ; amendes ICPE relevées à 500 000 € contre 15 000 € actuellement.",
       "nature": "programme",
@@ -366,6 +377,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Plafonner les aides agricoles à 70 000 euros par actif",
       "detail": "Modèle d'aides inspiré de la Suisse avec sept critères, plafonnement dégressif à 70 000 € par actif.",
       "nature": "programme",
@@ -374,6 +386,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire sous cinq ans les pesticides CMR1 et perturbateurs endocriniens",
       "detail": "Interdiction progressive des élevages en cage et des importations d'aliments pour bétail (soja, maïs) ; indemnisation des victimes de pesticides, à commencer par la chlordécone.",
       "nature": "programme",
@@ -382,6 +395,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Remplacer les APL par une garantie universelle des loyers",
       "detail": "Suppression des APL, ALF et ALS au profit d'une garantie universelle des loyers ; abrogation de la loi ELAN.",
       "nature": "programme",
@@ -390,6 +404,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Surtaxer les multipropriétaires, doublement pour les logements vacants",
       "detail": "Surtaxe visant les 3 % de Français polypropriétaires ; coefficient doublé pour les logements vacants et triplé pour les meublés touristiques en zone tendue.",
       "nature": "programme",
@@ -414,6 +429,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Ouvrir 4 000 maisons de services publics",
       "detail": "Services de base garantis dans chaque commune de plus de 3 000 habitants.",
       "nature": "programme",

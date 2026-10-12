@@ -86,6 +86,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Abroger immédiatement la réforme des retraites de 2023 (retour à 62 ans)",
       "detail": "Rétablir aussi les critères de pénibilité réduisant la durée de cotisation pour les métiers pénibles.",
       "nature": "declaration",
@@ -94,6 +95,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Abaisser l'âge du taux plein de 67 à 65 ou 66 ans",
       "detail": "Proposition avancée lors du dernier débat de la primaire.",
       "nature": "declaration",
@@ -102,6 +104,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Reconnaître le burn-out comme maladie professionnelle",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -110,6 +113,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Fixer un objectif de zéro décès au travail",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -118,6 +122,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Appliquer la convention collective du donneur d'ordre aux salariés sous-traitants",
       "detail": "Et encadrer les horaires de travail imprévisibles.",
       "nature": "declaration",
@@ -126,6 +131,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Créer un bouclier logement limitant le loyer à 30 % des revenus",
       "detail": "Au-delà, la CAF et l'État compenseraient (son message parle d'« un tiers » des revenus).",
       "nature": "declaration",
@@ -134,6 +140,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Généraliser l'encadrement des loyers et faciliter la réquisition des logements vacants",
       "detail": "Réquisition ciblée sur les zones tendues.",
       "nature": "programme",
@@ -142,6 +149,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Financer massivement la rénovation énergétique des logements",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -158,6 +166,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Développer fortement l'aide et les soins à domicile",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -198,6 +207,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Atteindre la souveraineté énergétique",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -206,6 +216,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Mettre en œuvre une préférence européenne pour l'agriculture",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -214,6 +225,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Restaurer les cycles de l'eau et défendre l'agroécologie",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",

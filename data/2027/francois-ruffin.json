@@ -30,6 +30,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Abaisser l'âge de départ à la retraite à 60 ans",
       "detail": "Avec une retraite avancée pour les travailleurs essentiels.",
       "nature": "programme",
@@ -38,6 +39,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Créer un statut des travailleuses et travailleurs essentiels",
       "detail": "Pour environ 7 millions de salariés (aides à domicile, agents d'entretien, caristes…) : salaires, carrières, horaires, retraite.",
       "nature": "programme",
@@ -46,6 +48,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Payer double les heures travaillées avant 8 h et après 18 h",
       "detail": "Nouvelle catégorie d'horaires atypiques dans le Code du travail ; forfait pour les coupures de plus de 2 h.",
       "nature": "programme",
@@ -54,6 +57,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Faire respecter la durée minimale de 24 heures pour le temps partiel",
       "detail": "Limiter les dérogations ; rappel de salaire jusqu'à 24 h en cas de non-respect ; fin du temps partiel subi.",
       "nature": "programme",
@@ -62,6 +66,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Compter le temps de trajet entre deux interventions comme du travail",
       "detail": "Temps de transport entre deux interventions reconnu comme temps de travail effectif.",
       "nature": "programme",
@@ -70,6 +75,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Accorder un trimestre de retraite en plus pour 4 trimestres en métier pénible",
       "detail": "Pour les métiers exposés à la pénibilité.",
       "nature": "programme",
@@ -78,6 +84,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "formation_pro",
       "titre": "Créer un droit opposable à la formation avec maintien du salaire",
       "detail": "Pour atteindre le niveau bac après 5 ans ; fonds des OPCO orientés en priorité vers les salariés essentiels.",
       "nature": "programme",
@@ -86,6 +93,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Recruter des inspecteurs du travail et sanctionner les abus d'intérim",
       "detail": "Pénalités pour les entreprises qui renouvellent les contrats d'intérim de 3 × 6 mois.",
       "nature": "programme",
@@ -94,6 +102,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Généraliser « Territoires zéro chômeur de longue durée »",
       "detail": "Extension à tous les territoires, avec une priorité aux travaux écologiques.",
       "nature": "programme",
@@ -102,6 +111,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Adopter une loi d'adaptation du travail aux vagues de chaleur avant l'été 2027",
       "detail": "Seuils de température imposant l'arrêt du travail et chômage technique canicule étendu au-delà du BTP.",
       "nature": "programme",
@@ -110,6 +120,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Rétablir les CHSCT",
       "detail": "Avec une commission environnement dans tous les CSE et un statut renforcé des lanceurs d'alerte.",
       "nature": "programme",
@@ -262,6 +273,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Créer un billet TER illimité à 29 € pour l'été",
       "detail": "Valable du 1er juillet au 31 août.",
       "nature": "programme",
@@ -270,6 +282,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Plafonner le prix des billets d'avion entre l'Hexagone et l'Outre-mer",
       "detail": "Mesure du cahier « temps des loisirs ».",
       "nature": "programme",
@@ -278,6 +291,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Reprendre les autoroutes en main et baisser les péages",
       "detail": "Fin des concessions et tarification publique.",
       "nature": "programme",
@@ -318,6 +332,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Instaurer des prix minimums garantis aux agriculteurs",
       "detail": "Calculés sur les coûts de production, modulés pour les produits sous label, dont le bio.",
       "nature": "programme",
@@ -326,6 +341,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Interdire les importations vendues sous les prix planchers français",
       "detail": "Clauses de sauvegarde sanitaires contre les produits contenant des substances interdites en France.",
       "nature": "programme",
@@ -342,6 +358,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Porter le bio à 30 % en 2030 et 50 % en 2035 en restauration collective",
       "detail": "Produits locaux et durables favorisés dans la commande publique.",
       "nature": "programme",
@@ -350,6 +367,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Payer les services environnementaux 100 à 150 € par hectare",
       "detail": "Généralisation des paiements pour services environnementaux.",
       "nature": "programme",
@@ -358,6 +376,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Verser les aides de la PAC selon le travail et plafonner les grandes exploitations",
       "detail": "Refonte d'une partie du premier pilier selon les unités de travail agricole et les premiers hectares.",
       "nature": "programme",
@@ -366,6 +385,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Créer un statut de paysan avec retraite et congés",
       "detail": "Droits équivalents aux autres travailleurs ; installer plus de paysans qu'il n'en part chaque année.",
       "nature": "programme",
@@ -374,6 +394,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Rendre systématique l'étiquetage de l'origine des aliments",
       "detail": "Mesure du cahier « exception agriculturelle ».",
       "nature": "programme",
@@ -382,6 +403,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Soutenir des expérimentations de sécurité sociale de l'alimentation",
       "detail": "Dans tous les territoires.",
       "nature": "programme",
@@ -390,6 +412,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Généraliser l'encadrement des loyers",
       "detail": "D'abord à toutes les agglomérations tendues puis à tout le territoire ; compléments de loyer plafonnés.",
       "nature": "programme",
@@ -398,6 +421,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Produire 200 000 logements à loyer abordable par an",
       "detail": "Avec un effort particulier pour les jeunes ; 150 000 logements en accession par an en plus.",
       "nature": "programme",
@@ -406,6 +430,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Doubler le prêt à taux zéro",
       "detail": "D'environ 60 000 à 120 000 € en moyenne ; prêt public « en second ressort » après un refus bancaire.",
       "nature": "programme",
@@ -414,6 +439,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Supprimer l'abattement sur les plus-values immobilières hors résidence principale",
       "detail": "Au moins 3 Md€ de recettes par an ; fin des avantages fiscaux des multipropriétaires.",
       "nature": "programme",
@@ -422,6 +448,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Taxer les meublés touristiques à 40-70 % contre 10-30 % pour les locations durables",
       "detail": "Avec les mêmes obligations que les locations ordinaires (interdiction de louer des passoires).",
       "nature": "programme",
@@ -430,6 +457,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Abroger la loi Kasbarian-Bergé",
       "detail": "Avec 8 000 places d'hébergement d'urgence en plus par an en zones tendues et un plan contre le sans-abrisme.",
       "nature": "programme",
@@ -438,6 +466,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Créer 200 000 logements pour étudiants et jeunes actifs d'ici 2032",
       "detail": "Dont 150 000 étudiants, avec construction hors-site ; 8 à 12 Md€ d'investissement sur 5 ans.",
       "nature": "programme",
@@ -446,6 +475,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Doubler le soutien public aux bailleurs sociaux",
       "detail": "Retour à la situation d'avant 2018, soit 2 à 3 Md€ de plus par an.",
       "nature": "programme",
@@ -454,6 +484,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Porter à 15 Md€ par an les moyens de la rénovation des logements",
       "detail": "600 000 rénovations d'ampleur par an en moyenne et fin des passoires thermiques d'ici 2032.",
       "nature": "programme",
@@ -462,6 +493,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Prolonger le nucléaire existant et construire six EPR2",
       "detail": "Décision sur huit réacteurs supplémentaires selon le devis d'EDF ; annulation de la fusion ASN-IRSN.",
       "nature": "programme",
@@ -470,6 +502,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Revenir à un modèle public de l'électricité autour d'EDF",
       "detail": "Fin de la concurrence sur la vente d'électricité aux consommateurs.",
       "nature": "programme",
@@ -478,6 +511,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Interdire les vols intérieurs quand le train fait le trajet en moins de 4 h",
       "detail": "Mesure du cahier « travaillisme écologique ».",
       "nature": "programme",
@@ -486,6 +520,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Proposer un leasing social de petites voitures électriques françaises",
       "detail": "Pour 3 millions d'automobilistes sur le quinquennat ; soutien au rétrofit.",
       "nature": "programme",
@@ -494,6 +529,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Tripler la part du fret ferroviaire",
       "detail": "Plus de trains sur le réseau existant, trains de nuit et liaisons européennes pour réduire de moitié le trafic aérien.",
       "nature": "programme",
@@ -502,6 +538,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Interdire la publicité pour les produits les plus polluants",
       "detail": "Voitures thermiques, billets d'avion.",
       "nature": "programme",
@@ -518,6 +555,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Créer un Commissariat général à la planification",
       "detail": "Fusion du SGPE et du Haut-commissariat au plan, rattaché au Premier ministre.",
       "nature": "programme",
@@ -534,6 +572,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "autre",
       "titre": "Ouvrir une Maison de la réparation et du réemploi par canton",
       "detail": "Environ 50 000 emplois ; retour de la consigne du verre ; taxe « balai » sur les produits hors filières REP.",
       "nature": "programme",
@@ -558,6 +597,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Instaurer un moratoire de cinq ans sur les data centers non souverains",
       "detail": "Plan « data centers » ; débats publics sur les projets existants.",
       "nature": "programme",
@@ -566,6 +606,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Donner aux communes un veto suspensif sur les grands data centers",
       "detail": "Fin du statut de projet d'intérêt national majeur ; règles pour les projets de plus de 50 ha ou 100 MW.",
       "nature": "programme",
@@ -574,6 +615,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Exiger la qualification SecNumCloud pour les données de l'État",
       "detail": "Également pour les secteurs vitaux et les opérateurs de services essentiels.",
       "nature": "programme",
@@ -582,6 +624,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Supprimer le tarif réduit de taxe sur l'électricité des data centers",
       "detail": "Pour les projets non stratégiques : 12 €/MWh au lieu de 26 € pour les autres consommateurs.",
       "nature": "programme",
@@ -614,6 +657,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Contrôler les prix et les marges en Outre-mer",
       "detail": "« Marge raisonnable » pour les entreprises, sans blocage des prix, et indexation des salaires sur l'inflation.",
       "nature": "declaration",

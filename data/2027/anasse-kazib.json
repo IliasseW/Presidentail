@@ -38,6 +38,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Rétablir la retraite à 60 ans, à 55 ans pour les métiers pénibles",
       "detail": "Sans condition d'annuités.",
       "nature": "programme",
@@ -46,6 +47,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Réduire la semaine de travail à 28 heures sans baisse de salaire",
       "detail": "Par la répartition du travail entre tous ; revendication réaffirmée au lancement de la campagne à Toulouse.",
       "nature": "programme",
@@ -54,6 +56,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Interdire les licenciements",
       "detail": "Axe « Confisquer le pouvoir aux patrons ».",
       "nature": "programme",
@@ -62,6 +65,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Mettre fin à la sous-traitance et généraliser le CDI",
       "detail": "« Même travail, même salaire ».",
       "nature": "programme",
@@ -70,6 +74,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Investir massivement dans les services publics placés sous contrôle des salariés",
       "detail": "Mesure du premier 4 pages de campagne.",
       "nature": "programme",
@@ -78,6 +83,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Exproprier les logements vides, plafonner et geler les loyers",
       "detail": "Mesure du premier 4 pages de campagne.",
       "nature": "programme",
@@ -206,6 +212,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Confier la dépollution des sols et de l'eau à des comités locaux",
       "detail": "Comités de travailleurs, scientifiques et riverains ; production planifiée démocratiquement.",
       "nature": "programme",

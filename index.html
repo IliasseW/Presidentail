@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Comparateur présidentielle 2027</title>
-  <meta name="description" content="Comparez, thème par thème, les propositions des candidats à l'élection présidentielle française de 2027, et leurs programmes de 2022.">
+  <meta name="description" content="Comparez, sujet par sujet, les propositions des candidats à l'élection présidentielle française de 2027, et leurs programmes de 2022.">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap">
       <h1>Présidentielle 2027 — comparateur des programmes</h1>
-      <p class="lede">Choisissez deux candidats ou plus, puis les thèmes qui vous intéressent. Chaque proposition renvoie à sa source.</p>
+      <p class="lede">Choisissez deux candidats ou plus : leurs propositions s'alignent sujet par sujet, thème par thème. Chaque proposition renvoie à sa source.</p>
     </div>
   </header>
 
@@ -43,15 +43,19 @@
       </div>
     </section>
 
-    <section id="cards" class="cards" aria-label="Candidats sélectionnés"></section>
-    <section id="results" aria-label="Comparatif"></section>
+    <section id="compare" aria-label="Comparatif" hidden>
+      <div id="compare-head" class="compare-head"></div>
+      <div id="synthese"></div>
+      <div id="results"></div>
+    </section>
+
     <section id="overview" aria-label="Vue d'ensemble"></section>
   </main>
 
   <footer class="site-footer">
     <div class="wrap">
       <p id="data-date"></p>
-      <p>Aucune candidature n'est officielle avant la publication de la liste par le Conseil constitutionnel (500 parrainages). Les programmes évoluent : beaucoup de fiches reposent encore sur des déclarations ou des documents partiels, signalés par une étiquette. Méthodologie : <a href="docs/METHODOLOGIE.md">docs/METHODOLOGIE.md</a>.</p>
+      <p>Aucune candidature n'est officielle avant la publication de la liste par le Conseil constitutionnel (500 parrainages). Les programmes évoluent : beaucoup de fiches reposent encore sur des déclarations ou des documents partiels, signalés par une étiquette. L'absence d'une proposition sur un sujet signifie qu'aucune position n'a été recensée, pas forcément que le candidat n'en a pas. Méthodologie : <a href="docs/METHODOLOGIE.md">docs/METHODOLOGIE.md</a>.</p>
     </div>
   </footer>
 

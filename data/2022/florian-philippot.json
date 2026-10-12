@@ -40,6 +40,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Mettre fin au masque obligatoire en population générale et à l'école",
       "detail": "Mesure du volet « tyrannie sanitaire ».",
       "nature": "programme",
@@ -104,6 +105,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Fermer les agences régionales de santé (ARS)",
       "detail": "Fin de la tarification à l'activité et plan d'investissement massif à l'hôpital et dans la recherche publique.",
       "nature": "programme",
@@ -112,6 +114,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Réintégrer les soignants suspendus pour refus de vaccination",
       "detail": "Transparence totale sur les effets secondaires des vaccins contre la Covid-19.",
       "nature": "programme",
@@ -120,6 +123,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "autre",
       "titre": "Suspendre la participation de la France à l'OMS",
       "detail": "Volet santé du projet.",
       "nature": "programme",
@@ -128,6 +132,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Dissoudre le Conseil de l'ordre des médecins",
       "detail": "Liberté totale de prescription des médecins libéraux rétablie.",
       "nature": "programme",
@@ -136,6 +141,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Sanctionner lourdement toute censure politique sur internet et les réseaux",
       "detail": "Visant notamment les GAFAM, au nom d'une liberté d'expression totale.",
       "nature": "programme",
@@ -144,6 +150,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Réinvestir massivement dans le nucléaire de nouvelle génération",
       "detail": "Plan de recherche sur l'hydrogène et les biocarburants à base d'algues.",
       "nature": "programme",
@@ -168,6 +175,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Arrêter la construction d'éoliennes sur tout le territoire",
       "detail": "Volet énergie.",
       "nature": "programme",
@@ -176,6 +184,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Imposer une obligation industrielle de déplastification des emballages",
       "detail": "Lutte renforcée contre la pollution de l'air, des sols et de l'eau ; fin des traités de libre-échange.",
       "nature": "programme",
@@ -184,6 +193,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Favoriser le bio et les circuits courts",
       "detail": "Volet écologie.",
       "nature": "programme",
@@ -304,6 +314,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Doubler le budget du spatial et lancer un programme spatial national",
       "detail": "Retour sur la Lune, conquête de Mars et des autres corps du système solaire.",
       "nature": "programme",

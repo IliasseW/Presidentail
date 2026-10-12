@@ -1,0 +1,704 @@
+[
+  {
+    "id": "economie",
+    "libelle": "Économie, entreprises, fiscalité",
+    "sujets": [
+      {
+        "id": "fiscalite_menages",
+        "libelle": "Impôts des ménages, patrimoine, héritage"
+      },
+      {
+        "id": "fiscalite_entreprises",
+        "libelle": "Fiscalité et charges des entreprises"
+      },
+      {
+        "id": "industrie",
+        "libelle": "Industrie et réindustrialisation"
+      },
+      {
+        "id": "role_etat",
+        "libelle": "Rôle de l'État, nationalisations, protection de l'économie"
+      },
+      {
+        "id": "pme_simplification",
+        "libelle": "PME, artisans, commerçants, simplification"
+      },
+      {
+        "id": "finance_banques",
+        "libelle": "Banque, finance, épargne"
+      },
+      {
+        "id": "fraude_evasion",
+        "libelle": "Fraude et évasion fiscales"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "finances_publiques",
+    "libelle": "Finances publiques",
+    "sujets": [
+      {
+        "id": "deficit_dette",
+        "libelle": "Déficit et dette"
+      },
+      {
+        "id": "economies_depenses",
+        "libelle": "Économies et baisse des dépenses"
+      },
+      {
+        "id": "recettes_nouvelles",
+        "libelle": "Nouvelles recettes et taxes"
+      },
+      {
+        "id": "etat_fonction_publique",
+        "libelle": "Effectifs et fonctionnement de l'État"
+      },
+      {
+        "id": "regles_budgetaires",
+        "libelle": "Règles et pilotage budgétaires"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "travail_retraites",
+    "libelle": "Travail, emploi, retraites",
+    "sujets": [
+      {
+        "id": "age_retraite",
+        "libelle": "Âge de départ et durée de cotisation"
+      },
+      {
+        "id": "systeme_retraites",
+        "libelle": "Financement et système de retraite"
+      },
+      {
+        "id": "pensions",
+        "libelle": "Montant et indexation des pensions"
+      },
+      {
+        "id": "temps_travail",
+        "libelle": "Temps de travail, heures supplémentaires"
+      },
+      {
+        "id": "chomage_emploi",
+        "libelle": "Assurance chômage et politique de l'emploi"
+      },
+      {
+        "id": "droit_travail",
+        "libelle": "Droit du travail, dialogue social, conditions de travail"
+      },
+      {
+        "id": "formation_pro",
+        "libelle": "Formation professionnelle et apprentissage"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "pouvoir_achat",
+    "libelle": "Pouvoir d'achat, salaires",
+    "sujets": [
+      {
+        "id": "smic_salaires",
+        "libelle": "SMIC et salaires"
+      },
+      {
+        "id": "prix_energie",
+        "libelle": "Prix de l'énergie et des carburants"
+      },
+      {
+        "id": "prix_consommation",
+        "libelle": "TVA et prix des produits du quotidien"
+      },
+      {
+        "id": "partage_valeur",
+        "libelle": "Partage de la valeur, primes, participation"
+      },
+      {
+        "id": "aides_menages",
+        "libelle": "Aides et revenus de soutien"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "sante",
+    "libelle": "Santé",
+    "sujets": [
+      {
+        "id": "acces_soins",
+        "libelle": "Accès aux soins et déserts médicaux"
+      },
+      {
+        "id": "hopital_soignants",
+        "libelle": "Hôpital et soignants"
+      },
+      {
+        "id": "formation_medecins",
+        "libelle": "Formation des médecins et des soignants"
+      },
+      {
+        "id": "assurance_maladie",
+        "libelle": "Assurance maladie, remboursements, mutuelles"
+      },
+      {
+        "id": "grand_age",
+        "libelle": "Grand âge, dépendance, EHPAD"
+      },
+      {
+        "id": "prevention_mentale",
+        "libelle": "Prévention et santé mentale"
+      },
+      {
+        "id": "medicaments",
+        "libelle": "Médicaments et industrie de santé"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "libelle": "Éducation, jeunesse",
+    "sujets": [
+      {
+        "id": "savoirs_programmes",
+        "libelle": "École et collège : savoirs, programmes, rythmes"
+      },
+      {
+        "id": "enseignants",
+        "libelle": "Enseignants : salaires, recrutement, formation"
+      },
+      {
+        "id": "lycee_orientation",
+        "libelle": "Lycée, orientation, voie professionnelle, bac"
+      },
+      {
+        "id": "autorite_ecole",
+        "libelle": "Autorité, discipline, sécurité à l'école"
+      },
+      {
+        "id": "superieur_etudiants",
+        "libelle": "Enseignement supérieur et vie étudiante"
+      },
+      {
+        "id": "jeunesse_service",
+        "libelle": "Jeunesse, service civique ou national"
+      },
+      {
+        "id": "inclusion_inegalites",
+        "libelle": "Inégalités scolaires, inclusion, petite enfance"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "securite_justice",
+    "libelle": "Sécurité, justice",
+    "sujets": [
+      {
+        "id": "police_moyens",
+        "libelle": "Police, gendarmerie : effectifs et moyens"
+      },
+      {
+        "id": "peines_penal",
+        "libelle": "Peines et procédure pénale"
+      },
+      {
+        "id": "prisons",
+        "libelle": "Prisons"
+      },
+      {
+        "id": "justice_moyens",
+        "libelle": "Fonctionnement et moyens de la justice"
+      },
+      {
+        "id": "drogue_narcotrafic",
+        "libelle": "Drogues et narcotrafic"
+      },
+      {
+        "id": "mineurs",
+        "libelle": "Délinquance des mineurs"
+      },
+      {
+        "id": "terrorisme_separatisme",
+        "libelle": "Terrorisme, islamisme, séparatisme"
+      },
+      {
+        "id": "violences_femmes_enfants",
+        "libelle": "Violences faites aux femmes et aux enfants"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "immigration",
+    "libelle": "Immigration",
+    "sujets": [
+      {
+        "id": "niveau_quotas",
+        "libelle": "Niveau d'immigration, quotas, référendum"
+      },
+      {
+        "id": "asile",
+        "libelle": "Droit d'asile"
+      },
+      {
+        "id": "expulsions",
+        "libelle": "Expulsions, OQTF, rétention"
+      },
+      {
+        "id": "nationalite",
+        "libelle": "Nationalité, droit du sol, naturalisation"
+      },
+      {
+        "id": "regroupement_familial",
+        "libelle": "Regroupement familial"
+      },
+      {
+        "id": "prestations_etrangers",
+        "libelle": "Accès des étrangers aux prestations (AME, aides)"
+      },
+      {
+        "id": "travail_regularisation",
+        "libelle": "Immigration de travail et régularisations"
+      },
+      {
+        "id": "integration_sejour",
+        "libelle": "Intégration, langue, titres de séjour, étudiants"
+      },
+      {
+        "id": "frontieres",
+        "libelle": "Frontières, Schengen, coopération européenne"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "ecologie_energie",
+    "libelle": "Écologie, énergie, transports",
+    "sujets": [
+      {
+        "id": "nucleaire",
+        "libelle": "Nucléaire"
+      },
+      {
+        "id": "renouvelables",
+        "libelle": "Énergies renouvelables"
+      },
+      {
+        "id": "marche_electricite",
+        "libelle": "Marché et tarifs de l'électricité, EDF"
+      },
+      {
+        "id": "climat_planification",
+        "libelle": "Objectifs climatiques et planification écologique"
+      },
+      {
+        "id": "transports",
+        "libelle": "Transports, rail, voiture"
+      },
+      {
+        "id": "biodiversite_pollution",
+        "libelle": "Biodiversité, eau, pollutions"
+      },
+      {
+        "id": "renovation",
+        "libelle": "Rénovation énergétique des bâtiments"
+      },
+      {
+        "id": "fiscalite_ecologique",
+        "libelle": "Fiscalité et financement écologiques"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "agriculture",
+    "libelle": "Agriculture",
+    "sujets": [
+      {
+        "id": "revenu_prix",
+        "libelle": "Revenu agricole et prix (Egalim)"
+      },
+      {
+        "id": "normes_pesticides",
+        "libelle": "Normes, pesticides, glyphosate"
+      },
+      {
+        "id": "commerce_pac",
+        "libelle": "Accords commerciaux (Mercosur) et PAC"
+      },
+      {
+        "id": "installation_foncier",
+        "libelle": "Installation, foncier, transmission"
+      },
+      {
+        "id": "alimentation",
+        "libelle": "Alimentation, bio, cantines"
+      },
+      {
+        "id": "eau_irrigation",
+        "libelle": "Eau et irrigation"
+      },
+      {
+        "id": "elevage_animaux",
+        "libelle": "Élevage et bien-être animal"
+      },
+      {
+        "id": "peche_foret",
+        "libelle": "Pêche et forêt"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "institutions",
+    "libelle": "Institutions, démocratie",
+    "sujets": [
+      {
+        "id": "referendum_ric",
+        "libelle": "Référendum, RIC, démocratie directe"
+      },
+      {
+        "id": "mode_scrutin",
+        "libelle": "Mode de scrutin, proportionnelle"
+      },
+      {
+        "id": "regime_constitution",
+        "libelle": "Régime, Constitution, pouvoirs du président, VIe République"
+      },
+      {
+        "id": "parlement",
+        "libelle": "Parlement : nombre d'élus, Sénat, pouvoirs"
+      },
+      {
+        "id": "decentralisation",
+        "libelle": "Décentralisation et collectivités"
+      },
+      {
+        "id": "ethique_vie_publique",
+        "libelle": "Éthique, transparence, lobbies"
+      },
+      {
+        "id": "participation_citoyenne",
+        "libelle": "Participation citoyenne, conventions, vote"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "europe_international",
+    "libelle": "Europe, international",
+    "sujets": [
+      {
+        "id": "rapport_ue",
+        "libelle": "Rapport à l'UE : traités, souveraineté, Frexit"
+      },
+      {
+        "id": "budget_euro",
+        "libelle": "Budget européen, euro, règles budgétaires"
+      },
+      {
+        "id": "libre_echange",
+        "libelle": "Commerce international et libre-échange"
+      },
+      {
+        "id": "diplomatie",
+        "libelle": "Diplomatie, alliances, grandes puissances"
+      },
+      {
+        "id": "proche_orient",
+        "libelle": "Proche-Orient"
+      },
+      {
+        "id": "afrique_developpement",
+        "libelle": "Afrique, francophonie, aide au développement"
+      },
+      {
+        "id": "fonctionnement_ue",
+        "libelle": "Fonctionnement et réforme des institutions européennes"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "defense",
+    "libelle": "Défense",
+    "sujets": [
+      {
+        "id": "budget_armees",
+        "libelle": "Budget et effectifs des armées"
+      },
+      {
+        "id": "otan",
+        "libelle": "OTAN"
+      },
+      {
+        "id": "ukraine_russie",
+        "libelle": "Ukraine et Russie"
+      },
+      {
+        "id": "defense_europeenne",
+        "libelle": "Défense européenne"
+      },
+      {
+        "id": "dissuasion",
+        "libelle": "Dissuasion nucléaire"
+      },
+      {
+        "id": "industrie_defense",
+        "libelle": "Industrie de défense"
+      },
+      {
+        "id": "service_reserves",
+        "libelle": "Service militaire, réserves, cohésion"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "logement",
+    "libelle": "Logement",
+    "sujets": [
+      {
+        "id": "construction",
+        "libelle": "Construction et offre de logements"
+      },
+      {
+        "id": "logement_social",
+        "libelle": "Logement social"
+      },
+      {
+        "id": "loyers_locataires",
+        "libelle": "Loyers, encadrement, locataires"
+      },
+      {
+        "id": "accession_propriete",
+        "libelle": "Accession à la propriété, crédit"
+      },
+      {
+        "id": "renovation_logement",
+        "libelle": "Rénovation et logements vacants"
+      },
+      {
+        "id": "fiscalite_immobiliere",
+        "libelle": "Fiscalité immobilière et urbanisme"
+      },
+      {
+        "id": "mal_logement",
+        "libelle": "Mal-logement et sans-abri"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "social",
+    "libelle": "Protection sociale, famille, égalité",
+    "sujets": [
+      {
+        "id": "famille_natalite",
+        "libelle": "Famille, natalité, allocations familiales"
+      },
+      {
+        "id": "handicap_aidants",
+        "libelle": "Handicap et aidants"
+      },
+      {
+        "id": "pauvrete_minima",
+        "libelle": "Pauvreté, RSA, minima sociaux"
+      },
+      {
+        "id": "egalite_femmes_hommes",
+        "libelle": "Égalité femmes-hommes"
+      },
+      {
+        "id": "fraude_sociale",
+        "libelle": "Fraude sociale et contrôles"
+      },
+      {
+        "id": "securite_sociale",
+        "libelle": "Financement et organisation de la Sécurité sociale"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "numerique_recherche",
+    "libelle": "Numérique, IA, recherche",
+    "sujets": [
+      {
+        "id": "ia",
+        "libelle": "Intelligence artificielle"
+      },
+      {
+        "id": "recherche",
+        "libelle": "Recherche publique et innovation"
+      },
+      {
+        "id": "souverainete_numerique",
+        "libelle": "Souveraineté numérique, cloud, données"
+      },
+      {
+        "id": "plateformes_reseaux",
+        "libelle": "Réseaux sociaux, plateformes, protection en ligne"
+      },
+      {
+        "id": "inclusion_numerique",
+        "libelle": "Couverture et inclusion numériques"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "culture_medias",
+    "libelle": "Culture, médias, sport",
+    "sujets": [
+      {
+        "id": "audiovisuel_public",
+        "libelle": "Audiovisuel public"
+      },
+      {
+        "id": "medias_presse",
+        "libelle": "Médias, concentration, liberté de la presse"
+      },
+      {
+        "id": "culture_creation",
+        "libelle": "Création, patrimoine, budget de la culture"
+      },
+      {
+        "id": "sport",
+        "libelle": "Sport"
+      },
+      {
+        "id": "langue_identite",
+        "libelle": "Langue française, identité, mémoire"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "territoires",
+    "libelle": "Services publics, territoires, outre-mer",
+    "sujets": [
+      {
+        "id": "services_publics",
+        "libelle": "Services publics de proximité"
+      },
+      {
+        "id": "ruralite",
+        "libelle": "Ruralité et villes moyennes"
+      },
+      {
+        "id": "outre_mer",
+        "libelle": "Outre-mer"
+      },
+      {
+        "id": "mobilites_locales",
+        "libelle": "Transports et mobilités du quotidien"
+      },
+      {
+        "id": "amenagement",
+        "libelle": "Aménagement du territoire, quartiers, régions"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  },
+  {
+    "id": "societe",
+    "libelle": "Société, laïcité, droits",
+    "sujets": [
+      {
+        "id": "laicite_religions",
+        "libelle": "Laïcité et cultes"
+      },
+      {
+        "id": "fin_de_vie",
+        "libelle": "Fin de vie"
+      },
+      {
+        "id": "bioethique_lgbt",
+        "libelle": "Bioéthique, PMA, droits LGBT"
+      },
+      {
+        "id": "ivg_droits_femmes",
+        "libelle": "IVG et droits des femmes"
+      },
+      {
+        "id": "discriminations",
+        "libelle": "Discriminations et racisme"
+      },
+      {
+        "id": "libertes_publiques",
+        "libelle": "Libertés publiques et liberté d'expression"
+      },
+      {
+        "id": "drogues_legalisation",
+        "libelle": "Cannabis et drogues (légalisation, dépénalisation)"
+      },
+      {
+        "id": "condition_animale",
+        "libelle": "Condition animale"
+      },
+      {
+        "id": "autre",
+        "libelle": "Autres propositions"
+      }
+    ]
+  }
+]

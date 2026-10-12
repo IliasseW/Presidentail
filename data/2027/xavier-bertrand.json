@@ -22,6 +22,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Bâtir une « République des territoires » en desserrant la tutelle de Paris",
       "detail": "Projet défendu avec Jean-Louis Borloo : l'État se concentrerait sur ses missions essentielles et laisserait davantage d'initiative aux collectivités.",
       "nature": "declaration",
@@ -54,6 +55,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Défendre une retraite par capitalisation",
       "detail": "Grande ligne annoncée dans Le Figaro, sans modalités détaillées.",
       "nature": "declaration",
@@ -62,6 +64,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Soumettre à référendum le projet d'autonomie de la Corse",
       "detail": "« On ne peut pas faire tout ça sans référendum » ; propose un nouveau pacte entre l'État et la Corse, avec une loi organique encadrant le pouvoir législatif.",
       "nature": "declaration",
@@ -70,6 +73,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Réduire le coût des transports entre la Corse et le continent",
       "detail": "Avec un allongement de la saison touristique et un meilleur accès au logement pour les jeunes et les classes moyennes.",
       "nature": "declaration",
@@ -86,6 +90,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Adopter une grande loi pluriannuelle de santé coconstruite avec les soignants",
       "detail": "Proposée avec Yannick Neuder ; refus de modifier le système de négociation conventionnelle entre médecins et Assurance maladie.",
       "nature": "declaration",
@@ -94,6 +99,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Revenir sur les surtranspositions françaises des normes européennes agricoles",
       "detail": "Faire de la stratégie agricole une priorité nationale « avec les agriculteurs et non contre eux », l'alimentation relevant selon lui du régalien.",
       "nature": "declaration",

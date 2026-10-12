@@ -54,6 +54,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Renforcer l'autonomie fiscale des collectivités locales",
       "detail": "Sans plan précis de rétablissement de la taxe d'habitation.",
       "nature": "declaration",
@@ -62,6 +63,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Faire travailler plus longtemps ceux qui le peuvent",
       "detail": "Sans chiffrage ni détail de réforme.",
       "nature": "declaration",
@@ -86,6 +88,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "S'inspirer d'un âge de départ à la retraite évoluant avec l'espérance de vie",
       "detail": "Règle « simple, prévisible » appliquée par des voisins européens, dont « peut-être qu'on devrait s'en inspirer » ; elle dément vouloir dépasser 64 ans.",
       "nature": "declaration",

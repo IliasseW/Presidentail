@@ -142,6 +142,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Rendre les transports publics gratuits",
       "detail": "Volet « Impôts » du programme, sans chiffrage.",
       "nature": "programme",
@@ -190,6 +191,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Sortir de la politique agricole commune (PAC)",
       "detail": "Mesure rapportée par la presse à partir du programme de campagne.",
       "nature": "programme",
@@ -198,6 +200,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "autre",
       "titre": "Refonder l'agriculture à partir des revendications des petits exploitants",
       "detail": "Volet « Terroir » : « souveraineté alimentaire » et « liberté agricole » (droit de cultiver et d'élever pour se nourrir).",
       "nature": "programme",
@@ -206,6 +209,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Promouvoir une approche « holistique » de la santé",
       "detail": "Thème cité par la presse parmi les principales propositions, sans détail.",
       "nature": "programme",

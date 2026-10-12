@@ -166,6 +166,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Quitter le marché européen de l'électricité",
       "detail": "Retour à des règles nationales de prix fondées sur le coût de production ; le document affirme que le prix pourrait être divisé par trois.",
       "nature": "programme",
@@ -174,6 +175,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Rétablir le monopole public national d'EDF",
       "detail": "Fin du découpage d'EDF et de l'obligation de vendre de l'électricité à ses concurrents.",
       "nature": "programme",
@@ -182,6 +184,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Investir massivement dans le nucléaire et l'hydroélectricité",
       "detail": "Plan d'investissement dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
       "nature": "programme",
@@ -190,6 +193,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Décréter un moratoire définitif sur l'éolien et démanteler les éoliennes",
       "detail": "Moratoire total sur l'éolien terrestre et en mer, avec un plan de démantèlement et de recyclage.",
       "nature": "programme",
@@ -198,6 +202,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Empêcher l'ouverture à la concurrence des barrages hydroélectriques",
       "detail": "Refus de la mise en concurrence des concessions d'EDF demandée par la Commission européenne.",
       "nature": "programme",
@@ -206,6 +211,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Préserver la vente de voitures thermiques au-delà de 2035",
       "detail": "Opposition à l'interdiction européenne des voitures thermiques neuves en 2035.",
       "nature": "programme",
@@ -214,6 +220,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Lancer un grand plan national de protection de la faune et de la flore",
       "detail": "Sanctuariser des espaces naturels, replanter les haies bocagères et renforcer les réserves écologiques.",
       "nature": "programme",
@@ -222,6 +229,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Remplacer la PAC par une politique agricole française (PAF)",
       "detail": "Fondée sur les circuits courts, la qualité, « au maximum le bio et la permaculture » ; la France financerait elle-même les 9 Md€ annuels de la PAC.",
       "nature": "programme",
@@ -230,6 +238,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Rétablir des prix planchers pour garantir le revenu agricole",
       "detail": "Possible selon le projet seulement hors de l'UE, avec des droits de douane sur les productions extérieures.",
       "nature": "programme",
@@ -238,6 +247,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Pouvoir imposer quotas ou barrières tarifaires aux pays européens",
       "detail": "Contre la concurrence intra-européenne jugée déloyale (fruits, légumes, porc, lait, céréales, volaille).",
       "nature": "programme",
@@ -246,6 +256,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Interdire les insectes et larves dans l'alimentation",
       "detail": "Retour sur les autorisations européennes de 2021 et 2023.",
       "nature": "programme",
@@ -254,6 +265,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Baisser l'âge de départ à la retraite",
       "detail": "Âge déterminé « souverainement » après le Frexit, sans âge cible chiffré.",
       "nature": "programme",
@@ -262,6 +274,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Mettre fin à l'immigration de travail et au statut de travailleur détaché",
       "detail": "Sortie de la directive européenne sur les travailleurs détachés.",
       "nature": "programme",
@@ -414,6 +427,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer les agences régionales de santé (ARS)",
       "detail": "Simplifier la gestion hospitalière et réduire la bureaucratie.",
       "nature": "programme",
@@ -422,6 +436,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer le Conseil de l'Ordre des médecins",
       "detail": "Pour « garantir l'indépendance » des soignants.",
       "nature": "programme",
@@ -430,6 +445,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Garantir la liberté vaccinale des citoyens et des soignants",
       "detail": "Aucun soignant ne doit perdre son emploi pour avoir refusé un vaccin ; ne plus jamais instaurer de « pass sanitaire ».",
       "nature": "programme",
@@ -438,6 +454,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Investir massivement dans des centres de santé de proximité",
       "detail": "Pour désengorger l'hôpital, recentré sur les pathologies lourdes.",
       "nature": "programme",
@@ -446,6 +463,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "autre",
       "titre": "Stocker les données de santé de façon décentralisée, par exemple sur la carte Vitale",
       "detail": "Consultation uniquement avec l'accord explicite du patient.",
       "nature": "programme",
@@ -478,6 +496,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Sortir des GAFAM en 3 ans pour les données sensibles de l'État",
       "detail": "Données stratégiques hébergées sur des serveurs publics ou contrôlés par l'ANSSI.",
       "nature": "programme",
@@ -486,6 +505,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Adopter une loi de souveraineté numérique et créer un commissariat dédié",
       "detail": "Code source des outils publics libre et auditable.",
       "nature": "programme",
@@ -494,6 +514,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Faire de la France une grande puissance de l'intelligence artificielle",
       "detail": "Soutien de l'État à la recherche, aux entreprises françaises d'IA et aux capacités de calcul.",
       "nature": "programme",
@@ -534,6 +555,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Proposer la départementalisation aux territoires d'outre-mer volontaires",
       "detail": "Refus de la création d'un État de Nouvelle-Calédonie.",
       "nature": "programme",
@@ -542,6 +564,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Lutter contre la vie chère en outre-mer par l'encadrement des prix",
       "detail": "Circuits courts, production locale, soutien au fret maritime, encadrement des prix de première nécessité et lutte contre les monopoles.",
       "nature": "programme",

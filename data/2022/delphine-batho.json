@@ -24,6 +24,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Faire de la réduction de la consommation d'énergie la priorité absolue",
       "detail": "« Décroissance énergétique » présentée comme priorité.",
       "nature": "declaration",
@@ -32,6 +33,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Sortir progressivement du nucléaire et stopper le projet de six EPR",
       "detail": "Sortie « pragmatique et responsable » du nucléaire.",
       "nature": "declaration",
@@ -40,6 +42,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire par décret les pesticides les plus dangereux dont le glyphosate",
       "detail": "Annoncée comme sa « première décision ».",
       "nature": "declaration",

@@ -22,6 +22,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Investir massivement dans les renouvelables et l'isolation thermique",
       "detail": "Pour sortir des dépendances aux énergies fossiles.",
       "nature": "declaration",
@@ -38,6 +39,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "mal_logement",
       "titre": "Garantir le droit au logement pour toutes et tous",
       "detail": "Orientation générale du socle commun.",
       "nature": "declaration",
@@ -54,6 +56,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Développer les trains du quotidien et créer un « ticket climat »",
       "detail": "Développement des transports en commun et accessibilité financière via un ticket climat.",
       "nature": "declaration",
@@ -62,6 +65,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "autre",
       "titre": "Faire du soin et de l'enfance des secteurs non lucratifs",
       "detail": "Sortie du secteur lucratif pour le soin et l'enfance.",
       "nature": "declaration",
@@ -150,6 +154,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Revenir immédiatement à un âge minimum de départ à 62 ans",
       "detail": "Abrogation de la réforme de 2023 et objectif de 60 ans en priorité pour les personnes ayant commencé tôt ou exercé des métiers pénibles (mesure 31-1).",
       "nature": "programme",
@@ -158,6 +163,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Planifier la sortie du nucléaire en une vingtaine d'années",
       "detail": "Arrêt progressif du parc étalé sur une vingtaine d'années, prolongations possibles sous stricte condition de sûreté ; fin des programmes EPR-2 et SMR (mesure 1-7).",
       "nature": "programme",
@@ -246,6 +252,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Créer un congé climatique pour les travailleurs",
       "detail": "Sur le modèle espagnol, pour protéger les salariés lors de fortes chaleurs et catastrophes climatiques.",
       "nature": "declaration",
@@ -254,6 +261,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Instaurer des prix planchers garantissant un revenu digne aux agriculteurs",
       "detail": "Soutien à la proposition de loi écologiste (revenu minimum équivalent à 2 SMIC) et renforcement des services de remplacement.",
       "nature": "declaration",
@@ -262,6 +270,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Créer une Dotation Nouvel Agriculteur sans critère d'âge",
       "detail": "En complément de la Dotation Jeune Agriculteur, pour faciliter les installations.",
       "nature": "declaration",
@@ -270,6 +279,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Instaurer une « exception agricole » face aux traités de libre-échange",
       "detail": "Sur le modèle de l'exception culturelle ; transition agroécologique conditionnée à une garantie de revenus sur 3 ans.",
       "nature": "declaration",
@@ -310,6 +320,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "mal_logement",
       "titre": "Interdire les remises à la rue des familles avec enfants",
       "detail": "Principe de protection inconditionnelle inscrit dans la loi et création immédiate de 10 000 places d'hébergement d'urgence.",
       "nature": "programme",
@@ -342,6 +353,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Lancer un plan d'urgence pour la santé scolaire",
       "detail": "Pourvoir 800 postes de médecins et 1 000 de psychologues vacants, recruter 7 500 infirmiers scolaires, +500 € en début de carrière.",
       "nature": "programme",
@@ -366,6 +378,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Interdire les produits ultra-transformés dans les cantines scolaires",
       "detail": "Et la publicité télévisée pour les produits trop sucrés ou salés avant 21 h ; plafond national de sucres ajoutés.",
       "nature": "programme",
@@ -374,6 +387,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Interdire le design addictif pour les mineurs et les écrans à l'école avant 6 ans",
       "detail": "Paramètres de limitation par défaut pour les comptes des jeunes, interdiction de la publicité visant les enfants y compris via les influenceurs.",
       "nature": "programme",
@@ -398,6 +412,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Sortir des pesticides de synthèse et des engrais azotés d'ici 2050",
       "detail": "Dans le cadre d'un nouveau pacte agricole État-paysans pour une transition accompagnée vers l'agroécologie.",
       "nature": "programme",
@@ -406,6 +421,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Interdire les perturbateurs endocriniens dans les produits du quotidien",
       "detail": "Notamment contenants alimentaires, textiles, protections hygiéniques et cosmétiques.",
       "nature": "programme",
@@ -414,6 +430,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Appliquer la règle « 300/30/3 » d'accès à la nature",
       "detail": "Espace vert à moins de 300 m, 30 % de couvert végétal par quartier, trois arbres visibles depuis chaque logement.",
       "nature": "programme",
@@ -422,6 +439,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Élargir systématiquement le principe pollueur-payeur",
       "detail": "Faire contribuer les industriels à la dépollution des nappes et des sols et à la recherche d'alternatives.",
       "nature": "programme",
@@ -430,6 +448,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Créer 500 nouvelles Maisons France Services",
       "detail": "Objectif : personne à plus de 15 minutes d'un accueil physique ; droit à la non-connexion administrative.",
       "nature": "programme",
@@ -446,6 +465,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Développer la prescription sociale contre la solitude",
       "detail": "Orientation des patients par les soignants vers des activités collectives ; mesure clé d'un livret de 30 propositions.",
       "nature": "programme",
@@ -454,6 +474,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "autre",
       "titre": "Autoriser le diagnostic préimplantatoire des aneuploïdies (DPI-A)",
       "detail": "Dans des indications médicales ciblées et un cadre éthique défini, pour les parcours de FIV.",
       "nature": "programme",
@@ -470,6 +491,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Créer un droit à l'adaptation du travail à la santé reproductive",
       "detail": "Aménagements en cas de règles incapacitantes, pathologies gynécologiques, AMP, grossesse, post-partum, ménopause.",
       "nature": "programme",
@@ -486,6 +508,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Doter les glaciers d'une personnalité juridique",
       "detail": "Avec un « plan de sauvegarde des glaciers » obligatoire dans les zones concernées.",
       "nature": "programme",
@@ -494,6 +517,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Limiter à 90 jours par an la location touristique en zones littorales tendues",
       "detail": "Et un seul meublé de courte durée par propriétaire, sauf compensation par un logement loué à l'année.",
       "nature": "programme",
@@ -502,6 +526,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Créer un Fonds national d'adaptation du littoral",
       "detail": "Pour financer renaturation, acquisitions foncières, recomposition spatiale et relocalisation.",
       "nature": "programme",
@@ -510,6 +535,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "peche_foret",
       "titre": "Interdire les importations de produits de la pêche hors normes européennes",
       "detail": "Réduire la consommation de produits de la mer importés issus de modèles destructeurs.",
       "nature": "programme",
@@ -638,6 +664,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit",
       "detail": "Aides aux entreprises conditionnées ; création d'un compte épargne-temps universel.",
       "nature": "programme",
@@ -646,6 +673,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Abroger les réformes de l'assurance chômage des deux derniers quinquennats",
       "detail": "Notamment le mode de calcul de l'allocation de retour à l'emploi.",
       "nature": "programme",
@@ -654,6 +682,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Augmenter les cotisations retraite, y compris sur l'épargne salariale",
       "detail": "Cotisations étendues à l'intéressement, la participation et aux actions gratuites ; +1 point de cotisation déplafonnée au-delà du plafond de la Sécurité sociale ; +0,2 point par an sur le quinquennat.",
       "nature": "programme",
@@ -662,6 +691,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Porter progressivement le minimum contributif et l'ASPA au seuil de pauvreté",
       "detail": "Réforme de la retraite agricole et amélioration des pensions des femmes.",
       "nature": "programme",
@@ -670,6 +700,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Créer 200 postes d'inspecteurs du travail et viser zéro mort au travail en 2032",
       "detail": "Plan « santé au travail ».",
       "nature": "programme",
@@ -678,6 +709,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Créer 2 000 centres de santé d'ici 2030",
       "detail": "Notamment dans les zones rurales et les quartiers prioritaires, avec médecins, infirmiers, psychologues, kinésithérapeutes et dentistes.",
       "nature": "programme",
@@ -686,6 +718,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Supprimer les franchises médicales et rembourser à 100 % les soins essentiels",
       "detail": "Les mutuelles seraient recentrées sur les soins optionnels.",
       "nature": "programme",
@@ -694,6 +727,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Limiter les dépassements d'honoraires à 50 % du tarif de la Sécurité sociale",
       "detail": "Encadrement des dépassements chez les spécialistes.",
       "nature": "programme",
@@ -750,6 +784,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Augmenter de 10 % les salaires de la recherche publique dès la première année",
       "detail": "Objectif de 3 % du PIB en R&D orientée vers l'intérêt général en 2032.",
       "nature": "programme",
@@ -758,6 +793,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Étendre le statut d'éditeur à toutes les grandes plateformes numériques",
       "detail": "Pour les rendre responsables de l'ensemble des contenus qu'elles diffusent.",
       "nature": "programme",
@@ -766,6 +802,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Encadrer l'implantation des data centers",
       "detail": "Fin de leur labellisation « projet d'intérêt national majeur » et planification de leur consommation électrique.",
       "nature": "programme",
@@ -774,6 +811,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Généraliser les logiciels libres dans les administrations",
       "detail": "Principe « open source first » dans les appels d'offres publics.",
       "nature": "programme",
@@ -918,6 +956,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Généraliser et pérenniser l'encadrement des loyers",
       "detail": "Couverture de toutes les villes universitaires et hausse des amendes en cas de dépassement.",
       "nature": "programme",
@@ -926,6 +965,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Réaliser 500 000 rénovations performantes de logements par an",
       "detail": "Objectif de sortir un million de personnes par an de la précarité énergétique via MaPrimeRénov'.",
       "nature": "programme",
@@ -934,6 +974,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Supprimer la RLS et baisser la TVA pour relancer le logement social",
       "detail": "Relance de la construction et de la rénovation des HLM, abondement du Fonds national d'aide à la pierre.",
       "nature": "programme",
@@ -942,6 +983,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Abroger la loi Kasbarian et réquisitionner les logements vacants",
       "detail": "Surtaxe modulée selon le nombre de logements détenus et la durée de vacance.",
       "nature": "programme",
@@ -950,6 +992,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Garantir un accueil physique des services publics à 15 minutes partout en France",
       "detail": "Agents assermentés dans les Maisons France Services et unités mobiles.",
       "nature": "programme",
@@ -958,6 +1001,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Lutter contre la vie chère en outre-mer en combattant les monopoles",
       "detail": "Règles anti-trust, contrôle des marges, réforme du bouclier qualité-prix et de l'octroi de mer, régulation des tarifs aériens.",
       "nature": "programme",
@@ -966,6 +1010,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Renationaliser progressivement les autoroutes",
       "detail": "Pour financer l'entretien des réseaux routier, fluvial et ferroviaire et les pistes cyclables.",
       "nature": "programme",
@@ -974,6 +1019,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Placer 90 % de la population à moins de 30 minutes d'une gare bien desservie",
       "detail": "Loi de programmation ferroviaire à 10 ans (au moins six trains par jour).",
       "nature": "programme",
@@ -982,6 +1028,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Limiter à 110 km/h sur autoroute la vitesse des véhicules thermiques",
       "detail": "Avec encouragement du télétravail pour réduire les trajets.",
       "nature": "programme",
@@ -990,6 +1037,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Décréter un moratoire sur l'A69, le Lyon-Turin et le canal Seine-Nord",
       "detail": "Moratoire sur les « grands projets inutiles et imposés », les extensions d'aéroports et les nouvelles capacités routières.",
       "nature": "programme",
@@ -998,6 +1046,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Doter le plan d'adaptation au changement climatique de 7 Md€ par an d'ici 2032",
       "detail": "Rafraîchissement des bâtiments publics, droit opposable aux protections solaires.",
       "nature": "programme",
@@ -1006,6 +1055,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Créer un leasing social d'un million de voitures électriques sur le quinquennat",
       "detail": "En favorisant les véhicules européens.",
       "nature": "programme",
@@ -1014,6 +1064,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Soutenir 10 000 communautés énergétiques renouvelables",
       "detail": "Portées par des citoyens ou des collectivités.",
       "nature": "programme",
@@ -1022,6 +1073,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "eau_irrigation",
       "titre": "Décréter un moratoire sur les méga-bassines",
       "detail": "Retenues conditionnées à une baisse de la consommation d'eau ou à un projet agroécologique.",
       "nature": "programme",
@@ -1030,6 +1082,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Porter l'agriculture biologique à 21 % en 2030 et 25 % en 2032",
       "detail": "Hausse de l'éco-régime bio et revenu garanti sur trois ans en transition.",
       "nature": "programme",
@@ -1038,6 +1091,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Abroger la loi Duplomb et adopter une nouvelle loi d'orientation agricole",
       "detail": "Planifier la baisse de la dépendance aux intrants (engrais, pesticides, eau, énergie).",
       "nature": "programme",

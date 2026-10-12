@@ -320,6 +320,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Permettre la retraite à 60 ans avec 40 annuités pour les carrières commencées avant 20 ans",
       "detail": "Pour les autres, âge de départ et durée de cotisation dépendant de l'âge de début de carrière.",
       "nature": "programme",
@@ -328,6 +329,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Refuser tout allongement de l'âge de départ à la retraite",
       "detail": "Engagement des « 22 mesures pour 2022 ».",
       "nature": "programme",
@@ -336,6 +338,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Réindexer les retraites sur l'inflation",
       "detail": "Pour préserver le pouvoir d'achat des retraités.",
       "nature": "programme",
@@ -344,6 +347,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "formation_pro",
       "titre": "Créer un chèque formation pour les apprentis et alternants",
       "detail": "5 700 € par an avant 18 ans et 8 000 € entre 18 et 30 ans, partagés entre l'entreprise et le jeune.",
       "nature": "programme",
@@ -352,6 +356,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Mettre fin au travail détaché",
       "detail": "Présenté comme une « délocalisation déguisée », avec un renforcement des contrôles des importations.",
       "nature": "programme",
@@ -448,6 +453,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Lancer un plan d'urgence de 20 Md€ pour la santé",
       "detail": "Plan d'urgence incluant la revalorisation des salaires des soignants, l'investissement dans les technologies de santé et le rapatriement de la fabrication des médicaments.",
       "nature": "programme",
@@ -456,6 +462,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Arrêter les fermetures de lits à l'hôpital public et de maternités",
       "detail": "Mesure du plan santé des « 22 mesures ».",
       "nature": "programme",
@@ -464,6 +471,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer les ARS et plafonner à 10 % les postes administratifs des hôpitaux",
       "detail": "Hôpitaux dirigés par un binôme médecin-directeur.",
       "nature": "programme",
@@ -472,6 +480,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Rembourser à prix bonifié les consultations dans les déserts médicaux",
       "detail": "Plus d'incitations aux maisons de santé (traitant les « petites urgences ») et plan national de télémédecine.",
       "nature": "programme",
@@ -480,6 +489,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Créer des urgences gériatriques dédiées aux personnes âgées",
       "detail": "Et adosser aux urgences des cabinets de médecine de ville.",
       "nature": "programme",
@@ -488,6 +498,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Ajouter 1 Md€ au plan EHPAD et confier leur tutelle aux préfets",
       "detail": "Contrôles renforcés et droit opposable aux visites dans les hôpitaux et EHPAD.",
       "nature": "programme",
@@ -552,6 +563,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Construire 100 000 logements sociaux par an",
       "detail": "Dont 20 000 pour les étudiants et jeunes travailleurs.",
       "nature": "programme",
@@ -560,6 +572,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Construire 100 000 logements étudiants en cinq ans",
       "detail": "Mesure du volet familles des « 22 mesures ».",
       "nature": "programme",
@@ -568,6 +581,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Créer un fonds de garantie des loyers pour protéger les propriétaires",
       "detail": "Et lancer un plan de réhabilitation de l'habitat ancien.",
       "nature": "programme",
@@ -664,6 +678,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Instaurer un moratoire sur l'éolien et démanteler progressivement les parcs",
       "detail": "Moratoire dès le printemps 2022 sur toute nouvelle éolienne, terrestre ou maritime, démantèlement progressif et fin des subventions aux énergies intermittentes.",
       "nature": "programme",
@@ -672,6 +687,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Relancer la filière nucléaire et prolonger le parc existant",
       "detail": "Prolongation du parc, nouveaux réacteurs, reprise des études sur les réacteurs à neutrons rapides et les petits réacteurs modulaires.",
       "nature": "programme",
@@ -680,6 +696,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Sortir du marché européen de l'électricité",
       "detail": "Pour « retrouver des prix décents ».",
       "nature": "programme",
@@ -688,6 +705,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Maintenir toute l'hydroélectricité dans le giron public d'EDF",
       "detail": "Refus de l'ouverture à la concurrence des barrages.",
       "nature": "programme",
@@ -696,6 +714,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Rendre aux ménages les 5 Md€ de subventions aux éoliennes",
       "detail": "Subventions versées notamment aux éoliennes restituées aux ménages.",
       "nature": "programme",
@@ -704,6 +723,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Sortir du Green Deal européen",
       "detail": "La France tiendrait les objectifs de l'accord de Paris par ses propres moyens et à son rythme.",
       "nature": "programme",
@@ -712,6 +732,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "autre",
       "titre": "Imposer l'affichage de la réparabilité et de la durée de vie des produits",
       "detail": "Plus de vente de biens non réparables ni sans indication de durée de vie.",
       "nature": "programme",
@@ -720,6 +741,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Imposer 80 % de produits agricoles français dans les cantines",
       "detail": "Nouveau cadre réglementaire pour la restauration collective.",
       "nature": "programme",
@@ -728,6 +750,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Interdire l'importation de produits agricoles hors normes françaises",
       "detail": "Importations ne respectant pas les normes de production françaises interdites.",
       "nature": "programme",
@@ -736,6 +759,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Faire valider par l'État des prix minimums en cas de litige commercial",
       "detail": "Contre les marges abusives de la grande distribution ; aides nationales contracycliques.",
       "nature": "programme",
@@ -744,6 +768,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Généraliser l'étiquetage d'origine des produits alimentaires",
       "detail": "Étiquetage de l'origine et de la qualité étendu à tous les produits.",
       "nature": "programme",
@@ -752,6 +777,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Lancer un plan abattoirs et interdire l'abattage sans étourdissement",
       "detail": "« Plan abattoirs » pour assurer des conditions dignes.",
       "nature": "programme",
@@ -760,6 +786,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Créer un ministère d'État de la Mer et de l'Outre-mer",
       "detail": "Mesure n° 21 des « 22 mesures pour 2022 ».",
       "nature": "programme",
@@ -768,6 +795,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Adopter une loi-programme de 15 ans pour l'outre-mer",
       "detail": "Relance des dispositifs Pons et Perben, réforme de l'octroi de mer contre la vie chère.",
       "nature": "programme",
@@ -776,6 +804,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Rétablir la prime d'aménagement du territoire",
       "detail": "Politique de « démétropolisation » : infrastructures de transport, numériques et énergétiques.",
       "nature": "programme",
@@ -784,6 +813,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Rendre les transports gratuits aux heures creuses pour les 18-25 ans",
       "detail": "Plutôt que de « faire rouler des trains à moitié vides ».",
       "nature": "programme",
@@ -808,6 +838,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Réserver la commande publique numérique de défense à des fournisseurs français",
       "detail": "Fournisseurs français exclusifs pour le militaire et la sécurité nationale, priorité européenne pour le reste (cloud compris).",
       "nature": "programme",

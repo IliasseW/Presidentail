@@ -54,6 +54,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Garantir l'accès aux soins et à une alimentation de qualité partout",
       "detail": "Priorité « Vivre en bonne santé » : accès aux soins et à une alimentation de qualité sur l'ensemble du territoire.",
       "nature": "programme",
@@ -62,6 +63,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Améliorer la qualité de l'air, de vie et de travail",
       "detail": "Volet de la priorité « Vivre en bonne santé » du tract de campagne.",
       "nature": "programme",
@@ -70,6 +72,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Mettre en œuvre les mesures de la Convention citoyenne pour le climat",
       "detail": "Position du candidat rapportée par sa page de présentation sur le site du parti (publication Instagram).",
       "nature": "declaration",
@@ -78,6 +81,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Créer une instance citoyenne tirée au sort sur l'éthique de l'IA et de la bioéthique",
       "detail": "Instance de citoyens tirés au sort appuyés par des experts, dont les conclusions seraient intégrées aux programmes politiques.",
       "nature": "declaration",
@@ -86,6 +90,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Orienter les aides de la PAC selon une logique de main-d'œuvre",
       "detail": "Rendre le métier d'éleveur plus attractif, garantir des prix rémunérateurs et supprimer les normes à visée commerciale (ex. calibrage des œufs).",
       "nature": "declaration",
@@ -94,6 +99,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Faire respecter les clauses miroirs et instaurer un protectionnisme stratégique",
       "detail": "Clauses miroirs dans les accords de libre-échange, protectionnisme sur certaines filières, formation agroécologique à chaque reprise de ferme.",
       "nature": "declaration",
@@ -102,6 +108,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Développer la sécurité sociale de l'alimentation",
       "detail": "Avec un repas végétarien supplémentaire par semaine en restauration scolaire et un bonus-malus renforcé sur les produits très transformés.",
       "nature": "declaration",

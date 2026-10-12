@@ -72,6 +72,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Interdire les licenciements",
       "detail": "Mesure phare relevée par la presse.",
       "nature": "programme",
@@ -80,6 +81,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Transformer les CDD et contrats d'intérim en CDI",
       "detail": "Avec une réduction du temps de travail.",
       "nature": "programme",
@@ -104,6 +106,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Reconnaître le droit à l'autodétermination des territoires « colonisés »",
       "detail": "Guadeloupe, Kanaky, Guyane, La Réunion, Martinique, Polynésie, ainsi que Pays basque, Bretagne et Corse, avec droit à réparation.",
       "nature": "programme",

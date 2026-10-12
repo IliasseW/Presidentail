@@ -64,6 +64,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Rétablir la retraite à 60 ans à taux plein",
       "detail": "Pension égale à 75 % du revenu net d'activité, calculée sur les dix meilleures années dans le privé (proposition 8).",
       "nature": "programme",
@@ -72,6 +73,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Fixer la pension minimale à 1 200 euros nets",
       "detail": "Et rétablir la demi-part fiscale des veuves et des veufs (proposition 1).",
       "nature": "programme",
@@ -80,6 +82,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Passer à la semaine de 32 heures sans perte de salaire",
       "detail": "Proposition 9.",
       "nature": "programme",
@@ -88,6 +91,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Abroger la loi El Khomri, les ordonnances Macron et la réforme de l'assurance chômage",
       "detail": "Rétablir CE et CHSCT, primauté de l'accord de branche sur l'accord d'entreprise (proposition 2).",
       "nature": "programme",
@@ -96,6 +100,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Suspendre tous les plans sociaux et licenciements en cours",
       "detail": "Moratoire pour examiner la situation réelle des entreprises et annuler les licenciements, notamment en cas de dividendes (proposition 3).",
       "nature": "programme",
@@ -104,6 +109,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Donner aux salariés un droit de veto suspensif sur les restructurations",
       "detail": "Droits décisionnels nouveaux et droit de préemption pour reprendre l'entreprise en coopérative (proposition 4).",
       "nature": "programme",
@@ -112,6 +118,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Instaurer une sécurité d'emploi ou de formation",
       "detail": "Loi garantissant à chacun d'être en emploi ou en formation avec maintien du revenu, et visant l'éradication du chômage (proposition 6).",
       "nature": "programme",
@@ -120,6 +127,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Fusionner Pôle emploi, Cap emploi et missions locales en un service public unifié",
       "detail": "Service public de l'emploi et de la formation ; compte personnel de formation relevé et déplafonné (proposition 7).",
       "nature": "programme",
@@ -128,6 +136,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Donner un statut et des droits sociaux aux travailleurs des plateformes",
       "detail": "Et aux auto-entrepreneurs ; droit de regard sur le « management algorithmique » (proposition 10).",
       "nature": "programme",
@@ -136,6 +145,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Créer 500 000 emplois dans la fonction publique et les services publics",
       "detail": "Dont 90 000 enseignants, 90 000 AESH, 30 000 agents des impôts, 30 000 policiers de proximité ; fin de la précarisation (propositions 29 et 30).",
       "nature": "programme",
@@ -144,6 +154,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Réaliser l'égalité salariale femmes-hommes en un an",
       "detail": "Six mois dans la fonction publique, un an dans les entreprises sous peine d'administrateur judiciaire (proposition 76).",
       "nature": "programme",
@@ -312,6 +323,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Créer 100 000 emplois à l'hôpital public",
       "detail": "Titularisation des contractuels, arrêt des privatisations et des restructurations (proposition 14).",
       "nature": "programme",
@@ -320,6 +332,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Supprimer franchises médicales et dépassements d'honoraires",
       "detail": "Tiers payant généralisé et retour à un secteur conventionnel unique (proposition 13).",
       "nature": "programme",
@@ -328,6 +341,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Réguler l'installation des médecins dans les zones denses",
       "detail": "Conventionnement sélectif ; 12 000 places par an en études de médecine contre 8 000 (proposition 13).",
       "nature": "programme",
@@ -336,6 +350,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Créer 300 000 emplois en Ehpad et 100 000 aides à domicile",
       "detail": "Service public du grand âge, ratio d'un soignant par résident, Ehpad privés sous tutelle (proposition 16).",
       "nature": "programme",
@@ -344,6 +359,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Taxer 2 % des dividendes pour financer le grand âge",
       "detail": "Contribution solidarité des actionnaires (environ 2 milliards d'euros) (proposition 16).",
       "nature": "programme",
@@ -352,6 +368,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Créer un pôle public du médicament",
       "detail": "Proposition 17.",
       "nature": "programme",
@@ -360,6 +377,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Adopter une loi-cadre pour la psychiatrie",
       "detail": "Moratoire sur la fermeture des CMP et CMPP (proposition 15).",
       "nature": "programme",
@@ -368,6 +386,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Faire élire les administrateurs de la Sécurité sociale par les cotisants",
       "detail": "Proposition 12.",
       "nature": "programme",
@@ -456,6 +475,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Consacrer 140 milliards d'euros par an au climat",
       "detail": "Politique conforme aux recommandations du Giec, financée par un fonds écologique et social (proposition 47).",
       "nature": "programme",
@@ -464,6 +484,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Construire au moins six EPR supplémentaires",
       "detail": "Mix électrique 100 % public et 100 % décarboné associant nucléaire et renouvelables, surtout l'hydraulique (proposition 55).",
       "nature": "programme",
@@ -472,6 +493,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Rendre gratuits les transports collectifs urbains",
       "detail": "Financés par une hausse du versement transport des grandes entreprises (proposition 50).",
       "nature": "programme",
@@ -480,6 +502,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Rouvrir les petites lignes ferroviaires",
       "detail": "Et refondre la tarification sociale des transports (proposition 49).",
       "nature": "programme",
@@ -488,6 +511,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Faire du fret ferroviaire et fluvial un axe stratégique",
       "detail": "Proposition 51.",
       "nature": "programme",
@@ -496,6 +520,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renovation",
       "titre": "Rénover 700 000 logements par an avec 10 milliards d'euros",
       "detail": "Obligation de rénovation des passoires thermiques d'ici 2030 sans reste à charge pour les plus modestes (propositions 53 et 55).",
       "nature": "programme",
@@ -504,6 +529,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Lutter contre la déforestation importée",
       "detail": "Ne plus importer de produits responsables de la déforestation tropicale (proposition 70).",
       "nature": "programme",
@@ -512,6 +538,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Proposer un traité mondial de protection des océans",
       "detail": "Ainsi qu'un grand ministère de la Mer (propositions 66 et 68).",
       "nature": "programme",
@@ -520,6 +547,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Investir massivement dans un service public de l'eau",
       "detail": "Proposition 54.",
       "nature": "programme",
@@ -528,6 +556,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Garantir des prix de base rémunérateurs aux paysans",
       "detail": "Loi d'orientation agricole ; doublement de la dotation d'installation des jeunes agriculteurs (proposition 62).",
       "nature": "programme",
@@ -536,6 +565,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Sortir l'agriculture des accords de libre-échange et de l'OMC",
       "detail": "Proposition 64.",
       "nature": "programme",
@@ -544,6 +574,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Revoir le plan stratégique national de la PAC",
       "detail": "Proposition 63.",
       "nature": "programme",
@@ -552,6 +583,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Limiter les installations industrielles d'élevage",
       "detail": "Type « ferme des mille vaches » (proposition 73).",
       "nature": "programme",
@@ -560,6 +592,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Construire 200 000 logements sociaux par an",
       "detail": "Viser 30 % de logements sociaux en zone urbaine (proposition 99).",
       "nature": "programme",
@@ -568,6 +601,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Encadrer les loyers à 20 % des revenus du foyer",
       "detail": "Quittance plafonnée à 20 % des revenus (proposition 99).",
       "nature": "programme",
@@ -576,6 +610,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Abroger la loi Elan et interdire la vente de logements sociaux",
       "detail": "Renforcer les sanctions contre les communes ne respectant pas les 25 % de logements sociaux (proposition 97).",
       "nature": "programme",
@@ -584,6 +619,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "autre",
       "titre": "Créer un service public national du logement",
       "detail": "Avec trois pôles publics : financier, construction, foncier (proposition 100).",
       "nature": "programme",
@@ -840,6 +876,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Lancer un plan de recrutement dans la recherche publique",
       "detail": "À la place des exonérations fiscales et des appels à projets (proposition 26).",
       "nature": "programme",
@@ -848,6 +885,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Garantir un bouquet de services publics de proximité",
       "detail": "Contrôle des élus sur l'aménagement du territoire (proposition 23).",
       "nature": "programme",
@@ -856,6 +894,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Présenter une loi de programmation pour les Outre-mer",
       "detail": "Rattrapage des retards en services publics et développement économique (proposition 147).",
       "nature": "programme",
@@ -864,6 +903,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Réformer l'octroi de mer et la fiscalité ultramarine",
       "detail": "Proposition 148.",
       "nature": "programme",

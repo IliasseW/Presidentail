@@ -28,6 +28,13 @@ classées dans les thèmes ci-dessous, pour alimenter un comparateur en ligne.
 - territoires      : Services publics, outre-mer, ruralité, transports locaux
 - societe          : Laïcité, fin de vie, droits, mœurs, cultes
 
+## Sujets (sous-thèmes)
+Chaque thème est découpé en sujets, définis dans data/themes.json (identifiants et libellés). Chaque proposition
+porte un champ "sujet" choisi parmi les sujets de SON thème ; "autre" seulement si aucun ne convient.
+Le sujet sert à aligner sur une même ligne du comparatif les propositions de candidats différents qui portent
+sur la même question (ex. travail_retraites / age_retraite). Ajouter un sujet à data/themes.json plutôt que
+d'abuser de "autre" quand une question revient chez plusieurs candidats.
+
 ## Règles
 1. N'inventer AUCUNE proposition. Chaque proposition doit être adossée à une source consultée (URL).
 2. Sources prioritaires : site officiel du candidat/parti (programme, livre-programme, "projet"), puis grands médias
@@ -64,6 +71,7 @@ data/2027/<slug>.json
   "propositions": [
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Abaisser l'âge légal de départ à la retraite à 60 ans",
       "detail": "Retour à 60 ans avec 40 annuités.",
       "nature": "programme",

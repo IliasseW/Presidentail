@@ -110,6 +110,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Faire de l'agriculture biologique la priorité économique",
       "detail": "Augmentation de la production nationale et réduction des produits phytosanitaires.",
       "nature": "programme",
@@ -118,6 +119,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Créer un numéro d'urgence pour les agriculteurs et un revenu minimum",
       "detail": "Visites et solutions en priorité absolue via les chambres d'agriculture ; idée d'un salaire minimum pour les petits agriculteurs.",
       "nature": "programme",
@@ -126,6 +128,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "ruralite",
       "titre": "Créer un ministère de la Relocalisation verte en lien avec les maires",
       "detail": "Encourager l'installation dans les campagnes et villes moyennes et relancer fermes, commerces et sites industriels ruraux.",
       "nature": "programme",
@@ -134,6 +137,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Sortir de l'ARENH et du marché EPEX de l'électricité",
       "detail": "Le manifeste évoque une perte annuelle de 50 Md€ pour EDF ; opposition à la privatisation des barrages hydroélectriques.",
       "nature": "programme",
@@ -142,6 +146,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Soutenir le nucléaire et la recherche sur la fusion",
       "detail": "Avec reboisement, « dé-bétonnage », décarbonation et application des « 5R » (refuser, réduire, réparer, réutiliser, recycler).",
       "nature": "programme",
@@ -206,6 +211,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Encadrer l'intelligence artificielle par la loi",
       "detail": "L'IA est jugée à risque pour l'esprit critique ; enseignement d'un usage positif des réseaux sociaux.",
       "nature": "programme",

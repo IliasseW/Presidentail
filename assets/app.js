@@ -39,16 +39,17 @@ const label = (c) => {
   const twice = state.selected.filter((k) => k.startsWith(`${c.slug}@`)).length > 1;
   return c.annee === 2027 && !twice ? c.nom : `${c.nom} (${c.annee})`;
 };
+const selectedCands = () => state.selected.map((k) => BY_KEY.get(k));
+const visibleThemes = () => DATA.themes.filter((t) => !state.themes.size || state.themes.has(t.id));
 
 function highlight(text) {
   const safe = esc(text);
   if (!state.query) return safe;
-  const q = state.query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  return safe.replace(new RegExp(`(${esc(q)})`, "gi"), "<mark>$1</mark>");
+  const q = esc(state.query).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return safe.replace(new RegExp(`(${q})`, "gi"), "<mark>$1</mark>");
 }
 
-function matches(p) {
-  if (state.themes.size && !state.themes.has(p.theme)) return false;
+function matchesQuery(p) {
   if (!state.query) return true;
   const q = fold(state.query);
   return fold(p.titre).includes(q) || fold(p.detail).includes(q);
@@ -66,11 +67,11 @@ function writeHash() {
   if (state.selected.length) params.set("c", state.selected.join(","));
   if (state.themes.size) params.set("t", [...state.themes].join(","));
   if (state.query) params.set("q", state.query);
-  const h = params.toString();
+  const h = params.toString().replace(/%40/g, "@").replace(/%2C/g, ",");
   history.replaceState(null, "", h ? `#${h}` : location.pathname + location.search);
 }
 
-/* ---------- rendu ---------- */
+/* ---------- filtres ---------- */
 function renderSelection() {
   $("#selection").innerHTML = state.selected.map((k) => {
     const c = BY_KEY.get(k);
@@ -86,7 +87,7 @@ function renderPicker() {
     return `<div class="picker-group"><h3>${esc(g.titre)}</h3>${items.map((c) => {
       const k = keyOf(c);
       const on = state.selected.includes(k);
-      return `<button type="button" class="picker-item" data-toggle="${esc(k)}" aria-pressed="${on}">
+      return `<button type="button" class="picker-item" data-pick="${esc(k)}" aria-pressed="${on}">
         <span>${on ? "✓ " : ""}${esc(c.nom)}</span><small>${esc(c.parti || "")} · ${c.propositions.length} prop.</small></button>`;
     }).join("")}</div>`;
   }).join("") || `<p class="empty">Aucun résultat.</p>`;
@@ -99,48 +100,59 @@ function renderThemes() {
   $("#all-themes").setAttribute("aria-pressed", String(state.themes.size === 0));
 }
 
+function setPicker(open) {
+  $("#picker").hidden = !open;
+  $("#open-picker").textContent = open ? "Fermer la liste" : "Ajouter un candidat";
+  if (open) $("#picker-search").focus();
+}
+
+/* ---------- comparatif ---------- */
 function programmeLine(c) {
   const p = c.programme || {};
   const lib = PROGRAMME[p.statut] || "Programme : statut inconnu";
-  const head = p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">${lib}</a>` : lib;
-  return p.titre ? `${head}<span class="prog-title">${esc(p.titre)}</span>` : head;
+  return p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">${lib}</a>` : lib;
 }
 
-function renderCards() {
-  $("#cards").innerHTML = state.selected.map((k) => {
-    const c = BY_KEY.get(k);
-    const statut = c.annee === 2022 && c.resultat ? c.resultat : STATUT[c.statut_candidature] || c.statut_candidature || "";
-    return `<article class="card">
-      <h3>${esc(c.nom)} <span class="badge badge-year">${c.annee}</span></h3>
-      <p class="meta">${esc(c.parti || "")}</p>
-      <dl>
-        <dt>Statut</dt><dd>${esc(statut)}${c.date_declaration && c.annee === 2027 ? ` (${fmtDate(c.date_declaration)})` : ""}</dd>
-        <dt>Programme</dt><dd>${programmeLine(c)}</dd>
-        <dt>Propositions</dt><dd>${c.propositions.length}</dd>
-      </dl>
-      ${c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`) && !state.selected.includes(`${c.slug}@2022`)
-        ? `<button type="button" class="btn btn-ghost btn-small" data-toggle="${esc(c.slug)}@2022">Comparer avec son programme 2022</button>` : ""}
-      ${c.notes ? `<details><summary>Notes et incertitudes</summary><p>${esc(c.notes)}</p></details>` : ""}
-    </article>`;
-  }).join("");
+function statutLine(c) {
+  if (c.annee !== 2027 && c.resultat) return c.resultat;
+  const s = STATUT[c.statut_candidature] || c.statut_candidature || "";
+  return c.date_declaration && c.annee === 2027 ? `${s} (${fmtDate(c.date_declaration)})` : s;
 }
 
-function renderResults() {
-  const el = $("#results");
-  if (!state.selected.length) { el.innerHTML = ""; return; }
-  const cols = state.selected.map((k) => BY_KEY.get(k));
-  const themes = DATA.themes.filter((t) => !state.themes.size || state.themes.has(t.id));
-  const html = themes.map((t) => {
-    const perCol = cols.map((c) => c.propositions.filter((p) => p.theme === t.id && matches(p)));
-    if (perCol.every((ps) => !ps.length)) return "";
-    const grid = cols.map((c, i) => `<div class="col">
-        <div class="col-head">${esc(label(c))}</div>
-        ${perCol[i].length ? `<ul>${perCol[i].map(renderProp).join("")}</ul>` : `<p class="empty">Aucune proposition recensée sur ce thème.</p>`}
-      </div>`).join("");
-    return `<section class="theme-section"><h2>${esc(t.libelle)}</h2>
-      <div class="theme-scroll"><div class="theme-grid" style="--n: ${cols.length}">${grid}</div></div></section>`;
+// Bandeau collant : un en-tête par candidat, aligné sur les colonnes du comparatif.
+function renderCompareHead(cols) {
+  $("#compare-head").style.setProperty("--n", cols.length);
+  $("#compare-head").innerHTML = `<div class="corner">Sujet</div>` + cols.map((c) => `<div class="head-cell">
+      <strong>${esc(label(c))}</strong>
+      <span>${esc(c.parti || "")}</span>
+    </div>`).join("");
+}
+
+function renderSynthese(cols, perTheme) {
+  const rows = visibleThemes().map((t) => {
+    const counts = cols.map((c, i) => perTheme.get(t.id)[i].length);
+    if (state.query && counts.every((n) => !n)) return "";
+    return `<tr><th scope="row"><a href="#theme-${t.id}">${esc(t.libelle)}</a></th>${counts.map((n) =>
+      `<td class="num">${n ? n : `<span class="none" title="Aucune proposition recensée">—</span>`}</td>`).join("")}</tr>`;
   }).join("");
-  el.innerHTML = html || `<p class="empty">Aucune proposition ne correspond à ces filtres.</p>`;
+  $("#synthese").innerHTML = `<div class="synthese">
+    <h2>Vue d'ensemble</h2>
+    <div class="table-scroll"><table>
+      <thead><tr><th>Candidat</th>${cols.map((c) => `<th>${esc(label(c))}</th>`).join("")}</tr></thead>
+      <tbody>
+        <tr><th scope="row">Statut</th>${cols.map((c) => `<td>${esc(statutLine(c))}</td>`).join("")}</tr>
+        <tr><th scope="row">Programme</th>${cols.map((c) => `<td>${programmeLine(c)}${c.programme?.titre ? `<span class="prog-title">${esc(c.programme.titre)}</span>` : ""}</td>`).join("")}</tr>
+        <tr><th scope="row">Notes</th>${cols.map((c) => `<td>${c.notes ? `<details><summary>Incertitudes</summary><p>${esc(c.notes)}</p></details>` : "—"}</td>`).join("")}</tr>
+        ${cols.some((c) => c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`)) ? `<tr><th scope="row">2022</th>${cols.map((c) =>
+          c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`) && !state.selected.includes(`${c.slug}@2022`)
+            ? `<td><button type="button" class="btn btn-ghost btn-small" data-pick="${esc(c.slug)}@2022">Ajouter son programme 2022</button></td>` : "<td></td>").join("")}</tr>` : ""}
+      </tbody>
+      <tbody class="counts">
+        <tr class="subhead"><th scope="row">Propositions par thème</th>${cols.map(() => "<td></td>").join("")}</tr>
+        ${rows}
+      </tbody>
+    </table></div>
+  </div>`;
 }
 
 function renderProp(p) {
@@ -153,26 +165,58 @@ function renderProp(p) {
   </li>`;
 }
 
+// Un thème = un tableau : une ligne par sujet, une colonne par candidat.
+function renderTheme(t, cols, perCol) {
+  const rows = t.sujets.map((s) => {
+    const cells = perCol.map((ps) => ps.filter((p) => (p.sujet || "autre") === s.id));
+    if (cells.every((ps) => !ps.length)) return "";
+    return `<div class="row">
+      <div class="sujet">${esc(s.libelle)}</div>
+      ${cells.map((ps, i) => `<div class="cell" data-cand="${esc(label(cols[i]))}">${ps.length
+        ? `<ul>${ps.map(renderProp).join("")}</ul>`
+        : `<p class="none">Aucune proposition recensée</p>`}</div>`).join("")}
+    </div>`;
+  }).join("");
+  if (!rows) return "";
+  return `<section class="theme-section" id="theme-${t.id}">
+    <h2>${esc(t.libelle)}</h2>
+    <div class="theme-table" style="--n: ${cols.length}">${rows}</div>
+  </section>`;
+}
+
+function renderCompare() {
+  const cols = selectedCands();
+  $("#compare").hidden = !cols.length;
+  $("#overview").hidden = cols.length > 0;
+  if (!cols.length) return;
+  const perTheme = new Map(DATA.themes.map((t) => [t.id, cols.map((c) => c.propositions.filter((p) => p.theme === t.id && matchesQuery(p)))]));
+  renderCompareHead(cols);
+  renderSynthese(cols, perTheme);
+  const html = visibleThemes().map((t) => renderTheme(t, cols, perTheme.get(t.id))).join("");
+  $("#results").innerHTML = (cols.length === 1 ? `<p class="hint">Ajoutez un deuxième candidat pour comparer leurs propositions sujet par sujet.</p>` : "")
+    + (html || `<p class="empty">Aucune proposition ne correspond à ces filtres.</p>`);
+}
+
 function renderOverview() {
   const table = (titre, rows, showResult) => `<div class="overview"><h2>${titre}</h2><div class="table-scroll"><table>
     <thead><tr><th>Candidat</th><th>Parti</th><th>${showResult ? "Résultat" : "Statut"}</th><th>Programme</th><th class="num">Propositions</th></tr></thead>
     <tbody>${rows.map((c) => `<tr>
-      <td><button type="button" data-toggle="${esc(keyOf(c))}">${esc(c.nom)}</button></td>
+      <td><button type="button" class="link" data-pick="${esc(keyOf(c))}">${esc(c.nom)}</button></td>
       <td>${esc(c.parti || "")}</td>
       <td>${esc(showResult ? c.resultat || "" : STATUT[c.statut_candidature] || "")}</td>
       <td>${programmeLine(c)}</td>
       <td class="num">${c.propositions.length}</td></tr>`).join("")}</tbody></table></div></div>`;
   const y2027 = DATA.candidats.filter((c) => c.annee === 2027);
   const y2022 = DATA.candidats.filter((c) => c.annee === 2022);
-  $("#overview").innerHTML = table("Tous les candidats 2027", y2027, false) + (y2022.length ? table("Programmes de 2022", y2022, true) : "");
+  $("#overview").innerHTML = `<p class="hint">Cliquez sur un nom pour l'ajouter au comparatif.</p>`
+    + table("Tous les candidats 2027", y2027, false) + (y2022.length ? table("Programmes de 2022", y2022, true) : "");
 }
 
 function render() {
   renderSelection();
   renderPicker();
   renderThemes();
-  renderCards();
-  renderResults();
+  renderCompare();
   writeHash();
 }
 
@@ -181,15 +225,22 @@ function toggle(k) {
   const i = state.selected.indexOf(k);
   if (i >= 0) state.selected.splice(i, 1);
   else state.selected.push(k);
-  render();
 }
 
 document.addEventListener("click", (e) => {
-  const t = e.target.closest("[data-toggle],[data-remove],[data-theme]");
+  const t = e.target.closest("[data-pick],[data-remove],[data-theme]");
   if (!t) return;
-  if (t.dataset.toggle) toggle(t.dataset.toggle);
-  else if (t.dataset.remove) toggle(t.dataset.remove);
-  else if (t.dataset.theme) {
+  if (t.dataset.pick) {
+    const fromPicker = t.classList.contains("picker-item");
+    toggle(t.dataset.pick);
+    // Dès que deux candidats sont choisis, on referme la liste pour laisser la place au comparatif.
+    if (fromPicker && state.selected.length >= 2) setPicker(false);
+    render();
+    if (!fromPicker || state.selected.length >= 2) $("#compare").scrollIntoView({ behavior: "smooth", block: "start" });
+  } else if (t.dataset.remove) {
+    toggle(t.dataset.remove);
+    render();
+  } else if (t.dataset.theme) {
     const id = t.dataset.theme;
     state.themes.has(id) ? state.themes.delete(id) : state.themes.add(id);
     render();
@@ -197,25 +248,20 @@ document.addEventListener("click", (e) => {
 });
 
 async function init() {
-  $("#open-picker").addEventListener("click", () => {
-    const p = $("#picker");
-    p.hidden = !p.hidden;
-    $("#open-picker").textContent = p.hidden ? "Ajouter un candidat" : "Fermer la liste";
-    if (!p.hidden) $("#picker-search").focus();
-  });
+  $("#open-picker").addEventListener("click", () => setPicker($("#picker").hidden));
   $("#picker-search").addEventListener("input", renderPicker);
   $("#all-themes").addEventListener("click", () => { state.themes.clear(); render(); });
   let timer;
   $("#search").addEventListener("input", (e) => {
     clearTimeout(timer);
-    timer = setTimeout(() => { state.query = e.target.value.trim(); renderResults(); writeHash(); }, 150);
+    timer = setTimeout(() => { state.query = e.target.value.trim(); renderCompare(); writeHash(); }, 150);
   });
 
   try {
     const res = await fetch("data/programmes.json");
     DATA = await res.json();
   } catch (err) {
-    $("#results").innerHTML = `<p class="empty">Impossible de charger les données (${esc(err.message)}). Servez le site via HTTP, par exemple : python3 -m http.server</p>`;
+    $("#overview").innerHTML = `<p class="empty">Impossible de charger les données (${esc(err.message)}). Servez le site via HTTP, par exemple : python3 -m http.server</p>`;
     return;
   }
   BY_KEY = new Map(DATA.candidats.map((c) => [keyOf(c), c]));

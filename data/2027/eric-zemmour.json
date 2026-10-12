@@ -102,6 +102,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Relancer massivement le nucléaire",
       "detail": "L'une des quatre priorités sur l'intelligence artificielle annoncées à Port-Marly.",
       "nature": "declaration",
@@ -110,6 +111,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Réserver le surplus d'électricité nucléaire aux infrastructures d'IA",
       "detail": "Priorité annoncée lors du discours de clôture de l'université d'été de Reconquête.",
       "nature": "declaration",
@@ -118,6 +120,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Renforcer la formation à l'intelligence artificielle",
       "detail": "Priorité annoncée à Port-Marly le 13 septembre 2026.",
       "nature": "declaration",
@@ -126,6 +129,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Faciliter la création d'entreprises françaises d'IA",
       "detail": "Priorité annoncée à Port-Marly le 13 septembre 2026.",
       "nature": "declaration",

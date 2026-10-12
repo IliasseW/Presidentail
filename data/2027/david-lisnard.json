@@ -54,6 +54,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Créer un contrat de travail unique fusionnant CDI et CDD",
       "detail": "Pour les nouveaux emplois, avec des indemnités de licenciement progressives.",
       "nature": "programme",
@@ -62,6 +63,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Instaurer des charges patronales négatives pour l'embauche d'allocataires du RSA",
       "detail": "Pour les personnes au RSA depuis plus de 2 ans ; suppression des charges des employeurs à domicile au niveau du SMIC.",
       "nature": "programme",
@@ -70,6 +72,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Garantir une pension de base dès 65 ans et un minimum vieillesse de 1 000 € par mois",
       "detail": "Socle de pension minimale par répartition pour tous dès 65 ans, complété par un minimum vieillesse de 1 000 € par mois.",
       "nature": "programme",
@@ -78,6 +81,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Faire basculer les autres régimes de retraite vers la capitalisation",
       "detail": "À partir des cotisations obligatoires des salariés et des employeurs.",
       "nature": "programme",
@@ -94,6 +98,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Supprimer l'article 55 de la loi SRU",
       "detail": "Fin de l'obligation pour les communes de disposer de 20 % puis 25 % de logements sociaux.",
       "nature": "programme",
@@ -158,6 +163,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Transférer aux collectivités l'essentiel des compétences de l'État hors régalien",
       "detail": "« Décentralisation radicale » avec suppression des services déconcentrés correspondants (DREAL, ARS, etc.).",
       "nature": "programme",
@@ -374,6 +380,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Instaurer un conventionnement différencié selon la densité médicale",
       "detail": "Meilleur remboursement des actes en zones sous-dotées ; maisons de santé dans chaque canton et accès direct aux infirmiers, kinés et pharmaciens.",
       "nature": "programme",
@@ -382,6 +389,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer les ARS et confier la présidence des hôpitaux aux maires",
       "detail": "Responsabilités transférées aux préfets et aux élus.",
       "nature": "programme",
@@ -390,6 +398,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "formation_medecins",
       "titre": "Doubler le nombre d'étudiants en médecine d'ici 2030 et supprimer Parcoursup",
       "detail": "Simplification PASS/LAS, exercice sous supervision dès la 5e année et ouverture de tous les lieux de stage.",
       "nature": "programme",
@@ -398,6 +407,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Créer un consortium pharmaceutique européen sur le modèle d'Airbus",
       "detail": "Pour mutualiser la demande, garantir les prix et relocaliser la production de médicaments.",
       "nature": "programme",
@@ -406,6 +416,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Mettre fin aux surtranspositions et imposer des clauses miroirs aux importations",
       "detail": "Alignement réglementaire sur le marché commun : « ce que nous interdisons ici ne doit plus être autorisé là-bas ».",
       "nature": "programme",
@@ -414,6 +425,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Recentrer la PAC sur la souveraineté alimentaire et la production",
       "detail": "Réduction de la part des aides conditionnées à des critères jugés idéologiques ; rémunération des services environnementaux.",
       "nature": "programme",
@@ -422,6 +434,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Autoriser les nouvelles techniques génomiques (NTG)",
       "detail": "Et un usage raisonné des phytosanitaires sur base scientifique.",
       "nature": "programme",
@@ -430,6 +443,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "autre",
       "titre": "Créer un statut unique de l'exploitation agricole",
       "detail": "Une même entité pour production agricole, forestière, énergétique, transformation et tourisme rural ; guichet numérique unique.",
       "nature": "programme",
@@ -438,6 +452,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "eau_irrigation",
       "titre": "Autoriser les retenues d'eau (« bassines ») décidées localement",
       "detail": "Lorsqu'elles sont techniquement justifiées, dans une gestion de l'eau fondée sur la subsidiarité.",
       "nature": "programme",
@@ -446,6 +461,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Prolonger les réacteurs à 60 ans et construire une première série de six EPR",
       "detail": "Arrêt du démantèlement programmé, déploiement de mini-réacteurs et financement de la recherche sur la 4e génération et la fusion.",
       "nature": "livre",
@@ -454,6 +470,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Appliquer une fiscalité environnementale à prélèvements totaux constants",
       "detail": "Principe pollueur-payeur sans hausse globale de la fiscalité ; objectif de faire de la France le leader « bas carbone » du G20.",
       "nature": "programme",

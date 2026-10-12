@@ -30,6 +30,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Répartir le travail entre tous et réduire sa durée sans perte de salaire",
       "detail": "Pour que personne ne soit au chômage : baisse du temps et de la charge de travail sans perte de salaire.",
       "nature": "programme",
@@ -38,6 +39,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Embaucher massivement dans les hôpitaux, Ehpad, écoles et transports publics",
       "detail": "Embauches fixées à partir des besoins recensés par les salariés eux-mêmes.",
       "nature": "programme",

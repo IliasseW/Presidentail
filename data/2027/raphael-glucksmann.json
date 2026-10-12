@@ -46,6 +46,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Lancer un leasing social d'un million de voitures électriques à 100 euros par mois",
       "detail": "Destiné aux ménages modestes, pour un coût estimé à 6 milliards d'euros (annonce à l'usine Renault de Cléon).",
       "nature": "declaration",
@@ -94,6 +95,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Abroger la réforme des retraites de 2023 et revenir à 62 ans, sans retour à 60 ans",
       "detail": "Retour à l'âge légal de 62 ans, et non 60 ans, défendu lors des débats de la primaire.",
       "nature": "declaration",
@@ -102,6 +104,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Moduler l'âge de départ selon la pénibilité et l'espérance de vie en bonne santé",
       "detail": "Départ plus tôt pour les carrières hachées et métiers pénibles, plus tard pour ceux ayant une espérance de vie en bonne santé plus longue.",
       "nature": "declaration",
@@ -134,6 +137,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "autre",
       "titre": "Lancer un grand plan d'adaptation de l'agriculture",
       "detail": "Annoncé à la foire de Châlons-en-Champagne ; mener la « révolution écologique » avec les agriculteurs.",
       "nature": "declaration",
@@ -230,6 +234,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Conforter le nucléaire et construire de nouveaux réacteurs",
       "detail": "Assurer la sûreté du parc existant et la construction à temps de nouvelles unités, avec un plan pluriannuel d'investissement dans les renouvelables.",
       "nature": "programme",
@@ -246,6 +251,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "autre",
       "titre": "Interdire immédiatement les importations de gaz russe",
       "detail": "Y compris le gaz naturel liquéfié.",
       "nature": "programme",
@@ -254,6 +260,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Adopter une grande loi Climat visant -90 % d'émissions en 2040",
       "detail": "Neutralité climatique en 2050 ; loi de sobriété : fast-fashion, score carbone obligatoire, fin des plastiques à usage unique d'ici 2030.",
       "nature": "programme",
@@ -262,6 +269,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Créer un « Ticket climat », titre de transport national à tarif fixe",
       "detail": "D'abord réservé aux jeunes et aux publics précaires ; plan Rail national, relance des trains de nuit et du fret ferroviaire.",
       "nature": "programme",
@@ -270,6 +278,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Taxer le kérosène, les jets privés, les yachts et les SUV",
       "detail": "Fin des exonérations de TVA et de taxe sur le kérosène, extension de l'interdiction des vols intérieurs avec alternative ferroviaire.",
       "nature": "programme",
@@ -286,6 +295,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Généraliser Territoires zéro chômeur et abroger la réforme de l'assurance chômage",
       "detail": "Garantie à l'emploi, CDI d'insertion harmonisé, guichet unique territorial piloté par France Travail.",
       "nature": "programme",
@@ -294,6 +304,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Créer un Haut Conseil du pilotage des retraites dominé par les partenaires sociaux",
       "detail": "Instance chargée de concevoir et d'ajuster le système de retraites.",
       "nature": "programme",
@@ -310,6 +321,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Interdire les réseaux sociaux aux moins de 15 ans et bannir TikTok",
       "detail": "Créer une autorité indépendante de protection des mineurs en ligne (vérification de l'âge, classification des contenus).",
       "nature": "programme",
@@ -318,6 +330,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Créer une Agence industrielle du numérique et de l'IA",
       "detail": "Financée par France 2030, la BPI et une hausse ciblée de la taxe GAFAM ; objectif de sortir de la dépendance aux GAFAM en 5 ans.",
       "nature": "programme",
@@ -326,6 +339,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Plafonner le crédit d'impôt recherche pour les grands groupes",
       "detail": "Le recentrer sur les PME, ETI industrielles et jeunes entreprises innovantes ; doubler le budget d'Horizon Europe.",
       "nature": "programme",
@@ -350,6 +364,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Instaurer des prix planchers rémunérateurs pour les agriculteurs",
       "detail": "Mettre fin aux contournements de la loi EGALIM ; plafonner les aides PAC pour les réorienter vers les petites fermes.",
       "nature": "programme",
@@ -358,6 +373,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "S'opposer à l'accord UE-Mercosur et imposer des mesures miroirs",
       "detail": "Contre le dumping social, sanitaire et environnemental dans les importations agricoles.",
       "nature": "programme",
@@ -366,6 +382,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire glyphosate, néonicotinoïdes et PFAS dans les objets du quotidien",
       "detail": "Créer des zones sans pesticides autour des captages d'eau et des écoles ; refuser les méga-bassines.",
       "nature": "programme",
@@ -406,6 +423,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Mettre fin à la tarification à l'acte à l'hôpital",
       "detail": "Financement global, territorial et pluriannuel ; projet territorial de santé co-construit localement.",
       "nature": "programme",
@@ -438,6 +456,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Encadrer les loyers en zones tendues et abroger la loi Kasbarian",
       "detail": "Remplacée par un dispositif combinant indemnisation rapide des bailleurs et accompagnement des locataires.",
       "nature": "programme",
@@ -446,6 +465,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Faire du bail réel solidaire une offre de masse et lancer un plan « Logement d'abord »",
       "detail": "Fonds national d'aide au foncier, régulation des meublés touristiques, taxation progressive de la vacance.",
       "nature": "programme",
@@ -502,6 +522,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "mobilites_locales",
       "titre": "Créer un service public de transport rural",
       "detail": "Unifier les offres existantes et les rendre accessibles aux personnes âgées ou handicapées.",
       "nature": "programme",
@@ -510,6 +531,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Plafonner les prix des produits de première nécessité en outre-mer",
       "detail": "Démanteler les monopoles et flécher une part de l'octroi de mer vers l'investissement local.",
       "nature": "programme",

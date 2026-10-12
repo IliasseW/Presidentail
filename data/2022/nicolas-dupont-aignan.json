@@ -320,6 +320,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Maintenir l'âge de départ et la durée de cotisation actuels",
       "detail": "Refus de tout recul de l'âge de la retraite ; financement par la natalité et la création de 2 millions d'emplois.",
       "nature": "programme",
@@ -328,6 +329,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Imposer une journée d'intérêt général par semaine aux allocataires du RSA",
       "detail": "Pour les personnes en état de travailler.",
       "nature": "programme",
@@ -336,6 +338,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Créer un contrat de travail universel pour les jeunes et chômeurs de longue durée",
       "detail": "Activité d'intérêt général à mi-temps contre une allocation, à l'opposé du revenu universel.",
       "nature": "programme",
@@ -344,6 +347,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Exonérer de charges pendant 5 ans l'embauche en CDI d'un chômeur de longue durée",
       "detail": "Coût estimé à 3 Md€.",
       "nature": "programme",
@@ -352,6 +356,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Abroger la directive sur les travailleurs détachés",
       "detail": "« Quand on travaille en France, on cotise en France ».",
       "nature": "programme",
@@ -408,6 +413,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Supprimer le passe sanitaire et le passe vaccinal",
       "detail": "Réintégration des soignants suspendus et interdiction constitutionnelle du confinement.",
       "nature": "programme",
@@ -416,6 +422,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "formation_medecins",
       "titre": "Former 12 000 médecins par an",
       "detail": "Augmentation des places en études de médecine.",
       "nature": "programme",
@@ -424,6 +431,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Rouvrir un établissement de santé par département et arrêter les fermetures de lits",
       "detail": "Hôpital ou maternité, à l'image du Val-de-Grâce.",
       "nature": "programme",
@@ -432,6 +440,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Doubler le nombre de lits de réanimation pour atteindre 10 000",
       "detail": "En cinq ans, avec les personnels qualifiés.",
       "nature": "programme",
@@ -440,6 +449,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Mettre fin à la tarification à l'activité à l'hôpital",
       "detail": "Financement fondé sur un panier de critères objectifs.",
       "nature": "programme",
@@ -448,6 +458,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Créer une bourse pour les étudiants en médecine s'installant en désert médical",
       "detail": "Engagement d'exercer 5 ans en zone sous-dotée ; camions de santé mobiles.",
       "nature": "programme",
@@ -456,6 +467,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Remplacer les ARS par des directions départementales",
       "detail": "Sous l'autorité de l'État dans le département.",
       "nature": "programme",
@@ -464,6 +476,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Augmenter de 25 % le taux d'encadrement en EHPAD",
       "detail": "Soit 80 000 postes supplémentaires.",
       "nature": "programme",
@@ -472,6 +485,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "autre",
       "titre": "Doubler le nombre d'unités de soins palliatifs",
       "detail": "Et installer des lits de soins palliatifs dans les EHPAD.",
       "nature": "programme",
@@ -480,6 +494,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Financer la dépendance par la réallocation de la CRDS",
       "detail": "Branche dépendance dotée de 10 Md€ par an.",
       "nature": "programme",
@@ -656,6 +671,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "N'installer aucune nouvelle éolienne pendant le quinquennat",
       "detail": "Blocage des programmes d'éolien en mer.",
       "nature": "programme",
@@ -664,6 +680,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Maintenir le nucléaire à au moins 70 % de la production d'électricité",
       "detail": "Abandon de l'objectif de 50 % en 2035, maintien de l'actionnariat public d'EDF, réacteurs de génération IV et filière thorium.",
       "nature": "programme",
@@ -672,6 +689,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Redéployer 4 Md€ de subventions éolien et solaire vers l'isolation",
       "detail": "3 Md€ pour un grand programme d'isolation des foyers, 1 Md€ pour le nucléaire et les déchets.",
       "nature": "programme",
@@ -680,6 +698,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Remplacer en 10 ans les 10 millions de véhicules les plus énergivores",
       "detail": "Aide sous conditions de ressources de 1 000 à 3 000 € pour un véhicule consommant moins de 3 l/100 km.",
       "nature": "programme",
@@ -688,6 +707,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Interdire les poids lourds sur autoroute les jours de grands départs",
       "detail": "De 7 h à 22 h les jours de forte affluence ; développement du ferroutage.",
       "nature": "programme",
@@ -696,6 +716,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Instaurer des prix garantis dans un tunnel minimum-maximum",
       "detail": "Retour à une « vraie PAC » : préférence communautaire, prix garantis et quotas.",
       "nature": "programme",
@@ -704,6 +725,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Supprimer les cotisations sociales agricoles",
       "detail": "Pour rendre les exploitations plus compétitives.",
       "nature": "programme",
@@ -712,6 +734,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Créer un fonds de désendettement des agriculteurs",
       "detail": "Et un cautionnement public de 50 % pour l'installation des jeunes agriculteurs.",
       "nature": "programme",
@@ -720,6 +743,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Imposer l'étiquetage obligatoire du pays d'origine",
       "detail": "Et renforcer la DGCCRF.",
       "nature": "programme",
@@ -728,6 +752,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Viser 70 % de ménages propriétaires",
       "detail": "Prêt à taux zéro renforcé et garantie de l'État sur une partie de l'apport personnel.",
       "nature": "programme",
@@ -736,6 +761,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Supprimer les droits de mutation pour les primo-accédants",
       "detail": "Mesure inscrite au chiffrage (1 Md€).",
       "nature": "programme",
@@ -744,6 +770,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Exonérer les plus-values immobilières après 10 ans de détention",
       "detail": "Contre 22 ans actuellement pour l'impôt sur le revenu.",
       "nature": "programme",
@@ -752,6 +779,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Expulser les squatteurs avec une extrême célérité",
       "detail": "Et alléger les procédures d'expulsion des mauvais payeurs de mauvaise foi.",
       "nature": "programme",
@@ -760,6 +788,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Revoir de fond en comble la loi SRU",
       "detail": "Et permettre aux communes de faire du logement social « en direct ».",
       "nature": "programme",
@@ -768,6 +797,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Couvrir tout le territoire en très haut débit et supprimer les zones blanches",
       "detail": "Fibre optique et fin des zones blanches pour permettre l'installation d'entreprises partout.",
       "nature": "programme",
@@ -776,6 +806,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "ruralite",
       "titre": "Créer un fonds pour les territoires oubliés",
       "detail": "Incitations fiscales à l'installation d'entreprises.",
       "nature": "programme",
@@ -784,6 +815,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Financer un billet d'avion aller-retour à 500 € pour les ultramarins",
       "detail": "Pour garantir la continuité territoriale.",
       "nature": "programme",
@@ -792,6 +824,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Porter l'effort de recherche à 3 % du PIB dès 2024",
       "detail": "« Faire de la France le paradis des chercheurs ».",
       "nature": "programme",

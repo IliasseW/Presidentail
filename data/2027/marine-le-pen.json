@@ -222,6 +222,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Ramener l'âge légal de départ à 62 ans, 60 ans pour les carrières longues",
       "detail": "Départ à 62 ans, et à 60 ans pour ceux qui ont commencé avant 20 ans et cotisé 40 ans ; le RN chiffre la mesure à 9 Md€.",
       "nature": "declaration",
@@ -230,6 +231,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Créer un pilier de retraite par capitalisation",
       "detail": "Annonce d'une « grande réforme » de la capitalisation, contenu non détaillé ; 15 à 20 Md€ d'économies attendues à terme sur les retraites par « correction de mesures injustes ».",
       "nature": "programme",
@@ -238,6 +240,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Maintenir l'indexation des pensions sur l'inflation",
       "detail": "Maintien de l'indexation des pensions sur l'inflation inscrit au contre-budget 2027.",
       "nature": "programme",
@@ -246,6 +249,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Supprimer les cotisations retraite et chômage des seniors qui continuent à travailler",
       "detail": "Incitation à travailler après l'âge de la retraite, présentée devant le Medef le 27 août 2026.",
       "nature": "declaration",
@@ -318,6 +322,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Appliquer la priorité nationale au logement social et réserver les APL aux Français",
       "detail": "Annoncé comme l'un des « grands chantiers » du quinquennat lors de la rentrée à Hénin-Beaumont.",
       "nature": "declaration",
@@ -326,6 +331,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Abroger la loi SRU",
       "detail": "Fin de l'obligation faite aux communes de disposer d'une part de logements sociaux.",
       "nature": "declaration",
@@ -334,6 +340,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Permettre la vente d'un certain nombre de HLM à des Français",
       "detail": "Annonce du discours de rentrée du 13 septembre 2026, sans chiffre.",
       "nature": "declaration",
@@ -342,6 +349,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Expulser les familles délinquantes des logements sociaux",
       "detail": "Annonce du discours de rentrée du 13 septembre 2026.",
       "nature": "declaration",
@@ -350,6 +358,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Céder gratuitement des terrains publics aux constructeurs contre des loyers modérés",
       "detail": "Terrains publics mis à disposition en échange de « milliers d'appartements » à loyer modéré ; transformation de bureaux vacants en logements.",
       "nature": "declaration",
@@ -358,6 +367,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Remplacer MaPrimeRénov' par un prêt à taux zéro « 100 % Rénov »",
       "detail": "Dispositif « 100 % rénov' » pour l'isolation et la climatisation reposant sur un prêt à taux zéro.",
       "nature": "declaration",
@@ -366,6 +376,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Mettre fin aux diagnostics de performance énergétique (DPE)",
       "detail": "Qualifiés de « politique absurde » lors du discours de rentrée.",
       "nature": "declaration",
@@ -374,6 +385,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Supprimer l'objectif de zéro artificialisation nette (ZAN)",
       "detail": "Objectif fixé à 2050, qualifié de « norme idéologique ».",
       "nature": "declaration",
@@ -382,6 +394,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Supprimer les subventions au solaire et à l'éolien et geler les nouveaux projets",
       "detail": "Fin des tarifs de rachat des énergies intermittentes (plus de 5 Md€ attendus la première année) et moratoire sur les nouveaux projets renouvelables.",
       "nature": "programme",
@@ -390,6 +403,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "autre",
       "titre": "Supprimer la plupart des agences environnementales",
       "detail": "L'OFB, l'Anses, les agences de l'eau et l'Ademe sont citées parmi les agences visées.",
       "nature": "programme",
@@ -398,6 +412,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Transformer le Fonds vert en fonds contre les risques climatiques",
       "detail": "Fonds abondé de 100 M€ supplémentaires.",
       "nature": "programme",
@@ -406,6 +421,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Réorienter le malus automobile en faveur des véhicules fabriqués en France",
       "detail": "Malus maintenu mais pénalisant les voitures produites dans des conditions polluantes.",
       "nature": "programme",
@@ -414,6 +430,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Viser la neutralité carbone avant 2050",
       "detail": "Objectif annoncé pour un « nouveau programme écologique » à venir, dans le respect de l'accord de Paris ; nucléaire, hydraulique et géothermie à la place du solaire et de l'éolien.",
       "nature": "declaration",
@@ -478,6 +495,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Augmenter le budget de la mission Outre-mer de 700 millions d'euros",
       "detail": "Pour renforcer les infrastructures et la compétitivité des entreprises ultramarines.",
       "nature": "programme",
@@ -486,6 +504,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Réformer l'octroi de mer",
       "detail": "Coût estimé à 0,5 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -510,6 +529,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Délivrer les médicaments à l'unité",
       "detail": "Économie estimée à 0,55 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -518,6 +538,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Contrôler systématiquement l'éligibilité aux affections de longue durée (ALD)",
       "detail": "Économie estimée à 0,45 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -526,6 +547,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Taxer l'utilisation du réseau par les géants du numérique",
       "detail": "Recette estimée à 0,55 Md€ dans le contre-budget 2026.",
       "nature": "programme",

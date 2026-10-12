@@ -200,6 +200,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Maintenir la retraite par répartition",
       "detail": "Âge de départ établi selon les annuités de cotisation ; dotation de cotisation dès les études.",
       "nature": "programme",
@@ -208,6 +209,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Exonérer de charges sociales l'embauche des deux premiers salariés",
       "detail": "Pour les TPE et PMI.",
       "nature": "programme",
@@ -216,6 +218,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Réaliser un audit du droit du travail pour le simplifier",
       "detail": "Lutter contre le poids des normes pour employeurs et salariés.",
       "nature": "programme",
@@ -224,6 +227,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Reconnaître les retraités comme troisième partenaire social",
       "detail": "Siège à parité au CESE, au Conseil d'orientation des retraites et dans les caisses.",
       "nature": "programme",
@@ -280,6 +284,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Garantir un hôpital à moins de 40 minutes de route",
       "detail": "Partout sur le territoire.",
       "nature": "programme",
@@ -288,6 +293,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Ouvrir 20 000 lits d'hôpital",
       "detail": "Y compris de réserve, avec le personnel soignant correspondant.",
       "nature": "programme",
@@ -296,6 +302,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Recruter 100 000 infirmiers et aides-soignants",
       "detail": "Sur la durée du mandat.",
       "nature": "programme",
@@ -304,6 +311,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Financer les études de médecine contre six ans en désert médical",
       "detail": "Et augmenter les places dans les facultés de médecine.",
       "nature": "programme",
@@ -312,6 +320,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Remplacer les ARS par des directions départementales (DDASS)",
       "detail": "Directions départementales des affaires sanitaires et sociales.",
       "nature": "programme",
@@ -320,6 +329,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "assurance_maladie",
       "titre": "Généraliser le régime local d'Alsace-Moselle",
       "detail": "La Sécurité sociale couvrirait toutes les dépenses de santé sans double traitement par les mutuelles.",
       "nature": "programme",
@@ -328,6 +338,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Lever les brevets dont l'usage est vital",
       "detail": "Commission habilitée à lever les brevets ; appels d'offres publics pour la recherche sur les maladies orphelines et le cancer.",
       "nature": "programme",
@@ -432,6 +443,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Faire respecter la loi SRU",
       "detail": "53 % des communes concernées n'atteignaient pas le seuil en 2019.",
       "nature": "programme",
@@ -440,6 +452,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Augmenter les APL et revenir sur la réforme de 2020",
       "detail": "Notamment pour les jeunes.",
       "nature": "programme",
@@ -448,6 +461,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Développer la location-accession",
       "detail": "Le locataire devient propriétaire quand les mensualités atteignent la valeur du bien.",
       "nature": "programme",
@@ -456,6 +470,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Mieux contrôler l'encadrement des loyers",
       "detail": "Et favoriser les primo-accédants et habitants locaux face aux résidences secondaires.",
       "nature": "programme",
@@ -464,6 +479,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Prolonger de 25 ans les centrales nucléaires et développer la 4e génération",
       "detail": "Investir aussi dans la fusion (ITER).",
       "nature": "programme",
@@ -472,6 +488,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Stopper l'éolien non validé par les maires",
       "detail": "Interdire les projets éoliens non validés par les maires après consultation des habitants.",
       "nature": "programme",
@@ -480,6 +497,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Développer le solaire, la géothermie et les énergies marines",
       "detail": "Centrales solaires, houle, énergie thermique des mers.",
       "nature": "programme",
@@ -488,6 +506,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "autre",
       "titre": "Affecter 3 milliards d'euros aux campagnes, grande cause nationale",
       "detail": "Montant annoncé pour la ruralité.",
       "nature": "programme",
@@ -496,6 +515,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Réorienter les aides de la PAC vers les paysans",
       "detail": "Plutôt que vers la spéculation foncière ; 1,5 % des bénéficiaires touchaient 30 % des aides en 2015.",
       "nature": "programme",
@@ -504,6 +524,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Créer un « ticket paysan » pour les circuits courts",
       "detail": "Sur le modèle des tickets restaurant.",
       "nature": "programme",
@@ -512,6 +533,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Exonérer de taxes les héritages agricoles",
       "detail": "Et faciliter l'accès au foncier et la reprise des exploitations.",
       "nature": "programme",
@@ -520,6 +542,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Implanter des outils de transformation au plus près des productions",
       "detail": "Première et deuxième transformation pour toutes les filières.",
       "nature": "programme",
@@ -600,6 +623,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Garantir le libre accès en ligne aux publications de la recherche publique",
       "detail": "Libérer le savoir issu de la recherche publique.",
       "nature": "programme",
@@ -608,6 +632,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Développer une recherche spatiale souveraine",
       "detail": "Pour ne pas laisser l'espace aux milliardaires.",
       "nature": "programme",
@@ -616,6 +641,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "ruralite",
       "titre": "Garantir écoles, santé, fibre et 4G partout",
       "detail": "Désenclavement des campagnes par le maintien ou la création de services publics.",
       "nature": "programme",
@@ -624,6 +650,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Restaurer l'autonomie financière et fiscale des communes",
       "detail": "Et leurs compétences.",
       "nature": "programme",
@@ -640,6 +667,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Renforcer les aides de l'État au tourisme ultramarin",
       "detail": "Et garantir eau potable et assainissement dans les Outre-mer.",
       "nature": "programme",

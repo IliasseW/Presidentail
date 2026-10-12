@@ -22,6 +22,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Porter l'âge légal de départ à la retraite à 65 ans",
       "detail": "Complété par une part de retraite par capitalisation.",
       "nature": "declaration",
@@ -102,6 +103,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Réduire l'organisation territoriale à trois niveaux : État, régions, bloc communal",
       "detail": "Simplification du « millefeuille » territorial ; sort des départements non précisé dans le compte rendu.",
       "nature": "declaration",

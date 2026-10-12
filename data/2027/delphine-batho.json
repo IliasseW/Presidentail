@@ -30,6 +30,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Réorienter les fonds publics agricoles vers l'agriculture biologique",
       "detail": "Changer de modèle agricole « sans argent public supplémentaire », en réorientant radicalement les fonds publics, avec un revenu digne pour les agriculteurs.",
       "nature": "declaration",
@@ -38,6 +39,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "S'opposer à la réintroduction des néonicotinoïdes",
       "detail": "Génération Écologie annonce soutenir tous les recours contre les autorisations de néonicotinoïdes (acétamipride, flupyradifurone) permises par la loi Duplomb 2.",
       "nature": "declaration",
@@ -46,6 +48,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Diviser par deux la consommation d'énergie",
       "detail": "Batho plaide pour la « décroissance de la consommation d'énergie et de matières premières » : « Il n'y a aucun scénario de neutralité carbone qui ne commence par diviser par deux la consommation d'énergie. »",
       "nature": "declaration",
@@ -54,6 +57,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Développer l'autoconsommation collective et les boucles locales d'énergie",
       "detail": "Priorités énoncées : adaptation des réseaux au changement climatique, sécurité énergétique « plus localisée » via l'autoconsommation collective, développement de la chaleur et du froid renouvelables ; elle conteste la multiplication non débattue des data centers.",
       "nature": "declaration",
@@ -62,6 +66,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Adopter un plan de sortie complète des énergies fossiles",
       "detail": "Position de Génération Écologie après le choc pétrolier du printemps 2026 (communiqué signé par la direction du parti, pas par la candidate elle-même).",
       "nature": "declaration",
@@ -118,6 +123,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Ouvrir des lieux de rafraîchissement accessibles à tous pendant les canicules",
       "detail": "Batho réclame une « mobilisation générale pour l'ombre et la fraîcheur », la protection des personnes vulnérables et des mesures de sécurité en eau (juillet 2026).",
       "nature": "declaration",

@@ -30,6 +30,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Interdire les licenciements",
       "detail": "Présenté comme un objectif à « imposer par la lutte ».",
       "nature": "declaration",
@@ -38,6 +39,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Partager le temps de travail entre tous sans perte de salaire",
       "detail": "« Pour en finir avec le chômage ».",
       "nature": "declaration",

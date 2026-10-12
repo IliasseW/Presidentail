@@ -392,6 +392,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Porter la dépense de recherche et développement à 3 % du PIB",
       "detail": "Dépense publique et privée ; revalorisation du statut de chercheur.",
       "nature": "programme",
@@ -400,6 +401,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Héberger en France les données sensibles sur des solutions souveraines",
       "detail": "Obligation légale pour les données des Français, de l'État et les données stratégiques du privé.",
       "nature": "programme",
@@ -408,6 +410,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Créer un Livret Innovation défiscalisé",
       "detail": "Pour investir sans fiscalité dans les start-ups et entreprises innovantes.",
       "nature": "programme",
@@ -520,6 +523,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Porter l'âge légal de départ à la retraite à 64 ans en 2030",
       "detail": "Un trimestre de plus par an à partir de 2023, avec aménagements pour carrières longues ou pénibles.",
       "nature": "programme",
@@ -528,6 +532,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Exonérer de charges pendant 2 ans deux embauches en CDI dans les TPE",
       "detail": "Pour les entreprises de moins de 11 salariés.",
       "nature": "programme",
@@ -536,6 +541,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "droit_travail",
       "titre": "Relever de 50 à 250 salariés le seuil de consultation du CSE",
       "detail": "Œuvres sociales et culturelles maintenues dès 50 salariés.",
       "nature": "programme",
@@ -616,6 +622,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Recruter 40 000 personnels hospitaliers",
       "detail": "Avec un vaste plan d'investissement dans l'hôpital public.",
       "nature": "programme",
@@ -624,6 +631,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Augmenter de 12 % la rémunération des infirmiers et aides-soignants",
       "detail": "Hausse immédiate.",
       "nature": "programme",
@@ -632,6 +640,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "formation_medecins",
       "titre": "Doubler en 5 ans les capacités de formation des médecins et soignants",
       "detail": "Mesure du chapitre santé.",
       "nature": "programme",
@@ -640,6 +649,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Recruter 1 000 médecins salariés par l'État dans les déserts médicaux",
       "detail": "Sur 5 ans, avec des services hospitaliers de proximité et une garde obligatoire des médecins.",
       "nature": "programme",
@@ -648,6 +658,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Supprimer les ARS et transférer leurs missions aux préfets",
       "detail": "Organismes jugés « purement comptables et technocratiques ».",
       "nature": "programme",
@@ -656,6 +667,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "prevention_mentale",
       "titre": "Abolir définitivement le pass vaccinal",
       "detail": "Mesure du chapitre santé.",
       "nature": "programme",
@@ -664,6 +676,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Construire 400 000 places en EHPAD d'ici 2030",
       "detail": "Dont 25 % réservées aux familles modestes ; contrôles confiés aux préfets avec pouvoir de sanction.",
       "nature": "programme",
@@ -672,6 +685,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Construire au moins 14 réacteurs EPR2 d'ici 2050",
       "detail": "Abandon de l'objectif de 50 % de nucléaire, prolongation du parc à 60 ans au moins et arrêt de la fermeture de 12 réacteurs.",
       "nature": "programme",
@@ -680,6 +694,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Remplacer l'ARENH par un tarif régulé de l'électricité nucléaire",
       "detail": "Et mettre fin au projet Hercule de réorganisation d'EDF.",
       "nature": "programme",
@@ -688,6 +703,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Mettre fin à tous les projets d'éoliennes, sur terre comme en mer",
       "detail": "Soutien public redirigé vers la géothermie, le bois-énergie, les réseaux de chaleur et les pompes à chaleur.",
       "nature": "programme",
@@ -696,6 +712,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Relancer la recherche sur le nucléaire de 4e génération et la fusion",
       "detail": "Programme ASTRID et projet ITER ; petits réacteurs modulaires prêts d'ici la fin du quinquennat.",
       "nature": "programme",
@@ -704,6 +721,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "marche_electricite",
       "titre": "Refuser l'ouverture à la concurrence des barrages hydroélectriques",
       "detail": "Avec un plan d'investissement dans l'hydroélectricité.",
       "nature": "programme",
@@ -712,6 +730,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "revenu_prix",
       "titre": "Interdire les centrales d'achat communes de la grande distribution",
       "detail": "Pour que la distribution ne puisse plus imposer ses prix aux producteurs.",
       "nature": "programme",
@@ -720,6 +739,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Interdire les importations agricoles produites hors normes françaises",
       "detail": "Produits que les agriculteurs français n'ont pas le droit de produire.",
       "nature": "programme",
@@ -728,6 +748,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Augmenter la dotation jeune agriculteur",
       "detail": "Simplification de l'installation et de l'achat de foncier, garanties bancaires.",
       "nature": "programme",
@@ -736,6 +757,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Indiquer le mode d'abattage sur les produits contenant de la viande",
       "detail": "Conventionnel avec étourdissement ou rituel sans étourdissement.",
       "nature": "programme",
@@ -744,6 +766,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Réserver l'attribution des logements sociaux aux Français",
       "detail": "En priorité aux plus modestes ; réexamen de la situation des locataires tous les 5 ans.",
       "nature": "programme",
@@ -752,6 +775,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Abroger la loi SRU",
       "detail": "Et ne plus financer de logements sociaux dans les villes qui en comptent plus d'un tiers.",
       "nature": "programme",
@@ -760,6 +784,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Supprimer les droits de mutation pour les primo-accédants",
       "detail": "Jusqu'à une valeur de 250 000 € ; intérêts d'emprunt déductibles à 50 % pendant 5 ans.",
       "nature": "programme",
@@ -768,6 +793,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "ruralite",
       "titre": "Réorienter les crédits de la politique de la ville vers les campagnes",
       "detail": "Crédits de l'ANRU réinvestis dans les centres des villes moyennes, bourgs et villages.",
       "nature": "programme",
@@ -776,6 +802,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "ruralite",
       "titre": "Suspendre la fermeture des écoles rurales sans l'accord du maire",
       "detail": "Et mettre fin à la fermeture des brigades de gendarmerie dans les villages.",
       "nature": "programme",
@@ -784,6 +811,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Mettre fin aux référendums d'indépendance en Nouvelle-Calédonie",
       "detail": "Réforme des institutions calédoniennes à l'issue de l'accord de Nouméa.",
       "nature": "programme",

@@ -152,6 +152,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "services_publics",
       "titre": "Inscrire par référendum la propriété nationale des grands services publics",
       "detail": "Interdiction constitutionnelle de privatiser la Sécurité sociale et les services stratégiques de sécurité, santé et éducation.",
       "nature": "programme",
@@ -160,6 +161,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "amenagement",
       "titre": "Rehausser la DGF des communes de moins de 5 000 habitants au niveau de 2014",
       "detail": "Fusions de communes conditionnées à un référendum ; obligations de service public renforcées en zone rurale.",
       "nature": "programme",
@@ -168,6 +170,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Supprimer les allocations chômage après deux refus d'offres d'emploi",
       "detail": "Offres correspondant aux critères géographiques du demandeur ; réduction progressive des emplois aidés (3 Md€ d'économies).",
       "nature": "programme",
@@ -176,6 +179,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Inscrire la retraite par répartition dans la Constitution",
       "detail": "Fin des réformes des retraites ; la capitalisation reste un choix personnel facultatif.",
       "nature": "programme",
@@ -184,6 +188,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "pensions",
       "titre": "Indexer chaque année les pensions au moins sur l'inflation",
       "detail": "Garantie d'État du pouvoir d'achat des retraités, avant comme après la création d'un nouveau franc.",
       "nature": "programme",
@@ -272,6 +277,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Augmenter de 50 % le budget de la recherche",
       "detail": "Grands projets : fusion nucléaire, cancer et maladies auto-immunes, composants électroniques, alternatives aux GAFAM, spatial, transports du futur.",
       "nature": "programme",
@@ -280,6 +286,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Taxer les GAFAM sur les profits réalisés en France",
       "detail": "Sous peine d'exclusion du marché français.",
       "nature": "programme",
@@ -288,6 +295,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "plateformes_reseaux",
       "titre": "Interdire la censure du débat public par les plateformes numériques",
       "detail": "Neutralité du net consacrée par la loi et passage des administrations à des solutions informatiques françaises ou libres.",
       "nature": "programme",
@@ -296,6 +304,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "hopital_soignants",
       "titre": "Rouvrir 30 000 lits dans l'hôpital public",
       "detail": "Budget de l'hôpital +15 % dès le premier budget ; objectif de 265 000 lits dont 25 000 de réanimation et soins intensifs.",
       "nature": "programme",
@@ -304,6 +313,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Créer un pôle public de recherche pharmaceutique et de production de médicaments",
       "detail": "Par regroupement d'institutions publiques et de laboratoires nationalisés, pour l'autosuffisance en médicaments et vaccins en 10 ans.",
       "nature": "programme",
@@ -312,6 +322,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "acces_soins",
       "titre": "Majorer de 20 % les actes des médecins exerçant en déserts médicaux",
       "detail": "Et instaurer un moratoire sur les fermetures d'hôpitaux publics et de maternités.",
       "nature": "programme",
@@ -320,6 +331,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Interdire la rémunération des médecins hospitaliers par les laboratoires",
       "detail": "Publication des contrats passés par l'État et l'UE avec les entreprises pharmaceutiques.",
       "nature": "programme",
@@ -408,6 +420,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "autre",
       "titre": "Relocaliser massivement la production industrielle",
       "detail": "Via le contrôle des mouvements de marchandises et de capitaux ; les importations représenteraient 57 % de l'empreinte écologique de la France.",
       "nature": "programme",
@@ -416,6 +429,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Porter à 70 % la part du rail sur les grands axes de fret",
       "detail": "Plan de ferroutage (Paris-Marseille/Montpellier, Paris-Bordeaux, Paris-Belgique), interdiction de fermer des petites lignes.",
       "nature": "programme",
@@ -424,6 +438,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "fiscalite_ecologique",
       "titre": "Créer une écotaxe sur les poids lourds étrangers",
       "detail": "Pour financer les transports propres sans peser sur les ménages français.",
       "nature": "programme",
@@ -432,6 +447,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "biodiversite_pollution",
       "titre": "Instaurer un moratoire de 5 ans sur les zones commerciales périphériques",
       "detail": "Dans les villes de moins de 30 000 habitants, contre l'artificialisation des sols.",
       "nature": "programme",
@@ -440,6 +456,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Remplacer la PAC par une politique agricole nationale (+25 % de revenus)",
       "detail": "Revenus des agriculteurs, retraités compris, augmentés de 25 % sur le quinquennat ; objectif d'autosuffisance alimentaire.",
       "nature": "programme",
@@ -448,6 +465,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Exonérer de TVA les produits alimentaires en circuit court ou bio",
       "detail": "Y compris les produits issus de la permaculture.",
       "nature": "programme",
@@ -456,6 +474,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire les pesticides dangereux comme le glyphosate",
       "detail": "Sans perte de revenus pour les agriculteurs.",
       "nature": "programme",
@@ -464,6 +483,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "elevage_animaux",
       "titre": "Interdire les élevages en batterie et les fermes-usines",
       "detail": "Type « ferme des 1 000 vaches » ; aggravation des peines pour maltraitance animale.",
       "nature": "programme",
@@ -544,6 +564,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "grand_age",
       "titre": "Renforcer la surveillance des EHPAD et favoriser le maintien à domicile",
       "detail": "Politique de la dépendance.",
       "nature": "programme",
@@ -552,6 +573,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Construire 80 000 logements supplémentaires par an",
       "detail": "Programmes sociaux en partie en accession à la propriété, financés notamment par la fin de la contribution à l'UE.",
       "nature": "programme",
@@ -560,6 +582,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "autre",
       "titre": "Limiter les achats immobiliers étrangers dans les zones tendues",
       "detail": "Grâce au contrôle des mouvements de capitaux.",
       "nature": "programme",
@@ -568,6 +591,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Porter à 7 jours le délai d'expulsion des squatters en flagrance",
       "detail": "Contre 48 h ; procédure judiciaire accélérée de moins de trois mois.",
       "nature": "programme",
@@ -576,6 +600,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Investir 15 milliards d'euros dans les infrastructures ultramarines",
       "detail": "Baisse des tarifs des liaisons aériennes de continuité territoriale.",
       "nature": "programme",

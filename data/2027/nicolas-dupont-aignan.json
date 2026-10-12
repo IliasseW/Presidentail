@@ -198,6 +198,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Exonérer de charges patronales pendant 5 ans le CDI d'un chômeur de longue durée",
       "detail": "Pour les chômeurs de plus de 3 ans en fin de droits.",
       "nature": "programme",
@@ -206,6 +207,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Défiscaliser les heures supplémentaires au-delà de 1 607 heures par an",
       "detail": "Dans la limite de 100 heures par an, le net étant égal au brut.",
       "nature": "programme",
@@ -478,6 +480,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Créer un fonds souverain IA doté de plusieurs milliards d'euros",
       "detail": "Financé par l'État, la BPI et des investisseurs privés, avec un cloud souverain indépendant des solutions américaines.",
       "nature": "programme",
@@ -486,6 +489,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Appliquer une préférence nationale dans les marchés publics d'IA, cloud et cybersécurité",
       "detail": "Label « IA Made in France » et critères de souveraineté obligatoires dans les appels d'offres.",
       "nature": "programme",
@@ -494,6 +498,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Créer une Agence nationale de l'éthique et de la sécurité des IA",
       "detail": "Audit systématique des modèles et statut juridique de « personne numérique » pour l'IA.",
       "nature": "programme",
@@ -534,6 +539,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Relever de 100 000 € le plafond du prêt à taux zéro",
       "detail": "Augmentation de la part du PTZ dans l'emprunt et allongement du différé ; objectif de 3 Français sur 4 propriétaires.",
       "nature": "programme",
@@ -542,6 +548,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Abandonner l'interdiction de louer les logements selon le DPE",
       "detail": "Pour remettre sur le marché les petits logements.",
       "nature": "programme",
@@ -550,6 +557,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Créer une garantie universelle des loyers impayés financée à 1 % du loyer",
       "detail": "Financée par les locataires pour sécuriser les propriétaires.",
       "nature": "programme",
@@ -558,6 +566,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Mettre fin à l'objectif de zéro artificialisation nette (ZAN)",
       "detail": "Réforme intégrale de la loi Climat et résilience ; objectif de 400 000 logements construits par an.",
       "nature": "programme",
@@ -566,6 +575,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Créer un dispositif « Maison à 1 euro » pour les biens abandonnés en zone rurale",
       "detail": "Attribuée sur dossier par le maire à des non-propriétaires s'engageant à rénover et habiter le bien.",
       "nature": "programme",
@@ -598,6 +608,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Diviser par deux le prix des billets d'avion entre l'outre-mer et l'Hexagone",
       "detail": "Extension du dispositif de continuité territoriale appliqué à la Corse.",
       "nature": "programme",
@@ -606,6 +617,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Réformer l'octroi de mer pour faire baisser les prix en outre-mer",
       "detail": "Maintenu sur les productions locales, remplacé par une TVA reversée aux collectivités sur les autres importations.",
       "nature": "programme",
@@ -614,6 +626,7 @@
     },
     {
       "theme": "territoires",
+      "sujet": "outre_mer",
       "titre": "Dégeler le corps électoral en Nouvelle-Calédonie",
       "detail": "Mesure présentée comme mettant fin à une « ségrégation démocratique ».",
       "nature": "programme",
@@ -622,6 +635,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "transports",
       "titre": "Supprimer les zones à faibles émissions (ZFE)",
       "detail": "Dans le cadre de la division par deux des normes pesant sur entreprises et particuliers.",
       "nature": "programme",
@@ -630,6 +644,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Accélérer les EPR2 et petits réacteurs modulaires et relancer les neutrons rapides",
       "detail": "Barrages hydroélectriques maintenus dans le giron d'EDF ; trains diesel remplacés par des trains à hydrogène.",
       "nature": "programme",

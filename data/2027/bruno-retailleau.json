@@ -134,6 +134,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Fixer un âge minimal de départ à la retraite à 63 ans avec décote",
       "detail": "Départ possible dès 63 ans avec une décote de 7 % par année manquante ; âge non indexé sur l'espérance de vie. Économies annoncées : 40 Md€ cumulés sur cinq ans.",
       "nature": "declaration",
@@ -142,6 +143,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Accorder le taux plein automatique à 65 ans, même sans tous les trimestres",
       "detail": "Contre 67 ans aujourd'hui ; l'âge du taux plein évoluerait ensuite avec l'espérance de vie. Carrières longues : taux plein à 63 ans, avec incitation à rester jusqu'à 65 ans.",
       "nature": "declaration",
@@ -150,6 +152,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Introduire une part de retraite par capitalisation pour les jeunes actifs",
       "detail": "Rendement visé d'au moins 4 %, représentant 25 à 30 % des pensions des nouveaux entrants ; piste de financement : cotisation de 1 % du salaire brut partagée salarié/employeur.",
       "nature": "declaration",
@@ -158,6 +161,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "temps_travail",
       "titre": "Annualiser le temps de travail et porter le seuil légal à 1 623 heures par an",
       "detail": "Fin des 35 heures hebdomadaires : passage de 1 607 à 1 623 heures annuelles (soit environ deux jours de plus, rémunérés).",
       "nature": "declaration",
@@ -190,6 +194,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Supprimer l'indemnisation chômage après le troisième refus d'offre d'emploi",
       "detail": "Réforme de l'assurance chômage reprenant le projet Attal, avec règles revues pour les frontaliers.",
       "nature": "declaration",
@@ -198,6 +203,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "chomage_emploi",
       "titre": "Restreindre fortement les ruptures conventionnelles",
       "detail": "Limitation de la durée et plafonnement de l'indemnisation chômage après rupture conventionnelle (coût évalué à 9 Md€/an).",
       "nature": "declaration",
@@ -206,6 +212,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Exonérer de cotisations les seniors en cumul emploi-retraite",
       "detail": "Exonération des cotisations chômage et retraite pour les seniors ayant tous leurs trimestres qui continuent à travailler.",
       "nature": "declaration",
@@ -294,6 +301,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "recherche",
       "titre": "Concentrer les financements publics de recherche sur sept secteurs stratégiques",
       "detail": "Nucléaire nouvelle génération, IA, biotechnologies, batteries, microélectronique, cybersécurité, quantique ; jusqu'à 2 000 postes de chercheurs redéployés ; crédit d'impôt recherche sanctuarisé.",
       "nature": "programme",
@@ -310,6 +318,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "systeme_retraites",
       "titre": "Ouvrir un compte d'épargne retraite individuel pour chaque actif",
       "detail": "Étage de retraite par épargne individuelle complémentaire, alimenté notamment par l'intéressement et la participation, visant à terme environ 1 000 Md€ investis dans l'économie.",
       "nature": "programme",
@@ -318,6 +327,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Inscrire le parc nucléaire existant dans une trajectoire d'exploitation de 80 ans",
       "detail": "Prolongation des réacteurs lorsque la sûreté le permet et production portée vers 400 TWh/an ; maîtrise des coûts et délais des EPR2.",
       "nature": "programme",
@@ -326,6 +336,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Abroger le volet électricité de la PPE 3 et cesser de subventionner éolien et solaire",
       "detail": "Appels d'offres non attribués déclarés infructueux ; suppression des avantages fiscaux et tarifaires des nouvelles installations photovoltaïques et éoliennes.",
       "nature": "programme",
@@ -334,6 +345,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Relancer un prototype de réacteur à neutrons rapides de 4e génération",
       "detail": "Reprise immédiate des études et de la recherche expérimentale sur un démonstrateur.",
       "nature": "programme",
@@ -342,6 +354,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "nucleaire",
       "titre": "Porter les stocks stratégiques d'uranium naturel à cinq ans de consommation",
       "detail": "Volet souveraineté des chaînes de valeur énergétiques.",
       "nature": "programme",
@@ -350,6 +363,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "renouvelables",
       "titre": "Relancer l'hydroélectricité et les stations de pompage (STEP)",
       "detail": "Modernisation des installations, remise à l'étude de la STEP de Redenat (1 100 MW) et déploiement de micro-STEP.",
       "nature": "programme",
@@ -374,6 +388,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "normes_pesticides",
       "titre": "Interdire par une loi organique toute surtransposition des directives européennes",
       "detail": "Y compris dans le domaine agricole ; délais d'instruction stricts et opposables sous l'autorité du préfet.",
       "nature": "programme",
@@ -382,6 +397,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "installation_foncier",
       "titre": "Augmenter de 30 % les effectifs de l'enseignement technique agricole d'ici 2030",
       "detail": "Mise en œuvre amplifiée de la loi d'orientation agricole de mars 2025, de la 4e au BTSA.",
       "nature": "programme",
@@ -390,6 +406,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "alimentation",
       "titre": "Renforcer l'étiquetage de l'origine des produits agricoles, y compris transformés",
       "detail": "Protection des dénominations alimentaires et information « loyale » du consommateur.",
       "nature": "programme",
@@ -398,6 +415,7 @@
     },
     {
       "theme": "agriculture",
+      "sujet": "commerce_pac",
       "titre": "Faire de l'eau une ressource agricole stratégique et refonder la PAC",
       "detail": "PAC conçue comme outil de souveraineté et de sécurisation du revenu agricole, avec rééquilibrage de la chaîne de valeur et réciprocité commerciale.",
       "nature": "programme",
@@ -422,6 +440,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "fiscalite_immobiliere",
       "titre": "Supprimer l'objectif de zéro artificialisation nette (ZAN)",
       "detail": "Mesure du « choc d'offre » logement, avec reversement de TVA aux communes pour chaque logement neuf.",
       "nature": "programme",
@@ -430,6 +449,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "renovation_logement",
       "titre": "Mettre fin aux interdictions de louer liées au DPE",
       "detail": "Près de 450 000 logements préservés selon LR ; le DPE deviendrait un outil d'information et d'incitation.",
       "nature": "programme",
@@ -438,6 +458,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "loyers_locataires",
       "titre": "Supprimer l'encadrement des loyers et créer un statut du bailleur privé",
       "detail": "Avec une « tolérance zéro » contre le squat et les impayés.",
       "nature": "programme",
@@ -446,6 +467,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "accession_propriete",
       "titre": "Rendre déductibles les intérêts d'emprunt des familles pour la résidence principale",
       "detail": "Déduction de 50 % avec un enfant, 75 % avec deux, 100 % à partir de trois ; PTZ simplifié et ouvert partout.",
       "nature": "programme",
@@ -454,6 +476,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "construction",
       "titre": "Instaurer un moratoire normatif de dix ans sur la construction de logements",
       "detail": "Accompagné d'une « loi d'urgence Notre-Dame » pour construire et de la levée des freins à la construction hors site.",
       "nature": "programme",
@@ -462,6 +485,7 @@
     },
     {
       "theme": "logement",
+      "sujet": "logement_social",
       "titre": "Vendre 10 % du parc social, soit environ 86 000 logements",
       "detail": "Logement social recentré sur ceux qui travaillent et les familles ; extinction progressive du DALO ; quotas SRU remplacés par des contrats territoriaux.",
       "nature": "programme",
@@ -478,6 +502,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Créer un ministère de l'Intelligence artificielle de plein exercice",
       "detail": "Avec un directeur technologique de l'État, un budget unique de transformation numérique et un assistant administratif « Marianne » pour les citoyens ; plan chiffré à 5 Md€ sur le quinquennat.",
       "nature": "declaration",
@@ -486,6 +511,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "ia",
       "titre": "Équiper les PME en IA avec un sur-amortissement de 100 % sur trois ans",
       "detail": "« Starter Pack IA » pour PME et ETI ; trajectoire d'environ 4 GW de capacités électriques dédiées à l'IA à l'horizon 2035-2038.",
       "nature": "programme",
@@ -606,6 +632,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Lancer un « plan Vauban numérique » de cybersécurité piloté par l'ANSSI",
       "detail": "Bascule des hébergements sensibles vers le cloud souverain, stress tests réguliers des ministères et réseaux vitaux, renforcement de l'ANSSI, de l'AMIAD et de VIGINUM.",
       "nature": "programme",
@@ -614,6 +641,7 @@
     },
     {
       "theme": "numerique_recherche",
+      "sujet": "souverainete_numerique",
       "titre": "Héberger en Europe les données sensibles de l'État et de santé (SecNumCloud)",
       "detail": "Hors d'atteinte des lois extraterritoriales ; création d'espaces de partage de données français et européens.",
       "nature": "programme",
@@ -622,6 +650,7 @@
     },
     {
       "theme": "sante",
+      "sujet": "medicaments",
       "titre": "Développer des IA médicales françaises entraînées sur les données de santé nationales",
       "detail": "Objectif affiché : rendre du temps de soin (« l'infirmière récupère deux heures de soin par jour ») ; IA pour les comptes rendus et courriers hospitaliers.",
       "nature": "programme",

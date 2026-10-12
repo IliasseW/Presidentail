@@ -54,6 +54,7 @@
     },
     {
       "theme": "travail_retraites",
+      "sujet": "age_retraite",
       "titre": "Revenir à l'âge légal de départ à 62 ans",
       "detail": "Abrogation de la réforme de 2023.",
       "nature": "declaration",
@@ -70,6 +71,7 @@
     },
     {
       "theme": "ecologie_energie",
+      "sujet": "climat_planification",
       "titre": "Appliquer les décisions de la COP21 face à l'urgence climatique",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
