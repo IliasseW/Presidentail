@@ -28,6 +28,14 @@
         </form>
       </div>
       <div class="control-block">
+        <h2>Étendue</h2>
+        <div id="depth" class="chips" role="group" aria-label="Étendue du réseau affiché">
+          <button type="button" class="chip" data-depth="0" aria-pressed="true">Tout le réseau</button>
+          <button type="button" class="chip" data-depth="1" aria-pressed="false">Liens directs de la sélection</button>
+          <button type="button" class="chip" data-depth="2" aria-pressed="false">Jusqu'à 2 niveaux</button>
+        </div>
+      </div>
+      <div class="control-block">
         <h2>Liens affichés</h2>
         <div id="filters" class="chips" role="group" aria-label="Types de liens"></div>
       </div>

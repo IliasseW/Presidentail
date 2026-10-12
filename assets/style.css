@@ -244,6 +244,8 @@ button.link { font: inherit; border: 0; background: none; padding: 0; color: var
 .link.hl { stroke: var(--text); stroke-width: 2.5px; }
 .dim { opacity: .12; }
 .label.dim { opacity: .05; }
+.label.minor { display: none; }
+.zoomed .label.minor, .label.minor.focus { display: inline; }
 .label { font-size: 11px; fill: var(--text); text-anchor: middle; pointer-events: none; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
 .label-gouv, .label-org { font-size: 10px; fill: var(--muted); }
 .label-cand { font-weight: 600; }

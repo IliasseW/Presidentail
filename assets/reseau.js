@@ -25,7 +25,7 @@ const ORG_TYPE = {
   think_tank: "Think tank", association: "Association",
 };
 
-const state = { familles: new Set(FAMILLES.map((f) => f.id)), selected: null, path: null, visible: new Set() };
+const state = { familles: new Set(FAMILLES.map((f) => f.id)), selected: null, path: null, visible: new Set(), depth: 0 };
 let DATA, NODES, LINKS, BY_ID, sim, zoom, svg, gLinks, gNodes, gLabels;
 
 const $ = (s) => document.querySelector(s);
@@ -44,8 +44,24 @@ function linkLabel(l) {
 }
 
 /* ---------- filtres et visibilité ---------- */
-function visibleLinks() {
+function familyLinks() {
   return LINKS.filter((l) => state.familles.has(famille(l)));
+}
+
+// Liens affichés : filtrés par famille, puis, si une étendue est choisie, limités au voisinage de la sélection.
+function visibleLinks() {
+  const links = familyLinks();
+  if (!state.depth || !state.selected || state.path) return links;
+  const keep = new Set([state.selected]);
+  for (let d = 0; d < state.depth; d++) {
+    const frontier = new Set();
+    links.forEach((l) => {
+      if (keep.has(l.source.id)) frontier.add(l.target.id);
+      if (keep.has(l.target.id)) frontier.add(l.source.id);
+    });
+    frontier.forEach((id) => keep.add(id));
+  }
+  return links.filter((l) => keep.has(l.source.id) && keep.has(l.target.id));
 }
 function visibleNodeIds(links) {
   const ids = new Set();
@@ -135,11 +151,14 @@ function applyHighlight() {
   gNodes.selectAll("g").classed("dim", (n) => on && !focus.has(n.id)).classed("selected", (n) => n.id === state.selected);
   gLinks.selectAll("line").classed("dim", (l) => on && !focusLinks.has(l.key)).classed("hl", (l) => focusLinks.has(l.key));
   // Les noms des personnalités n'apparaissent que lorsqu'elles sont en évidence.
+  // Noms des candidats toujours visibles ; les autres (classe « minor ») au zoom ou quand ils sont en évidence.
   gLabels.selectAll("text")
-    .data(NODES.filter((n) => state.visible.has(n.id) && (n.genre === "candidat" || n.genre === "organisation" || focus.has(n.id))), (n) => n.id)
-    .join("text").attr("class", (n) => `label label-${kind(n)}`).attr("dy", (n) => radius(n) + 11).text((n) => n.nom)
+    .data(NODES.filter((n) => state.visible.has(n.id)), (n) => n.id)
+    .join("text").attr("class", (n) => `label label-${kind(n)}${n.genre === "candidat" ? "" : " minor"}`)
+    .attr("dy", (n) => radius(n) + 11).text((n) => n.nom)
     .attr("x", (n) => n.x).attr("y", (n) => n.y)
-    .classed("dim", (n) => on && !focus.has(n.id));
+    .classed("dim", (n) => on && !focus.has(n.id))
+    .classed("focus", (n) => focus.has(n.id));
 }
 
 /* ---------- panneau de détail ---------- */
@@ -201,7 +220,7 @@ function renderPath() {
 /* ---------- chemin le plus court (parcours en largeur) ---------- */
 function shortestPath(from, to) {
   const adj = new Map();
-  visibleLinks().forEach((l) => {
+  familyLinks().forEach((l) => {
     [[l.source.id, l.target.id], [l.target.id, l.source.id]].forEach(([a, b]) => {
       if (!adj.has(a)) adj.set(a, []);
       adj.get(a).push([b, l]);
@@ -237,6 +256,20 @@ function select(id) {
   draw();
   renderPanel();
   if (state.selected) focusOn(BY_ID.get(id));
+}
+
+// Cadre la vue sur un ensemble de nœuds (ex. le chemin trouvé), une fois la simulation un peu stabilisée.
+function fitTo(ids) {
+  setTimeout(() => {
+    const pts = ids.map((id) => BY_ID.get(id)).filter((n) => n?.x != null);
+    if (!pts.length) return;
+    const xs = pts.map((n) => n.x), ys = pts.map((n) => n.y);
+    const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
+    const { width, height } = svg.node().getBoundingClientRect();
+    const k = Math.min(2, 0.8 / Math.max((x1 - x0) / width, (y1 - y0) / height, 0.01));
+    svg.transition().duration(600).call(zoom.transform,
+      d3.zoomIdentity.translate(width / 2 - k * (x0 + x1) / 2, height / 2 - k * (y0 + y1) / 2).scale(k));
+  }, 1200);
 }
 
 function focusOn(n) {
@@ -277,13 +310,16 @@ async function init() {
   gLinks = root.append("g");
   gNodes = root.append("g");
   gLabels = root.append("g");
-  zoom = d3.zoom().scaleExtent([0.2, 4]).on("zoom", (e) => root.attr("transform", e.transform));
+  zoom = d3.zoom().scaleExtent([0.2, 4]).on("zoom", (e) => {
+    root.attr("transform", e.transform);
+    svg.classed("zoomed", e.transform.k >= 1.8);
+  });
   svg.call(zoom).on("click", () => { if (state.selected || state.path) { state.selected = null; state.path = null; draw(); renderPanel(); } });
 
   const { width, height } = svg.node().getBoundingClientRect();
   sim = d3.forceSimulation()
-    .force("link", d3.forceLink().id((n) => n.id).distance((l) => (l.nature === "relation" ? 90 : 55)).strength(0.5))
-    .force("charge", d3.forceManyBody().strength(-230))
+    .force("link", d3.forceLink().id((n) => n.id).distance((l) => (l.nature === "relation" ? 80 : 50)).strength(0.4))
+    .force("charge", d3.forceManyBody().strength(-160).distanceMax(500))
     .force("collide", d3.forceCollide((n) => radius(n) + 6))
     .force("x", d3.forceX(width / 2).strength(0.04))
     .force("y", d3.forceY(height / 2).strength(0.06))
@@ -299,6 +335,14 @@ async function init() {
     state.familles.has(id) ? state.familles.delete(id) : state.familles.add(id);
     if (state.path) state.path = null;
     renderFilters(); draw(); renderPanel();
+  });
+  $("#depth").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-depth]");
+    if (!b) return;
+    state.depth = Number(b.dataset.depth);
+    document.querySelectorAll("#depth .chip").forEach((c) => c.setAttribute("aria-pressed", String(c === b)));
+    draw(); renderPanel();
+    if (state.depth && !state.selected) $("#panel").insertAdjacentHTML("afterbegin", `<p class="hint">Cliquez sur une personne ou une organisation pour n'afficher que son voisinage.</p>`);
   });
   $("#panel").addEventListener("click", (e) => {
     const b = e.target.closest("[data-select]");
@@ -318,6 +362,7 @@ async function init() {
     state.selected = null;
     state.path = path;
     draw(); renderPanel();
+    fitTo(path.nodes);
   });
 
   renderFilters();

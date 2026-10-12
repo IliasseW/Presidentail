@@ -1,0 +1,884 @@
+{
+ "personnes_nouvelles": [
+  {
+   "slug": "xavier-niel",
+   "nom": "Xavier Niel",
+   "genre": "acteur",
+   "description": "Fondateur et actionnaire principal d'Iliad (Free), copropriétaire du groupe Le Monde"
+  },
+  {
+   "slug": "bernard-arnault",
+   "nom": "Bernard Arnault",
+   "genre": "acteur",
+   "description": "Président-directeur général de LVMH depuis 1989"
+  },
+  {
+   "slug": "delphine-arnault",
+   "nom": "Delphine Arnault",
+   "genre": "acteur",
+   "description": "Présidente-directrice générale de Christian Dior Couture depuis 2023, administratrice de LVMH"
+  },
+  {
+   "slug": "antoine-arnault",
+   "nom": "Antoine Arnault",
+   "genre": "acteur",
+   "description": "Directeur général de Christian Dior SE, administrateur de LVMH"
+  },
+  {
+   "slug": "alexandre-arnault",
+   "nom": "Alexandre Arnault",
+   "genre": "acteur",
+   "description": "Dirigeant au sein de LVMH, administrateur de LVMH depuis 2024"
+  },
+  {
+   "slug": "frederic-arnault",
+   "nom": "Frédéric Arnault",
+   "genre": "acteur",
+   "description": "Dirigeant au sein de LVMH, administrateur de LVMH depuis 2024"
+  },
+  {
+   "slug": "vincent-bollore",
+   "nom": "Vincent Bolloré",
+   "genre": "acteur",
+   "description": "Industriel, ancien PDG du groupe Bolloré et ancien président du conseil de surveillance de Vivendi"
+  },
+  {
+   "slug": "yannick-bollore",
+   "nom": "Yannick Bolloré",
+   "genre": "acteur",
+   "description": "PDG de Havas, président du conseil de surveillance de Vivendi depuis 2018"
+  },
+  {
+   "slug": "cyrille-bollore",
+   "nom": "Cyrille Bolloré",
+   "genre": "acteur",
+   "description": "Président-directeur général du groupe Bolloré depuis 2019"
+  },
+  {
+   "slug": "francois-pinault",
+   "nom": "François Pinault",
+   "genre": "acteur",
+   "description": "Fondateur du groupe PPR (devenu Kering) et de la holding Artémis"
+  },
+  {
+   "slug": "francois-henri-pinault",
+   "nom": "François-Henri Pinault",
+   "genre": "acteur",
+   "description": "Président de Kering (PDG de 2005 à 2025) et de la holding familiale Artémis"
+  },
+  {
+   "slug": "jacques-saade",
+   "nom": "Jacques Saadé",
+   "genre": "acteur",
+   "description": "Fondateur du groupe CMA CGM (mort en 2018)"
+  },
+  {
+   "slug": "rodolphe-saade",
+   "nom": "Rodolphe Saadé",
+   "genre": "acteur",
+   "description": "Président-directeur général de CMA CGM depuis 2017, propriétaire de BFM TV, RMC et La Provence via CMA CGM Médias"
+  },
+  {
+   "slug": "tanya-saade-zeenny",
+   "nom": "Tanya Saadé Zeenny",
+   "genre": "acteur",
+   "description": "Administratrice et directrice générale déléguée de CMA CGM"
+  },
+  {
+   "slug": "francis-bouygues",
+   "nom": "Francis Bouygues",
+   "genre": "acteur",
+   "description": "Fondateur du groupe Bouygues (mort en 1993)"
+  },
+  {
+   "slug": "martin-bouygues",
+   "nom": "Martin Bouygues",
+   "genre": "acteur",
+   "description": "Président du groupe Bouygues (PDG de 1989 à 2021)"
+  },
+  {
+   "slug": "olivier-bouygues",
+   "nom": "Olivier Bouygues",
+   "genre": "acteur",
+   "description": "Ancien directeur général délégué du groupe Bouygues et de TF1 (2002-2020), administrateur de Bouygues"
+  },
+  {
+   "slug": "edward-bouygues",
+   "nom": "Edward Bouygues",
+   "genre": "acteur",
+   "description": "Administrateur de Bouygues depuis 2016, dirigeant de Bouygues Telecom"
+  },
+  {
+   "slug": "matthieu-pigasse",
+   "nom": "Matthieu Pigasse",
+   "genre": "acteur",
+   "description": "Banquier d'affaires, actionnaire du groupe Le Monde"
+  },
+  {
+   "slug": "brigitte-macron",
+   "nom": "Brigitte Macron",
+   "genre": "acteur",
+   "description": "Épouse d'Emmanuel Macron, présidente de la Fondation des Hôpitaux depuis 2019"
+  },
+  {
+   "slug": "valerie-trierweiler",
+   "nom": "Valérie Trierweiler",
+   "genre": "acteur",
+   "description": "Journaliste, ancienne journaliste politique à Paris Match"
+  },
+  {
+   "slug": "lea-salame",
+   "nom": "Léa Salamé",
+   "genre": "acteur",
+   "description": "Journaliste, présentatrice du journal de 20 heures de France 2 (2025-2026), en retrait pendant la campagne présidentielle"
+  },
+  {
+   "slug": "ghassan-salame",
+   "nom": "Ghassan Salamé",
+   "genre": "personnalite",
+   "description": "Politologue, ministre de la Culture du Liban, ancien envoyé spécial de l'ONU en Libye"
+  },
+  {
+   "slug": "andre-glucksmann",
+   "nom": "André Glucksmann",
+   "genre": "acteur",
+   "description": "Philosophe et essayiste (1937-2015)"
+  },
+  {
+   "slug": "eka-zguladze",
+   "nom": "Eka Zguladze",
+   "genre": "personnalite",
+   "description": "Ancienne vice-ministre de l'Intérieur de Géorgie, puis première vice-ministre de l'Intérieur d'Ukraine"
+  },
+  {
+   "slug": "louis-aliot",
+   "nom": "Louis Aliot",
+   "genre": "personnalite",
+   "description": "Maire de Perpignan depuis 2020, vice-président du Rassemblement national"
+  },
+  {
+   "slug": "philippe-olivier",
+   "nom": "Philippe Olivier",
+   "genre": "personnalite",
+   "description": "Député européen RN depuis 2019, conseiller de Marine Le Pen"
+  },
+  {
+   "slug": "vincenzo-sofo",
+   "nom": "Vincenzo Sofo",
+   "genre": "personnalite",
+   "description": "Homme politique italien (Ligue puis Frères d'Italie), député européen de 2020 à 2024"
+  },
+  {
+   "slug": "xavier-de-villepin",
+   "nom": "Xavier de Villepin",
+   "genre": "personnalite",
+   "description": "Sénateur des Français établis hors de France de 1986 à 2004 (mort en 2014)"
+  },
+  {
+   "slug": "paulo-branco",
+   "nom": "Paulo Branco",
+   "genre": "acteur",
+   "description": "Producteur de cinéma portugais"
+  },
+  {
+   "slug": "jean-sarkozy",
+   "nom": "Jean Sarkozy",
+   "genre": "personnalite",
+   "description": "Ancien conseiller général des Hauts-de-Seine (2008-2015)"
+  },
+  {
+   "slug": "louis-sarkozy",
+   "nom": "Louis Sarkozy",
+   "genre": "personnalite",
+   "description": "Chroniqueur (LCI, Valeurs actuelles), tête de liste de la droite à Menton aux municipales de 2026"
+  },
+  {
+   "slug": "bernadette-chirac",
+   "nom": "Bernadette Chirac",
+   "genre": "personnalite",
+   "description": "Conseillère générale de la Corrèze (1979-2015), présidente de la Fondation des Hôpitaux de 1994 à 2019"
+  },
+  {
+   "slug": "claude-chirac",
+   "nom": "Claude Chirac",
+   "genre": "acteur",
+   "description": "Conseillère pour la communication de Jacques Chirac à l'Élysée à partir de 1995"
+  },
+  {
+   "slug": "frederic-salat-baroux",
+   "nom": "Frédéric Salat-Baroux",
+   "genre": "acteur",
+   "description": "Haut fonctionnaire, ancien secrétaire général de la présidence de la République (2005-2007)"
+  },
+  {
+   "slug": "frederic-mitterrand",
+   "nom": "Frédéric Mitterrand",
+   "genre": "personnalite",
+   "description": "Ministre de la Culture et de la Communication de 2009 à 2012 (mort en 2024)"
+  },
+  {
+   "slug": "danielle-mitterrand",
+   "nom": "Danielle Mitterrand",
+   "genre": "acteur",
+   "description": "Fondatrice de la fondation France Libertés (morte en 2011)"
+  },
+  {
+   "slug": "marcel-dassault",
+   "nom": "Marcel Dassault",
+   "genre": "personnalite",
+   "description": "Fondateur du groupe Dassault, député de l'Oise de 1958 à 1986"
+  },
+  {
+   "slug": "serge-dassault",
+   "nom": "Serge Dassault",
+   "genre": "personnalite",
+   "description": "PDG du groupe Dassault, propriétaire du Figaro, sénateur de l'Essonne de 2004 à 2017 (mort en 2018)"
+  },
+  {
+   "slug": "olivier-dassault",
+   "nom": "Olivier Dassault",
+   "genre": "personnalite",
+   "description": "Député de l'Oise (1988-1997, 2002-2021), mort en 2021"
+  },
+  {
+   "slug": "michel-debre",
+   "nom": "Michel Debré",
+   "genre": "personnalite",
+   "description": "Premier ministre de 1959 à 1962 (mort en 1996)"
+  },
+  {
+   "slug": "jean-louis-debre",
+   "nom": "Jean-Louis Debré",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Intérieur, président de l'Assemblée nationale puis du Conseil constitutionnel (mort en 2025)"
+  },
+  {
+   "slug": "bernard-debre",
+   "nom": "Bernard Debré",
+   "genre": "personnalite",
+   "description": "Médecin, député et ministre de la Coopération (mort en 2020)"
+  },
+  {
+   "slug": "bernard-kouchner",
+   "nom": "Bernard Kouchner",
+   "genre": "personnalite",
+   "description": "Ancien ministre des Affaires étrangères (2007-2010), cofondateur de Médecins sans frontières"
+  },
+  {
+   "slug": "christine-ockrent",
+   "nom": "Christine Ockrent",
+   "genre": "acteur",
+   "description": "Journaliste, ancienne directrice générale déléguée de l'Audiovisuel extérieur de la France (2008-2011)"
+  }
+ ],
+ "organisations_nouvelles": [
+  {
+   "id": "groupe-lvmh",
+   "nom": "LVMH",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-bollore",
+   "nom": "Groupe Bolloré",
+   "type": "entreprise"
+  },
+  {
+   "id": "vivendi",
+   "nom": "Vivendi",
+   "type": "entreprise"
+  },
+  {
+   "id": "havas",
+   "nom": "Havas",
+   "type": "entreprise"
+  },
+  {
+   "id": "cma-cgm",
+   "nom": "CMA CGM",
+   "type": "entreprise"
+  },
+  {
+   "id": "kering",
+   "nom": "Kering",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-bouygues",
+   "nom": "Bouygues",
+   "type": "entreprise"
+  },
+  {
+   "id": "iliad-free",
+   "nom": "Iliad (Free)",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-le-monde",
+   "nom": "Groupe Le Monde",
+   "type": "media"
+  },
+  {
+   "id": "france-televisions",
+   "nom": "France Télévisions",
+   "type": "media"
+  },
+  {
+   "id": "paris-match",
+   "nom": "Paris Match",
+   "type": "media"
+  },
+  {
+   "id": "groupe-dassault",
+   "nom": "Groupe Dassault",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-figaro",
+   "nom": "Groupe Figaro (Socpresse)",
+   "type": "media"
+  }
+ ],
+ "parcours": [
+  {
+   "personne": "xavier-niel",
+   "organisation": "iliad-free",
+   "type": "entreprise",
+   "role": "Fondateur, actionnaire principal",
+   "debut": "1990",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "groupe-le-monde",
+   "type": "media",
+   "role": "Copropriétaire",
+   "debut": "2010",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "groupe-le-monde",
+   "type": "media",
+   "role": "Copropriétaire",
+   "debut": "2010",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "bernard-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "1989-01",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Arnault"
+  },
+  {
+   "personne": "delphine-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Présidente-directrice générale de Christian Dior Couture",
+   "debut": "2023-01",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "personne": "delphine-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2003",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "personne": "antoine-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration ; directeur général de Christian Dior SE",
+   "debut": "2005",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Antoine_Arnault"
+  },
+  {
+   "personne": "alexandre-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2024-04",
+   "fin": null,
+   "source_url": "https://gulfnews.com/business/retail/arnault-heirs-join-lvmh-board-tightening-family-hold-1.1713439575148"
+  },
+  {
+   "personne": "frederic-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2024-04",
+   "fin": null,
+   "source_url": "https://gulfnews.com/business/retail/arnault-heirs-join-lvmh-board-tightening-family-hold-1.1713439575148"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "groupe-bollore",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "1981",
+   "fin": "2019-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "vivendi",
+   "type": "entreprise",
+   "role": "Président du conseil de surveillance",
+   "debut": "2014",
+   "fin": "2018",
+   "source_url": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9"
+  },
+  {
+   "personne": "yannick-bollore",
+   "organisation": "vivendi",
+   "type": "entreprise",
+   "role": "Président du conseil de surveillance",
+   "debut": "2018",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Yannick_Bollor%C3%A9"
+  },
+  {
+   "personne": "yannick-bollore",
+   "organisation": "havas",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "2013-08",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Yannick_Bollor%C3%A9"
+  },
+  {
+   "personne": "cyrille-bollore",
+   "organisation": "groupe-bollore",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "2019-03",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Cyrille_Bollor%C3%A9"
+  },
+  {
+   "personne": "francois-henri-pinault",
+   "organisation": "kering",
+   "type": "entreprise",
+   "role": "Président (PDG de 2005 à 2025)",
+   "debut": "2005-05",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Henri_Pinault"
+  },
+  {
+   "personne": "rodolphe-saade",
+   "organisation": "cma-cgm",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "2017-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "personne": "tanya-saade-zeenny",
+   "organisation": "cma-cgm",
+   "type": "entreprise",
+   "role": "Administratrice et directrice générale déléguée",
+   "debut": null,
+   "fin": null,
+   "source_url": "https://www.cmacgm-group.com/fr/groupe/gouvernance"
+  },
+  {
+   "personne": "martin-bouygues",
+   "organisation": "groupe-bouygues",
+   "type": "entreprise",
+   "role": "Président-directeur général puis président du conseil d'administration",
+   "debut": "1989-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "personne": "olivier-bouygues",
+   "organisation": "groupe-bouygues",
+   "type": "entreprise",
+   "role": "Directeur général délégué",
+   "debut": "2002",
+   "fin": "2020",
+   "source_url": "https://fr.wikipedia.org/wiki/Olivier_Bouygues"
+  },
+  {
+   "personne": "edward-bouygues",
+   "organisation": "groupe-bouygues",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2016-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "personne": "lea-salame",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Présentatrice du journal de 20 heures de France 2",
+   "debut": "2025-09",
+   "fin": "2026-08",
+   "source_url": "https://fr.wikipedia.org/wiki/L%C3%A9a_Salam%C3%A9"
+  },
+  {
+   "personne": "valerie-trierweiler",
+   "organisation": "paris-match",
+   "type": "media",
+   "role": "Journaliste",
+   "debut": "1989",
+   "fin": "2020-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler"
+  },
+  {
+   "personne": "serge-dassault",
+   "organisation": "groupe-dassault",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "1987",
+   "fin": "2018-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Dassault"
+  },
+  {
+   "personne": "serge-dassault",
+   "organisation": "groupe-figaro",
+   "type": "media",
+   "role": "Président de la Socpresse (propriétaire du Figaro)",
+   "debut": "2004-07",
+   "fin": "2018-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Dassault"
+  },
+  {
+   "personne": "marcel-dassault",
+   "organisation": "groupe-dassault",
+   "type": "entreprise",
+   "role": "Fondateur",
+   "debut": "1931",
+   "fin": "1986",
+   "source_url": "https://fr.wikipedia.org/wiki/Marcel_Dassault"
+  }
+ ],
+ "relations": [
+  {
+   "source": "xavier-niel",
+   "cible": "delphine-arnault",
+   "type": "couple",
+   "description": "Compagnon de Delphine Arnault, directrice générale de Christian Dior Couture et fille de Bernard Arnault ; couple public depuis 2010.",
+   "date": "2010",
+   "source_url": "https://en.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "source": "delphine-arnault",
+   "cible": "bernard-arnault",
+   "type": "famille",
+   "description": "Fille de Bernard Arnault, PDG de LVMH ; présidente-directrice générale de Christian Dior Couture depuis 2023.",
+   "date": "2023-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "source": "antoine-arnault",
+   "cible": "bernard-arnault",
+   "type": "famille",
+   "description": "Fils de Bernard Arnault ; administrateur de LVMH et directeur général de Christian Dior SE, holding familiale qui contrôle LVMH.",
+   "date": "2005",
+   "source_url": "https://fr.wikipedia.org/wiki/Antoine_Arnault"
+  },
+  {
+   "source": "alexandre-arnault",
+   "cible": "bernard-arnault",
+   "type": "famille",
+   "description": "Fils de Bernard Arnault, entré au conseil d'administration de LVMH en avril 2024.",
+   "date": "2024-04",
+   "source_url": "https://gulfnews.com/business/retail/arnault-heirs-join-lvmh-board-tightening-family-hold-1.1713439575148"
+  },
+  {
+   "source": "frederic-arnault",
+   "cible": "bernard-arnault",
+   "type": "famille",
+   "description": "Fils de Bernard Arnault, entré au conseil d'administration de LVMH en avril 2024.",
+   "date": "2024-04",
+   "source_url": "https://gulfnews.com/business/retail/arnault-heirs-join-lvmh-board-tightening-family-hold-1.1713439575148"
+  },
+  {
+   "source": "yannick-bollore",
+   "cible": "vincent-bollore",
+   "type": "famille",
+   "description": "Fils de Vincent Bolloré, auquel il a succédé à la présidence du conseil de surveillance de Vivendi en 2018 ; PDG de Havas.",
+   "date": "2018",
+   "source_url": "https://fr.wikipedia.org/wiki/Yannick_Bollor%C3%A9"
+  },
+  {
+   "source": "cyrille-bollore",
+   "cible": "vincent-bollore",
+   "type": "famille",
+   "description": "Fils de Vincent Bolloré, auquel il a succédé comme PDG du groupe Bolloré en mars 2019.",
+   "date": "2019-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Cyrille_Bollor%C3%A9"
+  },
+  {
+   "source": "francois-henri-pinault",
+   "cible": "francois-pinault",
+   "type": "famille",
+   "description": "Fils de François Pinault, fondateur de PPR (devenu Kering), auquel il a succédé à la tête du groupe en 2005.",
+   "date": "2005-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Henri_Pinault"
+  },
+  {
+   "source": "rodolphe-saade",
+   "cible": "jacques-saade",
+   "type": "famille",
+   "description": "Fils de Jacques Saadé, fondateur de CMA CGM, auquel il a succédé à la tête du groupe en 2017.",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "source": "tanya-saade-zeenny",
+   "cible": "rodolphe-saade",
+   "type": "famille",
+   "description": "Sœur de Rodolphe Saadé ; directrice générale déléguée de CMA CGM.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "source": "martin-bouygues",
+   "cible": "francis-bouygues",
+   "type": "famille",
+   "description": "Fils de Francis Bouygues, fondateur du groupe, auquel il a succédé comme PDG de Bouygues en 1989.",
+   "date": "1989-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "source": "olivier-bouygues",
+   "cible": "martin-bouygues",
+   "type": "famille",
+   "description": "Frère de Martin Bouygues, avec qui il contrôle la holding familiale SCDM ; directeur général délégué du groupe Bouygues de 2002 à 2020.",
+   "date": "1988",
+   "source_url": "https://fr.wikipedia.org/wiki/Olivier_Bouygues"
+  },
+  {
+   "source": "edward-bouygues",
+   "cible": "martin-bouygues",
+   "type": "famille",
+   "description": "Fils de Martin Bouygues, administrateur de Bouygues depuis 2016 et dirigeant de Bouygues Telecom.",
+   "date": "2016-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "source": "olivier-dassault",
+   "cible": "serge-dassault",
+   "type": "famille",
+   "description": "Fils de Serge Dassault (PDG du groupe Dassault, propriétaire du Figaro, sénateur) ; député LR de l'Oise.",
+   "date": "1988",
+   "source_url": "https://fr.wikipedia.org/wiki/Olivier_Dassault"
+  },
+  {
+   "source": "serge-dassault",
+   "cible": "marcel-dassault",
+   "type": "famille",
+   "description": "Fils de Marcel Dassault, fondateur du groupe et député de l'Oise, auquel il a succédé à la tête du groupe en 1986-1987.",
+   "date": "1987",
+   "source_url": "https://fr.wikipedia.org/wiki/Marcel_Dassault"
+  },
+  {
+   "source": "emmanuel-macron",
+   "cible": "brigitte-macron",
+   "type": "couple",
+   "description": "Époux de Brigitte Macron, mariés le 20 octobre 2007 au Touquet.",
+   "date": "2007-10-20",
+   "source_url": "https://fr.wikipedia.org/wiki/Brigitte_Macron"
+  },
+  {
+   "source": "francois-hollande",
+   "cible": "segolene-royal",
+   "type": "couple",
+   "description": "Ancien couple de responsables socialistes (non mariés), formé à la fin des années 1970 ; séparation rendue publique le 18 juin 2007.",
+   "date": "2007-06-18",
+   "source_url": "https://mediaclip.ina.fr/en/i23144633-the-end-of-the-royal-holland-couple.html"
+  },
+  {
+   "source": "francois-hollande",
+   "cible": "valerie-trierweiler",
+   "type": "couple",
+   "description": "Compagne de François Hollande, journaliste à Paris Match ; relation rendue publique en 2010, fin de leur vie commune annoncée par François Hollande le 25 janvier 2014.",
+   "date": "2014-01-25",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler"
+  },
+  {
+   "source": "raphael-glucksmann",
+   "cible": "lea-salame",
+   "type": "couple",
+   "description": "Compagnon de la journaliste Léa Salamé depuis 2015 ; elle s'est retirée de la présentation du 20 heures de France 2 le 24 août 2026, le temps de sa candidature à la présidentielle.",
+   "date": "2015",
+   "source_url": "https://www.ozap.com/actu/cette-decision-est-evidente-et-difficile-lea-salame-se-retire-du-20-heures-de-france-2/656584"
+  },
+  {
+   "source": "raphael-glucksmann",
+   "cible": "andre-glucksmann",
+   "type": "famille",
+   "description": "Fils du philosophe André Glucksmann.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "source": "raphael-glucksmann",
+   "cible": "eka-zguladze",
+   "type": "couple",
+   "description": "Ancien époux d'Eka Zguladze, vice-ministre de l'Intérieur de Géorgie ; mariés en 2009, divorcés en 2014.",
+   "date": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "source": "lea-salame",
+   "cible": "ghassan-salame",
+   "type": "famille",
+   "description": "Fille de Ghassan Salamé, politologue, ministre de la Culture du Liban (2000-2003 et depuis février 2025) et ancien envoyé spécial de l'ONU en Libye.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Ghassan_Salam%C3%A9"
+  },
+  {
+   "source": "marion-marechal",
+   "cible": "jean-marie-le-pen",
+   "type": "famille",
+   "description": "Petite-fille de Jean-Marie Le Pen, fondateur du Front national.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Marion_Mar%C3%A9chal"
+  },
+  {
+   "source": "marine-le-pen",
+   "cible": "louis-aliot",
+   "type": "couple",
+   "description": "Ancien compagnon de Marine Le Pen (2009-2019), séparation rendue publique par Louis Aliot en septembre 2019 ; vice-président du RN et maire de Perpignan.",
+   "date": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Louis_Aliot"
+  },
+  {
+   "source": "marine-le-pen",
+   "cible": "philippe-olivier",
+   "type": "famille",
+   "description": "Beau-frère de Marine Le Pen (époux de sa sœur Marie-Caroline), député européen RN et son conseiller.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_Olivier_(homme_politique)"
+  },
+  {
+   "source": "marion-marechal",
+   "cible": "vincenzo-sofo",
+   "type": "couple",
+   "description": "Époux de Marion Maréchal, homme politique italien (Ligue puis Frères d'Italie), député européen de 2020 à 2024 ; mariés le 11 septembre 2021.",
+   "date": "2021-09-11",
+   "source_url": "https://fr.wikipedia.org/wiki/Vincenzo_Sofo"
+  },
+  {
+   "source": "eric-zemmour",
+   "cible": "sarah-knafo",
+   "type": "couple",
+   "description": "Éric Zemmour a présenté Sarah Knafo, alors directrice de la stratégie de sa campagne, comme « ma collaboratrice, ma compagne » en janvier 2022 ; elle est députée européenne Reconquête depuis 2024.",
+   "date": "2022-01",
+   "source_url": "https://www.lalibre.be/lifestyle/people/2022/01/13/eric-zemmour-officialise-sa-relation-avec-sa-collaboratrice-sarah-knafo-YLFHPUFZGNAPJHPBT2PVD3VOLY/"
+  },
+  {
+   "source": "dominique-de-villepin",
+   "cible": "xavier-de-villepin",
+   "type": "famille",
+   "description": "Fils de Xavier de Villepin, industriel puis sénateur des Français établis hors de France (1986-2004).",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_de_Villepin"
+  },
+  {
+   "source": "juan-branco",
+   "cible": "paulo-branco",
+   "type": "famille",
+   "description": "Fils du producteur de cinéma portugais Paulo Branco.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+  },
+  {
+   "source": "jean-sarkozy",
+   "cible": "nicolas-sarkozy",
+   "type": "famille",
+   "description": "Fils de Nicolas Sarkozy ; conseiller général UMP des Hauts-de-Seine de 2008 à 2015.",
+   "date": "2008-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean_Sarkozy"
+  },
+  {
+   "source": "louis-sarkozy",
+   "cible": "nicolas-sarkozy",
+   "type": "famille",
+   "description": "Fils de Nicolas Sarkozy ; chroniqueur et tête de liste de la droite à Menton aux municipales de 2026.",
+   "date": "2026-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Louis_Sarkozy"
+  },
+  {
+   "source": "jacques-chirac",
+   "cible": "bernadette-chirac",
+   "type": "couple",
+   "description": "Époux de Bernadette Chirac, conseillère générale de la Corrèze ; mariés le 16 mars 1956.",
+   "date": "1956-03-16",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernadette_Chirac"
+  },
+  {
+   "source": "claude-chirac",
+   "cible": "jacques-chirac",
+   "type": "famille",
+   "description": "Fille de Jacques Chirac, sa conseillère pour la communication à l'Élysée à partir de 1995.",
+   "date": "1995-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Claude_Chirac"
+  },
+  {
+   "source": "claude-chirac",
+   "cible": "frederic-salat-baroux",
+   "type": "couple",
+   "description": "Épouse de Frédéric Salat-Baroux, ancien secrétaire général de l'Élysée sous Jacques Chirac ; mariés en 2011.",
+   "date": "2011",
+   "source_url": "https://fr.wikipedia.org/wiki/Claude_Chirac"
+  },
+  {
+   "source": "frederic-mitterrand",
+   "cible": "francois-mitterrand",
+   "type": "famille",
+   "description": "Neveu de François Mitterrand ; ministre de la Culture et de la Communication de 2009 à 2012 (gouvernement Fillon).",
+   "date": "2009-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mitterrand"
+  },
+  {
+   "source": "francois-mitterrand",
+   "cible": "danielle-mitterrand",
+   "type": "couple",
+   "description": "Époux de Danielle Mitterrand, fondatrice de France Libertés ; mariés le 28 octobre 1944.",
+   "date": "1944-10-28",
+   "source_url": "https://fr.wikipedia.org/wiki/Danielle_Mitterrand"
+  },
+  {
+   "source": "jean-louis-debre",
+   "cible": "michel-debre",
+   "type": "famille",
+   "description": "Fils de Michel Debré, Premier ministre de 1959 à 1962.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Louis_Debr%C3%A9"
+  },
+  {
+   "source": "bernard-debre",
+   "cible": "michel-debre",
+   "type": "famille",
+   "description": "Fils de Michel Debré, frère jumeau de Jean-Louis Debré.",
+   "date": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Louis_Debr%C3%A9"
+  },
+  {
+   "source": "bernard-kouchner",
+   "cible": "christine-ockrent",
+   "type": "couple",
+   "description": "Compagnon de la journaliste Christine Ockrent depuis le début des années 1980.",
+   "date": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Christine_Ockrent"
+  }
+ ],
+ "notes": "Liens existants non dupliqués : Marine Le Pen–Jean-Marie Le Pen et Marine Le Pen–Marion Maréchal (famille) figurent déjà dans reseau/marine-le-pen.json. Corrections par rapport aux exemples : Léa Salamé présentait le 20 heures de France 2 (et non TF1), dont elle s'est retirée le 24/08/2026 ; aucun mariage Niel–Arnault n'est confirmé par une source fiable (ils sont présentés comme compagnons, couple public depuis 2010 selon Wikipédia ; une source isolée évoque un mariage, non retenu). Fonctions actuelles exactes d'Alexandre et Frédéric Arnault mouvantes (Moët Hennessy, horlogerie, Loro Piana selon les sources) : seule l'entrée au conseil d'administration de LVMH (2024) est retenue. Edward Bouygues : rôle exact chez Bouygues Telecom non revérifié (Wikipédia : président depuis 2022). Couple Hollande–Royal : 1978 selon l'infobox Wikipédia ; date retenue = annonce de la séparation. ÉCARTÉS par prudence : tous les enfants mineurs ou non publics (enfants Niel–Arnault, Glucksmann–Salamé, Zemmour–Knafo, Hollande–Royal, Maréchal) ; conjoints non publics ou ex-conjoints privés (Matthieu Decosse, Marie-Caroline Le Pen citée seulement dans une description, Penelope Fillon) ; conjoints artistes ou mannequins hors du périmètre des nœuds autorisés (Julie Gayet, Carla Bruni, Salma Hayek, Natalia Vodianova, Hélène Mercier-Arnault) ; Jean-Luc Mélenchon–Sophia Chikirou (relation jamais confirmée par les intéressés) ; Jordan Bardella–Nolwenn Olivier (personne non publique) et autres relations prêtées à Bardella (rumeurs) ; Gabriel Attal–Stéphane Séjourné (ancien PACS, révélé dans un contexte d'outing, orientation sexuelle = donnée sensible) ; Jean Arnault (moins exposé) ; Dominique Strauss-Kahn–Anne Sinclair, Arnaud Montebourg–Audrey Pulvar/Aurélie Filippetti (anciens couples hors candidats, non vérifiés ici).",
+ "verifie_le": "2026-10-12"
+}

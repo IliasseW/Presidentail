@@ -1,0 +1,2352 @@
+{
+ "personnes_nouvelles": [
+  {
+   "slug": "alexis-kohler",
+   "nom": "Alexis Kohler",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée (2017-2025), directeur général adjoint de la Société générale depuis 2025"
+  },
+  {
+   "slug": "emmanuel-moulin",
+   "nom": "Emmanuel Moulin",
+   "genre": "acteur",
+   "description": "Gouverneur de la Banque de France depuis juin 2026, ancien secrétaire général de l'Élysée (2025-2026) et directeur de cabinet de Gabriel Attal à Matignon"
+  },
+  {
+   "slug": "pierre-andre-imbert",
+   "nom": "Pierre-André Imbert",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée depuis mai 2026, ancien conseiller social d'Emmanuel Macron"
+  },
+  {
+   "slug": "jerome-fournel",
+   "nom": "Jérôme Fournel",
+   "genre": "acteur",
+   "description": "Haut fonctionnaire, directeur de cabinet de Michel Barnier à Matignon (2024)"
+  },
+  {
+   "slug": "benoit-ribadeau-dumas",
+   "nom": "Benoît Ribadeau-Dumas",
+   "genre": "acteur",
+   "description": "Conseiller d'État, directeur de cabinet d'Édouard Philippe à Matignon (2017-2020)"
+  },
+  {
+   "slug": "aurelien-rousseau",
+   "nom": "Aurélien Rousseau",
+   "genre": "personnalite",
+   "description": "Directeur de cabinet d'Élisabeth Borne à Matignon (2022-2023), ministre de la Santé (2023), député"
+  },
+  {
+   "slug": "philippe-gustin",
+   "nom": "Philippe Gustin",
+   "genre": "acteur",
+   "description": "Préfet, directeur de cabinet de Sébastien Lecornu à Matignon depuis 2025"
+  },
+  {
+   "slug": "patrick-strzoda",
+   "nom": "Patrick Strzoda",
+   "genre": "acteur",
+   "description": "Préfet, directeur de cabinet de Bernard Cazeneuve à Matignon puis d'Emmanuel Macron à l'Élysée (2017-2024)"
+  },
+  {
+   "slug": "nicolas-revel",
+   "nom": "Nicolas Revel",
+   "genre": "acteur",
+   "description": "Secrétaire général adjoint de l'Élysée (2012-2014), directeur de cabinet de Jean Castex à Matignon (2020-2022)"
+  },
+  {
+   "slug": "xavier-musca",
+   "nom": "Xavier Musca",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée sous Nicolas Sarkozy (2011-2012), dirigeant de Crédit agricole"
+  },
+  {
+   "slug": "frederic-salat-baroux",
+   "nom": "Frédéric Salat-Baroux",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée sous Jacques Chirac (2005-2007), avocat"
+  },
+  {
+   "slug": "pierre-rene-lemas",
+   "nom": "Pierre-René Lemas",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée sous François Hollande (2012-2014), puis directeur général de la Caisse des dépôts"
+  },
+  {
+   "slug": "jean-pierre-jouyet",
+   "nom": "Jean-Pierre Jouyet",
+   "genre": "acteur",
+   "description": "Secrétaire général de l'Élysée (2014-2017), ancien secrétaire d'État et ambassadeur au Royaume-Uni"
+  },
+  {
+   "slug": "sylvie-hubac",
+   "nom": "Sylvie Hubac",
+   "genre": "acteur",
+   "description": "Conseillère d'État, directrice du cabinet de François Hollande à l'Élysée (2012-2015)"
+  },
+  {
+   "slug": "pierre-mongin",
+   "nom": "Pierre Mongin",
+   "genre": "acteur",
+   "description": "Préfet, directeur de cabinet de Dominique de Villepin (2004-2006), PDG de la RATP (2006-2015)"
+  },
+  {
+   "slug": "marguerite-berard",
+   "nom": "Marguerite Bérard",
+   "genre": "acteur",
+   "description": "Inspectrice des finances, ancienne directrice de cabinet de Xavier Bertrand, directrice générale de la banque ABN Amro depuis 2025"
+  },
+  {
+   "slug": "sebastien-proto",
+   "nom": "Sébastien Proto",
+   "genre": "acteur",
+   "description": "Inspecteur des finances, ancien directeur de cabinet de Valérie Pécresse au Budget, président exécutif d'Elsan"
+  },
+  {
+   "slug": "amelie-verdier",
+   "nom": "Amélie Verdier",
+   "genre": "acteur",
+   "description": "Inspectrice des finances, ancienne directrice de cabinet de Bernard Cazeneuve au Budget, directrice générale des Finances publiques"
+  },
+  {
+   "slug": "gaspard-gantzer",
+   "nom": "Gaspard Gantzer",
+   "genre": "acteur",
+   "description": "Conseiller en communication de François Hollande à l'Élysée (2014-2017)"
+  },
+  {
+   "slug": "sibyle-veil",
+   "nom": "Sibyle Veil",
+   "genre": "acteur",
+   "description": "Conseillère d'État, présidente-directrice générale de Radio France depuis 2018"
+  },
+  {
+   "slug": "mathias-vicherat",
+   "nom": "Mathias Vicherat",
+   "genre": "acteur",
+   "description": "Ancien directeur de cabinet d'Anne Hidalgo, directeur de Sciences Po (2021-2024)"
+  },
+  {
+   "slug": "nicolas-namias",
+   "nom": "Nicolas Namias",
+   "genre": "acteur",
+   "description": "Président du directoire du groupe BPCE depuis 2022"
+  },
+  {
+   "slug": "nicolas-lerner",
+   "nom": "Nicolas Lerner",
+   "genre": "acteur",
+   "description": "Directeur général de la DGSI (2018-2024) puis de la DGSE depuis 2024"
+  },
+  {
+   "slug": "laurent-solly",
+   "nom": "Laurent Solly",
+   "genre": "acteur",
+   "description": "Ancien chef de cabinet de Nicolas Sarkozy, ancien directeur général de Facebook France"
+  },
+  {
+   "slug": "frederic-mion",
+   "nom": "Frédéric Mion",
+   "genre": "acteur",
+   "description": "Conseiller d'État, directeur de Sciences Po (2013-2021)"
+  },
+  {
+   "slug": "david-martinon",
+   "nom": "David Martinon",
+   "genre": "acteur",
+   "description": "Diplomate, porte-parole de l'Élysée sous Nicolas Sarkozy (2007-2008), ambassadeur"
+  },
+  {
+   "slug": "henri-de-castries",
+   "nom": "Henri de Castries",
+   "genre": "acteur",
+   "description": "PDG d'Axa (2000-2016), président de l'Institut Montaigne"
+  },
+  {
+   "slug": "francois-villeroy-de-galhau",
+   "nom": "François Villeroy de Galhau",
+   "genre": "acteur",
+   "description": "Inspecteur des finances, gouverneur de la Banque de France (2015-2026)"
+  },
+  {
+   "slug": "louis-gallois",
+   "nom": "Louis Gallois",
+   "genre": "acteur",
+   "description": "Ancien président de la SNCF, d'EADS et de PSA"
+  },
+  {
+   "slug": "ernest-antoine-seilliere",
+   "nom": "Ernest-Antoine Seillière",
+   "genre": "acteur",
+   "description": "Président du CNPF puis du Medef (1997-2005)"
+  },
+  {
+   "slug": "audrey-azoulay",
+   "nom": "Audrey Azoulay",
+   "genre": "personnalite",
+   "description": "Conseillère culture de François Hollande, ministre de la Culture (2016-2017), directrice générale de l'Unesco (2017-2025)"
+  },
+  {
+   "slug": "jean-castex",
+   "nom": "Jean Castex",
+   "genre": "personnalite",
+   "description": "Premier ministre de 2020 à 2022"
+  },
+  {
+   "slug": "jean-francois-cope",
+   "nom": "Jean-François Copé",
+   "genre": "personnalite",
+   "description": "Secrétaire général puis président de l'UMP (2010-2014)"
+  },
+  {
+   "slug": "boris-vallaud",
+   "nom": "Boris Vallaud",
+   "genre": "personnalite",
+   "description": "Président du groupe socialiste à l'Assemblée nationale"
+  },
+  {
+   "slug": "philippe-seguin",
+   "nom": "Philippe Séguin",
+   "genre": "personnalite",
+   "description": "Président du RPR (1997-1999), premier président de la Cour des comptes (2004-2010)"
+  },
+  {
+   "slug": "jean-pierre-chevenement",
+   "nom": "Jean-Pierre Chevènement",
+   "genre": "personnalite",
+   "description": "Ancien ministre, fondateur du Mouvement des citoyens, candidat à la présidentielle 2002"
+  },
+  {
+   "slug": "anne-hidalgo",
+   "nom": "Anne Hidalgo",
+   "genre": "personnalite",
+   "description": "Maire de Paris (2014-2026), candidate PS à la présidentielle 2022"
+  },
+  {
+   "slug": "arnaud-montebourg",
+   "nom": "Arnaud Montebourg",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Économie (2014), candidat aux primaires socialistes"
+  },
+  {
+   "slug": "michel-sapin",
+   "nom": "Michel Sapin",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Économie et des Finances (1992-1993, 2016-2017)"
+  },
+  {
+   "slug": "renaud-donnedieu-de-vabres",
+   "nom": "Renaud Donnedieu de Vabres",
+   "genre": "personnalite",
+   "description": "Ministre de la Culture (2004-2007)"
+  },
+  {
+   "slug": "pierre-moscovici",
+   "nom": "Pierre Moscovici",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Économie, commissaire européen, premier président de la Cour des comptes (2020-2026)"
+  },
+  {
+   "slug": "didier-migaud",
+   "nom": "Didier Migaud",
+   "genre": "personnalite",
+   "description": "Premier président de la Cour des comptes (2010-2020), garde des Sceaux (2024)"
+  },
+  {
+   "slug": "philippe-bas",
+   "nom": "Philippe Bas",
+   "genre": "personnalite",
+   "description": "Secrétaire général de l'Élysée (2002-2005), ministre (2005-2007), sénateur"
+  },
+  {
+   "slug": "sylvie-goulard",
+   "nom": "Sylvie Goulard",
+   "genre": "personnalite",
+   "description": "Ancienne députée européenne, ministre des Armées (2017)"
+  },
+  {
+   "slug": "clement-beaune",
+   "nom": "Clément Beaune",
+   "genre": "personnalite",
+   "description": "Conseiller Europe d'Emmanuel Macron (2017-2020), ministre (2020-2024)"
+  },
+  {
+   "slug": "amelie-oudea-castera",
+   "nom": "Amélie Oudéa-Castéra",
+   "genre": "personnalite",
+   "description": "Ministre des Sports et des Jeux olympiques (2022-2024), ministre de l'Éducation nationale (2024)"
+  },
+  {
+   "slug": "emmanuelle-wargon",
+   "nom": "Emmanuelle Wargon",
+   "genre": "personnalite",
+   "description": "Ancienne ministre (2018-2022), présidente de la Commission de régulation de l'énergie"
+  },
+  {
+   "slug": "agnes-pannier-runacher",
+   "nom": "Agnès Pannier-Runacher",
+   "genre": "personnalite",
+   "description": "Inspectrice des finances, ministre dans plusieurs gouvernements depuis 2018"
+  },
+  {
+   "slug": "fleur-pellerin",
+   "nom": "Fleur Pellerin",
+   "genre": "personnalite",
+   "description": "Ministre (2012-2016), fondatrice d'un fonds d'investissement"
+  },
+  {
+   "slug": "julien-aubert",
+   "nom": "Julien Aubert",
+   "genre": "personnalite",
+   "description": "Magistrat à la Cour des comptes, ancien député LR, fondateur d'Oser la France"
+  },
+  {
+   "slug": "alexandre-allegret-pilot",
+   "nom": "Alexandre Allegret-Pilot",
+   "genre": "personnalite",
+   "description": "Député UDR (allié du RN) depuis 2024"
+  },
+  {
+   "slug": "aquilino-morelle",
+   "nom": "Aquilino Morelle",
+   "genre": "personnalite",
+   "description": "Conseiller de Lionel Jospin à Matignon puis conseiller politique de François Hollande à l'Élysée (2012-2014)"
+  },
+  {
+   "slug": "jacques-toubon",
+   "nom": "Jacques Toubon",
+   "genre": "personnalite",
+   "description": "Ancien ministre de la Justice, Défenseur des droits (2014-2020)"
+  },
+  {
+   "slug": "dominique-perben",
+   "nom": "Dominique Perben",
+   "genre": "personnalite",
+   "description": "Ancien ministre de la Justice (2002-2005)"
+  }
+ ],
+ "organisations_nouvelles": [
+  {
+   "id": "ena-promotion-stendhal",
+   "nom": "ENA — promotion Stendhal (1963-1965)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-charles-de-gaulle",
+   "nom": "ENA — promotion Charles-de-Gaulle (1970-1972)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-voltaire",
+   "nom": "ENA — promotion Voltaire (1978-1980)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-louise-michel",
+   "nom": "ENA — promotion Louise-Michel (1982-1984)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-leonard-de-vinci",
+   "nom": "ENA — promotion Léonard-de-Vinci (1983-1985)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-liberte-egalite-fraternite",
+   "nom": "ENA — promotion Liberté-Égalité-Fraternité (1987-1989)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-victor-hugo",
+   "nom": "ENA — promotion Victor-Hugo (1989-1991)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-condorcet",
+   "nom": "ENA — promotion Condorcet (1990-1992)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-victor-schoelcher",
+   "nom": "ENA — promotion Victor-Schœlcher (1994-1996)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-marc-bloch",
+   "nom": "ENA — promotion Marc-Bloch (1995-1997)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-valmy",
+   "nom": "ENA — promotion Valmy (1996-1998)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-averroes",
+   "nom": "ENA — promotion Averroès (1998-2000)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-nelson-mandela",
+   "nom": "ENA — promotion Nelson-Mandela (1999-2001)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-senghor",
+   "nom": "ENA — promotion Léopold-Sédar-Senghor (2002-2004)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-willy-brandt",
+   "nom": "ENA — promotion Willy-Brandt (2007-2009)",
+   "type": "formation"
+  },
+  {
+   "id": "ena-promotion-moliere",
+   "nom": "ENA — promotion Molière (2017-2019)",
+   "type": "formation"
+  },
+  {
+   "id": "ens-ulm",
+   "nom": "École normale supérieure (rue d'Ulm)",
+   "type": "formation"
+  },
+  {
+   "id": "inspection-generale-des-finances",
+   "nom": "Inspection générale des finances",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "conseil-d-etat",
+   "nom": "Conseil d'État",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "cour-des-comptes",
+   "nom": "Cour des comptes",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "corps-diplomatique",
+   "nom": "Corps diplomatique (ministère des Affaires étrangères)",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "corps-des-ponts",
+   "nom": "Corps des ponts, des eaux et des forêts",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "inspection-generale-des-affaires-sociales",
+   "nom": "Inspection générale des affaires sociales",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "inspection-generale-de-l-administration",
+   "nom": "Inspection générale de l'administration",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "tribunaux-administratifs",
+   "nom": "Corps des tribunaux administratifs",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "presidence-de-la-republique",
+   "nom": "Présidence de la République (secrétariat général et cabinet de l'Élysée)",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "cabinet-du-premier-ministre",
+   "nom": "Cabinet du Premier ministre (Matignon)",
+   "type": "haute_fonction_publique"
+  },
+  {
+   "id": "banque-de-france",
+   "nom": "Banque de France",
+   "type": "haute_fonction_publique"
+  }
+ ],
+ "parcours": [
+  {
+   "personne": "lionel-jospin",
+   "organisation": "ena-promotion-stendhal",
+   "type": "formation",
+   "role": "Élève (promotion Stendhal, 1965)",
+   "debut": "1963",
+   "fin": "1965",
+   "source_url": "https://fr.wikipedia.org/wiki/Lionel_Jospin"
+  },
+  {
+   "personne": "jean-pierre-chevenement",
+   "organisation": "ena-promotion-stendhal",
+   "type": "formation",
+   "role": "Élève (promotion Stendhal, 1965)",
+   "debut": "1963",
+   "fin": "1965",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1963-1965"
+  },
+  {
+   "personne": "jacques-toubon",
+   "organisation": "ena-promotion-stendhal",
+   "type": "formation",
+   "role": "Élève (promotion Stendhal, 1965)",
+   "debut": "1963",
+   "fin": "1965",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1963-1965"
+  },
+  {
+   "personne": "ernest-antoine-seilliere",
+   "organisation": "ena-promotion-stendhal",
+   "type": "formation",
+   "role": "Élève (promotion Stendhal, 1965)",
+   "debut": "1963",
+   "fin": "1965",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1963-1965"
+  },
+  {
+   "personne": "alain-juppe",
+   "organisation": "ena-promotion-charles-de-gaulle",
+   "type": "formation",
+   "role": "Élève (promotion Charles-de-Gaulle, 1972)",
+   "debut": "1970",
+   "fin": "1972",
+   "source_url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9"
+  },
+  {
+   "personne": "dominique-perben",
+   "organisation": "ena-promotion-charles-de-gaulle",
+   "type": "formation",
+   "role": "Élève (promotion Charles-de-Gaulle, 1972)",
+   "debut": "1970",
+   "fin": "1972",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1970-1972"
+  },
+  {
+   "personne": "louis-gallois",
+   "organisation": "ena-promotion-charles-de-gaulle",
+   "type": "formation",
+   "role": "Élève (promotion Charles-de-Gaulle, 1972)",
+   "debut": "1970",
+   "fin": "1972",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1970-1972"
+  },
+  {
+   "personne": "francois-hollande",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
+  },
+  {
+   "personne": "segolene-royal",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
+  },
+  {
+   "personne": "dominique-de-villepin",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "michel-sapin",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Michel_Sapin"
+  },
+  {
+   "personne": "jean-pierre-jouyet",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "personne": "pierre-rene-lemas",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1978-1980"
+  },
+  {
+   "personne": "sylvie-hubac",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Hubac"
+  },
+  {
+   "personne": "pierre-mongin",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Mongin"
+  },
+  {
+   "personne": "henri-de-castries",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Henri_de_Castries"
+  },
+  {
+   "personne": "renaud-donnedieu-de-vabres",
+   "organisation": "ena-promotion-voltaire",
+   "type": "formation",
+   "role": "Élève (promotion Voltaire, 1980)",
+   "debut": "1978",
+   "fin": "1980",
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "pierre-moscovici",
+   "organisation": "ena-promotion-louise-michel",
+   "type": "formation",
+   "role": "Élève (promotion Louise-Michel, 1984)",
+   "debut": "1982",
+   "fin": "1984",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Moscovici"
+  },
+  {
+   "personne": "francois-villeroy-de-galhau",
+   "organisation": "ena-promotion-louise-michel",
+   "type": "formation",
+   "role": "Élève (promotion Louise-Michel, 1984)",
+   "debut": "1982",
+   "fin": "1984",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1982-1984"
+  },
+  {
+   "personne": "philippe-bas",
+   "organisation": "ena-promotion-louise-michel",
+   "type": "formation",
+   "role": "Élève (promotion Louise-Michel, 1984)",
+   "debut": "1982",
+   "fin": "1984",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1982-1984"
+  },
+  {
+   "personne": "francois-asselineau",
+   "organisation": "ena-promotion-leonard-de-vinci",
+   "type": "formation",
+   "role": "Élève (promotion Léonard-de-Vinci, 1985)",
+   "debut": "1983",
+   "fin": "1985",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+  },
+  {
+   "personne": "xavier-musca",
+   "organisation": "ena-promotion-leonard-de-vinci",
+   "type": "formation",
+   "role": "Élève (promotion Léonard-de-Vinci, 1985)",
+   "debut": "1983",
+   "fin": "1985",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1983-1985"
+  },
+  {
+   "personne": "patrick-strzoda",
+   "organisation": "ena-promotion-leonard-de-vinci",
+   "type": "formation",
+   "role": "Élève (promotion Léonard-de-Vinci, 1985)",
+   "debut": "1983",
+   "fin": "1985",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Strzoda"
+  },
+  {
+   "personne": "nicolas-dupont-aignan",
+   "organisation": "ena-promotion-liberte-egalite-fraternite",
+   "type": "formation",
+   "role": "Élève (promotion Liberté-Égalité-Fraternité, 1989)",
+   "debut": "1987",
+   "fin": "1989",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+  },
+  {
+   "personne": "jean-francois-cope",
+   "organisation": "ena-promotion-liberte-egalite-fraternite",
+   "type": "formation",
+   "role": "Élève (promotion Liberté-Égalité-Fraternité, 1989)",
+   "debut": "1987",
+   "fin": "1989",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Cop%C3%A9"
+  },
+  {
+   "personne": "sylvie-goulard",
+   "organisation": "ena-promotion-liberte-egalite-fraternite",
+   "type": "formation",
+   "role": "Élève (promotion Liberté-Égalité-Fraternité, 1989)",
+   "debut": "1987",
+   "fin": "1989",
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Goulard"
+  },
+  {
+   "personne": "jean-castex",
+   "organisation": "ena-promotion-victor-hugo",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Hugo, 1991)",
+   "debut": "1989",
+   "fin": "1991",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean_Castex"
+  },
+  {
+   "personne": "frederic-salat-baroux",
+   "organisation": "ena-promotion-victor-hugo",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Hugo, 1991)",
+   "debut": "1989",
+   "fin": "1991",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1989-1991"
+  },
+  {
+   "personne": "valerie-pecresse",
+   "organisation": "ena-promotion-condorcet",
+   "type": "formation",
+   "role": "Élève (promotion Condorcet, 1992)",
+   "debut": "1990",
+   "fin": "1992",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse"
+  },
+  {
+   "personne": "aquilino-morelle",
+   "organisation": "ena-promotion-condorcet",
+   "type": "formation",
+   "role": "Élève (promotion Condorcet, 1992)",
+   "debut": "1990",
+   "fin": "1992",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1990-1992"
+  },
+  {
+   "personne": "jerome-guedj",
+   "organisation": "ena-promotion-victor-schoelcher",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Schœlcher, 1996)",
+   "debut": "1994",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "ena-promotion-victor-schoelcher",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Schœlcher, 1996)",
+   "debut": "1994",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "jerome-fournel",
+   "organisation": "ena-promotion-victor-schoelcher",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Schœlcher, 1996)",
+   "debut": "1994",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1994-1996"
+  },
+  {
+   "personne": "frederic-mion",
+   "organisation": "ena-promotion-victor-schoelcher",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Schœlcher, 1996)",
+   "debut": "1994",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mion"
+  },
+  {
+   "personne": "laurent-solly",
+   "organisation": "ena-promotion-victor-schoelcher",
+   "type": "formation",
+   "role": "Élève (promotion Victor-Schœlcher, 1996)",
+   "debut": "1994",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1994-1996"
+  },
+  {
+   "personne": "edouard-philippe",
+   "organisation": "ena-promotion-marc-bloch",
+   "type": "formation",
+   "role": "Élève (promotion Marc-Bloch, 1997)",
+   "debut": "1995",
+   "fin": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+  },
+  {
+   "personne": "benoit-ribadeau-dumas",
+   "organisation": "ena-promotion-marc-bloch",
+   "type": "formation",
+   "role": "Élève (promotion Marc-Bloch, 1997)",
+   "debut": "1995",
+   "fin": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Ribadeau-Dumas"
+  },
+  {
+   "personne": "emmanuelle-wargon",
+   "organisation": "ena-promotion-marc-bloch",
+   "type": "formation",
+   "role": "Élève (promotion Marc-Bloch, 1997)",
+   "debut": "1995",
+   "fin": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuelle_Wargon"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "ena-promotion-valmy",
+   "type": "formation",
+   "role": "Élève (promotion Valmy, 1998)",
+   "debut": "1996",
+   "fin": "1998",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "david-martinon",
+   "organisation": "ena-promotion-valmy",
+   "type": "formation",
+   "role": "Élève (promotion Valmy, 1998)",
+   "debut": "1996",
+   "fin": "1998",
+   "source_url": "https://fr.wikipedia.org/wiki/David_Martinon"
+  },
+  {
+   "personne": "alexis-kohler",
+   "organisation": "ena-promotion-averroes",
+   "type": "formation",
+   "role": "Élève (promotion Averroès, 2000)",
+   "debut": "1998",
+   "fin": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "personne": "audrey-azoulay",
+   "organisation": "ena-promotion-averroes",
+   "type": "formation",
+   "role": "Élève (promotion Averroès, 2000)",
+   "debut": "1998",
+   "fin": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1998-2000"
+  },
+  {
+   "personne": "agnes-pannier-runacher",
+   "organisation": "ena-promotion-averroes",
+   "type": "formation",
+   "role": "Élève (promotion Averroès, 2000)",
+   "debut": "1998",
+   "fin": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1998-2000"
+  },
+  {
+   "personne": "fleur-pellerin",
+   "organisation": "ena-promotion-averroes",
+   "type": "formation",
+   "role": "Élève (promotion Averroès, 2000)",
+   "debut": "1998",
+   "fin": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1998-2000"
+  },
+  {
+   "personne": "laurent-wauquiez",
+   "organisation": "ena-promotion-nelson-mandela",
+   "type": "formation",
+   "role": "Élève (promotion Nelson-Mandela, 2001)",
+   "debut": "1999",
+   "fin": "2001",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1999-2001"
+  },
+  {
+   "personne": "philippe-gustin",
+   "organisation": "ena-promotion-nelson-mandela",
+   "type": "formation",
+   "role": "Élève (promotion Nelson-Mandela, 2001)",
+   "debut": "1999",
+   "fin": "2001",
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_Gustin"
+  },
+  {
+   "personne": "emmanuel-macron",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "personne": "olivier-becht",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+  },
+  {
+   "personne": "marguerite-berard",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Marguerite_B%C3%A9rard"
+  },
+  {
+   "personne": "sebastien-proto",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Proto"
+  },
+  {
+   "personne": "boris-vallaud",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Boris_Vallaud"
+  },
+  {
+   "personne": "gaspard-gantzer",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Gaspard_Gantzer"
+  },
+  {
+   "personne": "amelie-oudea-castera",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Oud%C3%A9a-Cast%C3%A9ra"
+  },
+  {
+   "personne": "amelie-verdier",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Verdier"
+  },
+  {
+   "personne": "mathias-vicherat",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_2002-2004"
+  },
+  {
+   "personne": "sibyle-veil",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Sibyle_Veil"
+  },
+  {
+   "personne": "nicolas-namias",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Namias"
+  },
+  {
+   "personne": "nicolas-lerner",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_2002-2004"
+  },
+  {
+   "personne": "julien-aubert",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold-Sédar-Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Julien_Aubert"
+  },
+  {
+   "personne": "florian-philippot",
+   "organisation": "ena-promotion-willy-brandt",
+   "type": "formation",
+   "role": "Élève (promotion Willy-Brandt, 2009)",
+   "debut": "2007",
+   "fin": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Florian_Philippot"
+  },
+  {
+   "personne": "clement-beaune",
+   "organisation": "ena-promotion-willy-brandt",
+   "type": "formation",
+   "role": "Élève (promotion Willy-Brandt, 2009)",
+   "debut": "2007",
+   "fin": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Beaune"
+  },
+  {
+   "personne": "aurelien-rousseau",
+   "organisation": "ena-promotion-willy-brandt",
+   "type": "formation",
+   "role": "Élève (promotion Willy-Brandt, 2009)",
+   "debut": "2007",
+   "fin": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "personne": "sarah-knafo",
+   "organisation": "ena-promotion-moliere",
+   "type": "formation",
+   "role": "Élève (promotion Molière, 2019)",
+   "debut": "2017",
+   "fin": "2019",
+   "source_url": "https://fr.wikipedia.org/wiki/Sarah_Knafo"
+  },
+  {
+   "personne": "alexandre-allegret-pilot",
+   "organisation": "ena-promotion-moliere",
+   "type": "formation",
+   "role": "Élève (promotion Molière, 2019)",
+   "debut": "2017",
+   "fin": "2019",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexandre_Allegret-Pilot"
+  },
+  {
+   "personne": "alain-juppe",
+   "organisation": "ens-ulm",
+   "type": "formation",
+   "role": "Élève (lettres classiques, entré en 1964)",
+   "debut": "1964",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "ens-ulm",
+   "type": "formation",
+   "role": "Élève (lettres, entré en 1989)",
+   "debut": "1989",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "laurent-wauquiez",
+   "organisation": "ens-ulm",
+   "type": "formation",
+   "role": "Élève (lettres, entré en 1994)",
+   "debut": "1994",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+  },
+  {
+   "personne": "juan-branco",
+   "organisation": "ens-ulm",
+   "type": "formation",
+   "role": "Étudiant admis par la voie universitaire (2009-2013), thèse soutenue à l'ENS",
+   "debut": "2009",
+   "fin": "2013",
+   "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+  },
+  {
+   "personne": "alain-juppe",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "1972",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9"
+  },
+  {
+   "personne": "henri-de-castries",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Henri_de_Castries"
+  },
+  {
+   "personne": "jean-pierre-jouyet",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances, chef du service de l'IGF (2005-2007)",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "personne": "francois-villeroy-de-galhau",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "1984",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1982-1984"
+  },
+  {
+   "personne": "francois-asselineau",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances, inspecteur général des finances depuis 2001",
+   "debut": "1985",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+  },
+  {
+   "personne": "xavier-musca",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "1985",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Musca"
+  },
+  {
+   "personne": "emmanuel-macron",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "personne": "marguerite-berard",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspectrice des finances",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Marguerite_B%C3%A9rard"
+  },
+  {
+   "personne": "sebastien-proto",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des finances",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Proto"
+  },
+  {
+   "personne": "amelie-verdier",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspectrice des finances",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Verdier"
+  },
+  {
+   "personne": "agnes-pannier-runacher",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspectrice des finances",
+   "debut": "2000",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1998-2000"
+  },
+  {
+   "personne": "pierre-andre-imbert",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Membre de l'Inspection générale des finances",
+   "debut": "2016",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Andr%C3%A9_Imbert"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "inspection-generale-des-finances",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur général des finances",
+   "debut": "2024-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "sylvie-hubac",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Membre du Conseil d'État",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Hubac"
+  },
+  {
+   "personne": "philippe-bas",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Membre du Conseil d'État",
+   "debut": "1984",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_d%27%C3%A9l%C3%A8ves_de_l%27%C3%89cole_nationale_d%27administration#Promotion_1982-1984"
+  },
+  {
+   "personne": "frederic-salat-baroux",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Membre du Conseil d'État (conseiller d'État en 2007)",
+   "debut": "1991",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "personne": "valerie-pecresse",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Auditrice puis maître des requêtes",
+   "debut": "1992",
+   "fin": "2015",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse"
+  },
+  {
+   "personne": "edouard-philippe",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis maître des requêtes",
+   "debut": "1997",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+  },
+  {
+   "personne": "benoit-ribadeau-dumas",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis maître des requêtes",
+   "debut": "1997",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Ribadeau-Dumas"
+  },
+  {
+   "personne": "laurent-wauquiez",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur (2001) puis maître des requêtes (2004)",
+   "debut": "2001",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+  },
+  {
+   "personne": "sibyle-veil",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Membre du Conseil d'État",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Sibyle_Veil"
+  },
+  {
+   "personne": "aurelien-rousseau",
+   "organisation": "conseil-d-etat",
+   "type": "haute_fonction_publique",
+   "role": "Membre du Conseil d'État",
+   "debut": "2009",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "personne": "jacques-chirac",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis conseiller référendaire",
+   "debut": "1959",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+  },
+  {
+   "personne": "philippe-seguin",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis conseiller référendaire",
+   "debut": "1970",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_S%C3%A9guin"
+  },
+  {
+   "personne": "philippe-seguin",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Premier président",
+   "debut": "2004",
+   "fin": "2010-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_S%C3%A9guin"
+  },
+  {
+   "personne": "francois-hollande",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis conseiller référendaire (1984)",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
+  },
+  {
+   "personne": "pierre-moscovici",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Magistrat (conseiller maître en 2003)",
+   "debut": "1984",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Moscovici"
+  },
+  {
+   "personne": "pierre-moscovici",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Premier président",
+   "debut": "2020-06",
+   "fin": "2026-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Moscovici"
+  },
+  {
+   "personne": "didier-migaud",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Premier président",
+   "debut": "2010-02",
+   "fin": "2020-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Didier_Migaud"
+  },
+  {
+   "personne": "jean-castex",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Auditeur puis conseiller référendaire",
+   "debut": "1991",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jean_Castex"
+  },
+  {
+   "personne": "nicolas-revel",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller maître (2010)",
+   "debut": "1993",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Revel"
+  },
+  {
+   "personne": "amelie-oudea-castera",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Auditrice puis magistrate (démission en 2018)",
+   "debut": "2004",
+   "fin": "2018-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Oud%C3%A9a-Cast%C3%A9ra"
+  },
+  {
+   "personne": "julien-aubert",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Magistrat",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Julien_Aubert"
+  },
+  {
+   "personne": "sarah-knafo",
+   "organisation": "cour-des-comptes",
+   "type": "haute_fonction_publique",
+   "role": "Magistrate",
+   "debut": "2019",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Sarah_Knafo"
+  },
+  {
+   "personne": "lionel-jospin",
+   "organisation": "corps-diplomatique",
+   "type": "haute_fonction_publique",
+   "role": "Diplomate (sortie de l'ENA dans le corps des Affaires étrangères)",
+   "debut": "1965",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Lionel_Jospin"
+  },
+  {
+   "personne": "dominique-de-villepin",
+   "organisation": "corps-diplomatique",
+   "type": "haute_fonction_publique",
+   "role": "Diplomate (sortie de l'ENA dans le corps des Affaires étrangères)",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "corps-diplomatique",
+   "type": "haute_fonction_publique",
+   "role": "Diplomate (sortie de l'ENA dans le corps des Affaires étrangères)",
+   "debut": "1998",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "david-martinon",
+   "organisation": "corps-diplomatique",
+   "type": "haute_fonction_publique",
+   "role": "Diplomate (sortie de l'ENA dans le corps des Affaires étrangères)",
+   "debut": "1998",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/David_Martinon"
+  },
+  {
+   "personne": "elisabeth-borne",
+   "organisation": "corps-des-ponts",
+   "type": "haute_fonction_publique",
+   "role": "Ingénieure des ponts et chaussées (polytechnicienne, promotion X1981), ingénieure générale en 2007",
+   "debut": "1986",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+  },
+  {
+   "personne": "jerome-guedj",
+   "organisation": "inspection-generale-des-affaires-sociales",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur des affaires sociales",
+   "debut": "1996",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj"
+  },
+  {
+   "personne": "florian-philippot",
+   "organisation": "inspection-generale-de-l-administration",
+   "type": "haute_fonction_publique",
+   "role": "Inspecteur de l'administration",
+   "debut": "2009",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Florian_Philippot"
+  },
+  {
+   "personne": "segolene-royal",
+   "organisation": "tribunaux-administratifs",
+   "type": "haute_fonction_publique",
+   "role": "Conseillère au tribunal administratif de Paris",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal"
+  },
+  {
+   "personne": "michel-sapin",
+   "organisation": "tribunaux-administratifs",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller au tribunal administratif de Paris",
+   "debut": "1980",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Michel_Sapin"
+  },
+  {
+   "personne": "olivier-becht",
+   "organisation": "tribunaux-administratifs",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller puis premier conseiller au tribunal administratif de Nancy",
+   "debut": "2004",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+  },
+  {
+   "personne": "francois-villeroy-de-galhau",
+   "organisation": "banque-de-france",
+   "type": "haute_fonction_publique",
+   "role": "Gouverneur",
+   "debut": "2015-11",
+   "fin": "2026-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Villeroy_de_Galhau"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "banque-de-france",
+   "type": "haute_fonction_publique",
+   "role": "Gouverneur",
+   "debut": "2026-06",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "dominique-de-villepin",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (Jacques Chirac)",
+   "debut": "1995-05",
+   "fin": "2002-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "valerie-pecresse",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Chargée de mission puis conseillère technique (Jacques Chirac)",
+   "debut": "1998",
+   "fin": "2002",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse"
+  },
+  {
+   "personne": "philippe-bas",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (Jacques Chirac)",
+   "debut": "2002-05",
+   "fin": "2005-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "personne": "frederic-salat-baroux",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (2002-2005) puis secrétaire général (Jacques Chirac)",
+   "debut": "2002-05",
+   "fin": "2007-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "personne": "david-martinon",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Porte-parole de l'Élysée (Nicolas Sarkozy)",
+   "debut": "2007-05",
+   "fin": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/David_Martinon"
+  },
+  {
+   "personne": "marguerite-berard",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseillère technique puis conseillère emploi et protection sociale (Nicolas Sarkozy)",
+   "debut": "2007",
+   "fin": "2010",
+   "source_url": "https://fr.wikipedia.org/wiki/Marguerite_B%C3%A9rard"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller économique (Nicolas Sarkozy)",
+   "debut": "2009-06",
+   "fin": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "xavier-musca",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (2009) puis secrétaire général (Nicolas Sarkozy)",
+   "debut": "2009-02",
+   "fin": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Musca"
+  },
+  {
+   "personne": "jean-castex",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (Nicolas Sarkozy)",
+   "debut": "2011-02",
+   "fin": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean_Castex"
+  },
+  {
+   "personne": "pierre-rene-lemas",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (François Hollande)",
+   "debut": "2012-05",
+   "fin": "2014-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Ren%C3%A9_Lemas"
+  },
+  {
+   "personne": "emmanuel-macron",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (François Hollande)",
+   "debut": "2012-05",
+   "fin": "2014",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "personne": "nicolas-revel",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (François Hollande)",
+   "debut": "2012-05",
+   "fin": "2014",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Revel"
+  },
+  {
+   "personne": "sylvie-hubac",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Directrice du cabinet du président (François Hollande)",
+   "debut": "2012-05",
+   "fin": "2015",
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Hubac"
+  },
+  {
+   "personne": "aquilino-morelle",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller politique (François Hollande)",
+   "debut": "2012-05",
+   "fin": "2014-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Aquilino_Morelle"
+  },
+  {
+   "personne": "jean-pierre-jouyet",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (François Hollande)",
+   "debut": "2014-04",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "personne": "gaspard-gantzer",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller presse, chef du pôle communication (François Hollande)",
+   "debut": "2014-04",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Gaspard_Gantzer"
+  },
+  {
+   "personne": "audrey-azoulay",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseillère culture (François Hollande)",
+   "debut": "2014",
+   "fin": "2016",
+   "source_url": "https://fr.wikipedia.org/wiki/Audrey_Azoulay"
+  },
+  {
+   "personne": "boris-vallaud",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général adjoint (François Hollande)",
+   "debut": "2014-11",
+   "fin": "2016-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Boris_Vallaud"
+  },
+  {
+   "personne": "alexis-kohler",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (Emmanuel Macron)",
+   "debut": "2017-05",
+   "fin": "2025-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "personne": "patrick-strzoda",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet du président (Emmanuel Macron)",
+   "debut": "2017-05",
+   "fin": "2024-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Strzoda"
+  },
+  {
+   "personne": "clement-beaune",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller Europe puis G20 (Emmanuel Macron)",
+   "debut": "2017",
+   "fin": "2020",
+   "source_url": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Beaune"
+  },
+  {
+   "personne": "pierre-andre-imbert",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller social (2017), secrétaire général adjoint (2020-2023) (Emmanuel Macron)",
+   "debut": "2017",
+   "fin": "2023-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Andr%C3%A9_Imbert"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (Emmanuel Macron)",
+   "debut": "2025-04",
+   "fin": "2026-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "pierre-andre-imbert",
+   "organisation": "presidence-de-la-republique",
+   "type": "haute_fonction_publique",
+   "role": "Secrétaire général de la présidence (Emmanuel Macron)",
+   "debut": "2026-05",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Andr%C3%A9_Imbert"
+  },
+  {
+   "personne": "jean-pierre-jouyet",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur adjoint du cabinet de Lionel Jospin",
+   "debut": "1997",
+   "fin": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "personne": "aquilino-morelle",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Conseiller de Lionel Jospin",
+   "debut": "1997",
+   "fin": "2002",
+   "source_url": "https://fr.wikipedia.org/wiki/Aquilino_Morelle"
+  },
+  {
+   "personne": "pierre-mongin",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Dominique de Villepin",
+   "debut": "2005-05",
+   "fin": "2006-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_directeurs_de_cabinet_du_Premier_ministre_fran%C3%A7ais"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Dominique de Villepin",
+   "debut": "2006-07",
+   "fin": "2007-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_directeurs_de_cabinet_du_Premier_ministre_fran%C3%A7ais"
+  },
+  {
+   "personne": "aurelien-rousseau",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur adjoint du cabinet de Manuel Valls puis de Bernard Cazeneuve",
+   "debut": "2015-10",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "personne": "patrick-strzoda",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Bernard Cazeneuve",
+   "debut": "2016-12",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Strzoda"
+  },
+  {
+   "personne": "benoit-ribadeau-dumas",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet d'Édouard Philippe",
+   "debut": "2017-05",
+   "fin": "2020-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Ribadeau-Dumas"
+  },
+  {
+   "personne": "nicolas-revel",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Jean Castex",
+   "debut": "2020-07",
+   "fin": "2022-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_directeurs_de_cabinet_du_Premier_ministre_fran%C3%A7ais"
+  },
+  {
+   "personne": "aurelien-rousseau",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet d'Élisabeth Borne",
+   "debut": "2022-05",
+   "fin": "2023-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "personne": "emmanuel-moulin",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Gabriel Attal",
+   "debut": "2024-01",
+   "fin": "2024-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "personne": "jerome-fournel",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Michel Barnier",
+   "debut": "2024-09",
+   "fin": "2024-12",
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Fournel"
+  },
+  {
+   "personne": "philippe-gustin",
+   "organisation": "cabinet-du-premier-ministre",
+   "type": "haute_fonction_publique",
+   "role": "Directeur du cabinet de Sébastien Lecornu",
+   "debut": "2025-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_Gustin"
+  },
+  {
+   "personne": "jean-pierre-jouyet",
+   "organisation": "gouvernement-fillon",
+   "type": "gouvernement",
+   "role": "Secrétaire d'État chargé des Affaires européennes",
+   "debut": "2007-05",
+   "fin": "2008-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "personne": "amelie-oudea-castera",
+   "organisation": "gouvernement-borne",
+   "type": "gouvernement",
+   "role": "Ministre des Sports et des Jeux olympiques et paralympiques",
+   "debut": "2022-05",
+   "fin": "2024-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Oud%C3%A9a-Cast%C3%A9ra"
+  },
+  {
+   "personne": "amelie-oudea-castera",
+   "organisation": "gouvernement-attal",
+   "type": "gouvernement",
+   "role": "Ministre de l'Éducation nationale, de la Jeunesse, des Sports et des Jeux olympiques (janvier-février 2024), puis des Sports et des JOP",
+   "debut": "2024-01",
+   "fin": "2024-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Oud%C3%A9a-Cast%C3%A9ra"
+  },
+  {
+   "personne": "aurelien-rousseau",
+   "organisation": "gouvernement-borne",
+   "type": "gouvernement",
+   "role": "Ministre de la Santé et de la Prévention",
+   "debut": "2023-07",
+   "fin": "2023-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "personne": "sylvie-goulard",
+   "organisation": "gouvernement-philippe",
+   "type": "gouvernement",
+   "role": "Ministre des Armées",
+   "debut": "2017-05",
+   "fin": "2017-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Goulard"
+  },
+  {
+   "personne": "philippe-bas",
+   "organisation": "gouvernement-villepin",
+   "type": "gouvernement",
+   "role": "Ministre délégué",
+   "debut": "2005-06",
+   "fin": "2007-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  }
+ ],
+ "relations": [
+  {
+   "source": "dominique-de-villepin",
+   "cible": "jacques-chirac",
+   "type": "collaborateur",
+   "description": "Secrétaire général de l'Élysée auprès de Jacques Chirac de 1995 à 2002.",
+   "date": "1995-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "source": "philippe-bas",
+   "cible": "jacques-chirac",
+   "type": "collaborateur",
+   "description": "Secrétaire général de l'Élysée auprès de Jacques Chirac de 2002 à 2005.",
+   "date": "2002-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "source": "frederic-salat-baroux",
+   "cible": "jacques-chirac",
+   "type": "collaborateur",
+   "description": "Conseiller social (2000), secrétaire général adjoint (2002-2005) puis secrétaire général de l'Élysée (2005-2007) auprès de Jacques Chirac.",
+   "date": "2005-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "source": "frederic-salat-baroux",
+   "cible": "philippe-bas",
+   "type": "succession",
+   "description": "Succède à Philippe Bas comme secrétaire général de l'Élysée en juin 2005.",
+   "date": "2005-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Salat-Baroux"
+  },
+  {
+   "source": "valerie-pecresse",
+   "cible": "jacques-chirac",
+   "type": "collaborateur",
+   "description": "Chargée de mission puis conseillère technique à l'Élysée auprès de Jacques Chirac (1998-2002).",
+   "date": "1998",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_P%C3%A9cresse"
+  },
+  {
+   "source": "xavier-musca",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Secrétaire général adjoint (2009) puis secrétaire général de l'Élysée (2011-2012) auprès de Nicolas Sarkozy.",
+   "date": "2011-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Musca"
+  },
+  {
+   "source": "jean-castex",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Secrétaire général adjoint de l'Élysée auprès de Nicolas Sarkozy (2011-2012).",
+   "date": "2011-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean_Castex"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Conseiller puis chef du pôle économique à l'Élysée auprès de Nicolas Sarkozy (2009-2012).",
+   "date": "2009-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "marguerite-berard",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Conseillère emploi et protection sociale à l'Élysée sous Nicolas Sarkozy (2007-2010).",
+   "date": "2007",
+   "source_url": "https://fr.wikipedia.org/wiki/Marguerite_B%C3%A9rard"
+  },
+  {
+   "source": "david-martinon",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Porte-parole de l'Élysée après l'élection de Nicolas Sarkozy (nommé le 16 mai 2007).",
+   "date": "2007-05",
+   "source_url": "https://fr.wikipedia.org/wiki/David_Martinon"
+  },
+  {
+   "source": "laurent-solly",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Chef de cabinet de Nicolas Sarkozy au ministère de l'Intérieur (2005) puis directeur adjoint de sa campagne présidentielle de 2007.",
+   "date": "2005",
+   "source_url": "https://fr.wikipedia.org/wiki/Laurent_Solly"
+  },
+  {
+   "source": "sebastien-proto",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Cheville ouvrière du programme économique des campagnes présidentielles de Nicolas Sarkozy en 2007 et 2012.",
+   "date": "2007",
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Proto"
+  },
+  {
+   "source": "pierre-rene-lemas",
+   "cible": "francois-hollande",
+   "type": "nomination",
+   "description": "Nommé secrétaire général de l'Élysée par François Hollande le 15 mai 2012, puis directeur général de la Caisse des dépôts en 2014.",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Ren%C3%A9_Lemas"
+  },
+  {
+   "source": "pierre-rene-lemas",
+   "cible": "xavier-musca",
+   "type": "succession",
+   "description": "Succède à Xavier Musca au secrétariat général de l'Élysée en mai 2012.",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Ren%C3%A9_Lemas"
+  },
+  {
+   "source": "emmanuel-macron",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Secrétaire général adjoint de l'Élysée auprès de François Hollande (2012-2014).",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "source": "nicolas-revel",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Secrétaire général adjoint de l'Élysée auprès de François Hollande (2012-2014), en tandem avec Emmanuel Macron.",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Revel"
+  },
+  {
+   "source": "sylvie-hubac",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Directrice du cabinet du président François Hollande (2012-2015), camarade de la promotion Voltaire.",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Sylvie_Hubac"
+  },
+  {
+   "source": "aquilino-morelle",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Conseiller politique de François Hollande à l'Élysée (2012-2014), après avoir rédigé des discours de sa campagne de 2012.",
+   "date": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Aquilino_Morelle"
+  },
+  {
+   "source": "aquilino-morelle",
+   "cible": "lionel-jospin",
+   "type": "collaborateur",
+   "description": "Conseiller de Lionel Jospin à Matignon (1997-2002).",
+   "date": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/Aquilino_Morelle"
+  },
+  {
+   "source": "jean-pierre-jouyet",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Secrétaire général de l'Élysée auprès de François Hollande (2014-2017), camarade de la promotion Voltaire.",
+   "date": "2014-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "source": "jean-pierre-jouyet",
+   "cible": "lionel-jospin",
+   "type": "collaborateur",
+   "description": "Directeur adjoint du cabinet du Premier ministre Lionel Jospin (1997-2000).",
+   "date": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "source": "jean-pierre-jouyet",
+   "cible": "pierre-rene-lemas",
+   "type": "succession",
+   "description": "Succède à Pierre-René Lemas au secrétariat général de l'Élysée en avril 2014.",
+   "date": "2014-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Ren%C3%A9_Lemas"
+  },
+  {
+   "source": "jean-pierre-jouyet",
+   "cible": "emmanuel-macron",
+   "type": "nomination",
+   "description": "Nommé ambassadeur de France au Royaume-Uni (2017-2019) sous la présidence d'Emmanuel Macron.",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Jouyet"
+  },
+  {
+   "source": "gaspard-gantzer",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Conseiller presse et chef du pôle communication de l'Élysée auprès de François Hollande (2014-2017).",
+   "date": "2014-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Gaspard_Gantzer"
+  },
+  {
+   "source": "audrey-azoulay",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Conseillère culture de François Hollande à l'Élysée (2014-2016).",
+   "date": "2014",
+   "source_url": "https://fr.wikipedia.org/wiki/Audrey_Azoulay"
+  },
+  {
+   "source": "boris-vallaud",
+   "cible": "francois-hollande",
+   "type": "collaborateur",
+   "description": "Secrétaire général adjoint de l'Élysée auprès de François Hollande (2014-2016).",
+   "date": "2014-11",
+   "source_url": "https://fr.wikipedia.org/wiki/Boris_Vallaud"
+  },
+  {
+   "source": "boris-vallaud",
+   "cible": "arnaud-montebourg",
+   "type": "collaborateur",
+   "description": "Directeur général des services du conseil général de Saône-et-Loire (2008-2012) puis directeur de cabinet d'Arnaud Montebourg à Bercy (2012-2014).",
+   "date": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Boris_Vallaud"
+  },
+  {
+   "source": "alexis-kohler",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet d'Emmanuel Macron au ministère de l'Économie (2014-2016), puis secrétaire général de l'Élysée (2017-2025).",
+   "date": "2014-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "source": "patrick-strzoda",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Directeur du cabinet du président Emmanuel Macron (mai 2017 - janvier 2024).",
+   "date": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Strzoda"
+  },
+  {
+   "source": "patrick-strzoda",
+   "cible": "bernard-cazeneuve",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Bernard Cazeneuve au ministère de l'Intérieur (2016) puis à Matignon (décembre 2016 - mai 2017).",
+   "date": "2016-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Strzoda"
+  },
+  {
+   "source": "clement-beaune",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Conseiller au cabinet d'Emmanuel Macron à Bercy, puis conseiller Europe et G20 à l'Élysée (2017-2020).",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Beaune"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Secrétaire général de l'Élysée (avril 2025 - mai 2026), puis proposé par Emmanuel Macron et nommé gouverneur de la Banque de France (juin 2026).",
+   "date": "2025-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "alexis-kohler",
+   "type": "succession",
+   "description": "Succède à Alexis Kohler comme secrétaire général de l'Élysée le 15 avril 2025.",
+   "date": "2025-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "francois-villeroy-de-galhau",
+   "type": "succession",
+   "description": "Succède à François Villeroy de Galhau comme gouverneur de la Banque de France le 2 juin 2026.",
+   "date": "2026-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "gabriel-attal",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet du Premier ministre Gabriel Attal (janvier - septembre 2024).",
+   "date": "2024-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "emmanuel-moulin",
+   "cible": "bruno-le-maire",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Bruno Le Maire au ministère de l'Économie et des Finances (2017-2020).",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "pierre-andre-imbert",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Conseiller social (2017), secrétaire général adjoint (2020-2023), puis secrétaire général de l'Élysée depuis le 4 mai 2026.",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Andr%C3%A9_Imbert"
+  },
+  {
+   "source": "pierre-andre-imbert",
+   "cible": "emmanuel-moulin",
+   "type": "succession",
+   "description": "Succède à Emmanuel Moulin comme secrétaire général de l'Élysée le 4 mai 2026.",
+   "date": "2026-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Moulin"
+  },
+  {
+   "source": "jerome-fournel",
+   "cible": "michel-barnier",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet du Premier ministre Michel Barnier (septembre - décembre 2024).",
+   "date": "2024-09",
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Fournel"
+  },
+  {
+   "source": "jerome-fournel",
+   "cible": "bruno-le-maire",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Bruno Le Maire au ministère de l'Économie et des Finances (janvier - septembre 2024).",
+   "date": "2024-01",
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Fournel"
+  },
+  {
+   "source": "jerome-fournel",
+   "cible": "gerald-darmanin",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Gérald Darmanin, ministre de l'Action et des Comptes publics (2017-2019).",
+   "date": "2017",
+   "source_url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Fournel"
+  },
+  {
+   "source": "benoit-ribadeau-dumas",
+   "cible": "edouard-philippe",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet du Premier ministre Édouard Philippe (2017-2020), son camarade de la promotion Marc-Bloch de l'ENA.",
+   "date": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Ribadeau-Dumas"
+  },
+  {
+   "source": "nicolas-revel",
+   "cible": "jean-castex",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet du Premier ministre Jean Castex (2020-2022).",
+   "date": "2020-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_directeurs_de_cabinet_du_Premier_ministre_fran%C3%A7ais"
+  },
+  {
+   "source": "aurelien-rousseau",
+   "cible": "elisabeth-borne",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de la Première ministre Élisabeth Borne (2022-2023), puis ministre de la Santé dans son gouvernement (juillet - décembre 2023).",
+   "date": "2022-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "source": "aurelien-rousseau",
+   "cible": "bernard-cazeneuve",
+   "type": "collaborateur",
+   "description": "Directeur adjoint de cabinet et conseiller social du Premier ministre Bernard Cazeneuve (décembre 2016 - mai 2017), après avoir occupé ce poste auprès de Manuel Valls.",
+   "date": "2016-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Rousseau"
+  },
+  {
+   "source": "philippe-gustin",
+   "cible": "sebastien-lecornu",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Sébastien Lecornu au conseil départemental de l'Eure (2015), aux Outre-mer (2020), aux Armées (2022) puis à Matignon (depuis septembre 2025).",
+   "date": "2015",
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_Gustin"
+  },
+  {
+   "source": "pierre-mongin",
+   "cible": "dominique-de-villepin",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Dominique de Villepin au ministère de l'Intérieur (2004) puis à Matignon (2005-2006) ; camarade de la promotion Voltaire.",
+   "date": "2004-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Mongin"
+  },
+  {
+   "source": "bruno-le-maire",
+   "cible": "dominique-de-villepin",
+   "type": "collaborateur",
+   "description": "Conseiller de Dominique de Villepin aux Affaires étrangères et à l'Intérieur, puis directeur de son cabinet à Matignon (2006-2007).",
+   "date": "2006-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "source": "bruno-le-maire",
+   "cible": "pierre-mongin",
+   "type": "succession",
+   "description": "Succède à Pierre Mongin comme directeur du cabinet du Premier ministre Dominique de Villepin en juillet 2006.",
+   "date": "2006-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Liste_des_directeurs_de_cabinet_du_Premier_ministre_fran%C3%A7ais"
+  },
+  {
+   "source": "marguerite-berard",
+   "cible": "xavier-bertrand",
+   "type": "collaborateur",
+   "description": "Directrice de cabinet de Xavier Bertrand, ministre du Travail, de l'Emploi et de la Santé (2010).",
+   "date": "2010",
+   "source_url": "https://fr.wikipedia.org/wiki/Marguerite_B%C3%A9rard"
+  },
+  {
+   "source": "sebastien-proto",
+   "cible": "valerie-pecresse",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de Valérie Pécresse, ministre du Budget (2011-2012).",
+   "date": "2011",
+   "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Proto"
+  },
+  {
+   "source": "amelie-verdier",
+   "cible": "bernard-cazeneuve",
+   "type": "collaborateur",
+   "description": "Directrice de cabinet des ministres délégués au Budget Jérôme Cahuzac puis Bernard Cazeneuve (2012-2014).",
+   "date": "2013",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Verdier"
+  },
+  {
+   "source": "amelie-verdier",
+   "cible": "jerome-fournel",
+   "type": "succession",
+   "description": "Succède à Jérôme Fournel à la tête de la DGFiP en février 2024.",
+   "date": "2024-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Verdier"
+  },
+  {
+   "source": "mathias-vicherat",
+   "cible": "anne-hidalgo",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet de la maire de Paris Anne Hidalgo à partir de 2014 (après Bertrand Delanoë).",
+   "date": "2014",
+   "source_url": "https://fr.wikipedia.org/wiki/Mathias_Vicherat"
+  },
+  {
+   "source": "amelie-oudea-castera",
+   "cible": "henri-de-castries",
+   "type": "professionnel",
+   "description": "Quitte la Cour des comptes pour rejoindre Axa, dirigé par Henri de Castries (direction marketing puis digital d'Axa France à partir de 2008).",
+   "date": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Am%C3%A9lie_Oud%C3%A9a-Cast%C3%A9ra"
+  },
+  {
+   "source": "pierre-moscovici",
+   "cible": "emmanuel-macron",
+   "type": "nomination",
+   "description": "Nommé premier président de la Cour des comptes par Emmanuel Macron en juin 2020.",
+   "date": "2020-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Moscovici"
+  },
+  {
+   "source": "pierre-moscovici",
+   "cible": "didier-migaud",
+   "type": "succession",
+   "description": "Succède à Didier Migaud comme premier président de la Cour des comptes (2020).",
+   "date": "2020-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre_Moscovici"
+  },
+  {
+   "source": "didier-migaud",
+   "cible": "nicolas-sarkozy",
+   "type": "nomination",
+   "description": "Nommé premier président de la Cour des comptes par Nicolas Sarkozy le 23 février 2010.",
+   "date": "2010-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Didier_Migaud"
+  },
+  {
+   "source": "didier-migaud",
+   "cible": "philippe-seguin",
+   "type": "succession",
+   "description": "Succède à Philippe Séguin, mort en fonctions, à la tête de la Cour des comptes (2010).",
+   "date": "2010-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Didier_Migaud"
+  }
+ ],
+ "notes": "Sources : fiches Wikipédia individuelles et « Liste d'élèves de l'École nationale d'administration » (promotions et corps de sortie), « Liste des directeurs de cabinet du Premier ministre français » (arrêtés JORF cités). Aucune relation n'est créée entre simples camarades de promotion : le lien se déduit du parcours commun (organisation ena-promotion-*). Non énarques parmi les personnalités demandées : Bernard Cazeneuve, Xavier Bertrand, Bruno Retailleau, Gabriel Attal, Sébastien Lecornu, Élisabeth Borne (polytechnicienne, corps des ponts), ainsi que les autres candidats 2027 hors liste ci-dessus ; ils sont reliés via leurs directeurs de cabinet (Strzoda, Verdier, Rousseau pour Cazeneuve ; Bérard pour Bertrand ; Moulin pour Attal ; Gustin pour Lecornu ; Rousseau pour Borne). Aucun candidat 2027 n'est issu de l'INSP (créé en 2022). Promotion de Sarah Knafo : sa fiche indique « Molière (2018-2020) », la liste des promotions donne Molière = 2017-2019 et elle sort en 2019 : retenu « sortie 2019 ». Jérôme Fournel et Laurent Solly : appartenance à la promotion Victor-Schœlcher attestée seulement par la liste Wikipédia. Date d'entrée d'Élisabeth Borne dans le corps des ponts : 1986 = diplôme de l'ENPC (sortie de Polytechnique en 1984). Juan Branco : admis à l'ENS par la voie universitaire (normalien étudiant, non fonctionnaire stagiaire). Dates de fin approximatives : Martinon porte-parole de l'Élysée (2008), Hubac (2015), Beaune (2020). Pierre Moscovici quitte la Cour des comptes pour la Cour des comptes européenne en janvier 2026 ; Emmanuel Moulin secrétaire général de l'Élysée jusqu'au 4 mai 2026, gouverneur de la Banque de France depuis le 2 juin 2026 ; Pierre-André Imbert secrétaire général depuis le 4 mai 2026. Écartés : HEC (Pécresse, Asselineau, Castries : peu discriminant), Polytechnique (Borne, Ribadeau-Dumas), Sciences Po ; lien familial Frédéric Salat-Baroux / Jacques Chirac (gendre, mariage avec Claude Chirac en 2011) et couple Boris Vallaud / Najat Vallaud-Belkacem laissés au thème familles ; Aurélien Rousseau est marié à Marguerite Cazeneuve, sans lien de parenté connu avec Bernard Cazeneuve (non saisi). Le couple Hollande-Royal (rencontrés à l'ENA, promotion Voltaire) figure déjà dans familles.json : non dupliqué ici. Les mentions « camarade de promotion » de Michel Sapin collaborateur de François Hollande après 2017 sont jugées trop imprécises sur Wikipédia et non saisies.",
+ "verifie_le": "2026-10-12"
+}

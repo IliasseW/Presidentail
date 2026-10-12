@@ -1,0 +1,1295 @@
+{
+ "personnes_nouvelles": [
+  {
+   "slug": "xavier-niel",
+   "nom": "Xavier Niel",
+   "genre": "acteur",
+   "description": "Fondateur d'Iliad (Free), président de son conseil d'administration depuis 2019"
+  },
+  {
+   "slug": "bernard-arnault",
+   "nom": "Bernard Arnault",
+   "genre": "acteur",
+   "description": "Président-directeur général de LVMH depuis 1989"
+  },
+  {
+   "slug": "delphine-arnault",
+   "nom": "Delphine Arnault",
+   "genre": "acteur",
+   "description": "Administratrice de LVMH depuis 2003, PDG de Christian Dior Couture depuis 2023"
+  },
+  {
+   "slug": "vincent-bollore",
+   "nom": "Vincent Bolloré",
+   "genre": "acteur",
+   "description": "Industriel, PDG du groupe Bolloré (1981-2019), ancien président du conseil de surveillance de Vivendi"
+  },
+  {
+   "slug": "patrick-drahi",
+   "nom": "Patrick Drahi",
+   "genre": "acteur",
+   "description": "Fondateur et président d'Altice"
+  },
+  {
+   "slug": "rodolphe-saade",
+   "nom": "Rodolphe Saadé",
+   "genre": "acteur",
+   "description": "Président-directeur général de CMA CGM depuis 2017"
+  },
+  {
+   "slug": "francois-pinault",
+   "nom": "François Pinault",
+   "genre": "acteur",
+   "description": "Fondateur du groupe Pinault et de la holding Artémis"
+  },
+  {
+   "slug": "francois-henri-pinault",
+   "nom": "François-Henri Pinault",
+   "genre": "acteur",
+   "description": "Président d'Artémis depuis 2003 et PDG de Kering (ex-PPR) depuis 2005"
+  },
+  {
+   "slug": "martin-bouygues",
+   "nom": "Martin Bouygues",
+   "genre": "acteur",
+   "description": "PDG du groupe Bouygues (1989-2021), président depuis 2021"
+  },
+  {
+   "slug": "matthieu-pigasse",
+   "nom": "Matthieu Pigasse",
+   "genre": "acteur",
+   "description": "Banquier d'affaires (Lazard 2002-2019, Centerview Partners depuis 2020), ancien membre de cabinets ministériels"
+  },
+  {
+   "slug": "pierre-edouard-sterin",
+   "nom": "Pierre-Édouard Stérin",
+   "genre": "acteur",
+   "description": "Fondateur de Smartbox et d'Otium Capital, initiateur du projet Périclès"
+  },
+  {
+   "slug": "daniel-kretinsky",
+   "nom": "Daniel Křetínský",
+   "genre": "acteur",
+   "description": "Homme d'affaires tchèque, président et actionnaire principal d'EPH"
+  },
+  {
+   "slug": "alexis-kohler",
+   "nom": "Alexis Kohler",
+   "genre": "acteur",
+   "description": "Haut fonctionnaire, secrétaire général de l'Élysée (2017-2025), directeur général adjoint de la Société générale depuis 2025"
+  },
+  {
+   "slug": "francois-henrot",
+   "nom": "François Henrot",
+   "genre": "acteur",
+   "description": "Banquier, dirigeant de Rothschild & Cie, a recruté Emmanuel Macron en 2008"
+  },
+  {
+   "slug": "david-de-rothschild",
+   "nom": "David de Rothschild",
+   "genre": "acteur",
+   "description": "Président de Rothschild & Cie (1982-2018)"
+  },
+  {
+   "slug": "serge-weinberg",
+   "nom": "Serge Weinberg",
+   "genre": "acteur",
+   "description": "Fondateur de Weinberg Capital Partners, ancien président du directoire de PPR et président de Sanofi (2010-2023)"
+  },
+  {
+   "slug": "jacques-attali",
+   "nom": "Jacques Attali",
+   "genre": "acteur",
+   "description": "Économiste et essayiste, président de la commission pour la libération de la croissance française (2007-2010)"
+  },
+  {
+   "slug": "henry-hermand",
+   "nom": "Henry Hermand",
+   "genre": "acteur",
+   "description": "Homme d'affaires (immobilier commercial), mort en 2016"
+  },
+  {
+   "slug": "bernard-mourad",
+   "nom": "Bernard Mourad",
+   "genre": "acteur",
+   "description": "Banquier d'affaires, président d'Altice Media Group (2015-2016)"
+  },
+  {
+   "slug": "christian-dargnat",
+   "nom": "Christian Dargnat",
+   "genre": "acteur",
+   "description": "Ancien directeur général de BNP Paribas Asset Management, président de l'association de financement d'En Marche !"
+  },
+  {
+   "slug": "nicolas-bazire",
+   "nom": "Nicolas Bazire",
+   "genre": "acteur",
+   "description": "Directeur général du groupe Arnault depuis 1999, ancien directeur de cabinet d'Édouard Balladur"
+  },
+  {
+   "slug": "anne-lauvergeon",
+   "nom": "Anne Lauvergeon",
+   "genre": "acteur",
+   "description": "Présidente du directoire d'Areva (2001-2011), ancienne sherpa de François Mitterrand"
+  },
+  {
+   "slug": "francois-durvye",
+   "nom": "François Durvye",
+   "genre": "acteur",
+   "description": "Directeur général d'Otium Capital (2022-2026), conseiller de Jordan Bardella en 2026"
+  },
+  {
+   "slug": "arnaud-rerolle",
+   "nom": "Arnaud Rérolle",
+   "genre": "acteur",
+   "description": "Directeur général de Périclès"
+  },
+  {
+   "slug": "jean-jacques-aillagon",
+   "nom": "Jean-Jacques Aillagon",
+   "genre": "personnalite",
+   "description": "Ministre de la Culture (2002-2004), directeur général de Pinault Collection depuis 2018"
+  },
+  {
+   "slug": "hubert-vedrine",
+   "nom": "Hubert Védrine",
+   "genre": "personnalite",
+   "description": "Secrétaire général de l'Élysée (1991-1995), ministre des Affaires étrangères (1997-2002), administrateur de LVMH"
+  },
+  {
+   "slug": "bernadette-chirac",
+   "nom": "Bernadette Chirac",
+   "genre": "personnalite",
+   "description": "Conseillère générale de la Corrèze (1979-2015), administratrice de LVMH (2010-2019)"
+  },
+  {
+   "slug": "laurent-fabius",
+   "nom": "Laurent Fabius",
+   "genre": "personnalite",
+   "description": "Ancien Premier ministre et ministre de l'Économie"
+  },
+  {
+   "slug": "dominique-strauss-kahn",
+   "nom": "Dominique Strauss-Kahn",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Économie et des Finances (1997-1999)"
+  },
+  {
+   "slug": "pierre-moscovici",
+   "nom": "Pierre Moscovici",
+   "genre": "personnalite",
+   "description": "Ancien ministre de l'Économie et des Finances (2012-2014)"
+  },
+  {
+   "slug": "edouard-balladur",
+   "nom": "Édouard Balladur",
+   "genre": "personnalite",
+   "description": "Premier ministre (1993-1995), candidat à l'élection présidentielle de 1995"
+  }
+ ],
+ "organisations_nouvelles": [
+  {
+   "id": "rothschild-et-cie",
+   "nom": "Rothschild & Cie (Rothschild & Co)",
+   "type": "entreprise"
+  },
+  {
+   "id": "lazard",
+   "nom": "Lazard",
+   "type": "entreprise"
+  },
+  {
+   "id": "centerview-partners",
+   "nom": "Centerview Partners",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-lvmh",
+   "nom": "LVMH",
+   "type": "entreprise"
+  },
+  {
+   "id": "christian-dior-couture",
+   "nom": "Christian Dior Couture",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-bollore",
+   "nom": "Groupe Bolloré",
+   "type": "entreprise"
+  },
+  {
+   "id": "vivendi",
+   "nom": "Vivendi",
+   "type": "entreprise"
+  },
+  {
+   "id": "iliad-free",
+   "nom": "Iliad (Free)",
+   "type": "entreprise"
+  },
+  {
+   "id": "altice",
+   "nom": "Altice",
+   "type": "entreprise"
+  },
+  {
+   "id": "cma-cgm",
+   "nom": "CMA CGM",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-artemis",
+   "nom": "Artémis (holding de la famille Pinault)",
+   "type": "entreprise"
+  },
+  {
+   "id": "kering",
+   "nom": "Kering (ex-Pinault-Printemps-Redoute)",
+   "type": "entreprise"
+  },
+  {
+   "id": "pinault-collection",
+   "nom": "Pinault Collection",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-bouygues",
+   "nom": "Groupe Bouygues",
+   "type": "entreprise"
+  },
+  {
+   "id": "eph",
+   "nom": "Energetický a průmyslový holding (EPH)",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-casino",
+   "nom": "Groupe Casino",
+   "type": "entreprise"
+  },
+  {
+   "id": "fnac-darty",
+   "nom": "Fnac Darty",
+   "type": "entreprise"
+  },
+  {
+   "id": "smartbox",
+   "nom": "Smartbox (Smart&Co)",
+   "type": "entreprise"
+  },
+  {
+   "id": "otium-capital",
+   "nom": "Otium Capital",
+   "type": "entreprise"
+  },
+  {
+   "id": "fonds-du-bien-commun",
+   "nom": "Fonds du Bien commun",
+   "type": "association"
+  },
+  {
+   "id": "pericles",
+   "nom": "Périclès (projet de Pierre-Édouard Stérin)",
+   "type": "association"
+  },
+  {
+   "id": "politicae",
+   "nom": "Politicae (formation d'élus locaux)",
+   "type": "formation"
+  },
+  {
+   "id": "msc",
+   "nom": "Mediterranean Shipping Company (MSC)",
+   "type": "entreprise"
+  },
+  {
+   "id": "societe-generale",
+   "nom": "Société générale",
+   "type": "entreprise"
+  },
+  {
+   "id": "sanofi",
+   "nom": "Sanofi",
+   "type": "entreprise"
+  },
+  {
+   "id": "commission-attali",
+   "nom": "Commission pour la libération de la croissance française (commission Attali)",
+   "type": "autre"
+  },
+  {
+   "id": "areva",
+   "nom": "Areva",
+   "type": "entreprise"
+  },
+  {
+   "id": "debevoise-et-plimpton",
+   "nom": "Debevoise & Plimpton",
+   "type": "entreprise"
+  },
+  {
+   "id": "atos",
+   "nom": "Atos",
+   "type": "entreprise"
+  },
+  {
+   "id": "august-debouzy",
+   "nom": "August Debouzy (cabinet d'avocats)",
+   "type": "entreprise"
+  },
+  {
+   "id": "club-des-juristes",
+   "nom": "Club des juristes",
+   "type": "think_tank"
+  },
+  {
+   "id": "villepin-international",
+   "nom": "Villepin International",
+   "type": "entreprise"
+  },
+  {
+   "id": "universal-credit-rating-group",
+   "nom": "Universal Credit Rating Group",
+   "type": "entreprise"
+  },
+  {
+   "id": "sncf",
+   "nom": "SNCF",
+   "type": "entreprise"
+  },
+  {
+   "id": "eiffage",
+   "nom": "Eiffage",
+   "type": "entreprise"
+  },
+  {
+   "id": "ratp",
+   "nom": "RATP",
+   "type": "entreprise"
+  },
+  {
+   "id": "axa",
+   "nom": "AXA",
+   "type": "entreprise"
+  },
+  {
+   "id": "swiss-life",
+   "nom": "Swiss Life",
+   "type": "entreprise"
+  },
+  {
+   "id": "asml",
+   "nom": "ASML",
+   "type": "entreprise"
+  },
+  {
+   "id": "macro-advisory-partners",
+   "nom": "Macro Advisory Partners",
+   "type": "entreprise"
+  },
+  {
+   "id": "e4s-lausanne",
+   "nom": "Centre Enterprise for Society (E4S, Université de Lausanne / IMD / EPFL)",
+   "type": "formation"
+  },
+  {
+   "id": "tikehau-capital",
+   "nom": "Tikehau Capital",
+   "type": "entreprise"
+  },
+  {
+   "id": "zarubezhneft",
+   "nom": "Zarubezhneft",
+   "type": "entreprise"
+  },
+  {
+   "id": "sibur",
+   "nom": "Sibur",
+   "type": "entreprise"
+  },
+  {
+   "id": "accor",
+   "nom": "Accor",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-barriere",
+   "nom": "Groupe Barrière",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-lagardere",
+   "nom": "Groupe Lagardère",
+   "type": "entreprise"
+  },
+  {
+   "id": "puy-du-fou",
+   "nom": "Puy du Fou",
+   "type": "entreprise"
+  },
+  {
+   "id": "bitglass",
+   "nom": "Bitglass",
+   "type": "entreprise"
+  },
+  {
+   "id": "bank-of-america-france",
+   "nom": "Bank of America (Paris)",
+   "type": "entreprise"
+  }
+ ],
+ "parcours": [
+  {
+   "personne": "edouard-philippe",
+   "organisation": "debevoise-et-plimpton",
+   "type": "entreprise",
+   "role": "Avocat",
+   "debut": "2004",
+   "fin": "2007",
+   "source_url": "https://fr.wikipedia.org/wiki/Édouard_Philippe"
+  },
+  {
+   "personne": "edouard-philippe",
+   "organisation": "areva",
+   "type": "entreprise",
+   "role": "Directeur des affaires publiques",
+   "debut": "2007",
+   "fin": "2010",
+   "source_url": "https://fr.wikipedia.org/wiki/Édouard_Philippe"
+  },
+  {
+   "personne": "edouard-philippe",
+   "organisation": "atos",
+   "type": "entreprise",
+   "role": "Administrateur indépendant",
+   "debut": "2020-10",
+   "fin": "2023",
+   "source_url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/MKW/2023/05/FCMKW110500_20230517.pdf"
+  },
+  {
+   "personne": "elisabeth-borne",
+   "organisation": "sncf",
+   "type": "entreprise",
+   "role": "Directrice de la stratégie",
+   "debut": "2002",
+   "fin": "2007",
+   "source_url": "https://fr.wikipedia.org/wiki/Élisabeth_Borne"
+  },
+  {
+   "personne": "elisabeth-borne",
+   "organisation": "eiffage",
+   "type": "entreprise",
+   "role": "Directrice des concessions",
+   "debut": "2007",
+   "fin": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Élisabeth_Borne"
+  },
+  {
+   "personne": "elisabeth-borne",
+   "organisation": "ratp",
+   "type": "entreprise",
+   "role": "Présidente-directrice générale",
+   "debut": "2015-05",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Élisabeth_Borne"
+  },
+  {
+   "personne": "bernard-cazeneuve",
+   "organisation": "august-debouzy",
+   "type": "entreprise",
+   "role": "Avocat associé (contentieux, arbitrage, pénal des affaires)",
+   "debut": "2017-07",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+  },
+  {
+   "personne": "bernard-cazeneuve",
+   "organisation": "club-des-juristes",
+   "type": "think_tank",
+   "role": "Président",
+   "debut": "2018",
+   "fin": "2023",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+  },
+  {
+   "personne": "dominique-de-villepin",
+   "organisation": "villepin-international",
+   "type": "entreprise",
+   "role": "Fondateur et dirigeant (cabinet d'avocat ouvert en 2008, devenu société de conseil commerciale en juillet 2015)",
+   "debut": "2008",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "dominique-de-villepin",
+   "organisation": "universal-credit-rating-group",
+   "type": "entreprise",
+   "role": "Président du comité consultatif international",
+   "debut": "2013",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "e4s-lausanne",
+   "type": "formation",
+   "role": "Professeur invité",
+   "debut": "2024-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "asml",
+   "type": "entreprise",
+   "role": "Conseiller stratégique extérieur",
+   "debut": "2025-01",
+   "fin": "2025-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "bruno-le-maire",
+   "organisation": "macro-advisory-partners",
+   "type": "entreprise",
+   "role": "Conseiller senior",
+   "debut": "2026-01",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+  },
+  {
+   "personne": "xavier-bertrand",
+   "organisation": "axa",
+   "type": "entreprise",
+   "role": "Agent général d'assurances",
+   "debut": "1992",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+  },
+  {
+   "personne": "xavier-bertrand",
+   "organisation": "swiss-life",
+   "type": "entreprise",
+   "role": "Agent général d'assurances",
+   "debut": "1992",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+  },
+  {
+   "personne": "bruno-retailleau",
+   "organisation": "puy-du-fou",
+   "type": "entreprise",
+   "role": "Metteur en scène de la Cinéscénie (1987), président de la société du Grand Parc (1989)",
+   "debut": "1987",
+   "fin": "2010-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+  },
+  {
+   "personne": "karim-bouamrane",
+   "organisation": "bitglass",
+   "type": "entreprise",
+   "role": "Directeur pour l'Europe du Sud",
+   "debut": "2018",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+  },
+  {
+   "personne": "emmanuel-macron",
+   "organisation": "commission-attali",
+   "type": "autre",
+   "role": "Rapporteur général adjoint, puis membre (2010)",
+   "debut": "2007-08",
+   "fin": "2010",
+   "source_url": "https://fr.wikipedia.org/wiki/Commission_pour_la_libération_de_la_croissance_française"
+  },
+  {
+   "personne": "emmanuel-macron",
+   "organisation": "rothschild-et-cie",
+   "type": "entreprise",
+   "role": "Banquier d'affaires, associé-gérant à partir de fin 2010",
+   "debut": "2008-09",
+   "fin": "2012-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "personne": "francois-fillon",
+   "organisation": "tikehau-capital",
+   "type": "entreprise",
+   "role": "Senior associate",
+   "debut": "2017-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/François_Fillon"
+  },
+  {
+   "personne": "francois-fillon",
+   "organisation": "zarubezhneft",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2021-07",
+   "fin": "2022-02",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Fillon"
+  },
+  {
+   "personne": "francois-fillon",
+   "organisation": "sibur",
+   "type": "entreprise",
+   "role": "Administrateur indépendant",
+   "debut": "2021-12",
+   "fin": "2022-02",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Fillon"
+  },
+  {
+   "personne": "nicolas-sarkozy",
+   "organisation": "accor",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration, président du comité de la stratégie internationale",
+   "debut": "2017-02",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy"
+  },
+  {
+   "personne": "nicolas-sarkozy",
+   "organisation": "groupe-barriere",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2019-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy"
+  },
+  {
+   "personne": "nicolas-sarkozy",
+   "organisation": "groupe-lagardere",
+   "type": "entreprise",
+   "role": "Membre du conseil de surveillance puis du conseil d'administration",
+   "debut": "2020-02",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy"
+  },
+  {
+   "personne": "philippe-de-villiers",
+   "organisation": "puy-du-fou",
+   "type": "entreprise",
+   "role": "Fondateur",
+   "debut": "1978",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Puy_du_Fou"
+  },
+  {
+   "personne": "jean-jacques-aillagon",
+   "organisation": "gouvernement-raffarin",
+   "type": "gouvernement",
+   "role": "Ministre de la Culture et de la Communication",
+   "debut": "2002-05",
+   "fin": "2004-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Jacques_Aillagon"
+  },
+  {
+   "personne": "jean-jacques-aillagon",
+   "organisation": "pinault-collection",
+   "type": "entreprise",
+   "role": "Directeur général (conseiller de François Pinault depuis 2004)",
+   "debut": "2018",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Jacques_Aillagon"
+  },
+  {
+   "personne": "bernadette-chirac",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2010-04",
+   "fin": "2019",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernadette_Chirac"
+  },
+  {
+   "personne": "hubert-vedrine",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2005",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Hubert_Védrine"
+  },
+  {
+   "personne": "francois-henrot",
+   "organisation": "rothschild-et-cie",
+   "type": "entreprise",
+   "role": "Associé-gérant, bras droit de David de Rothschild, puis senior advisor (2010)",
+   "debut": "1997",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/François_Henrot"
+  },
+  {
+   "personne": "david-de-rothschild",
+   "organisation": "rothschild-et-cie",
+   "type": "entreprise",
+   "role": "Fondateur et président",
+   "debut": "1982",
+   "fin": "2018",
+   "source_url": "https://fr.wikipedia.org/wiki/David_de_Rothschild"
+  },
+  {
+   "personne": "nicolas-bazire",
+   "organisation": "rothschild-et-cie",
+   "type": "entreprise",
+   "role": "Associé-gérant",
+   "debut": "1995",
+   "fin": "1999",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Bazire"
+  },
+  {
+   "personne": "nicolas-bazire",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Directeur général du groupe Arnault, membre du comité exécutif de LVMH",
+   "debut": "1999",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Bazire"
+  },
+  {
+   "personne": "serge-weinberg",
+   "organisation": "kering",
+   "type": "entreprise",
+   "role": "Président du directoire de Pinault-Printemps-Redoute",
+   "debut": "1995",
+   "fin": "2005",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Weinberg"
+  },
+  {
+   "personne": "serge-weinberg",
+   "organisation": "sanofi",
+   "type": "entreprise",
+   "role": "Président du conseil d'administration",
+   "debut": "2010-05",
+   "fin": "2023-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Weinberg"
+  },
+  {
+   "personne": "serge-weinberg",
+   "organisation": "commission-attali",
+   "type": "autre",
+   "role": "Membre",
+   "debut": "2007-08",
+   "fin": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Weinberg"
+  },
+  {
+   "personne": "jacques-attali",
+   "organisation": "commission-attali",
+   "type": "autre",
+   "role": "Président",
+   "debut": "2007-08",
+   "fin": "2010",
+   "source_url": "https://fr.wikipedia.org/wiki/Commission_pour_la_libération_de_la_croissance_française"
+  },
+  {
+   "personne": "anne-lauvergeon",
+   "organisation": "lazard",
+   "type": "entreprise",
+   "role": "Associée-gérante",
+   "debut": "1995",
+   "fin": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/Anne_Lauvergeon"
+  },
+  {
+   "personne": "anne-lauvergeon",
+   "organisation": "areva",
+   "type": "entreprise",
+   "role": "Présidente du directoire (fondatrice du groupe)",
+   "debut": "2001-07",
+   "fin": "2011-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Anne_Lauvergeon"
+  },
+  {
+   "personne": "anne-lauvergeon",
+   "organisation": "commission-attali",
+   "type": "autre",
+   "role": "Membre",
+   "debut": "2007-08",
+   "fin": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Commission_pour_la_libération_de_la_croissance_française"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "lazard",
+   "type": "entreprise",
+   "role": "Associé-gérant, puis dirigeant de Lazard France (2010-2019)",
+   "debut": "2002",
+   "fin": "2019-12",
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "centerview-partners",
+   "type": "entreprise",
+   "role": "Codirigeant du bureau de Paris",
+   "debut": "2020-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "personne": "alexis-kohler",
+   "organisation": "msc",
+   "type": "entreprise",
+   "role": "Directeur financier",
+   "debut": "2016-08",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "personne": "alexis-kohler",
+   "organisation": "societe-generale",
+   "type": "entreprise",
+   "role": "Directeur général adjoint, président de la banque d'investissement",
+   "debut": "2025-06",
+   "fin": null,
+   "source_url": "https://www.societegenerale.com/sites/default/files/pdf-gouvernance/biographie-alexis-kohler.pdf"
+  },
+  {
+   "personne": "bernard-mourad",
+   "organisation": "altice",
+   "type": "entreprise",
+   "role": "Président d'Altice Media Group",
+   "debut": "2015-01",
+   "fin": "2016-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Mourad"
+  },
+  {
+   "personne": "bernard-mourad",
+   "organisation": "bank-of-america-france",
+   "type": "entreprise",
+   "role": "Directeur général du siège parisien",
+   "debut": "2018-12",
+   "fin": "2020-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Mourad"
+  },
+  {
+   "personne": "christian-dargnat",
+   "organisation": "renaissance",
+   "type": "parti",
+   "role": "Président de l'association de financement d'En Marche !",
+   "debut": "2016",
+   "fin": null,
+   "source_url": "https://www.europe1.fr/node/331475"
+  },
+  {
+   "personne": "bernard-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "1989-01",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Arnault"
+  },
+  {
+   "personne": "delphine-arnault",
+   "organisation": "groupe-lvmh",
+   "type": "entreprise",
+   "role": "Membre du conseil d'administration",
+   "debut": "2003",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "personne": "delphine-arnault",
+   "organisation": "christian-dior-couture",
+   "type": "entreprise",
+   "role": "Présidente-directrice générale",
+   "debut": "2023-01",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Arnault"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "iliad-free",
+   "type": "entreprise",
+   "role": "Fondateur, président du conseil d'administration depuis 2019",
+   "debut": "1990",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "groupe-bollore",
+   "type": "entreprise",
+   "role": "Président-directeur général",
+   "debut": "1981",
+   "fin": "2019-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Vincent_Bolloré"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "vivendi",
+   "type": "entreprise",
+   "role": "Président du conseil de surveillance",
+   "debut": "2014-06",
+   "fin": "2018-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Vincent_Bolloré"
+  },
+  {
+   "personne": "patrick-drahi",
+   "organisation": "altice",
+   "type": "entreprise",
+   "role": "Fondateur et président",
+   "debut": "2001-05",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Drahi"
+  },
+  {
+   "personne": "rodolphe-saade",
+   "organisation": "cma-cgm",
+   "type": "entreprise",
+   "role": "Président-directeur général (directeur général depuis février 2017)",
+   "debut": "2017-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saadé"
+  },
+  {
+   "personne": "francois-pinault",
+   "organisation": "groupe-artemis",
+   "type": "entreprise",
+   "role": "Fondateur et président",
+   "debut": "1992",
+   "fin": "2003-05",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Pinault"
+  },
+  {
+   "personne": "francois-henri-pinault",
+   "organisation": "groupe-artemis",
+   "type": "entreprise",
+   "role": "Président",
+   "debut": "2003-05",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/François_Pinault"
+  },
+  {
+   "personne": "francois-henri-pinault",
+   "organisation": "kering",
+   "type": "entreprise",
+   "role": "Président du directoire puis PDG",
+   "debut": "2005-03",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/François_Pinault"
+  },
+  {
+   "personne": "martin-bouygues",
+   "organisation": "groupe-bouygues",
+   "type": "entreprise",
+   "role": "Président-directeur général, puis président (2021)",
+   "debut": "1989-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "eph",
+   "type": "entreprise",
+   "role": "Président et actionnaire principal",
+   "debut": "2009",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_Křetínský"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "groupe-casino",
+   "type": "entreprise",
+   "role": "Actionnaire (4,6 % en 2019, 10 % fin 2020)",
+   "debut": "2019-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_Křetínský"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "fnac-darty",
+   "type": "entreprise",
+   "role": "Actionnaire principal (plus de 13 % en 2022, 28,5 % en 2026)",
+   "debut": "2022-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_Křetínský"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "smartbox",
+   "type": "entreprise",
+   "role": "Fondateur",
+   "debut": "2003",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Édouard_Stérin"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "otium-capital",
+   "type": "entreprise",
+   "role": "Fondateur",
+   "debut": "2009",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Édouard_Stérin"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "fonds-du-bien-commun",
+   "type": "association",
+   "role": "Fondateur",
+   "debut": "2021",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Édouard_Stérin"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "pericles",
+   "type": "association",
+   "role": "Initiateur et financeur (150 M€ sur dix ans selon le document révélé en 2024)",
+   "debut": "2023-07",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Pierre-Édouard_Stérin"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "politicae",
+   "type": "formation",
+   "role": "Financeur indirect via Périclès, qui y a investi plusieurs centaines de milliers d'euros",
+   "debut": "2024",
+   "fin": null,
+   "source_url": "https://www.publicsenat.fr/actualites/politique/nous-navons-pas-le-moindre-objectif-en-ce-qui-concerne-les-elections-assure-le-directeur-de-pericles-lorgane-dinfluence-de-pierre-edouard-sterin"
+  },
+  {
+   "personne": "arnaud-rerolle",
+   "organisation": "pericles",
+   "type": "association",
+   "role": "Directeur général",
+   "debut": "2024",
+   "fin": null,
+   "source_url": "https://www.publicsenat.fr/actualites/politique/nous-navons-pas-le-moindre-objectif-en-ce-qui-concerne-les-elections-assure-le-directeur-de-pericles-lorgane-dinfluence-de-pierre-edouard-sterin"
+  },
+  {
+   "personne": "francois-durvye",
+   "organisation": "otium-capital",
+   "type": "entreprise",
+   "role": "Directeur général",
+   "debut": "2022",
+   "fin": "2026-04",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Durvye"
+  },
+  {
+   "personne": "francois-durvye",
+   "organisation": "fn-rn",
+   "type": "parti",
+   "role": "Conseiller spécial de Jordan Bardella",
+   "debut": "2026-04",
+   "fin": "2026-08",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Durvye"
+  }
+ ],
+ "relations": [
+  {
+   "source": "francois-henrot",
+   "cible": "emmanuel-macron",
+   "type": "professionnel",
+   "description": "François Henrot a recruté Emmanuel Macron chez Rothschild & Cie en 2008 et soutenu sa promotion comme associé-gérant.",
+   "date": "2008-09",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Henrot"
+  },
+  {
+   "source": "serge-weinberg",
+   "cible": "emmanuel-macron",
+   "type": "professionnel",
+   "description": "Membre de la commission Attali où il rencontre Emmanuel Macron, il contribue à le faire entrer à la banque Rothschild en 2008.",
+   "date": "2008",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Weinberg"
+  },
+  {
+   "source": "emmanuel-macron",
+   "cible": "jacques-attali",
+   "type": "collaborateur",
+   "description": "Rapporteur général adjoint de la commission pour la libération de la croissance française présidée par Jacques Attali ; Attali fait partie de ceux qui l'ont recommandé chez Rothschild.",
+   "date": "2007-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+  },
+  {
+   "source": "francois-henrot",
+   "cible": "david-de-rothschild",
+   "type": "professionnel",
+   "description": "Bras droit de David de Rothschild à la tête de Rothschild & Cie.",
+   "date": "1997",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Henrot"
+  },
+  {
+   "source": "henry-hermand",
+   "cible": "emmanuel-macron",
+   "type": "financement",
+   "description": "Lui a prêté de l'argent pour l'achat d'un appartement et a été parmi les premiers financeurs du mouvement En Marche !, auquel il a prêté des locaux.",
+   "date": "2016",
+   "source_url": "https://fr.wikipedia.org/wiki/Henry_Hermand"
+  },
+  {
+   "source": "bernard-mourad",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Rejoint la campagne d'Emmanuel Macron comme conseiller spécial en octobre 2016, chargé notamment de la collecte de fonds.",
+   "date": "2016-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Mourad"
+  },
+  {
+   "source": "bernard-mourad",
+   "cible": "patrick-drahi",
+   "type": "professionnel",
+   "description": "Président d'Altice Media Group, groupe de médias de Patrick Drahi, de janvier 2015 à octobre 2016.",
+   "date": "2015-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Bernard_Mourad"
+  },
+  {
+   "source": "christian-dargnat",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Président de l'association de financement d'En Marche ! et chargé de la collecte de fonds pour la campagne présidentielle de 2017.",
+   "date": "2016",
+   "source_url": "https://www.europe1.fr/node/331475"
+  },
+  {
+   "source": "alexis-kohler",
+   "cible": "emmanuel-macron",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet d'Emmanuel Macron à Bercy (2014-2016), puis secrétaire général de l'Élysée (2017-2025).",
+   "date": "2014-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "source": "alexis-kohler",
+   "cible": "pierre-moscovici",
+   "type": "collaborateur",
+   "description": "Directeur adjoint du cabinet de Pierre Moscovici, ministre de l'Économie, à partir de 2012.",
+   "date": "2012",
+   "source_url": "https://fr.wikipedia.org/wiki/Alexis_Kohler"
+  },
+  {
+   "source": "matthieu-pigasse",
+   "cible": "dominique-strauss-kahn",
+   "type": "collaborateur",
+   "description": "Conseiller technique au cabinet de Dominique Strauss-Kahn, ministre de l'Économie et des Finances.",
+   "date": "1998",
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "source": "matthieu-pigasse",
+   "cible": "laurent-fabius",
+   "type": "collaborateur",
+   "description": "Directeur adjoint du cabinet de Laurent Fabius, ministre de l'Économie et des Finances.",
+   "date": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "source": "matthieu-pigasse",
+   "cible": "segolene-royal",
+   "type": "collaborateur",
+   "description": "Conseille Ségolène Royal lors de la campagne présidentielle de 2007.",
+   "date": "2007",
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "source": "serge-weinberg",
+   "cible": "laurent-fabius",
+   "type": "collaborateur",
+   "description": "Chef de cabinet de Laurent Fabius, ministre du Budget, en 1981-1982.",
+   "date": "1981",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Weinberg"
+  },
+  {
+   "source": "nicolas-bazire",
+   "cible": "edouard-balladur",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet du Premier ministre Édouard Balladur (1993-1995), puis directeur de sa campagne présidentielle de 1995.",
+   "date": "1993-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Bazire"
+  },
+  {
+   "source": "nicolas-bazire",
+   "cible": "bernard-arnault",
+   "type": "professionnel",
+   "description": "Directeur général du groupe Arnault et membre du comité exécutif de LVMH depuis 1999.",
+   "date": "1999",
+   "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Bazire"
+  },
+  {
+   "source": "jean-jacques-aillagon",
+   "cible": "francois-pinault",
+   "type": "professionnel",
+   "description": "Conseiller de François Pinault à partir de 2004 (reprise du Palazzo Grassi), puis directeur général de Pinault Collection depuis 2018.",
+   "date": "2004-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Jean-Jacques_Aillagon"
+  },
+  {
+   "source": "francois-pinault",
+   "cible": "francois-hollande",
+   "type": "soutien",
+   "description": "François Pinault annonce en 2012 son intention de voter pour François Hollande à l'élection présidentielle.",
+   "date": "2012",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Pinault"
+  },
+  {
+   "source": "anne-lauvergeon",
+   "cible": "francois-mitterrand",
+   "type": "collaborateur",
+   "description": "Secrétaire générale adjointe de l'Élysée et sherpa de François Mitterrand (1990-1995).",
+   "date": "1990-11",
+   "source_url": "https://fr.wikipedia.org/wiki/Anne_Lauvergeon"
+  },
+  {
+   "source": "hubert-vedrine",
+   "cible": "francois-mitterrand",
+   "type": "collaborateur",
+   "description": "Secrétaire général de l'Élysée sous François Mitterrand (1991-1995).",
+   "date": "1991-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Hubert_Védrine"
+  },
+  {
+   "source": "pierre-edouard-sterin",
+   "cible": "francois-durvye",
+   "type": "professionnel",
+   "description": "François Durvye a dirigé Otium Capital, la holding d'investissement fondée par Pierre-Édouard Stérin, de 2022 à avril 2026.",
+   "date": "2022",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Durvye"
+  },
+  {
+   "source": "pierre-edouard-sterin",
+   "cible": "arnaud-rerolle",
+   "type": "professionnel",
+   "description": "Arnaud Rérolle dirige Périclès, structure financée par Pierre-Édouard Stérin via Otium.",
+   "date": "2024",
+   "source_url": "https://www.publicsenat.fr/actualites/politique/nous-navons-pas-le-moindre-objectif-en-ce-qui-concerne-les-elections-assure-le-directeur-de-pericles-lorgane-dinfluence-de-pierre-edouard-sterin"
+  },
+  {
+   "source": "francois-durvye",
+   "cible": "marine-le-pen",
+   "type": "collaborateur",
+   "description": "Cité comme conseiller économique officieux de Marine Le Pen à partir de 2021.",
+   "date": "2021",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Durvye"
+  },
+  {
+   "source": "francois-durvye",
+   "cible": "jordan-bardella",
+   "type": "collaborateur",
+   "description": "Conseiller spécial (économie) de Jordan Bardella au Rassemblement national d'avril à août 2026.",
+   "date": "2026-04",
+   "source_url": "https://fr.wikipedia.org/wiki/François_Durvye"
+  },
+  {
+   "source": "francois-durvye",
+   "cible": "marine-le-pen",
+   "type": "rupture",
+   "description": "Écarté de la campagne présidentielle de Marine Le Pen fin août 2026 ; Marine Le Pen déclare l'avoir souhaité.",
+   "date": "2026-08",
+   "source_url": "https://www.publicsenat.fr/actualites/politique/il-netait-pas-fiable-le-depart-du-conseiller-de-jordan-bardella-francois-durvye-de-la-campagne-de-marine-le-pen-rappelle-les-divergences-qui-traversent-le-rn"
+  },
+  {
+   "source": "bruno-retailleau",
+   "cible": "philippe-de-villiers",
+   "type": "professionnel",
+   "description": "Repéré par Philippe de Villiers au Puy du Fou, il y devient son second : metteur en scène de la Cinéscénie (1987) puis président du Grand Parc (1989), jusqu'à son exclusion en 2010.",
+   "date": "1987",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+  }
+ ],
+ "notes": "Périmètre : carrières privées des candidats et liens documentés entre grands patrons/financiers et responsables politiques ; la propriété des médias est laissée à medias.json (Vivendi n'est présent que pour la présidence du conseil de surveillance de V. Bolloré). Incertitudes : (1) É. Borne à la RATP : Wikipédia donne 1er/21 mai 2015 et 17 mai/2 août 2017 selon les passages ; retenu 2015-05 / 2017-05. (2) É. Philippe chez Debevoise & Plimpton : début 2004 sourcé, fin 2007 déduite de son arrivée chez Areva ; départ d'Atos : non-renouvellement de son mandat annoncé en mai 2023 (AMF), fin = 2023. Aucune source trouvée établissant qu'Anne Lauvergeon l'a personnellement recruté : seul le parcours commun chez Areva est saisi (pas de relation directe). (3) D. de Villepin : la date de création de Villepin International n'est pas donnée ; 2008 = ouverture de son cabinet d'avocat, la société devient commerciale en 2015. (4) N. Sarkozy : dates de sortie des conseils d'Accor, Barrière et Lagardère inconnues (fin laissée à null, à vérifier). (5) H. Védrine chez LVMH : Wikipédia hésite entre 2004, 2005 et 2009 ; retenu 2005. (6) F. Fillon chez Tikehau : date de fin inconnue. (7) Montant du prêt d'Henry Hermand à E. Macron (550 000 € souvent cité d'après la déclaration HATVP) non confirmé par la source retenue : non chiffré. (8) A. Rérolle : date de prise de fonctions à Périclès non trouvée (2024 = révélation du projet). (9) F. Durvye : présenté comme conseiller officieux de M. Le Pen depuis 2021 (Wikipédia), conseiller spécial de J. Bardella d'avril à août 2026, écarté de la campagne Le Pen fin août 2026 (Public Sénat, 28/08/2026). Liens écartés : témoins de mariage (B. Arnault, M. Bouygues, N. Bazire pour N. Sarkozy), parrainage d'un enfant, mise à disposition du yacht de V. Bolloré à N. Sarkozy (2007) et du logement de F. Pinault à J. Chirac — faits rapportés mais ne correspondant à aucun type de relation autorisé ou relevant de la vie privée ; lien de beau-frère par alliance V. Bolloré / G. Longuet (passe par des conjoints non publics) ; rencontres de V. Bolloré avec les candidats de droite en 2021 et rôle supposé auprès d'É. Ciotti en 2024 (proximités non qualifiables) ; financement par P.-É. Stérin de l'achat par F. Durvye d'une propriété liée à la famille Le Pen (transaction privée) ; cofondation de Politicae par le député UDR Antoine Valentin (source militante uniquement) ; « proximité » de R. Saadé ou X. Niel avec E. Macron (non factuelle) ; opération Kretinsky-Atos de 2023 (non aboutie) ; mandat de N. Bazire chez Atos (dates incertaines) ; procédure visant A. Kohler (mise en examen pour prise illégale d'intérêts en 2022, sans jugement connu) non saisie comme relation. Candidats sans carrière privée notable trouvée : G. Attal, O. Becht (magistrat administratif, enseignant). Les liens familiaux et de couple Niel/D. Arnault, B. Arnault/D. Arnault, F. Pinault/F.-H. Pinault et J./B. Chirac ne sont pas dupliqués ici : ils figurent dans familles.json (mêmes slugs).",
+ "verifie_le": "2026-10-12"
+}
