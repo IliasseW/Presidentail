@@ -1,0 +1,83 @@
+{
+  "slug": "olivier-becht",
+  "nom": "Olivier Becht",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1997",
+      "fin": "2005",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+    },
+    {
+      "organisation": "agir",
+      "type": "parti",
+      "role": "Cofondateur et porte-parole national",
+      "debut": "2017",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Membre / affilié",
+      "debut": "2022",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+    },
+    {
+      "organisation": "gouvernement-borne",
+      "type": "gouvernement",
+      "role": "Ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger",
+      "debut": "2022-07-04",
+      "fin": "2024-01-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré (« Le Projet France, Refonder ou Périr »)",
+      "debut": "2026-09-24",
+      "fin": null,
+      "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "franck-riester",
+      "cible_nom": "Franck Riester",
+      "type": "succession",
+      "description": "Succède à Franck Riester au Commerce extérieur et à l'Attractivité en juillet 2022 ; Riester reprend ce portefeuille après lui en 2024.",
+      "date": "2022-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Becht"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "agir",
+      "nom": "Agir, la droite constructive",
+      "type": "parti",
+      "president": null,
+      "debut": "2017-11",
+      "fin": null
+    },
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "president": null,
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "franck-riester",
+      "nom": "Franck Riester",
+      "description": "Ancien ministre (Culture, Commerce extérieur), président fondateur d'Agir"
+    }
+  ],
+  "notes": "Relations directes publiques peu documentées. Président du groupe parlementaire Agir ensemble (mai 2020 - juin 2022), président délégué de Mulhouse Alsace Agglomération sous la présidence de Jean-Marie Bockel (2010-2017) : non typés comme relations faute de lien de collaboration explicite. Camarade de promotion d'Emmanuel Macron à l'ENA (promotion Senghor) : non retenu (pas une relation politique). Retour de Riester au Commerce extérieur en 2024 indiqué par l'infobox Wikipédia, non recoupé. Se dit « d'extrême centre », apparenté au groupe EPR (LCP) ; adhésion actuelle à Renaissance à confirmer.",
+  "verifie_le": "2026-10-12"
+}

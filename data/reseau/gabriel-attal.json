@@ -1,0 +1,181 @@
+{
+  "slug": "gabriel-attal",
+  "nom": "Gabriel Attal",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2006",
+      "fin": "2016",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2016",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Porte-parole de LREM",
+      "debut": "2018-01",
+      "fin": "2018-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Président du groupe Ensemble pour la République à l'Assemblée nationale",
+      "debut": "2024-07-13",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Secrétaire général",
+      "debut": "2024-12-08",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Secrétaire d'État auprès du ministre de l'Éducation nationale et de la Jeunesse",
+      "debut": "2018-10-16",
+      "fin": "2020-07-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "gouvernement-castex",
+      "type": "gouvernement",
+      "role": "Secrétaire d'État auprès du Premier ministre, porte-parole du Gouvernement",
+      "debut": "2020-07-06",
+      "fin": "2022-05-20",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "gouvernement-borne",
+      "type": "gouvernement",
+      "role": "Ministre délégué chargé des Comptes publics",
+      "debut": "2022-05-20",
+      "fin": "2023-07-20",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "gouvernement-borne",
+      "type": "gouvernement",
+      "role": "Ministre de l'Éducation nationale et de la Jeunesse",
+      "debut": "2023-07-20",
+      "fin": "2024-01-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "gouvernement-attal",
+      "type": "gouvernement",
+      "role": "Premier ministre",
+      "debut": "2024-01-09",
+      "fin": "2024-09-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré",
+      "debut": "2026-05-22",
+      "fin": null,
+      "source_url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-a-lheure-du-grand-saut-presidentiel"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "nomination",
+      "description": "Nommé Premier ministre par Emmanuel Macron le 9 janvier 2024.",
+      "date": "2024-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "rupture",
+      "description": "Déclare le 6 octobre 2025 sur TF1 ne plus comprendre les décisions du président de la République, actant une prise de distance publique amorcée avec la dissolution de 2024.",
+      "date": "2025-10-06",
+      "source_url": "https://www.france24.com/fr/info-en-continu/20251006-crise-politique-attal-acte-sa-prise-de-distance-d-avec-emmanuel-macron"
+    },
+    {
+      "cible": "elisabeth-borne",
+      "cible_nom": "Élisabeth Borne",
+      "type": "succession",
+      "description": "Succède à Élisabeth Borne comme Premier ministre le 9 janvier 2024.",
+      "date": "2024-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "succession",
+      "description": "Michel Barnier lui succède comme Premier ministre le 5 septembre 2024.",
+      "date": "2024-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "cible": "marisol-touraine",
+      "cible_nom": "Marisol Touraine",
+      "type": "collaborateur",
+      "description": "Conseiller au cabinet de Marisol Touraine, ministre des Affaires sociales et de la Santé, de 2012 à 2017.",
+      "date": "2012",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "soutien",
+      "description": "Adhère au Parti socialiste en 2006 pour soutenir la candidature de Ségolène Royal à la présidentielle 2007.",
+      "date": "2006",
+      "source_url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    },
+    {
+      "cible": "edouard-philippe",
+      "cible_nom": "Édouard Philippe",
+      "type": "rival",
+      "description": "Concurrents déclarés pour la présidentielle 2027 au sein du bloc central ; Attal se dit favorable à une primaire ou un vote de départage que Philippe refuse.",
+      "date": "2026-09",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-main-tendue-dedouard-philippe-rejetee-par-gabriel-attal-et-bruno-retailleau-relance-lidee-dune-primaire"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "president": null,
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017"
+    },
+    {
+      "slug": "marisol-touraine",
+      "nom": "Marisol Touraine",
+      "description": "Ministre des Affaires sociales et de la Santé de 2012 à 2017 (PS)"
+    },
+    {
+      "slug": "michel-barnier",
+      "nom": "Michel Barnier",
+      "description": "Premier ministre de septembre à décembre 2024, ancien ministre des Affaires étrangères"
+    }
+  ],
+  "notes": "Statut de président du groupe EPR en octobre 2026 non vérifié (fin laissée à null). Date exacte d'adhésion à En Marche (2016) varie selon les sources. Attal n'a pas fait partie des gouvernements Bayrou, Lecornu I et II. Rupture avec Élisabeth Borne recensée dans le fichier de Borne (départ de la direction de Renaissance en mai 2026 en désaccord avec la ligne d'Attal). Pas de relation directe documentée avec Bruno Le Maire, Sébastien Lecornu ou François Bayrou hors gouvernements communs.",
+  "verifie_le": "2026-10-12"
+}

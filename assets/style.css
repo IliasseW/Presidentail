@@ -234,6 +234,7 @@ button.link { font: inherit; border: 0; background: none; padding: 0; color: var
 .n-gouv, .n-gouv > * { fill: var(--node-gouv); }
 .n-org, .n-org > * { fill: var(--node-org); }
 .n-perso, .n-perso > * { fill: var(--node-perso); }
+.n-acteur, .n-acteur > * { fill: var(--surface); stroke: var(--node-perso) !important; stroke-width: 2.5px !important; }
 .node.selected > * { stroke: var(--text); stroke-width: 3px; }
 .link { stroke-linecap: round; }
 .l-parcours { stroke: var(--border); stroke-width: 1.2px; }
@@ -242,6 +243,7 @@ button.link { font: inherit; border: 0; background: none; padding: 0; color: var
 .l-conflit { stroke-dasharray: 7 5; }
 .link.hl { stroke: var(--text); stroke-width: 2.5px; }
 .dim { opacity: .12; }
+.label.dim { opacity: .05; }
 .label { font-size: 11px; fill: var(--text); text-anchor: middle; pointer-events: none; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
 .label-gouv, .label-org { font-size: 10px; fill: var(--muted); }
 .label-cand { font-weight: 600; }

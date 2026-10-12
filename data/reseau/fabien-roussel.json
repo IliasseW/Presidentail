@@ -1,0 +1,113 @@
+{
+  "slug": "fabien-roussel",
+  "nom": "Fabien Roussel",
+  "parcours": [
+    {
+      "organisation": "pcf",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1986",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "organisation": "pcf",
+      "type": "parti",
+      "role": "Secrétaire national",
+      "debut": "2018-11",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat (8e, 2,28 %)",
+      "debut": "2022-04",
+      "fin": "2022-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Député réélu sous l'étiquette NUPES",
+      "debut": "2022-06",
+      "fin": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Candidat aux législatives (battu)",
+      "debut": "2024-06",
+      "fin": "2024-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "michelle-demessine",
+      "cible_nom": "Michelle Demessine",
+      "type": "collaborateur",
+      "description": "Conseiller en communication de Michelle Demessine, secrétaire d'État au Tourisme, en 1997, puis son assistant parlementaire au Sénat de 2015 à 2017.",
+      "date": "1997",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "cible": "alain-bocquet",
+      "cible_nom": "Alain Bocquet",
+      "type": "collaborateur",
+      "description": "Attaché parlementaire du député communiste Alain Bocquet à partir de 2001.",
+      "date": "2001",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "cible": "alain-bocquet",
+      "cible_nom": "Alain Bocquet",
+      "type": "succession",
+      "description": "Succède à Alain Bocquet comme député de la 20e circonscription du Nord en 2017, puis comme maire de Saint-Amand-les-Eaux le 30 janvier 2025.",
+      "date": "2017-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "cible": "jean-jacques-candelier",
+      "cible_nom": "Jean-Jacques Candelier",
+      "type": "collaborateur",
+      "description": "Attaché parlementaire du député communiste Jean-Jacques Candelier de 2009 à 2014.",
+      "date": "2009",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+      "cible": "pierre-laurent",
+      "cible_nom": "Pierre Laurent",
+      "type": "succession",
+      "description": "Succède à Pierre Laurent comme secrétaire national du PCF au congrès de novembre 2018.",
+      "date": "2018-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [
+    {
+      "slug": "michelle-demessine",
+      "nom": "Michelle Demessine",
+      "description": "Secrétaire d'État au Tourisme (1997-2001), sénatrice communiste du Nord"
+    },
+    {
+      "slug": "alain-bocquet",
+      "nom": "Alain Bocquet",
+      "description": "Député communiste du Nord, président du groupe communiste à l'Assemblée, maire de Saint-Amand-les-Eaux"
+    },
+    {
+      "slug": "jean-jacques-candelier",
+      "nom": "Jean-Jacques Candelier",
+      "description": "Député communiste du Nord (2007-2017)"
+    },
+    {
+      "slug": "pierre-laurent",
+      "nom": "Pierre Laurent",
+      "description": "Secrétaire national du PCF de 2010 à 2018"
+    }
+  ],
+  "notes": "Reconduit à la tête du PCF en avril 2023 et le 5 juillet 2026 ; candidature 2027 annoncée le 6 septembre 2026 (non saisie). Battu aux législatives 2024 par Guillaume Florquin (RN) : Wikipédia est contradictoire sur l'élimination au 1er ou au 2nd tour, relation « rival » non saisie. Enquête préliminaire du PNF (2022) sur l'emploi d'assistant de Candelier : Roussel nie, non saisi. Tensions publiques avec Mélenchon/LFI (2022-2024) non saisies comme relation directe.",
+  "verifie_le": "2026-10-12"
+}

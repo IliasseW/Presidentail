@@ -1,0 +1,99 @@
+{
+  "slug": "nathalie-arthaud",
+  "nom": "Nathalie Arthaud",
+  "parcours": [
+    {
+      "organisation": "lutte-ouvriere",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1988",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "organisation": "lutte-ouvriere",
+      "type": "parti",
+      "role": "Porte-parole",
+      "debut": "2008-12-08",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidate (9e, 0,56 %)",
+      "debut": "2012-04",
+      "fin": "2012-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidate (10e, 0,64 %)",
+      "debut": "2017-04",
+      "fin": "2017-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidate (12e, 0,56 %)",
+      "debut": "2022-04",
+      "fin": "2022-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "organisation": "europeennes-2024",
+      "type": "election",
+      "role": "Tête de liste Lutte ouvrière (0,49 %)",
+      "debut": "2024-06",
+      "fin": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "arlette-laguiller",
+      "cible_nom": "Arlette Laguiller",
+      "type": "collaborateur",
+      "description": "Porte-parole de la campagne présidentielle d'Arlette Laguiller en 2007.",
+      "date": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "cible": "arlette-laguiller",
+      "cible_nom": "Arlette Laguiller",
+      "type": "succession",
+      "description": "Succède à Arlette Laguiller comme porte-parole nationale de Lutte ouvrière le 8 décembre 2008.",
+      "date": "2008-12-08",
+      "source_url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "president": null,
+      "debut": "2012-04",
+      "fin": "2012-05"
+    },
+    {
+      "id": "europeennes-2024",
+      "nom": "Élections européennes 2024",
+      "type": "election",
+      "president": null,
+      "debut": "2024-06",
+      "fin": "2024-06"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "arlette-laguiller",
+      "nom": "Arlette Laguiller",
+      "description": "Porte-parole de Lutte ouvrière et candidate à six élections présidentielles (1974-2007)"
+    }
+  ],
+  "notes": "Candidature 2027 déclarée le 8 décembre 2025 (non saisie). Jean-Pierre Mercier co-porte-parole depuis 2012 (non saisi). Selon Wikipédia (NPA), le NPA-Révolutionnaires présente Selma Labib après le refus de LO d'une candidature commune derrière Arthaud ; relation non saisie faute de précision. Tête de liste 2024 : rôle déduit de la liste de ses candidatures sur Wikipédia.",
+  "verifie_le": "2026-10-12"
+}

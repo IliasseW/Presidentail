@@ -1,0 +1,173 @@
+{
+  "slug": "elisabeth-borne",
+  "nom": "Élisabeth Borne",
+  "parcours": [
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2017",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Présidente du Conseil national",
+      "debut": "2024-12-08",
+      "fin": "2026-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "territoires-de-progres",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2020",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "batissons-ensemble",
+      "type": "mouvement",
+      "role": "Fondatrice",
+      "debut": "2026",
+      "fin": null,
+      "source_url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-a-lheure-du-grand-saut-presidentiel"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Ministre chargée des Transports, auprès du ministre d'État, ministre de la Transition écologique et solidaire",
+      "debut": "2017-05-17",
+      "fin": "2019-07-16",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Ministre de la Transition écologique et solidaire",
+      "debut": "2019-07-16",
+      "fin": "2020-07-06",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "gouvernement-castex",
+      "type": "gouvernement",
+      "role": "Ministre du Travail, de l'Emploi et de l'Insertion",
+      "debut": "2020-07-06",
+      "fin": "2022-05-16",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "gouvernement-borne",
+      "type": "gouvernement",
+      "role": "Première ministre",
+      "debut": "2022-05-16",
+      "fin": "2024-01-09",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "gouvernement-bayrou",
+      "type": "gouvernement",
+      "role": "Ministre d'État, ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche",
+      "debut": "2024-12-23",
+      "fin": "2025-10-05",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "organisation": "gouvernement-lecornu",
+      "type": "gouvernement",
+      "role": "Ministre d'État, ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche (gouvernement Lecornu I)",
+      "debut": "2025-10-05",
+      "fin": "2025-10-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_I"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "nomination",
+      "description": "Nommée Première ministre par Emmanuel Macron le 16 mai 2022.",
+      "date": "2022-05",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "cible": "jean-castex",
+      "cible_nom": "Jean Castex",
+      "type": "succession",
+      "description": "Succède à Jean Castex comme Première ministre en mai 2022.",
+      "date": "2022-05",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "cible": "gabriel-attal",
+      "cible_nom": "Gabriel Attal",
+      "type": "succession",
+      "description": "Gabriel Attal lui succède comme Premier ministre le 9 janvier 2024.",
+      "date": "2024-01",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "cible": "gabriel-attal",
+      "cible_nom": "Gabriel Attal",
+      "type": "rupture",
+      "description": "Quitte la présidence du Conseil national de Renaissance le 6 mai 2026, disant ne pas se retrouver dans la ligne défendue par Gabriel Attal, pour se consacrer à son mouvement Bâtissons ensemble.",
+      "date": "2026-05-06",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-a-lheure-du-grand-saut-presidentiel"
+    },
+    {
+      "cible": "lionel-jospin",
+      "cible_nom": "Lionel Jospin",
+      "type": "collaborateur",
+      "description": "Conseillère au cabinet du Premier ministre Lionel Jospin à Matignon de 1997 à 2002.",
+      "date": "1997",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    },
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "collaborateur",
+      "description": "Directrice de cabinet de Ségolène Royal au ministère de l'Écologie de 2014 à 2015.",
+      "date": "2014",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "batissons-ensemble",
+      "nom": "Bâtissons ensemble (mouvement d'Élisabeth Borne)",
+      "type": "mouvement",
+      "president": null,
+      "debut": "2026",
+      "fin": null
+    },
+    {
+      "id": "territoires-de-progres",
+      "nom": "Territoires de progrès",
+      "type": "parti",
+      "president": null,
+      "debut": "2020-02",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017"
+    },
+    {
+      "slug": "jean-castex",
+      "nom": "Jean Castex",
+      "description": "Premier ministre de 2020 à 2022"
+    },
+    {
+      "slug": "lionel-jospin",
+      "nom": "Lionel Jospin",
+      "description": "Premier ministre de 1997 à 2002, ancien premier secrétaire du PS"
+    }
+  ],
+  "notes": "Pas de candidature déclarée à la présidentielle 2027 au 12 octobre 2026 (LCP : « garde le suspense »). Longtemps proche du PS sans adhésion attestée. Territoires de progrès : quittée en 2022, réintégrée en février 2024 (simplifié en une entrée depuis 2020). Le 25 septembre 2026, quitte le groupe EPR pour s'y apparenter. Fin de fonction ministérielle le 12 octobre 2025 (nomination du gouvernement Lecornu II, où elle est remplacée par Édouard Geffray et Philippe Baptiste) ; elle reste membre de Renaissance malgré son départ des instances. Aucune relation directe documentée avec François Bayrou ou Sébastien Lecornu hors appartenance à leurs gouvernements.",
+  "verifie_le": "2026-10-12"
+}

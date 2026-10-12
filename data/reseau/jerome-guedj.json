@@ -1,0 +1,116 @@
+{
+  "slug": "jerome-guedj",
+  "nom": "Jérôme Guedj",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1993",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Secrétaire national à la laïcité",
+      "debut": "2020",
+      "fin": "2025",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Candidat élu député (6e circonscription de l'Essonne)",
+      "debut": "2022-05",
+      "fin": "2022-06-19",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "organisation": "primaire-gauche-2026",
+      "type": "election",
+      "role": "Candidat (5e au premier tour, 5,83 %)",
+      "debut": "2026-08-23",
+      "fin": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "collaborateur",
+      "description": "Assistant parlementaire de Jean-Luc Mélenchon à ses débuts au PS, au sein du courant de la Gauche socialiste.",
+      "date": "1993",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "rupture",
+      "description": "Rompt publiquement avec La France insoumise après le 7 octobre 2023, puis est pris pour cible à plusieurs reprises par Jean-Luc Mélenchon.",
+      "date": "2023-10",
+      "source_url": "https://www.lemonde.fr/politique/article/2025/05/07/jerome-guedj-l-homme-qui-fache-la-france-insoumise_6603745_823448.html"
+    },
+    {
+      "cible": "arnaud-montebourg",
+      "cible_nom": "Arnaud Montebourg",
+      "type": "collaborateur",
+      "description": "Porte-parole de la campagne d'Arnaud Montebourg pour la primaire citoyenne de 2017.",
+      "date": "2017-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "cible": "benoit-hamon",
+      "cible_nom": "Benoît Hamon",
+      "type": "collaborateur",
+      "description": "Porte-parole de Benoît Hamon pour la campagne présidentielle 2017.",
+      "date": "2017-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "soutien",
+      "description": "Soutien d'Olivier Faure au congrès de Marseille du PS en 2023, avant de s'opposer à lui au congrès de Nancy en 2025.",
+      "date": "2023-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Jérôme_Guedj"
+    },
+    {
+      "cible": "nicolas-mayer-rossignol",
+      "cible_nom": "Nicolas Mayer-Rossignol",
+      "type": "soutien",
+      "description": "Rejoint le texte d'orientation de Nicolas Mayer-Rossignol contre Olivier Faure au congrès de Nancy, ce qui lui coûte sa fonction de porte-parole du PS.",
+      "date": "2025-06",
+      "source_url": "https://www.la-croix.com/politique/congres-du-ps-l-unite-butte-sur-la-question-du-rapport-a-la-france-insoumise-20250615"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "rival",
+      "description": "Battu par Raphaël Glucksmann à la primaire « Choisir 2027 » (5e, 5,83 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [
+    {
+      "slug": "arnaud-montebourg",
+      "nom": "Arnaud Montebourg",
+      "description": "Ancien ministre de l'Économie (2014), candidat aux primaires socialistes de 2011 et 2017"
+    },
+    {
+      "slug": "benoit-hamon",
+      "nom": "Benoît Hamon",
+      "description": "Candidat du PS à la présidentielle 2017"
+    },
+    {
+      "slug": "nicolas-mayer-rossignol",
+      "nom": "Nicolas Mayer-Rossignol",
+      "description": "Maire PS de Rouen, chef de file de l'opposition interne à Olivier Faure"
+    }
+  ],
+  "notes": "Toujours membre du PS (pas « ex-PS ») : il participe à la primaire du PS ; n'a jamais rejoint le Parti de gauche. Candidature à la présidentielle annoncée le 5 février 2026 hors primaire, puis ralliement au cadre de la primaire le 23 août 2026. Il a refusé l'étiquette NFP en 2024 (réélu sous étiquette PS), d'où l'absence d'entrée nfp. Porte-parole du PS jusqu'en juin 2025 : date de début non trouvée, entrée omise. Après la primaire, il salue une victoire « nette » et se dit prêt à servir « à la place que Raphaël Glucksmann jugera utile » (LCP) : non codé comme soutien explicite.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "francois-hollande",
+  "nom": "François Hollande",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1979",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Premier secrétaire",
+      "debut": "1997-11-27",
+      "fin": "2008-11-26",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "organisation": "primaire-citoyenne-2011",
+      "type": "election",
+      "role": "Vainqueur (désigné candidat du PS)",
+      "debut": "2011-10-09",
+      "fin": "2011-10-16",
+      "source_url": "https://www.francetvinfo.fr/politique/primaire-ps-les-resultats-definitifs-valides-du-deuxieme-tour_260803.html"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidat élu (51,64 % au second tour)",
+      "debut": "2012-04",
+      "fin": "2012-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Candidat élu député de la 1re circonscription de la Corrèze",
+      "debut": "2024-06",
+      "fin": "2024-07-07",
+      "source_url": "https://www.lemonde.fr/politique/article/2024/06/15/francois-hollande-candidat-aux-elections-legislatives-en-correze-parce-la-situation-est-grave-le-ps-prend-acte-de-son-investiture_6240419_823449.html"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-marc-ayrault",
+      "cible_nom": "Jean-Marc Ayrault",
+      "type": "nomination",
+      "description": "A nommé Jean-Marc Ayrault Premier ministre le 15 mai 2012.",
+      "date": "2012-05-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Gouvernement_Jean-Marc_Ayrault_(1)"
+    },
+    {
+      "cible": "manuel-valls",
+      "cible_nom": "Manuel Valls",
+      "type": "nomination",
+      "description": "A nommé Manuel Valls Premier ministre le 31 mars 2014.",
+      "date": "2014-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/Gouvernement_Manuel_Valls_(1)"
+    },
+    {
+      "cible": "bernard-cazeneuve",
+      "cible_nom": "Bernard Cazeneuve",
+      "type": "nomination",
+      "description": "A nommé Bernard Cazeneuve Premier ministre le 6 décembre 2016, après l'avoir nommé successivement ministre délégué aux Affaires européennes, au Budget puis ministre de l'Intérieur.",
+      "date": "2016-12-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "collaborateur",
+      "description": "Emmanuel Macron a été secrétaire général adjoint de l'Élysée auprès de François Hollande de mai 2012 à juillet 2014.",
+      "date": "2012-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "nomination",
+      "description": "A nommé Emmanuel Macron ministre de l'Économie, de l'Industrie et du Numérique le 26 août 2014 (gouvernement Valls II), poste qu'il quitte en août 2016.",
+      "date": "2014-08-26",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "soutien",
+      "description": "A appelé à voter pour Emmanuel Macron au second tour de la présidentielle 2017 face à Marine Le Pen, puis de nouveau en avril 2022.",
+      "date": "2017-04-24",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "succession",
+      "description": "Emmanuel Macron lui a succédé à la présidence de la République le 14 mai 2017.",
+      "date": "2017-05-14",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rival",
+      "description": "A battu le président sortant Nicolas Sarkozy au second tour de la présidentielle 2012 (51,64 %) et lui a succédé à l'Élysée.",
+      "date": "2012-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "martine-aubry",
+      "cible_nom": "Martine Aubry",
+      "type": "rival",
+      "description": "A battu Martine Aubry au second tour de la primaire citoyenne socialiste d'octobre 2011.",
+      "date": "2011-10-16",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "martine-aubry",
+      "cible_nom": "Martine Aubry",
+      "type": "succession",
+      "description": "Martine Aubry lui a succédé comme première secrétaire du PS le 26 novembre 2008.",
+      "date": "2008-11-26",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "lionel-jospin",
+      "cible_nom": "Lionel Jospin",
+      "type": "succession",
+      "description": "A succédé à Lionel Jospin comme premier secrétaire du PS en novembre 1997.",
+      "date": "1997-11-27",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "rival",
+      "description": "Adversaire de Ségolène Royal au premier tour de la primaire citoyenne de 2011, où elle arrive quatrième avant de le soutenir.",
+      "date": "2011-10-09",
+      "source_url": "https://fr.wikipedia.org/wiki/François_Hollande"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "collaborateur",
+      "description": "Olivier Faure a été directeur adjoint de son cabinet de premier secrétaire du PS de 2000 à 2007, puis chargé de sa communication lors de la primaire de 2011.",
+      "date": "2000",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "nicolas-mayer-rossignol",
+      "cible_nom": "Nicolas Mayer-Rossignol",
+      "type": "soutien",
+      "description": "A annoncé voter pour Nicolas Mayer-Rossignol contre le premier secrétaire sortant Olivier Faure au congrès de Marseille du PS.",
+      "date": "2023-01-16",
+      "source_url": "https://www.lefigaro.fr/politique/congres-ps-francois-hollande-affirme-qu-il-votera-pour-nicolas-mayer-rossignol-20230116"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "soutien",
+      "description": "A appelé à voter pour la liste PS-Place publique conduite par Raphaël Glucksmann aux européennes de 2019.",
+      "date": "2019-05-18",
+      "source_url": "https://www.lemonde.fr/politique/article/2019/05/18/europeennes-hollande-appelle-a-voter-pour-la-liste-ps-place-publique_5463990_823448.html"
+    },
+    {
+      "cible": "bernard-cazeneuve",
+      "cible_nom": "Bernard Cazeneuve",
+      "type": "soutien",
+      "description": "Figure parmi les soutiens du lancement de La Convention, le mouvement de Bernard Cazeneuve, en février 2023.",
+      "date": "2023-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "debut": "2012-04",
+      "fin": "2012-05"
+    },
+    {
+      "id": "primaire-citoyenne-2011",
+      "nom": "Primaire citoyenne PS-PRG (2011)",
+      "type": "election",
+      "debut": "2011-10",
+      "fin": "2011-10"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-marc-ayrault",
+      "nom": "Jean-Marc Ayrault",
+      "description": "Premier ministre (2012-2014)"
+    },
+    {
+      "slug": "manuel-valls",
+      "nom": "Manuel Valls",
+      "description": "Premier ministre (2014-2016), ministre de l'Intérieur (2012-2014)"
+    },
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017 ; ancien secrétaire général adjoint de l'Élysée et ministre de l'Économie sous François Hollande"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République (2007-2012)"
+    },
+    {
+      "slug": "martine-aubry",
+      "nom": "Martine Aubry",
+      "description": "Première secrétaire du PS (2008-2012), ministre de l'Emploi et de la Solidarité (1997-2000)"
+    },
+    {
+      "slug": "lionel-jospin",
+      "nom": "Lionel Jospin",
+      "description": "Premier ministre (1997-2002), premier secrétaire du PS"
+    },
+    {
+      "slug": "nicolas-mayer-rossignol",
+      "nom": "Nicolas Mayer-Rossignol",
+      "description": "Maire PS de Rouen, chef de file de l'opposition interne à Olivier Faure"
+    }
+  ],
+  "notes": "Pas de poste ministériel : président de la République 2012-2017 (les gouvernements Ayrault, Valls et Cazeneuve portent president = francois-hollande). Aucune déclaration formelle de candidature pour 2027 à ce jour : il n'a pas participé à la primaire « Choisir 2027 » et chercherait un rassemblement de la gauche réformiste sans primaire (Le Monde, 13/02/2026). Aucune réaction publique de sa part à la victoire de Glucksmann (11/10/2026) n'a été trouvée. Réunion commune avec Glucksmann et Cazeneuve à Pontoise en novembre 2025 (rapprochement, non codé en relation). Liens personnels avec Ségolène Royal volontairement exclus (vie privée).",
+  "verifie_le": "2026-10-12"
+}

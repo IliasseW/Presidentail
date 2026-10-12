@@ -1,0 +1,158 @@
+{
+  "slug": "david-lisnard",
+  "nom": "David Lisnard",
+  "parcours": [
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1996",
+      "fin": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2002",
+      "fin": "2015-05",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "organisation": "nouvelle-energie",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2014",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Porte-parole de François Fillon",
+      "debut": "2016-11",
+      "fin": "2017-04",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2015-05",
+      "fin": "2026-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Vice-président",
+      "debut": "2025-06-28",
+      "fin": "2026-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jacques-pelissard",
+      "cible_nom": "Jacques Pélissard",
+      "type": "collaborateur",
+      "description": "Directeur de cabinet et attaché parlementaire de Jacques Pélissard, député-maire de Lons-le-Saunier, de 1996 à 1999.",
+      "date": "1996",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "bernard-brochand",
+      "cible_nom": "Bernard Brochand",
+      "type": "collaborateur",
+      "description": "Directeur de campagne de Bernard Brochand aux municipales de 2001 à Cannes, puis son deuxième puis premier adjoint et son suppléant à l'Assemblée (2012-2017).",
+      "date": "2001",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "bernard-brochand",
+      "cible_nom": "Bernard Brochand",
+      "type": "succession",
+      "description": "Succède à Bernard Brochand comme maire de Cannes le 5 avril 2014.",
+      "date": "2014-04-05",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "soutien",
+      "description": "Reçoit le soutien public de Nicolas Sarkozy pour les municipales de 2014 à Cannes, faute d'investiture UMP officielle.",
+      "date": "2014-03",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "collaborateur",
+      "description": "Devient l'un des porte-parole de François Fillon après sa victoire à la primaire de la droite et du centre de 2016.",
+      "date": "2016-11",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "francois-baroin",
+      "cible_nom": "François Baroin",
+      "type": "succession",
+      "description": "Succède à François Baroin, qui l'avait soutenu, à la présidence de l'Association des maires de France le 17 novembre 2021.",
+      "date": "2021-11-17",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "bruno-retailleau",
+      "cible_nom": "Bruno Retailleau",
+      "type": "soutien",
+      "description": "Soutient Bruno Retailleau lors de son élection à la présidence des Républicains en mai 2025.",
+      "date": "2025-05",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "bruno-retailleau",
+      "cible_nom": "Bruno Retailleau",
+      "type": "nomination",
+      "description": "Nommé vice-président des Républicains le 28 juin 2025, sous la présidence de Bruno Retailleau.",
+      "date": "2025-06-28",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "bruno-retailleau",
+      "cible_nom": "Bruno Retailleau",
+      "type": "rupture",
+      "description": "S'oppose au mode de désignation du candidat présidentiel voulu par la direction de Bruno Retailleau et quitte Les Républicains le 31 mars 2026 pour se présenter.",
+      "date": "2026-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [
+    {
+      "slug": "jacques-pelissard",
+      "nom": "Jacques Pélissard",
+      "description": "Député-maire de Lons-le-Saunier, président de l'Association des maires de France (2004-2014)"
+    },
+    {
+      "slug": "bernard-brochand",
+      "nom": "Bernard Brochand",
+      "description": "Maire de Cannes de 2001 à 2014, député des Alpes-Maritimes"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    },
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "francois-baroin",
+      "nom": "François Baroin",
+      "description": "Maire de Troyes, président de l'Association des maires de France (2014-2021)"
+    }
+  ],
+  "notes": "Nouvelle Énergie fondée en 2014, déployée nationalement le 9 juin 2021 ; Wikipédia ne précise pas la date de début de la présidence (supposée dès la fondation). Fin de la vice-présidence LR fixée à la date du départ du parti (31 mars 2026) : en octobre 2025 il menaçait seulement de quitter cette fonction. Les dates du rôle de porte-parole de François Fillon sont approximatives (après la primaire de novembre 2016). En 2018, il intègre l'organigramme de Libres !, mouvement de Valérie Pécresse (non typé en relation). Désaccord sur la primaire avec Retailleau : Lisnard réclame toujours une primaire ouverte de la droite et du centre (août 2026).",
+  "verifie_le": "2026-10-12"
+}

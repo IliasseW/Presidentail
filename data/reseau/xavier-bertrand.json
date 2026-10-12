@@ -1,0 +1,290 @@
+{
+  "slug": "xavier-bertrand",
+  "nom": "Xavier Bertrand",
+  "parcours": [
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1981",
+      "fin": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2002",
+      "fin": "2015-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "gouvernement-raffarin",
+      "type": "gouvernement",
+      "role": "Secrétaire d'État chargé de l'Assurance maladie",
+      "debut": "2004-03-31",
+      "fin": "2005-05-31",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "gouvernement-villepin",
+      "type": "gouvernement",
+      "role": "Ministre de la Santé et des Solidarités",
+      "debut": "2005-06-02",
+      "fin": "2007-03-26",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Ministre du Travail, des Relations sociales et de la Solidarité",
+      "debut": "2007-05-18",
+      "fin": "2008-03-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Ministre du Travail, des Relations sociales, de la Famille et de la Solidarité",
+      "debut": "2008-03-18",
+      "fin": "2009-01-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Secrétaire général",
+      "debut": "2008-12-05",
+      "fin": "2010-11-17",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Ministre du Travail, de l'Emploi et de la Santé",
+      "debut": "2010-11-14",
+      "fin": "2012-05-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2015-05",
+      "fin": "2017-12-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre (réadhésion)",
+      "debut": "2021-10",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "congres-lr-2021",
+      "type": "election",
+      "role": "Candidat (4e, 22,36 %)",
+      "debut": "2021-12-02",
+      "fin": "2021-12-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "organisation": "nous-france",
+      "type": "mouvement",
+      "role": "Fondateur",
+      "debut": "2022-07",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-pierre-raffarin",
+      "cible_nom": "Jean-Pierre Raffarin",
+      "type": "nomination",
+      "description": "Nommé secrétaire d'État chargé de l'Assurance maladie dans le gouvernement Raffarin III le 31 mars 2004.",
+      "date": "2004-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "dominique-de-villepin",
+      "cible_nom": "Dominique de Villepin",
+      "type": "nomination",
+      "description": "Nommé ministre de la Santé et des Solidarités dans le gouvernement de Dominique de Villepin en juin 2005 ; il le quitte en mars 2007 pour la campagne de Nicolas Sarkozy malgré la demande de Villepin de rester.",
+      "date": "2005-06-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "collaborateur",
+      "description": "Porte-parole de la campagne présidentielle de Nicolas Sarkozy à partir du 15 janvier 2007.",
+      "date": "2007-01-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "nomination",
+      "description": "Nommé ministre du Travail dans les gouvernements de François Fillon (2007-2009, puis 2010-2012).",
+      "date": "2007-05-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "jean-francois-cope",
+      "cible_nom": "Jean-François Copé",
+      "type": "succession",
+      "description": "Jean-François Copé lui succède au secrétariat général de l'UMP en novembre 2010.",
+      "date": "2010-11-17",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "soutien",
+      "description": "Vote pour François Fillon à la primaire de 2016 puis continue à le soutenir et à le conseiller pendant l'affaire Fillon en 2017.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "gerald-darmanin",
+      "cible_nom": "Gérald Darmanin",
+      "type": "collaborateur",
+      "description": "Gérald Darmanin, ancien conseiller juridique auprès de lui à l'UMP, est son directeur de campagne aux régionales de 2015 puis vice-président de sa région.",
+      "date": "2015",
+      "source_url": "https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "rival",
+      "description": "L'emporte au second tour des régionales de 2015 en Nord-Pas-de-Calais-Picardie face à la liste de Marine Le Pen, arrivée en tête au premier tour.",
+      "date": "2015-12-13",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "laurent-wauquiez",
+      "cible_nom": "Laurent Wauquiez",
+      "type": "rupture",
+      "description": "Quitte Les Républicains le 11 décembre 2017, au lendemain de l'élection de Laurent Wauquiez à la présidence du parti.",
+      "date": "2017-12-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "valerie-pecresse",
+      "cible_nom": "Valérie Pécresse",
+      "type": "rival",
+      "description": "Affronte Valérie Pécresse au congrès des Républicains de décembre 2021 pour l'investiture présidentielle.",
+      "date": "2021-12-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "eric-ciotti",
+      "cible_nom": "Éric Ciotti",
+      "type": "rival",
+      "description": "Affronte Éric Ciotti au congrès des Républicains de décembre 2021.",
+      "date": "2021-12-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "rival",
+      "description": "Affronte Michel Barnier au congrès des Républicains de décembre 2021.",
+      "date": "2021-12-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "valerie-pecresse",
+      "cible_nom": "Valérie Pécresse",
+      "type": "soutien",
+      "description": "Éliminé au premier tour du congrès LR de 2021, il appelle à voter pour Valérie Pécresse et participe à sa campagne présidentielle.",
+      "date": "2021-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "bruno-retailleau",
+      "cible_nom": "Bruno Retailleau",
+      "type": "soutien",
+      "description": "Soutient Bruno Retailleau au second tour du congrès des Républicains de 2022.",
+      "date": "2022-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "eric-ciotti",
+      "cible_nom": "Éric Ciotti",
+      "type": "rupture",
+      "description": "Réclame en juin 2024 la démission d'Éric Ciotti après son alliance avec le RN ; Ciotti annonce vouloir engager une procédure d'exclusion contre lui.",
+      "date": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "gerald-darmanin",
+      "cible_nom": "Gérald Darmanin",
+      "type": "soutien",
+      "description": "Gérald Darmanin soutient l'hypothèse de sa nomination comme Premier ministre après les législatives de 2024.",
+      "date": "2024-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "congres-lr-2021",
+      "nom": "Congrès des Républicains de 2021 (désignation du candidat à la présidentielle 2022)",
+      "type": "election",
+      "debut": "2021-12",
+      "fin": "2021-12"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-pierre-raffarin",
+      "nom": "Jean-Pierre Raffarin",
+      "description": "Premier ministre de 2002 à 2005"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    },
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "jean-francois-cope",
+      "nom": "Jean-François Copé",
+      "description": "Secrétaire général puis président de l'UMP (2010-2014)"
+    },
+    {
+      "slug": "gerald-darmanin",
+      "nom": "Gérald Darmanin",
+      "description": "Ministre de l'Intérieur de 2020 à 2024, garde des Sceaux depuis 2024"
+    },
+    {
+      "slug": "laurent-wauquiez",
+      "nom": "Laurent Wauquiez",
+      "description": "Président des Républicains de 2017 à 2019, président du groupe Droite républicaine à l'Assemblée"
+    },
+    {
+      "slug": "valerie-pecresse",
+      "nom": "Valérie Pécresse",
+      "description": "Présidente du conseil régional d'Île-de-France, candidate LR à la présidentielle 2022"
+    },
+    {
+      "slug": "eric-ciotti",
+      "nom": "Éric Ciotti",
+      "description": "Président des Républicains de 2022 à 2024, fondateur de l'UDR"
+    },
+    {
+      "slug": "michel-barnier",
+      "nom": "Michel Barnier",
+      "description": "Premier ministre en 2024, ancien commissaire européen"
+    }
+  ],
+  "notes": "Adhésion au RPR en 1981 selon l'infobox Wikipédia (militant « dès l'âge de seize ans »). Secrétaire général de l'UMP par intérim à partir du 5 décembre 2008, de plein exercice du 24 janvier 2009 au 17 novembre 2010 (une seule entrée). Wikipédia le donne membre de LR depuis 2021 et de Nous France depuis 2022 (parti associé à LR) ; date de lancement officiel de Nous France : octobre 2022 (annonce juillet 2022). Candidature 2027 annoncée le 3 février 2024 ; en août 2026, il dit envisager de concourir en « candidat indépendant », hors de la désignation LR de Bruno Retailleau (LCP) — pas de relation « rival » tant qu'aucun affrontement direct n'a eu lieu. En 2017, il a comparé Nicolas Dupont-Aignan à Pierre Laval après le ralliement de celui-ci à Marine Le Pen (non retenu comme relation typée).",
+  "verifie_le": "2026-10-12"
+}

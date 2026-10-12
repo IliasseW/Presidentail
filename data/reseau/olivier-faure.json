@@ -1,0 +1,200 @@
+{
+  "slug": "olivier-faure",
+  "nom": "Olivier Faure",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1984",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Porte-parole",
+      "debut": "2014-08-26",
+      "fin": "2016-12-17",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Premier secrétaire",
+      "debut": "2018-04-07",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Candidat élu député (11e circonscription de Seine-et-Marne) ; artisan de l'accord pour le PS",
+      "debut": "2022-05",
+      "fin": "2022-06-19",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Candidat élu député (11e circonscription de Seine-et-Marne) ; artisan de l'accord pour le PS",
+      "debut": "2024-06",
+      "fin": "2024-06-30",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "organisation": "primaire-gauche-2026",
+      "type": "election",
+      "role": "Candidat (2e au premier tour, 14,48 %)",
+      "debut": "2026-08-30",
+      "fin": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "martine-aubry",
+      "cible_nom": "Martine Aubry",
+      "type": "collaborateur",
+      "description": "Conseiller de Martine Aubry au ministère de l'Emploi de 1997 à 2000.",
+      "date": "1997",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "collaborateur",
+      "description": "Directeur adjoint du cabinet de François Hollande, premier secrétaire du PS, de 2000 à 2007, puis chargé de sa communication pendant la primaire de 2011.",
+      "date": "2000",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "jean-marc-ayrault",
+      "cible_nom": "Jean-Marc Ayrault",
+      "type": "collaborateur",
+      "description": "Secrétaire général du groupe socialiste à l'Assemblée nationale présidé par Jean-Marc Ayrault à partir d'octobre 2007.",
+      "date": "2007-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "karim-bouamrane",
+      "cible_nom": "Karim Bouamrane",
+      "type": "succession",
+      "description": "Karim Bouamrane lui succède comme porte-parole du PS fin 2016.",
+      "date": "2016-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "jean-christophe-cambadelis",
+      "cible_nom": "Jean-Christophe Cambadélis",
+      "type": "succession",
+      "description": "A succédé à Jean-Christophe Cambadélis (après l'intérim de Rachid Temal) comme premier secrétaire du PS en avril 2018.",
+      "date": "2018-04-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "stephane-le-foll",
+      "cible_nom": "Stéphane Le Foll",
+      "type": "rival",
+      "description": "Opposé à Stéphane Le Foll lors du congrès d'Aubervilliers ; sa motion l'emporte avec 48,37 % contre 26,45 %.",
+      "date": "2018-03-15",
+      "source_url": "https://www.lemonde.fr/politique/article/2018/03/16/election-du-premier-secretaire-du-ps-olivier-faure-en-tete-devant-stephane-le-foll_5271713_823448.html"
+    },
+    {
+      "cible": "emmanuel-maurel",
+      "cible_nom": "Emmanuel Maurel",
+      "type": "rival",
+      "description": "Opposé à Emmanuel Maurel, dont la motion arrive troisième (18,8 %), lors du vote des militants du congrès d'Aubervilliers.",
+      "date": "2018-03-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "nicolas-mayer-rossignol",
+      "cible_nom": "Nicolas Mayer-Rossignol",
+      "type": "rival",
+      "description": "Réélu premier secrétaire face à Nicolas Mayer-Rossignol aux congrès de Marseille (2023, résultat contesté) et de Nancy (2025, 51,15 %).",
+      "date": "2025-06-06",
+      "source_url": "https://www.franceinfo.fr/politique/ps/congres-du-ps/congres-du-parti-socialiste-le-premier-secretaire-olivier-faure-officiellement-reelu-avec-51-15-des-voix_7313166.html"
+    },
+    {
+      "cible": "boris-vallaud",
+      "cible_nom": "Boris Vallaud",
+      "type": "rival",
+      "description": "Boris Vallaud porte un texte d'orientation concurrent du sien au congrès de Nancy de 2025.",
+      "date": "2025-05",
+      "source_url": "https://www.lemonde.fr/politique/article/2025/04/25/congres-du-ps-la-guerre-des-chefs-a-commence-pour-prendre-la-tete-du-parti_6599956_823448.html"
+    },
+    {
+      "cible": "anne-hidalgo",
+      "cible_nom": "Anne Hidalgo",
+      "type": "soutien",
+      "description": "A poussé la candidature d'Anne Hidalgo à la présidentielle 2022 en l'inscrivant dans son texte de congrès en 2021.",
+      "date": "2021",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "soutien",
+      "description": "A imposé Raphaël Glucksmann comme tête de la liste commune PS-Place publique aux européennes de 2019.",
+      "date": "2019-03",
+      "source_url": "https://www.liberation.fr/politiques/2019/03/14/europeennes-glucksmann-en-tete-faure-en-renfort_1715125/"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "rival",
+      "description": "Battu par Raphaël Glucksmann dès le premier tour de la primaire « Choisir 2027 » (14,48 % contre 66,13 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "soutien",
+      "description": "Après la primaire, il prend acte d'une « majorité très claire » et apporte son soutien à Raphaël Glucksmann pour la présidentielle.",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [
+    {
+      "slug": "martine-aubry",
+      "nom": "Martine Aubry",
+      "description": "Première secrétaire du PS (2008-2012), ministre de l'Emploi et de la Solidarité (1997-2000)"
+    },
+    {
+      "slug": "jean-marc-ayrault",
+      "nom": "Jean-Marc Ayrault",
+      "description": "Premier ministre (2012-2014)"
+    },
+    {
+      "slug": "jean-christophe-cambadelis",
+      "nom": "Jean-Christophe Cambadélis",
+      "description": "Premier secrétaire du PS (2014-2017)"
+    },
+    {
+      "slug": "stephane-le-foll",
+      "nom": "Stéphane Le Foll",
+      "description": "Ancien ministre de l'Agriculture et porte-parole du gouvernement, maire du Mans"
+    },
+    {
+      "slug": "nicolas-mayer-rossignol",
+      "nom": "Nicolas Mayer-Rossignol",
+      "description": "Maire PS de Rouen, chef de file de l'opposition interne à Olivier Faure"
+    },
+    {
+      "slug": "boris-vallaud",
+      "nom": "Boris Vallaud",
+      "description": "Président du groupe socialiste à l'Assemblée nationale"
+    },
+    {
+      "slug": "anne-hidalgo",
+      "nom": "Anne Hidalgo",
+      "description": "Maire de Paris (2014-2026), candidate PS à la présidentielle 2022"
+    }
+  ],
+  "notes": "Dates de premier secrétaire : élu par le vote des adhérents le 29 mars 2018, en fonction à partir du 7 avril 2018 (infobox). Soutien post-primaire à Glucksmann : explicite selon Wikipédia/Libération (« Je respecte trop le processus démocratique… »), plus nuancé selon LCP (appel à « forger ensemble cet esprit de victoire »). Relations de rupture avec Cazeneuve (2022/2024) et Bouamrane (appel à sa démission, mars 2026) enregistrées dans les fichiers de ces derniers. Guedj l'a soutenu en 2023 puis s'est opposé à lui en 2025 (voir fichier jerome-guedj). Hollande a soutenu Mayer-Rossignol contre lui en 2023 (fichier francois-hollande).",
+  "verifie_le": "2026-10-12"
+}

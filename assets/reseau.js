@@ -5,17 +5,25 @@
 
 const FAMILLES = [
   { id: "gouvernement", libelle: "Gouvernements", test: (l) => l.nature === "parcours" && l.type === "gouvernement" },
-  { id: "parti", libelle: "Partis et mouvements", test: (l) => l.nature === "parcours" && (l.type === "parti" || l.type === "mouvement" || l.type === "autre") },
-  { id: "election", libelle: "Alliances et élections", test: (l) => l.nature === "parcours" && (l.type === "alliance" || l.type === "election") },
-  { id: "soutien", libelle: "Soutiens et collaborations", test: (l) => l.nature === "relation" && ["collaborateur", "soutien", "famille"].includes(l.type) },
+  { id: "parti", libelle: "Partis et mouvements", test: (l) => l.nature === "parcours" && ["parti", "mouvement", "autre"].includes(l.type) },
+  { id: "election", libelle: "Alliances et élections", test: (l) => l.nature === "parcours" && ["alliance", "election"].includes(l.type) },
+  { id: "formation", libelle: "Écoles et grands corps", test: (l) => l.nature === "parcours" && ["formation", "haute_fonction_publique"].includes(l.type) },
+  { id: "economie", libelle: "Entreprises, médias, finance", test: (l) => (l.nature === "parcours" && ["entreprise", "media", "think_tank", "association"].includes(l.type)) || (l.nature === "relation" && ["professionnel", "financement"].includes(l.type)) },
+  { id: "soutien", libelle: "Soutiens et collaborations", test: (l) => l.nature === "relation" && ["collaborateur", "soutien"].includes(l.type) },
+  { id: "famille", libelle: "Familles et couples", test: (l) => l.nature === "relation" && ["famille", "couple"].includes(l.type) },
   { id: "nomination", libelle: "Nominations et successions", test: (l) => l.nature === "relation" && ["nomination", "succession"].includes(l.type) },
   { id: "conflit", libelle: "Ruptures et rivalités", test: (l) => l.nature === "relation" && ["rupture", "rival"].includes(l.type) },
 ];
 const RELATION = {
-  collaborateur: "Collaboration", soutien: "Soutien", famille: "Famille politique",
+  collaborateur: "Collaboration", soutien: "Soutien", famille: "Famille", couple: "Couple",
+  professionnel: "Lien professionnel", financement: "Financement",
   nomination: "Nomination", succession: "Succession", rupture: "Rupture", rival: "Rivalité",
 };
-const ORG_TYPE = { gouvernement: "Gouvernement", parti: "Parti", mouvement: "Mouvement", alliance: "Alliance", election: "Élection" };
+const ORG_TYPE = {
+  gouvernement: "Gouvernement", parti: "Parti", mouvement: "Mouvement", alliance: "Alliance", election: "Élection",
+  entreprise: "Entreprise", media: "Média", formation: "École, promotion", haute_fonction_publique: "Grand corps de l'État",
+  think_tank: "Think tank", association: "Association",
+};
 
 const state = { familles: new Set(FAMILLES.map((f) => f.id)), selected: null, path: null, visible: new Set() };
 let DATA, NODES, LINKS, BY_ID, sim, zoom, svg, gLinks, gNodes, gLabels;
@@ -24,8 +32,9 @@ const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const yr = (d) => (d ? String(d).slice(0, 4) : "");
 const periode = (l) => (l.debut || l.fin ? `${yr(l.debut) || "?"}–${l.fin ? yr(l.fin) : "…"}` : yr(l.date));
-const kind = (n) => (n.genre === "organisation" ? (n.type === "gouvernement" ? "gouv" : "org") : n.genre === "candidat" ? "cand" : "perso");
-const radius = (n) => ({ cand: 9, perso: 6, gouv: 7, org: 7 }[kind(n)]);
+const kind = (n) => (n.genre === "organisation" ? (n.type === "gouvernement" ? "gouv" : "org")
+  : n.genre === "candidat" ? "cand" : n.genre === "acteur" ? "acteur" : "perso");
+const radius = (n) => ({ cand: 9, perso: 6, acteur: 6, gouv: 7, org: 7 }[kind(n)]);
 const famille = (l) => FAMILLES.find((f) => f.test(l))?.id || "parti";
 const otherEnd = (l, id) => (l.source.id === id ? l.target : l.source);
 
@@ -52,9 +61,10 @@ function renderFilters() {
 function renderLegend() {
   $("#legend").innerHTML = `
     <li><svg width="16" height="16"><circle cx="8" cy="8" r="6" class="n-cand"/></svg>Candidat 2027</li>
-    <li><svg width="16" height="16"><circle cx="8" cy="8" r="5" class="n-perso"/></svg>Autre personnalité</li>
+    <li><svg width="16" height="16"><circle cx="8" cy="8" r="5" class="n-perso"/></svg>Autre personnalité politique</li>
+    <li><svg width="16" height="16"><circle cx="8" cy="8" r="5" class="n-acteur"/></svg>Acteur économique, médiatique…</li>
     <li><svg width="16" height="16"><rect x="2" y="2" width="12" height="12" rx="2" class="n-gouv"/></svg>Gouvernement</li>
-    <li><svg width="16" height="16"><path d="M8 1 L15 8 L8 15 L1 8 Z" class="n-org"/></svg>Parti, alliance, élection</li>
+    <li><svg width="16" height="16"><path d="M8 1 L15 8 L8 15 L1 8 Z" class="n-org"/></svg>Parti, élection, entreprise, média, école</li>
     <li><svg width="28" height="10"><line x1="0" y1="5" x2="28" y2="5" class="l-relation"/></svg>Soutien, collaboration</li>
     <li><svg width="28" height="10"><line x1="0" y1="5" x2="28" y2="5" class="l-relation l-nomination"/></svg>Nomination, succession</li>
     <li><svg width="28" height="10"><line x1="0" y1="5" x2="28" y2="5" class="l-relation l-conflit"/></svg>Rupture, rivalité</li>`;
@@ -126,7 +136,7 @@ function applyHighlight() {
   gLinks.selectAll("line").classed("dim", (l) => on && !focusLinks.has(l.key)).classed("hl", (l) => focusLinks.has(l.key));
   // Les noms des personnalités n'apparaissent que lorsqu'elles sont en évidence.
   gLabels.selectAll("text")
-    .data(NODES.filter((n) => state.visible.has(n.id) && (n.genre !== "personnalite" || focus.has(n.id))), (n) => n.id)
+    .data(NODES.filter((n) => state.visible.has(n.id) && (n.genre === "candidat" || n.genre === "organisation" || focus.has(n.id))), (n) => n.id)
     .join("text").attr("class", (n) => `label label-${kind(n)}`).attr("dy", (n) => radius(n) + 11).text((n) => n.nom)
     .attr("x", (n) => n.x).attr("y", (n) => n.y)
     .classed("dim", (n) => on && !focus.has(n.id));
@@ -139,7 +149,7 @@ function nodeKindLabel(n) {
     return n.debut ? `${t} (${yr(n.debut)}–${n.fin ? yr(n.fin) : "…"})` : t;
   }
   if (n.genre === "candidat") return `Candidat 2027${n.parti ? ` · ${n.parti}` : ""}`;
-  return n.description || "Personnalité";
+  return n.description || (n.genre === "acteur" ? "Acteur non politique" : "Personnalité politique");
 }
 
 const nodeLink = (n) => `<button type="button" class="link" data-select="${esc(n.id)}">${esc(n.nom)}</button>`;
@@ -154,7 +164,7 @@ function renderPanel() {
     p.innerHTML = `<h2>Mode d'emploi</h2>
       <p>Cliquez sur un nœud pour afficher son parcours et ses liens. Faites glisser pour déplacer, molette ou pincement pour zoomer.</p>
       <p>Pour savoir ce qui relie deux personnes, remplissez « Relier deux personnes » : le chemin le plus court s'affiche, étape par étape.</p>
-      <p class="hint">${DATA.noeuds.filter((x) => x.genre === "candidat").length} candidats, ${DATA.noeuds.filter((x) => x.genre === "personnalite").length} autres personnalités, ${DATA.noeuds.filter((x) => x.genre === "organisation").length} organisations, ${LINKS.length} liens.</p>`;
+      <p class="hint">${DATA.noeuds.filter((x) => x.genre === "candidat").length} candidats, ${DATA.noeuds.filter((x) => x.genre === "personnalite").length} autres personnalités politiques, ${DATA.noeuds.filter((x) => x.genre === "acteur").length} acteurs économiques ou médiatiques, ${DATA.noeuds.filter((x) => x.genre === "organisation").length} organisations, ${LINKS.length} liens.</p>`;
     return;
   }
   const links = LINKS.filter((l) => l.source.id === n.id || l.target.id === n.id);

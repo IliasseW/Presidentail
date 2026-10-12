@@ -1,0 +1,212 @@
+{
+  "slug": "dominique-de-villepin",
+  "nom": "Dominique de Villepin",
+  "parcours": [
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1977",
+      "fin": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2002",
+      "fin": "2011-02-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "republique-solidaire",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2010-06-19",
+      "fin": "2011",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "la-france-humaniste",
+      "type": "mouvement",
+      "role": "Fondateur, président d'honneur",
+      "debut": "2025-06-23",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "gouvernement-raffarin",
+      "type": "gouvernement",
+      "role": "Ministre des Affaires étrangères",
+      "debut": "2002-05-07",
+      "fin": "2004-03-30",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "gouvernement-raffarin",
+      "type": "gouvernement",
+      "role": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+      "debut": "2004-03-31",
+      "fin": "2005-05-31",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "gouvernement-villepin",
+      "type": "gouvernement",
+      "role": "Premier ministre",
+      "debut": "2005-05-31",
+      "fin": "2007-05-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidat déclaré, retiré faute de 500 parrainages",
+      "debut": "2011-12-11",
+      "fin": "2012-03-16",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat pressenti (non officiellement déclaré au 12 octobre 2026)",
+      "debut": "2025",
+      "fin": null,
+      "source_url": "https://fr.euronews.com/my-europe/2026/08/30/presidentielle-2027-dominique-de-villepin-presque-candidat-olivier-faure-a-la-primaire-soc"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jacques-chirac",
+      "cible_nom": "Jacques Chirac",
+      "type": "collaborateur",
+      "description": "Collaborateur de Jacques Chirac depuis les années 1980, secrétaire général de la présidence de la République de 1995 à 2002.",
+      "date": "1995-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "jacques-chirac",
+      "cible_nom": "Jacques Chirac",
+      "type": "nomination",
+      "description": "Nommé Premier ministre par Jacques Chirac le 31 mai 2005.",
+      "date": "2005-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "alain-juppe",
+      "cible_nom": "Alain Juppé",
+      "type": "collaborateur",
+      "description": "Directeur de cabinet d'Alain Juppé au ministère des Affaires étrangères de 1993 à 1995.",
+      "date": "1993",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "succession",
+      "description": "Succède à Nicolas Sarkozy au ministère de l'Intérieur en mars 2004 ; Sarkozy lui succède à ce poste en juin 2005.",
+      "date": "2004-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rival",
+      "description": "Rivalité ouverte avec Nicolas Sarkozy, notamment dans l'affaire Clearstream où Villepin est poursuivi puis relaxé (2010, confirmé en appel en 2011).",
+      "date": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "jean-pierre-raffarin",
+      "cible_nom": "Jean-Pierre Raffarin",
+      "type": "succession",
+      "description": "Succède à Jean-Pierre Raffarin comme Premier ministre le 31 mai 2005.",
+      "date": "2005-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "succession",
+      "description": "François Fillon lui succède comme Premier ministre en mai 2007.",
+      "date": "2007-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "succession",
+      "description": "Michel Barnier lui succède au ministère des Affaires étrangères en mars 2004.",
+      "date": "2004-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin"
+    },
+    {
+      "cible": "bruno-le-maire",
+      "cible_nom": "Bruno Le Maire",
+      "type": "collaborateur",
+      "description": "Bruno Le Maire a été son conseiller aux Affaires étrangères et à l'Intérieur puis son directeur de cabinet à Matignon (2006-2007).",
+      "date": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "president": null,
+      "debut": "2012-04",
+      "fin": "2012-05"
+    },
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "president": null,
+      "debut": "2027-04",
+      "fin": null
+    },
+    {
+      "id": "republique-solidaire",
+      "nom": "République solidaire",
+      "type": "parti",
+      "president": null,
+      "debut": "2010-06",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "alain-juppe",
+      "nom": "Alain Juppé",
+      "description": "Ancien Premier ministre (1995-1997), fondateur de l'UMP, maire de Bordeaux"
+    },
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "jacques-chirac",
+      "nom": "Jacques Chirac",
+      "description": "Président de la République de 1995 à 2007 (1932-2019)"
+    },
+    {
+      "slug": "jean-pierre-raffarin",
+      "nom": "Jean-Pierre Raffarin",
+      "description": "Premier ministre de 2002 à 2005"
+    },
+    {
+      "slug": "michel-barnier",
+      "nom": "Michel Barnier",
+      "description": "Premier ministre de septembre à décembre 2024, ancien ministre des Affaires étrangères"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012, ancien président de l'UMP"
+    }
+  ],
+  "notes": "Candidature 2027 non officialisée au 12 octobre 2026 (il dit qu'il la confirmera au début de la campagne et exclut une primaire, Euronews 30 août 2026). Date de départ de l'UMP : non-renouvellement de l'adhésion annoncé le 22 février 2011 (infobox : 2002-2011). Présidence de République solidaire quittée en 2011 (successeur Jean-Pierre Grand). Xavier Bertrand a été ministre de la Santé dans le gouvernement Villepin : lien déduit du parcours, pas de relation typée. En 2017, a voté Macron au second tour sans le soutenir : non retenu comme soutien. Président de La France humaniste : Benoît Jimenez.",
+  "verifie_le": "2026-10-12"
+}

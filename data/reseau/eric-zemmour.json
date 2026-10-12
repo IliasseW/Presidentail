@@ -1,0 +1,158 @@
+{
+  "slug": "eric-zemmour",
+  "nom": "Éric Zemmour",
+  "parcours": [
+    {
+      "organisation": "reconquete",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2021-12-05",
+      "fin": null,
+      "source_url": "https://www.lopinion.fr/elections/presidentielle/eric-zemmour-lance-sa-reconquete"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat (4e au 1er tour, 7,07 %)",
+      "debut": "2021-11-30",
+      "fin": "2022-04-10",
+      "source_url": "https://www.20minutes.fr/elections/3268899-20220410-presidentielle-2022-eric-zemmour-appelle-voter-marine-pen-deuxieme-tour"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré",
+      "debut": "2026-09-17",
+      "fin": null,
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "sarah-knafo",
+      "cible_nom": "Sarah Knafo",
+      "type": "collaborateur",
+      "description": "Sarah Knafo est la directrice stratégique de sa campagne présidentielle 2022.",
+      "date": "2021-10",
+      "source_url": "https://www.francetvinfo.fr/politique/eric-zemmour/presidentielle-2022-conseillers-financiers-soutiens-qui-sont-les-membres-de-la-galaxie-zemmour_4865823.html"
+    },
+    {
+      "cible": "sarah-knafo",
+      "cible_nom": "Sarah Knafo",
+      "type": "soutien",
+      "description": "Sarah Knafo, un temps pressentie, le désigne comme « candidat naturel » ; il annonce qu'ils feront campagne ensemble pour 2027.",
+      "date": "2026-09-17",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "rival",
+      "description": "Concurrence directement Marine Le Pen au premier tour de la présidentielle 2022.",
+      "date": "2022-04-10",
+      "source_url": "https://www.publicsenat.fr/article/politique/la-violence-la-raideur-ideologique-d-eric-zemmour-ont-fait-de-marine-le-pen-une"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "soutien",
+      "description": "Appelle à voter pour Marine Le Pen au second tour de la présidentielle 2022.",
+      "date": "2022-04-10",
+      "source_url": "https://www.20minutes.fr/elections/3268899-20220410-presidentielle-2022-eric-zemmour-appelle-voter-marine-pen-deuxieme-tour"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "soutien",
+      "description": "Marion Maréchal annonce son ralliement à sa candidature lors d'un meeting à Toulon, puis devient vice-présidente exécutive de Reconquête.",
+      "date": "2022-03-06",
+      "source_url": "https://www.bfmtv.com/politique/je-crois-de-nouveau-la-victoire-possible-marion-marechal-s-explique-sur-son-ralliement-a-eric-zemmour_VN-202203060215.html"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "nomination",
+      "description": "Désigne Marion Maréchal tête de liste de Reconquête aux élections européennes de 2024.",
+      "date": "2023-09",
+      "source_url": "https://www.lesechos.fr/politique-societe/politique/eric-zemmour-parie-sur-marion-marechal-pour-sauver-son-parti-aux-europeennes-1976136"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "rupture",
+      "description": "Exclut Marion Maréchal de Reconquête, l'accusant de trahison après son appel à soutenir les candidats RN aux législatives de 2024.",
+      "date": "2024-06",
+      "source_url": "https://www.huffingtonpost.fr/politique/article/eric-zemmour-qui-se-dit-trahi-annonce-l-exclusion-de-marion-marechal-de-reconquete_235412.html"
+    },
+    {
+      "cible": "philippe-de-villiers",
+      "cible_nom": "Philippe de Villiers",
+      "type": "soutien",
+      "description": "Philippe de Villiers lui apporte son soutien et intègre le comité politique de sa campagne présidentielle.",
+      "date": "2021-12-11",
+      "source_url": "https://www.francetvinfo.fr/politique/eric-zemmour/presidentielle-2022-philippe-de-villiers-apporte-son-soutien-a-eric-zemmour-son-ami_4877667.html"
+    },
+    {
+      "cible": "jean-frederic-poisson",
+      "cible_nom": "Jean-Frédéric Poisson",
+      "type": "soutien",
+      "description": "Jean-Frédéric Poisson retire sa candidature présidentielle et le soutient lors du meeting de Villepinte.",
+      "date": "2021-12-05",
+      "source_url": "https://www.europe1.fr/politique/presidentielle-zemmour-a-lassaut-de-lelectorat-lr-4080887"
+    },
+    {
+      "cible": "guillaume-peltier",
+      "cible_nom": "Guillaume Peltier",
+      "type": "collaborateur",
+      "description": "Guillaume Peltier, député LR, rallie sa campagne et en devient le porte-parole.",
+      "date": "2022-01-09",
+      "source_url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/01/10/le-depute-lr-guillaume-peltier-premiere-grosse-prise-de-droite-pour-eric-zemmour_6108849_6059010.html"
+    },
+    {
+      "cible": "guillaume-peltier",
+      "cible_nom": "Guillaume Peltier",
+      "type": "rupture",
+      "description": "Exclut Guillaume Peltier de Reconquête en même temps que Marion Maréchal.",
+      "date": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Marion_Mar%C3%A9chal"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "sarah-knafo",
+      "nom": "Sarah Knafo",
+      "description": "Députée européenne Reconquête, directrice stratégique de la campagne Zemmour 2022"
+    },
+    {
+      "slug": "marion-marechal",
+      "nom": "Marion Maréchal",
+      "description": "Ancienne députée FN, vice-présidente de Reconquête (2022-2024), présidente d'Identité-Libertés depuis 2024"
+    },
+    {
+      "slug": "philippe-de-villiers",
+      "nom": "Philippe de Villiers",
+      "description": "Fondateur du Mouvement pour la France, ancien ministre et candidat à la présidentielle"
+    },
+    {
+      "slug": "jean-frederic-poisson",
+      "nom": "Jean-Frédéric Poisson",
+      "description": "Président de Via, la voie du peuple, ancien député"
+    },
+    {
+      "slug": "guillaume-peltier",
+      "nom": "Guillaume Peltier",
+      "description": "Ancien vice-président de LR puis de Reconquête"
+    }
+  ],
+  "notes": "Candidature 2027 officialisée le 17 septembre 2026 sur BFMTV (source LCP). Relation privée avec Sarah Knafo volontairement non recensée (seuls les rôles politiques). Non membre d'un parti avant Reconquête selon Wikipédia. Exclusion de Peltier : sourcée par la fiche Wikipédia de Marion Maréchal (refs HuffPost/Libération) ; Nicolas Bay et Laurence Trochu également exclus, non recensés.",
+  "verifie_le": "2026-10-12"
+}

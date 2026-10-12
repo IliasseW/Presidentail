@@ -6,7 +6,9 @@ Usage : python3 scripts/build_data.py [--check]
 import glob
 import json
 import os
+import re
 import sys
+import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -97,8 +99,10 @@ def load_affaires(slugs):
 
 
 # ---------- réseau des liens (data/reseau/) ----------
-TYPES_PARCOURS = {"gouvernement", "parti", "alliance", "election", "mouvement", "autre"}
-TYPES_RELATION = {"collaborateur", "soutien", "rupture", "rival", "nomination", "succession", "famille"}
+TYPES_PARCOURS = {"gouvernement", "parti", "alliance", "election", "mouvement", "entreprise", "media", "formation",
+                  "haute_fonction_publique", "think_tank", "association", "autre"}
+TYPES_RELATION = {"collaborateur", "soutien", "rupture", "rival", "nomination", "succession", "famille", "couple",
+                  "professionnel", "financement"}
 PRESIDENTS = {"francois-mitterrand": "François Mitterrand", "jacques-chirac": "Jacques Chirac",
               "nicolas-sarkozy": "Nicolas Sarkozy", "francois-hollande": "François Hollande",
               "emmanuel-macron": "Emmanuel Macron"}
@@ -109,8 +113,10 @@ def build_reseau(cands):
     errors, warnings = [], []
     rdir = os.path.join(DATA, "reseau")
     orgs = {o["id"]: o for o in json.load(open(os.path.join(rdir, "organisations.json"), encoding="utf-8"))}
+    # Fiches par personne (data/reseau/<slug>.json) et fiches thématiques du réseau étendu
+    # (data/reseau/etendu/<theme>.json, où chaque entrée nomme sa personne).
     fiches = []
-    for path in sorted(glob.glob(os.path.join(rdir, "*.json"))):
+    for path in sorted(glob.glob(os.path.join(rdir, "*.json")) + glob.glob(os.path.join(rdir, "etendu", "*.json"))):
         if os.path.basename(path) == "organisations.json":
             continue
         try:
@@ -127,7 +133,8 @@ def build_reseau(cands):
     for f in fiches:
         for p in f.get("personnes_nouvelles") or []:
             if p["slug"] not in personnes:
-                personnes[p["slug"]] = {"id": p["slug"], "nom": p["nom"], "genre": "personnalite",
+                genre = p.get("genre") if p.get("genre") in ("acteur", "personnalite") else "personnalite"
+                personnes[p["slug"]] = {"id": p["slug"], "nom": p["nom"], "genre": genre,
                                         "description": p.get("description")}
     for slug, nom in PRESIDENTS.items():
         personnes.setdefault(slug, {"id": slug, "nom": nom, "genre": "personnalite",
@@ -135,23 +142,30 @@ def build_reseau(cands):
 
     liens, vus = [], set()
     for f in fiches:
-        src = f.get("slug")
-        if src not in personnes:
-            errors.append(f"reseau/{src}.json : slug inconnu")
+        nom_fiche = f.get("slug") or "étendu"
+        if f.get("slug") and f["slug"] not in personnes:
+            errors.append(f"reseau/{nom_fiche} : slug inconnu")
             continue
         for e in f.get("parcours") or []:
+            src = e.get("personne") or f.get("slug")
+            if src not in personnes:
+                errors.append(f"reseau/{nom_fiche} : personne inconnue {src!r} (à déclarer dans personnes_nouvelles)")
+                continue
             if e.get("organisation") not in orgs:
-                errors.append(f"reseau/{src}.json : organisation inconnue {e.get('organisation')!r}")
+                errors.append(f"reseau/{nom_fiche} : organisation inconnue {e.get('organisation')!r}")
                 continue
             if e.get("type") not in TYPES_PARCOURS:
-                warnings.append(f"reseau/{src}.json : type de parcours inconnu {e.get('type')!r}")
+                warnings.append(f"reseau/{nom_fiche} : type de parcours inconnu {e.get('type')!r}")
             liens.append({"source": src, "cible": e["organisation"], "nature": "parcours", "type": e.get("type"),
                           "role": e.get("role"), "debut": e.get("debut"), "fin": e.get("fin"),
                           "source_url": e.get("source_url")})
         for r in f.get("relations") or []:
-            cible = r.get("cible")
+            src, cible = r.get("source") or f.get("slug"), r.get("cible")
             if r.get("type") not in TYPES_RELATION:
-                errors.append(f"reseau/{src}.json : type de relation inconnu {r.get('type')!r}")
+                errors.append(f"reseau/{nom_fiche} : type de relation inconnu {r.get('type')!r}")
+                continue
+            if src not in personnes:
+                errors.append(f"reseau/{nom_fiche} : personne inconnue {src!r} (à déclarer dans personnes_nouvelles)")
                 continue
             if cible not in personnes:
                 personnes[cible] = {"id": cible, "nom": r.get("cible_nom") or cible, "genre": "personnalite"}
@@ -163,6 +177,16 @@ def build_reseau(cands):
             liens.append({"source": src, "cible": cible, "nature": "relation", "type": r["type"],
                           "description": r.get("description"), "date": r.get("date"),
                           "source_url": r.get("source_url")})
+    # Candidat sans fiche de réseau : rattaché au moins à son parti, d'après sa fiche programme.
+    avec_fiche = {f.get("slug") for f in fiches}
+    for c in cands:
+        # « Sans étiquette » n'est pas une organisation : la rattacher créerait de faux liens.
+        if c["slug"] in avec_fiche or not c.get("parti") or re.search(r"sans [ée]tiquette|apartisan|ind[ée]pendant", c["parti"], re.I):
+            continue
+        oid = re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFD", c["parti"]).encode("ascii", "ignore").decode().lower()).strip("-")
+        orgs.setdefault(oid, {"id": oid, "nom": c["parti"], "type": "parti"})
+        liens.append({"source": c["slug"], "cible": oid, "nature": "parcours", "type": "parti", "role": "Candidat 2027",
+                      "source_url": (c.get("programme") or {}).get("url")})
     # Le président qui a nommé chaque gouvernement.
     for o in orgs.values():
         if o.get("type") == "gouvernement" and o.get("president") in personnes:

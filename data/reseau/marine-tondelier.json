@@ -1,0 +1,143 @@
+{
+  "slug": "marine-tondelier",
+  "nom": "Marine Tondelier",
+  "parcours": [
+    {
+      "organisation": "les-ecologistes",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2009",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "organisation": "les-ecologistes",
+      "type": "parti",
+      "role": "Secrétaire nationale",
+      "debut": "2022-12-10",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "organisation": "primaire-ecologiste-2021",
+      "type": "election",
+      "role": "Directrice de campagne d'Éric Piolle",
+      "debut": "2021",
+      "fin": "2021-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Porte-parole de la campagne de Yannick Jadot",
+      "debut": "2022",
+      "fin": "2022-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Candidate aux législatives (11e circ. du Pas-de-Calais)",
+      "debut": "2022-06",
+      "fin": "2022-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Représentante de la coalition pendant l'entre-deux-tours",
+      "debut": "2024-06",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "aline-archimbaud",
+      "cible_nom": "Aline Archimbaud",
+      "type": "collaborateur",
+      "description": "Collaboratrice parlementaire de la sénatrice écologiste Aline Archimbaud de 2011 à 2015.",
+      "date": "2011",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "cible": "cecile-duflot",
+      "cible_nom": "Cécile Duflot",
+      "type": "collaborateur",
+      "description": "Collaboratrice de Cécile Duflot de 2015 à 2017.",
+      "date": "2015",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "cible": "eric-piolle",
+      "cible_nom": "Éric Piolle",
+      "type": "collaborateur",
+      "description": "Directrice de campagne d'Éric Piolle lors de la primaire écologiste de 2021.",
+      "date": "2021",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "cible": "yannick-jadot",
+      "cible_nom": "Yannick Jadot",
+      "type": "collaborateur",
+      "description": "Porte-parole de la campagne présidentielle de Yannick Jadot en 2022.",
+      "date": "2022",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "cible": "julien-bayou",
+      "cible_nom": "Julien Bayou",
+      "type": "succession",
+      "description": "Succède à Julien Bayou comme secrétaire nationale d'EELV le 10 décembre 2022.",
+      "date": "2022-12-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "rival",
+      "description": "Affronte Marine Le Pen au second tour des législatives de 2022 dans la 11e circonscription du Pas-de-Calais (38,97 %).",
+      "date": "2022-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "primaire-ecologiste-2021",
+      "nom": "Primaire présidentielle de l'écologie (2021)",
+      "type": "election",
+      "president": null,
+      "debut": "2021-09",
+      "fin": "2021-09"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "aline-archimbaud",
+      "nom": "Aline Archimbaud",
+      "description": "Sénatrice écologiste de Seine-Saint-Denis (2011-2017)"
+    },
+    {
+      "slug": "cecile-duflot",
+      "nom": "Cécile Duflot",
+      "description": "Secrétaire nationale des Verts/EELV (2006-2012), ministre du Logement (2012-2014)"
+    },
+    {
+      "slug": "eric-piolle",
+      "nom": "Éric Piolle",
+      "description": "Maire écologiste de Grenoble, candidat à la primaire écologiste de 2021"
+    },
+    {
+      "slug": "yannick-jadot",
+      "nom": "Yannick Jadot",
+      "description": "Candidat écologiste à la présidentielle 2022"
+    },
+    {
+      "slug": "julien-bayou",
+      "nom": "Julien Bayou",
+      "description": "Secrétaire national d'EELV de 2019 à 2022"
+    }
+  ],
+  "notes": "Réélue secrétaire nationale le 19 avril 2025 ; candidature 2027 annoncée le 22 octobre 2025 (non saisie). Désignée le 8 décembre 2025 pour représenter Les Écologistes à la primaire unitaire de la gauche prévue le 11 octobre 2026, qui échoue en juillet 2026 ; la primaire finale PS/Place publique ne l'a pas incluse (LCP, 9 sept. 2026) : aucune entrée primaire-gauche-2026 saisie. Conseillère municipale d'opposition à Hénin-Beaumont 2014-2026 (mandat local, non saisi). Critique publique de Roussel en 2022 (« gauche des allocs ») non saisie comme relation.",
+  "verifie_le": "2026-10-12"
+}

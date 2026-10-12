@@ -1,0 +1,36 @@
+{
+  "slug": "selma-labib",
+  "nom": "Selma Labib",
+  "parcours": [
+    {
+      "organisation": "npa-revolutionnaires",
+      "type": "parti",
+      "role": "Porte-parole",
+      "debut": "2024",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste"
+    },
+    {
+      "organisation": "europeennes-2024",
+      "type": "election",
+      "role": "Tête de liste NPA-Révolutionnaires (avec Gaël Quirante)",
+      "debut": "2024-06",
+      "fin": "2024-06",
+      "source_url": "https://www.politis.fr/articles/2024/06/elections-europeennes-selma-labib-et-le-npa-revolutionnaires-veulent-etre-les-punaises-de-lit-du-systeme/"
+    }
+  ],
+  "relations": [],
+  "organisations_nouvelles": [
+    {
+      "id": "europeennes-2024",
+      "nom": "Élections européennes 2024",
+      "type": "election",
+      "president": null,
+      "debut": "2024-06",
+      "fin": "2024-06"
+    }
+  ],
+  "personnes_nouvelles": [],
+  "notes": "Pas de fiche Wikipédia propre ; informations issues de Wikipédia (NPA), Politis (juin 2024), LCP (29 juin 2026) et dépêche AFP : conductrice de bus à Paris, militante CGT, environ 30-31 ans, désignée candidate du NPA-R pour 2027 (date de désignation non trouvée), 0,15 % aux européennes 2024. Date de début du rôle de porte-parole inconnue (fixée à 2024, année de la création formelle du NPA-R). Aucune relation directe sourcée ; selon Wikipédia, sa candidature suit le refus de LO d'une candidature commune derrière Nathalie Arthaud (non saisi comme rivalité).",
+  "verifie_le": "2026-10-12"
+}

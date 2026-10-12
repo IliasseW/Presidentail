@@ -1,0 +1,175 @@
+{
+  "slug": "florian-philippot",
+  "nom": "Florian Philippot",
+  "parcours": [
+    {
+      "organisation": "fn-rn",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2011-10",
+      "fin": "2017-09-21",
+      "source_url": "https://www.20minutes.fr/presidentielle/801248-presidentielle-2012-marine-pen-devoile-equipe-campagne-dirigee-jeune-enarque"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Directeur stratégique de la campagne de Marine Le Pen",
+      "debut": "2011-10",
+      "fin": "2012-05",
+      "source_url": "https://www.20minutes.fr/presidentielle/801248-presidentielle-2012-marine-pen-devoile-equipe-campagne-dirigee-jeune-enarque"
+    },
+    {
+      "organisation": "rassemblement-bleu-marine",
+      "type": "alliance",
+      "role": "Porte-parole",
+      "debut": "2012-05",
+      "fin": null,
+      "source_url": "http://www.lefigaro.fr/flash-actu/2012/05/03/97001-20120503FILWWW00567-fn-aliot-et-philippot-porte-parole.php"
+    },
+    {
+      "organisation": "fn-rn",
+      "type": "parti",
+      "role": "Vice-président chargé de la stratégie et de la communication",
+      "debut": "2012-07-12",
+      "fin": "2017-09-21",
+      "source_url": "http://www.lefigaro.fr/flash-actu/2012/07/12/97001-20120712FILWWW00558-f-philippot-devient-vice-president-du-fn.php"
+    },
+    {
+      "organisation": "les-patriotes",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2017-05-16",
+      "fin": null,
+      "source_url": "http://www.lefigaro.fr/politique/le-scan/2017/09/29/25001-20170929ARTFIG00103-florian-philippot-transforme-son-association-les-patriotes-en-parti-politique.php"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat déclaré, retiré faute de parrainages",
+      "debut": "2021-07-14",
+      "fin": "2022-02-18",
+      "source_url": "https://www.lefigaro.fr/politique/florian-philippot-je-suis-candidata-l-election-presidentielle-de-2022-20210714"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré",
+      "debut": "2026-05-09",
+      "fin": null,
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "collaborateur",
+      "description": "Directeur stratégique de la campagne présidentielle 2012 de Marine Le Pen, puis son vice-président chargé de la stratégie et de la communication au FN.",
+      "date": "2011-10",
+      "source_url": "https://www.20minutes.fr/presidentielle/801248-presidentielle-2012-marine-pen-devoile-equipe-campagne-dirigee-jeune-enarque"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "rupture",
+      "description": "Quitte le FN le 21 septembre 2017 après que Marine Le Pen lui a retiré sa délégation de vice-président en raison de son association Les Patriotes.",
+      "date": "2017-09-21",
+      "source_url": "http://www.leparisien.fr/politique/philippot-bien-sur-je-quitte-le-fn-21-09-2017-7275312.php"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "soutien",
+      "description": "Appelle à voter pour Marine Le Pen contre Emmanuel Macron au second tour de la présidentielle 2022.",
+      "date": "2022-04",
+      "source_url": "https://www.liberation.fr/politique/elections/presidentielle-les-complotistes-votent-marine-le-pen-20220414_OMUZ4RGSXZCGHHJK6FNFE7XFWE/"
+    },
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "rupture",
+      "description": "En conflit avec la direction du FN en 2015, Jean-Marie Le Pen attaque publiquement Florian Philippot, qu'il tient pour principal responsable de sa mise à l'écart.",
+      "date": "2015-05",
+      "source_url": "http://www.liberation.fr/politiques/2015/05/13/jean-marie-le-pen-florian-philippot-et-le-lobby-gay_1308576"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "rival",
+      "description": "Arrive quatrième à l'élection du comité central au congrès FN de Lyon, loin derrière Marion Maréchal-Le Pen, présentée par la presse comme sa rivale.",
+      "date": "2014-11",
+      "source_url": "https://www.francetvinfo.fr/politique/front-national/philippot-arrive-seulement-quatrieme-du-vote-interne-au-fn-loin-derriere-marechal-le-pen_757663.html"
+    },
+    {
+      "cible": "nicolas-dupont-aignan",
+      "cible_nom": "Nicolas Dupont-Aignan",
+      "type": "soutien",
+      "description": "Se rallie à la candidature de Nicolas Dupont-Aignan et signe une « alliance durable » avec Debout la France pour la présidentielle et les législatives 2022.",
+      "date": "2022-03",
+      "source_url": "https://www.francetvinfo.fr/elections/presidentielle/presidentielle-florian-philippot-apporte-son-soutien-a-nicolas-dupont-aignan_5011846.html"
+    },
+    {
+      "cible": "jean-frederic-poisson",
+      "cible_nom": "Jean-Frédéric Poisson",
+      "type": "soutien",
+      "description": "Conduit aux européennes de 2024 une liste commune avec Jean-Frédéric Poisson.",
+      "date": "2024-04",
+      "source_url": "https://www.leparisien.fr/elections/europeennes/elections-europeennes-pas-de-miracle-pour-les-patriotes-de-florian-philippot-qui-obtiennent-1-des-voix-09-06-2024-LVO7METUVVCENORMQQMRNGSBDI.php"
+    },
+    {
+      "cible": "jean-pierre-chevenement",
+      "cible_nom": "Jean-Pierre Chevènement",
+      "type": "soutien",
+      "description": "Préside un comité étudiant de soutien à Jean-Pierre Chevènement pour la présidentielle 2002 (rôle exact discuté).",
+      "date": "2002",
+      "source_url": "https://www.nouvelobs.com/rue89/rue89-politique/20111005.RUE4719/fn-philippot-l-homme-qui-sait-tout-rejoint-marine-le-pen.html"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "debut": "2012-04",
+      "fin": "2012-05"
+    },
+    {
+      "id": "rassemblement-bleu-marine",
+      "nom": "Rassemblement bleu Marine",
+      "type": "alliance",
+      "debut": "2012-05",
+      "fin": null
+    },
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-marie-le-pen",
+      "nom": "Jean-Marie Le Pen",
+      "description": "Cofondateur et président du Front national (1972-2011), mort en 2025"
+    },
+    {
+      "slug": "marion-marechal",
+      "nom": "Marion Maréchal",
+      "description": "Ancienne députée FN, vice-présidente de Reconquête (2022-2024), présidente d'Identité-Libertés depuis 2024"
+    },
+    {
+      "slug": "jean-frederic-poisson",
+      "nom": "Jean-Frédéric Poisson",
+      "description": "Président de Via, la voie du peuple, ancien député"
+    },
+    {
+      "slug": "jean-pierre-chevenement",
+      "nom": "Jean-Pierre Chevènement",
+      "description": "Ancien ministre, fondateur du Mouvement des citoyens, candidat à la présidentielle 2002"
+    }
+  ],
+  "notes": "Soutien à Chevènement en 2002 contesté dans son ampleur par Gaël Brustier (simple signature d'un document de soutien, pas d'adhésion au MDC). Rupture avec Jean-Marie Le Pen : attaques publiques de ce dernier (mai 2015), pas de lien hiérarchique. Les Patriotes : association le 16/05/2017, parti le 29/09/2017. En mai 2026 il se dit prêt à se retirer au profit de Philippe de Villiers si celui-ci était candidat (non recensé comme relation). Aucun lien sourcé trouvé avec Francis Lalanne (manifestations anti-pass).",
+  "verifie_le": "2026-10-12"
+}

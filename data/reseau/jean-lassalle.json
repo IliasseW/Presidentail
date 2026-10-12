@@ -1,0 +1,137 @@
+{
+  "slug": "jean-lassalle",
+  "nom": "Jean Lassalle",
+  "parcours": [
+    {
+      "organisation": "udf",
+      "type": "parti",
+      "role": "Membre",
+      "debut": null,
+      "fin": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "modem",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2007",
+      "fin": "2016-08-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "modem",
+      "type": "parti",
+      "role": "Vice-président",
+      "debut": "2010-03-27",
+      "fin": "2016-08-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "resistons",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2016",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidat (1,21 %)",
+      "debut": "2017-04-23",
+      "fin": "2017-04-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat (3,13 %)",
+      "debut": "2022-04-10",
+      "fin": "2022-04-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "organisation": "alliance-rurale",
+      "type": "alliance",
+      "role": "Tête de liste aux européennes de 2024 (2,35 %)",
+      "debut": "2024-03-06",
+      "fin": "2024-06-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "michel-inchauspe",
+      "cible_nom": "Michel Inchauspé",
+      "type": "succession",
+      "description": "Suppléant du député RPR Michel Inchauspé de 1988 à 2002, il lui succède comme député de la 4e circonscription des Pyrénées-Atlantiques en 2002.",
+      "date": "2002-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "cible": "francois-bayrou",
+      "cible_nom": "François Bayrou",
+      "type": "soutien",
+      "description": "Proche de François Bayrou, il participe activement à sa campagne présidentielle de 2007.",
+      "date": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "soutien",
+      "description": "Vote pour Nicolas Sarkozy au second tour de la présidentielle de 2012, contrairement à François Bayrou.",
+      "date": "2012-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "cible": "francois-bayrou",
+      "cible_nom": "François Bayrou",
+      "type": "rupture",
+      "description": "Critique la position de François Bayrou sur la présidentielle de 2017, lance sa propre candidature puis quitte le MoDem, dont il était vice-président, le 22 août 2016.",
+      "date": "2016-08-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    },
+    {
+      "cible": "philippe-poutou",
+      "cible_nom": "Philippe Poutou",
+      "type": "soutien",
+      "description": "Parraine la candidature de Philippe Poutou (NPA) à l'élection présidentielle de 2017.",
+      "date": "2017-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean_Lassalle"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "alliance-rurale",
+      "nom": "Alliance rurale (liste aux élections européennes de 2024)",
+      "type": "alliance",
+      "debut": "2024-03",
+      "fin": "2024-06"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "michel-inchauspe",
+      "nom": "Michel Inchauspé",
+      "description": "Député RPR des Pyrénées-Atlantiques jusqu'en 2002"
+    },
+    {
+      "slug": "francois-bayrou",
+      "nom": "François Bayrou",
+      "description": "Président du MoDem, Premier ministre de 2024 à 2025"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    },
+    {
+      "slug": "philippe-poutou",
+      "nom": "Philippe Poutou",
+      "description": "Porte-parole du NPA, candidat à la présidentielle en 2012, 2017 et 2022"
+    }
+  ],
+  "notes": "Date d'adhésion à l'UDF inconnue (debut null). Date de création de Résistons ambiguë sur Wikipédia (17 mars 2016 dans la liste des fonctions, 17 novembre 2016 dans l'infobox, nom adopté en octobre 2016) : « 2016 » retenu. Adhésion au MoDem lors de son lancement fin 2007. Il dit avoir refusé le ministère de la Défense proposé par Nicolas Sarkozy et affirme qu'Emmanuel Macron lui a proposé la Cohésion des territoires en 2017 (affirmations personnelles, non retenues). En 2022, il soutient son frère Julien Lassalle aux législatives (non retenu : personne peu publique). Alliance rurale menée avec Willy Schraen (FNC). Pour 2027, Wikipédia le classe parmi les candidats « pressentis », sans déclaration officielle trouvée.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,269 @@
+{
+  "slug": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "parcours": [
+    {
+      "organisation": "fn-rn",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1986",
+      "fin": null,
+      "source_url": "https://blog.francetvinfo.fr/derriere-le-front/2015/05/28/les-filles-le-pen-a-coeur-ouvert.html"
+    },
+    {
+      "organisation": "fn-rn",
+      "type": "parti",
+      "role": "Vice-présidente (vice-présidente exécutive à partir de 2007)",
+      "debut": "2003-04",
+      "fin": "2011-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "organisation": "fn-rn",
+      "type": "parti",
+      "role": "Présidente",
+      "debut": "2011-01-16",
+      "fin": "2021-09-13",
+      "source_url": "https://www.ladepeche.fr/article/2011/01/16/991141-marine-le-pen-consacree-a-la-tete-du-front-national.html"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidate (3e au 1er tour, 17,90 %)",
+      "debut": "2012-04",
+      "fin": "2012-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidate au 2nd tour",
+      "debut": "2017-04",
+      "fin": "2017-05",
+      "source_url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017//FE.html"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidate au 2nd tour",
+      "debut": "2022-04",
+      "fin": "2022-04",
+      "source_url": "https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-avec-41-8-marine-le-pen-realise-le-score-le-plus-eleve-de-l-extreme-droite-lors-d-un-second-tour_5100280.html"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidate déclarée",
+      "debut": "2026-07-07",
+      "fin": null,
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "famille",
+      "description": "Fille de Jean-Marie Le Pen, cofondateur et président du Front national, parti dont elle prend la tête après lui.",
+      "date": "1986",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "nomination",
+      "description": "Nommée vice-présidente du Front national par son père Jean-Marie Le Pen au lendemain du congrès de Nice d'avril 2003.",
+      "date": "2003-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "collaborateur",
+      "description": "Directrice stratégique de la campagne présidentielle 2007 de Jean-Marie Le Pen.",
+      "date": "2006-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "succession",
+      "description": "Succède à son père Jean-Marie Le Pen à la présidence du Front national au congrès de Tours.",
+      "date": "2011-01-16",
+      "source_url": "https://www.ladepeche.fr/article/2011/01/16/991141-marine-le-pen-consacree-a-la-tete-du-front-national.html"
+    },
+    {
+      "cible": "jean-marie-le-pen",
+      "cible_nom": "Jean-Marie Le Pen",
+      "type": "rupture",
+      "description": "Après les propos de Jean-Marie Le Pen d'avril 2015 et un conflit public avec sa fille, il est exclu du FN par le bureau exécutif le 20 août 2015.",
+      "date": "2015-08-20",
+      "source_url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+      "cible": "bruno-gollnisch",
+      "cible_nom": "Bruno Gollnisch",
+      "type": "rival",
+      "description": "Affronte Bruno Gollnisch pour la présidence du Front national au congrès de Tours, qu'elle remporte avec 67,65 % des voix.",
+      "date": "2011-01-16",
+      "source_url": "https://www.ladepeche.fr/article/2011/01/16/991141-marine-le-pen-consacree-a-la-tete-du-front-national.html"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "rival",
+      "description": "Affronte Jean-Luc Mélenchon aux législatives de 2012 dans la 11e circonscription du Pas-de-Calais, où il est éliminé au 1er tour derrière elle.",
+      "date": "2012-06",
+      "source_url": "https://www.francetvinfo.fr/politique/legislatives-marine-le-pen-battue-d-une-courte-tete-a-henin-beaumont-marion-marechal-le-pen-elue-a-carpentras_108525.html"
+    },
+    {
+      "cible": "florian-philippot",
+      "cible_nom": "Florian Philippot",
+      "type": "collaborateur",
+      "description": "Florian Philippot devient directeur stratégique de sa campagne présidentielle 2012, puis vice-président du FN chargé de la stratégie et de la communication (2012-2017).",
+      "date": "2011-10",
+      "source_url": "https://www.20minutes.fr/presidentielle/801248-presidentielle-2012-marine-pen-devoile-equipe-campagne-dirigee-jeune-enarque"
+    },
+    {
+      "cible": "florian-philippot",
+      "cible_nom": "Florian Philippot",
+      "type": "rupture",
+      "description": "Lui retire sa délégation de vice-président le 20 septembre 2017 ; Florian Philippot quitte le FN le lendemain.",
+      "date": "2017-09-21",
+      "source_url": "https://www.francetvinfo.fr/politique/marine-le-pen/recit-franceinfo-c-est-un-traitre-qui-a-organise-son-depart-les-coulisses-du-divorce-entre-marine-le-pen-et-florian-philippot_2383060.html"
+    },
+    {
+      "cible": "nicolas-dupont-aignan",
+      "cible_nom": "Nicolas Dupont-Aignan",
+      "type": "soutien",
+      "description": "Reçoit le soutien de Nicolas Dupont-Aignan pour le second tour de 2017 et l'annonce comme son Premier ministre en cas de victoire.",
+      "date": "2017-04",
+      "source_url": "https://www.rtl.fr/actu/politique/presidentielle-2017-le-pen-nommera-dupont-aignan-premier-ministre-en-cas-de-victoire-7788338757"
+    },
+    {
+      "cible": "nicolas-dupont-aignan",
+      "cible_nom": "Nicolas Dupont-Aignan",
+      "type": "soutien",
+      "description": "Nicolas Dupont-Aignan appelle à voter pour elle au second tour de la présidentielle 2022.",
+      "date": "2022-04-10",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/second-tour-de-la-presidentielle-qui-appelle-a-voter-pour-qui-201854"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "rival",
+      "description": "Battue par Emmanuel Macron au second tour de la présidentielle 2017.",
+      "date": "2017-05-07",
+      "source_url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017//FE.html"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "rival",
+      "description": "Battue par Emmanuel Macron au second tour de la présidentielle 2022 (41,45 %).",
+      "date": "2022-04-24",
+      "source_url": "https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-avec-41-8-marine-le-pen-realise-le-score-le-plus-eleve-de-l-extreme-droite-lors-d-un-second-tour_5100280.html"
+    },
+    {
+      "cible": "eric-zemmour",
+      "cible_nom": "Éric Zemmour",
+      "type": "rival",
+      "description": "Affronte Éric Zemmour, qui concurrence sa candidature à l'extrême droite, au premier tour de la présidentielle 2022.",
+      "date": "2022-04-10",
+      "source_url": "https://www.publicsenat.fr/article/politique/la-violence-la-raideur-ideologique-d-eric-zemmour-ont-fait-de-marine-le-pen-une"
+    },
+    {
+      "cible": "eric-zemmour",
+      "cible_nom": "Éric Zemmour",
+      "type": "soutien",
+      "description": "Éric Zemmour, éliminé au premier tour, appelle à voter pour elle au second tour de 2022.",
+      "date": "2022-04-10",
+      "source_url": "https://www.20minutes.fr/elections/3268899-20220410-presidentielle-2022-eric-zemmour-appelle-voter-marine-pen-deuxieme-tour"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "famille",
+      "description": "Tante de Marion Maréchal, ancienne députée FN puis dirigeante de Reconquête et d'Identité-Libertés.",
+      "date": "2012",
+      "source_url": "https://fr.wikipedia.org/wiki/Marion_Mar%C3%A9chal"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "rupture",
+      "description": "Sa nièce Marion Maréchal refuse de la soutenir et rallie son rival Éric Zemmour le 6 mars 2022.",
+      "date": "2022-03-06",
+      "source_url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/03/07/presidentielle-2022-le-pari-risque-de-marion-marechal-chez-eric-zemmour_6116403_6059010.html"
+    },
+    {
+      "cible": "marion-marechal",
+      "cible_nom": "Marion Maréchal",
+      "type": "soutien",
+      "description": "Marion Maréchal, en lançant Identité-Libertés, annonce qu'elle la soutiendra à la présidentielle 2027.",
+      "date": "2024-10-07",
+      "source_url": "https://www.ouest-france.fr/politique/marion-marechal-le-pen/marion-marechal-lance-son-mouvement-politique-baptise-identite-libertes-60be7822-84c1-11ef-b32a-9779a0da911c"
+    },
+    {
+      "cible": "jordan-bardella",
+      "cible_nom": "Jordan Bardella",
+      "type": "succession",
+      "description": "Jordan Bardella lui succède à la tête du RN, par intérim à partir de septembre 2021 puis comme président élu le 5 novembre 2022.",
+      "date": "2022-11-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Jordan_Bardella"
+    },
+    {
+      "cible": "jordan-bardella",
+      "cible_nom": "Jordan Bardella",
+      "type": "soutien",
+      "description": "Annonce sa candidature 2027 en faisant campagne avec Jordan Bardella, qu'elle désigne comme son Premier ministre en cas de victoire.",
+      "date": "2026-07-07",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "debut": "2012-04",
+      "fin": "2012-05"
+    },
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-marie-le-pen",
+      "nom": "Jean-Marie Le Pen",
+      "description": "Cofondateur et président du Front national (1972-2011), mort en 2025"
+    },
+    {
+      "slug": "bruno-gollnisch",
+      "nom": "Bruno Gollnisch",
+      "description": "Ancien délégué général et vice-président du Front national"
+    },
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017"
+    },
+    {
+      "slug": "marion-marechal",
+      "nom": "Marion Maréchal",
+      "description": "Ancienne députée FN, vice-présidente de Reconquête (2022-2024), présidente d'Identité-Libertés depuis 2024"
+    },
+    {
+      "slug": "jordan-bardella",
+      "nom": "Jordan Bardella",
+      "description": "Président du Rassemblement national depuis 2022"
+    }
+  ],
+  "notes": "Présidence du FN/RN : fin au 13/09/2021 (passage de relais à Bardella par intérim), Bardella élu le 05/11/2022. Condamnée en appel le 7 juillet 2026 (affaire des assistants parlementaires) ; pourvoi en cassation suspensif, candidature 2027 maintenue à ce jour. Relation famille avec Jean-Marie Le Pen datée de son adhésion (1986) et avec Marion Maréchal de l'élection de celle-ci comme députée (2012) par convention. Rupture avec Marion Maréchal : il s'agit du ralliement de celle-ci à Zemmour (Marine Le Pen l'a publiquement déploré), pas d'une exclusion.",
+  "verifie_le": "2026-10-12"
+}

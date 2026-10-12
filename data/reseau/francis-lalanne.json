@@ -1,0 +1,129 @@
+{
+  "slug": "francis-lalanne",
+  "nom": "Francis Lalanne",
+  "parcours": [
+    {
+      "organisation": "mouvement-ecologiste-independant",
+      "type": "parti",
+      "role": "Candidat investi aux législatives (2e circ. du Bas-Rhin)",
+      "debut": "2007-06",
+      "fin": "2007-06",
+      "source_url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives_2007/(path)/legislatives_2007/067/circons02.html"
+    },
+    {
+      "organisation": "alliance-ecologiste-independante",
+      "type": "alliance",
+      "role": "Porte-parole et tête de liste (Sud-Est) aux européennes",
+      "debut": "2009",
+      "fin": "2009-06",
+      "source_url": "https://www.leparisien.fr/politique/francis-lalanne-cohn-bendit-allie-de-sarkozy-02-06-2009-534133.php"
+    },
+    {
+      "organisation": "alliance-jaune",
+      "type": "alliance",
+      "role": "Tête de liste aux européennes (liste issue des Gilets jaunes)",
+      "debut": "2019",
+      "fin": "2019-05",
+      "source_url": "https://www.rtl.fr/actu/debats-societe/europeennes-francis-lalanne-lance-une-liste-rassemblement-gilets-jaunes-7795961633"
+    },
+    {
+      "organisation": "france-libre",
+      "type": "mouvement",
+      "role": "Tête de liste aux européennes (liste commune avec Dieudonné)",
+      "debut": "2024-02-18",
+      "fin": "2024-06",
+      "source_url": "https://www.lemonde.fr/international/article/2024/04/18/francis-lalanne-et-dieudonne-font-liste-commune-pour-les-elections-europeennes_6228597_3210.html"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré (soutenu par le mouvement France libre)",
+      "debut": "2026-08",
+      "fin": null,
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-marc-governatori",
+      "cible_nom": "Jean-Marc Governatori",
+      "type": "collaborateur",
+      "description": "Lance avec Jean-Marc Governatori l'Alliance écologiste indépendante (européennes 2009), puis la liste « Alliance jaune » (européennes 2019).",
+      "date": "2019",
+      "source_url": "https://www.lejdd.fr/Politique/europeennes-ou-sont-passes-les-gilets-jaunes-3896461"
+    },
+    {
+      "cible": "dieudonne-mbala-mbala",
+      "cible_nom": "Dieudonné M'bala M'bala",
+      "type": "collaborateur",
+      "description": "Fait liste commune « France libre » avec Dieudonné aux européennes 2024, puis est son suppléant aux législatives de juin 2024 en Guadeloupe.",
+      "date": "2024-06",
+      "source_url": "https://www.lefigaro.fr/flash-actu/legislatives-dieudonne-et-francis-lalanne-candidats-en-guadeloupe-20240618"
+    },
+    {
+      "cible": "dieudonne-mbala-mbala",
+      "cible_nom": "Dieudonné M'bala M'bala",
+      "type": "soutien",
+      "description": "Dieudonné soutient sa candidature présidentielle 2027 ; Lalanne annonce vouloir le nommer Premier ministre en cas de victoire.",
+      "date": "2026-08-21",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "soutien",
+      "description": "Appelle à voter pour Marine Le Pen contre Emmanuel Macron au second tour de la présidentielle 2022.",
+      "date": "2022-04",
+      "source_url": "https://www.liberation.fr/politique/elections/presidentielle-les-complotistes-votent-marine-le-pen-20220414_OMUZ4RGSXZCGHHJK6FNFE7XFWE/"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "mouvement-ecologiste-independant",
+      "nom": "Mouvement écologiste indépendant",
+      "type": "parti"
+    },
+    {
+      "id": "alliance-ecologiste-independante",
+      "nom": "Alliance écologiste indépendante",
+      "type": "alliance",
+      "debut": "2009",
+      "fin": null
+    },
+    {
+      "id": "alliance-jaune",
+      "nom": "Alliance jaune (liste européennes 2019)",
+      "type": "alliance",
+      "debut": "2019",
+      "fin": "2019-05"
+    },
+    {
+      "id": "france-libre",
+      "nom": "France libre (mouvement et liste de Francis Lalanne)",
+      "type": "mouvement",
+      "debut": "2024",
+      "fin": null
+    },
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-marc-governatori",
+      "nom": "Jean-Marc Governatori",
+      "description": "Président de l'Alliance écologiste indépendante"
+    },
+    {
+      "slug": "dieudonne-mbala-mbala",
+      "nom": "Dieudonné M'bala M'bala",
+      "description": "Humoriste et militant politique, colistier de Francis Lalanne (liste France libre, 2024)"
+    }
+  ],
+  "notes": "Candidature 2027 annoncée par communiqué le 18 août 2026, lancée au meeting du 21 août (franceinfo) ; l'intention de nommer Dieudonné Premier ministre est sourcée par Le Point (via Wikipédia, page non consultable directement). Inéligible 18 mois depuis avril 2025 (comptes de campagne) ; liste municipale 2026 à Lyon (parti Spartacus) refusée. Gilets jaunes : mouvement non structuré, pas d'organisation créée. Pas de lien sourcé avec Florian Philippot. Adhésion au MEI non établie (seulement investiture 2007).",
+  "verifie_le": "2026-10-12"
+}

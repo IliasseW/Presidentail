@@ -1,0 +1,103 @@
+{
+  "slug": "karim-bouamrane",
+  "nom": "Karim Bouamrane",
+  "parcours": [
+    {
+      "organisation": "pcf",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1995",
+      "fin": "2014",
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2014",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Secrétaire national à l'innovation",
+      "debut": "2016-04",
+      "fin": "2018-04",
+      "source_url": "https://www.leparisien.fr/seine-saint-denis-93/saint-ouen-93400/saint-ouen-karim-bouamrane-grimpe-au-ps-15-04-2016-5719101.php"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Porte-parole",
+      "debut": "2016",
+      "fin": "2018-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    },
+    {
+      "organisation": "la-france-humaine-et-forte",
+      "type": "mouvement",
+      "role": "Fondateur",
+      "debut": "2024-10",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-christophe-cambadelis",
+      "cible_nom": "Jean-Christophe Cambadélis",
+      "type": "nomination",
+      "description": "Nommé porte-parole du PS en 2016, sous la direction de Jean-Christophe Cambadélis.",
+      "date": "2016",
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "succession",
+      "description": "Succède à Olivier Faure comme porte-parole du PS fin 2016.",
+      "date": "2016-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Olivier_Faure"
+    },
+    {
+      "cible": "manuel-valls",
+      "cible_nom": "Manuel Valls",
+      "type": "soutien",
+      "description": "Soutien de Manuel Valls en Seine-Saint-Denis lors de la primaire citoyenne de 2017.",
+      "date": "2017-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "rupture",
+      "description": "Après les municipales de 2026, il reproche à certaines alliances PS-LFI d'avoir fait perdre des villes à la gauche et appelle à la démission d'Olivier Faure.",
+      "date": "2026-03-24",
+      "source_url": "https://www.france24.com/fr/info-en-continu/20260324-accords-ps-lfi-bouamrane-appelle-%C3%A0-la-d%C3%A9mission-d-olivier-faure"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "la-france-humaine-et-forte",
+      "nom": "La France humaine et forte (FHuF)",
+      "type": "mouvement",
+      "debut": "2024-10",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-christophe-cambadelis",
+      "nom": "Jean-Christophe Cambadélis",
+      "description": "Premier secrétaire du PS (2014-2017)"
+    },
+    {
+      "slug": "manuel-valls",
+      "nom": "Manuel Valls",
+      "description": "Premier ministre (2014-2016), ministre de l'Intérieur (2012-2014)"
+    }
+  ],
+  "notes": "Maire PS de Saint-Ouen-sur-Seine depuis 2020 (réélu en mars 2026) : mandat local non codé. Candidature présidentielle officialisée le 9 juin 2026 (Le Monde), hors primaire « Choisir 2027 » à laquelle il n'a pas participé ; aucune réaction trouvée à la victoire de Glucksmann. Son mouvement s'appelle « La France humaine et forte » (FHuF), distinct de « La France humaniste » de Dominique de Villepin (id la-france-humaniste) : nouvel id la-france-humaine-et-forte. Fin du poste de porte-parole (avril 2018, renouvellement de la direction par Olivier Faure) déduite, non confirmée ; même date de fin déduite pour le secrétariat national à l'innovation. Cité comme Premier ministre possible en août 2024 (non codé).",
+  "verifie_le": "2026-10-12"
+}

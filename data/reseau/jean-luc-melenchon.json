@@ -1,0 +1,215 @@
+{
+  "slug": "jean-luc-melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1976-09",
+      "fin": "2008-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "gouvernement-jospin",
+      "type": "gouvernement",
+      "role": "Ministre délégué à l'Enseignement professionnel",
+      "debut": "2000-03-27",
+      "fin": "2002-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "parti-de-gauche",
+      "type": "parti",
+      "role": "Fondateur et président (coprésident avec Martine Billard à partir de 2010)",
+      "debut": "2009-02-01",
+      "fin": "2014-08-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "front-de-gauche",
+      "type": "alliance",
+      "role": "Cofondateur (au titre du Parti de gauche)",
+      "debut": "2008-11",
+      "fin": "2016",
+      "source_url": "https://fr.wikipedia.org/wiki/Front_de_gauche_%28France%29"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidat du Front de gauche (4e, 11,10 %)",
+      "debut": "2012-04",
+      "fin": "2012-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "lfi",
+      "type": "parti",
+      "role": "Fondateur",
+      "debut": "2016-02-10",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidat (4e, 19,58 %)",
+      "debut": "2017-04",
+      "fin": "2017-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat (3e, 21,95 %)",
+      "debut": "2022-04",
+      "fin": "2022-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Figure de proue de la coalition",
+      "debut": "2022-05",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Dirigeant de LFI, composante de la coalition",
+      "debut": "2024-06",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "lionel-jospin",
+      "cible_nom": "Lionel Jospin",
+      "type": "nomination",
+      "description": "Nommé ministre délégué à l'Enseignement professionnel dans le gouvernement de Lionel Jospin en mars 2000.",
+      "date": "2000-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "rival",
+      "description": "Opposé à François Hollande pour le poste de premier secrétaire du PS au congrès de 1997, où il obtient 8,81 %.",
+      "date": "1997-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "rival",
+      "description": "Affronte Marine Le Pen aux législatives de 2012 dans la 11e circonscription du Pas-de-Calais et est éliminé au premier tour (21,5 % contre 42,3 %).",
+      "date": "2012-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "manuel-bompard",
+      "cible_nom": "Manuel Bompard",
+      "type": "collaborateur",
+      "description": "Manuel Bompard dirige sa campagne présidentielle de 2017 puis devient coordinateur de LFI fin 2022.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "manuel-bompard",
+      "cible_nom": "Manuel Bompard",
+      "type": "succession",
+      "description": "Manuel Bompard lui succède comme député de la 4e circonscription des Bouches-du-Rhône en 2022.",
+      "date": "2022-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "sophia-chikirou",
+      "cible_nom": "Sophia Chikirou",
+      "type": "collaborateur",
+      "description": "Sophia Chikirou est directrice de la communication de sa campagne présidentielle de 2017.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "mathilde-panot",
+      "cible_nom": "Mathilde Panot",
+      "type": "succession",
+      "description": "Mathilde Panot lui succède à la présidence du groupe LFI à l'Assemblée nationale en octobre 2021.",
+      "date": "2021-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    },
+    {
+      "cible": "francois-ruffin",
+      "cible_nom": "François Ruffin",
+      "type": "rupture",
+      "description": "François Ruffin, qui l'avait soutenu en 2017, officialise sa rupture définitive avec lui et LFI le 4 juillet 2024.",
+      "date": "2024-07-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+      "cible": "juan-branco",
+      "cible_nom": "Juan Branco",
+      "type": "collaborateur",
+      "description": "Juan Branco, candidat LFI aux législatives de 2017, devient son avocat puis abandonne sa défense en octobre 2018.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    },
+    {
+      "cible": "philippe-poutou",
+      "cible_nom": "Philippe Poutou",
+      "type": "soutien",
+      "description": "Le NPA renonce à présenter Philippe Poutou en 2027 et se range derrière la candidature de Jean-Luc Mélenchon (28 juin 2026).",
+      "date": "2026-06-28",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "front-de-gauche",
+      "nom": "Front de gauche",
+      "type": "alliance",
+      "president": null,
+      "debut": "2008-11",
+      "fin": "2018-11"
+    },
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "president": null,
+      "debut": "2012-04",
+      "fin": "2012-05"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "lionel-jospin",
+      "nom": "Lionel Jospin",
+      "description": "Premier ministre de 1997 à 2002, premier secrétaire du PS"
+    },
+    {
+      "slug": "manuel-bompard",
+      "nom": "Manuel Bompard",
+      "description": "Coordinateur de La France insoumise depuis fin 2022"
+    },
+    {
+      "slug": "sophia-chikirou",
+      "nom": "Sophia Chikirou",
+      "description": "Communicante et députée LFI"
+    },
+    {
+      "slug": "mathilde-panot",
+      "nom": "Mathilde Panot",
+      "description": "Présidente du groupe LFI à l'Assemblée nationale depuis 2021"
+    },
+    {
+      "slug": "philippe-poutou",
+      "nom": "Philippe Poutou",
+      "description": "Candidat du NPA aux présidentielles 2012, 2017 et 2022"
+    }
+  ],
+  "notes": "Candidature 2027 annoncée le 3 mai 2026 sur TF1 (non saisie en parcours, l'élection 2027 n'étant pas dans la liste). Membre de l'OCI 1972-1976 non saisi. Les écartements de fin 2022 (Autain, Corbière, Garrido) et la non-réinvestiture de 2024 ne sont pas saisis faute de cible candidate. Relation Hollande 1997 : score de 8,81 % tiré de Wikipédia (congrès de Brest). Rupture Ruffin dupliquée dans le fichier de Ruffin.",
+  "verifie_le": "2026-10-12"
+}

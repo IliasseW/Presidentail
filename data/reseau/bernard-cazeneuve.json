@@ -1,0 +1,120 @@
+{
+  "slug": "bernard-cazeneuve",
+  "nom": "Bernard Cazeneuve",
+  "parcours": [
+    {
+      "organisation": "prg",
+      "type": "parti",
+      "role": "Membre (MRG)",
+      "debut": "1985",
+      "fin": "1987",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1987",
+      "fin": "2022-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "gouvernement-ayrault",
+      "type": "gouvernement",
+      "role": "Ministre délégué aux Affaires européennes",
+      "debut": "2012-05-16",
+      "fin": "2013-03-19",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "gouvernement-ayrault",
+      "type": "gouvernement",
+      "role": "Ministre délégué au Budget",
+      "debut": "2013-03-19",
+      "fin": "2014-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "gouvernement-valls",
+      "type": "gouvernement",
+      "role": "Ministre de l'Intérieur",
+      "debut": "2014-04-02",
+      "fin": "2016-12-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "gouvernement-cazeneuve",
+      "type": "gouvernement",
+      "role": "Premier ministre",
+      "debut": "2016-12-06",
+      "fin": "2017-05-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "organisation": "la-convention",
+      "type": "mouvement",
+      "role": "Fondateur",
+      "debut": "2023-02-01",
+      "fin": null,
+      "source_url": "https://www.lemonde.fr/politique/article/2023/02/01/bernard-cazeneuve-lance-un-mouvement-pour-federer-la-gauche-hostile-a-la-nupes_6160168_823448.html"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "collaborateur",
+      "description": "Désigné l'un des quatre porte-parole de la campagne présidentielle de François Hollande en 2012.",
+      "date": "2011-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "nomination",
+      "description": "Nommé Premier ministre par François Hollande le 6 décembre 2016, après avoir été nommé ministre dans les gouvernements Ayrault et Valls.",
+      "date": "2016-12-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "cible": "manuel-valls",
+      "cible_nom": "Manuel Valls",
+      "type": "succession",
+      "description": "A succédé à Manuel Valls au ministère de l'Intérieur (avril 2014) puis comme Premier ministre (décembre 2016).",
+      "date": "2016-12-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "cible": "edouard-philippe",
+      "cible_nom": "Édouard Philippe",
+      "type": "succession",
+      "description": "Édouard Philippe lui a succédé comme Premier ministre le 15 mai 2017.",
+      "date": "2017-05-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "rupture",
+      "description": "A quitté en mai 2022 le PS dirigé par Olivier Faure, en désaccord avec l'accord NUPES ; en septembre 2024, la direction de Faure refuse de soutenir sa possible nomination à Matignon.",
+      "date": "2022-05",
+      "source_url": "https://france3-regions.francetvinfo.fr/normandie/manche/cherbourg-cotentin/bernard-cazeneuve-quitte-le-ps-et-ce-n-est-pas-rien-voici-pourquoi-2536196.html"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "prg",
+      "nom": "Mouvement des radicaux de gauche / Parti radical de gauche",
+      "type": "parti"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "manuel-valls",
+      "nom": "Manuel Valls",
+      "description": "Premier ministre (2014-2016), ministre de l'Intérieur (2012-2014)"
+    }
+  ],
+  "notes": "Candidature à la présidentielle 2027 déclarée le 16 juillet 2026 (Le Parisien / Le Monde), hors de la primaire socialiste qu'il a déclinée. Pressenti pour Matignon en septembre 2024 (reçu à l'Élysée le 1er septembre 2024), Michel Barnier finalement nommé. Dates de fin au Budget : 31 mars (infobox) ou 2 avril 2014 selon les sections de Wikipédia. Rapprochement avec Hollande et Glucksmann (réunion à Pontoise, novembre 2025) et tribune de 2019 critiquant des propos de Glucksmann sur le Rwanda : non codés en relation. Parti radical de gauche déclaré en organisation nouvelle (id « prg »), à fusionner si un autre agent l'a nommé différemment.",
+  "verifie_le": "2026-10-12"
+}

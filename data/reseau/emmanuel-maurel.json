@@ -1,0 +1,184 @@
+{
+  "slug": "emmanuel-maurel",
+  "nom": "Emmanuel Maurel",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1990",
+      "fin": "2018-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Secrétaire national (universités permanentes et universités d'été)",
+      "debut": "2008",
+      "fin": "2012",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Candidat au poste de premier secrétaire (congrès de Toulouse, 28 %)",
+      "debut": "2012-10",
+      "fin": "2012-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Premier signataire d'une motion candidate à la direction (congrès d'Aubervilliers, 18,8 %)",
+      "debut": "2018-01",
+      "fin": "2018-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "grs",
+      "type": "parti",
+      "role": "Cofondateur (APRÉS, devenue GRS en février 2019)",
+      "debut": "2018-10",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "grs",
+      "type": "parti",
+      "role": "Animateur national",
+      "debut": "2019-02-03",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "europeennes-2019",
+      "type": "election",
+      "role": "Élu sur la liste de La France insoumise",
+      "debut": "2019-05",
+      "fin": "2019-05-26",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "europeennes-2024",
+      "type": "election",
+      "role": "Candidat en 3e position de la liste PCF (non réélu)",
+      "debut": "2024-01",
+      "fin": "2024-06-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Candidat élu député (3e circonscription du Val-d'Oise)",
+      "debut": "2024-06",
+      "fin": "2024-07-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "organisation": "primaire-gauche-2026",
+      "type": "election",
+      "role": "Candidat (4e au premier tour, 5,92 %)",
+      "debut": "2026-09-04",
+      "fin": "2026-10-11",
+      "source_url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "harlem-desir",
+      "cible_nom": "Harlem Désir",
+      "type": "rival",
+      "description": "Candidat face à Harlem Désir pour le poste de premier secrétaire du PS au congrès de Toulouse (28 % des voix).",
+      "date": "2012-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "rival",
+      "description": "Opposé à Olivier Faure lors du vote des militants du congrès d'Aubervilliers, où sa motion arrive troisième (18,8 %).",
+      "date": "2018-03-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "marie-noelle-lienemann",
+      "cible_nom": "Marie-Noëlle Lienemann",
+      "type": "soutien",
+      "description": "Soutient Marie-Noëlle Lienemann pour la primaire de 2017, puis quitte le PS avec elle en octobre 2018 pour fonder l'APRÉS, future GRS.",
+      "date": "2016-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "arnaud-montebourg",
+      "cible_nom": "Arnaud Montebourg",
+      "type": "soutien",
+      "description": "Soutient Arnaud Montebourg à la primaire citoyenne de 2017 après le retrait de Marie-Noëlle Lienemann.",
+      "date": "2016-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "benoit-hamon",
+      "cible_nom": "Benoît Hamon",
+      "type": "collaborateur",
+      "description": "Responsable thématique « Commerce international » de la campagne présidentielle de Benoît Hamon en 2017.",
+      "date": "2017-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "rival",
+      "description": "Battu par Raphaël Glucksmann à la primaire « Choisir 2027 » (4e, 5,92 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "soutien",
+      "description": "Annonce un soutien « loyal et exigeant » à Raphaël Glucksmann après la primaire.",
+      "date": "2026-10-11",
+      "source_url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "europeennes-2019",
+      "nom": "Élections européennes 2019",
+      "type": "election",
+      "debut": "2019-05",
+      "fin": "2019-05"
+    },
+    {
+      "id": "europeennes-2024",
+      "nom": "Élections européennes 2024",
+      "type": "election",
+      "debut": "2024-06",
+      "fin": "2024-06"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "harlem-desir",
+      "nom": "Harlem Désir",
+      "description": "Premier secrétaire du PS (2012-2014)"
+    },
+    {
+      "slug": "marie-noelle-lienemann",
+      "nom": "Marie-Noëlle Lienemann",
+      "description": "Ancienne ministre et sénatrice, cofondatrice de la Gauche républicaine et socialiste"
+    },
+    {
+      "slug": "arnaud-montebourg",
+      "nom": "Arnaud Montebourg",
+      "description": "Ancien ministre de l'Économie (2014), candidat aux primaires socialistes de 2011 et 2017"
+    },
+    {
+      "slug": "benoit-hamon",
+      "nom": "Benoît Hamon",
+      "description": "Candidat du PS à la présidentielle 2017"
+    }
+  ],
+  "notes": "Ex-PS depuis octobre 2018. Alliance avec LFI : élu eurodéputé en 2019 sur la liste LFI (groupe GUE/NGL), sans adhérer à LFI ; non codé comme relation avec Mélenchon faute de soutien personnel sourcé (le soutien éventuel de la GRS à Mélenchon en 2022 n'a pas été vérifié). Élu député NFP en 2024, siège au groupe GDR. Animateur national de la GRS réélu le 7 juin 2026.",
+  "verifie_le": "2026-10-12"
+}

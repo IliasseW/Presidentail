@@ -1,0 +1,143 @@
+{
+  "slug": "francois-asselineau",
+  "nom": "François Asselineau",
+  "parcours": [
+    {
+      "organisation": "rpf",
+      "type": "parti",
+      "role": "Membre du bureau national, directeur des études et porte-parole",
+      "debut": "1999",
+      "fin": "2006",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2004",
+      "fin": "2006",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "rif",
+      "type": "parti",
+      "role": "Membre du comité directeur",
+      "debut": "2006-11",
+      "fin": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "upr",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2007-03-25",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidat déclaré (parrainages insuffisants)",
+      "debut": "2011-12-03",
+      "fin": "2012-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidat (0,92 %)",
+      "debut": "2017-04-23",
+      "fin": "2017-04-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat déclaré (293 parrainages sur 500)",
+      "debut": "2022",
+      "fin": "2022-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "francoise-de-panafieu",
+      "cible_nom": "Françoise de Panafieu",
+      "type": "collaborateur",
+      "description": "Directeur de cabinet de Françoise de Panafieu, ministre du Tourisme dans le premier gouvernement Juppé (1995).",
+      "date": "1995",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "cible": "charles-pasqua",
+      "cible_nom": "Charles Pasqua",
+      "type": "collaborateur",
+      "description": "Directeur de cabinet de Charles Pasqua au conseil général des Hauts-de-Seine de 2001 à 2004, après l'avoir rejoint au RPF en 1999.",
+      "date": "2001",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "nomination",
+      "description": "Nommé délégué général à l'intelligence économique au ministère de l'Économie par Nicolas Sarkozy le 19 octobre 2004.",
+      "date": "2004-10-19",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "cible": "nicolas-dupont-aignan",
+      "cible_nom": "Nicolas Dupont-Aignan",
+      "type": "soutien",
+      "description": "Reçoit le soutien de Nicolas Dupont-Aignan lors de la législative partielle de 2013 dans le Lot-et-Garonne.",
+      "date": "2013",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "cible": "florian-philippot",
+      "cible_nom": "Florian Philippot",
+      "type": "rival",
+      "description": "Le bureau national de l'UPR rejette en 2019 la liste commune proposée par Florian Philippot pour les européennes ; les deux souverainistes présentent des listes concurrentes.",
+      "date": "2019-05",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/philippot-a-propose-une-liste-commune-a-asselineau-moyennant-300000-euros-140888"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "rpf",
+      "nom": "Rassemblement pour la France (RPF, Charles Pasqua)",
+      "type": "parti",
+      "debut": "1999"
+    },
+    {
+      "id": "rif",
+      "nom": "Rassemblement pour l'indépendance et la souveraineté de la France (RIF)",
+      "type": "parti"
+    },
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "debut": "2012-04",
+      "fin": "2012-05"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "francoise-de-panafieu",
+      "nom": "Françoise de Panafieu",
+      "description": "Ancienne ministre du Tourisme (1995), présidente du groupe UMP au Conseil de Paris"
+    },
+    {
+      "slug": "charles-pasqua",
+      "nom": "Charles Pasqua",
+      "description": "Ancien ministre de l'Intérieur, fondateur du RPF, président du conseil général des Hauts-de-Seine (1988-2004)"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    }
+  ],
+  "notes": "Les postes en cabinets ministériels (Longuet, Rossi, Panafieu, Charette) ne sont pas des postes au gouvernement ; seuls Panafieu et Pasqua sont saisis comme relations. Relation « rival » avec Florian Philippot : refus de liste commune et listes concurrentes aux européennes de 2019 (pas de duel au sens strict). Les présidentielles 2012 et 2022 sont des candidatures déclarées non validées faute de parrainages. Candidature 2027 annoncée le 31 août 2023 (Le Dauphiné libéré, via Wikipédia). Contestation interne de sa présidence de l'UPR et procédure judiciaire en cours non traitées ici (hors périmètre).",
+  "verifie_le": "2026-10-12"
+}

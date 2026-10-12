@@ -1,0 +1,360 @@
+{
+  "slug": "bruno-retailleau",
+  "nom": "Bruno Retailleau",
+  "parcours": [
+    {
+      "organisation": "mpf",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1994",
+      "fin": "2010-04-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2012-02",
+      "fin": "2015-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Secrétaire national chargé de la compétitivité et des PME",
+      "debut": "2012-02",
+      "fin": "2013-01-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Coordinateur de la campagne de François Fillon",
+      "debut": "2016-11",
+      "fin": "2017-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "force-republicaine",
+      "type": "parti",
+      "role": "Président (succède à François Fillon)",
+      "debut": "2017",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2015-05",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "congres-lr-2022",
+      "type": "election",
+      "role": "Candidat (battu au 2nd tour, 46,30 %)",
+      "debut": "2022-12",
+      "fin": "2022-12-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "gouvernement-barnier",
+      "type": "gouvernement",
+      "role": "Ministre de l'Intérieur",
+      "debut": "2024-09-21",
+      "fin": "2024-12-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "gouvernement-bayrou",
+      "type": "gouvernement",
+      "role": "Ministre d'État, ministre de l'Intérieur",
+      "debut": "2024-12-23",
+      "fin": "2025-10-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "gouvernement-lecornu",
+      "type": "gouvernement",
+      "role": "Ministre d'État, ministre de l'Intérieur (gouvernement Lecornu I)",
+      "debut": "2025-10-05",
+      "fin": "2025-10-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "congres-lr-2025",
+      "type": "election",
+      "role": "Candidat élu (74,31 %)",
+      "debut": "2025-05-18",
+      "fin": "2025-05-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Président",
+      "debut": "2025-05-18",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "philippe-de-villiers",
+      "cible_nom": "Philippe de Villiers",
+      "type": "collaborateur",
+      "description": "Bras droit de Philippe de Villiers au Puy du Fou et au MPF, il est son suppléant aux législatives de 1993 et le remplace comme député de la Vendée de 1994 à 1997.",
+      "date": "1994-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "philippe-de-villiers",
+      "cible_nom": "Philippe de Villiers",
+      "type": "succession",
+      "description": "Succède à Philippe de Villiers à la présidence du conseil général de la Vendée après la démission de celui-ci en 2010.",
+      "date": "2010-11-30",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "philippe-de-villiers",
+      "cible_nom": "Philippe de Villiers",
+      "type": "rupture",
+      "description": "Quitte le Mouvement pour la France le 23 avril 2010 en se disant « plus sur la même longueur d'onde » que Philippe de Villiers, avec qui ses relations restent tendues.",
+      "date": "2010-04-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "soutien",
+      "description": "Membre du comité de campagne de Nicolas Sarkozy pour la présidentielle 2012, dès son adhésion à l'UMP.",
+      "date": "2012-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "soutien",
+      "description": "Soutient François Fillon au congrès de l'UMP de 2012 puis figure parmi ses premiers soutiens pour la primaire de la droite et du centre de 2016.",
+      "date": "2016",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "collaborateur",
+      "description": "Coordonne la campagne présidentielle de François Fillon en 2017 et reste dans le « noyau dur » de ses soutiens pendant l'affaire Fillon.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "succession",
+      "description": "Reprend en 2017 la présidence de Force républicaine, le micro-parti de François Fillon.",
+      "date": "2017-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "xavier-bertrand",
+      "cible_nom": "Xavier Bertrand",
+      "type": "soutien",
+      "description": "Reçoit le soutien de Xavier Bertrand pour le second tour du congrès des Républicains de 2022.",
+      "date": "2022-12",
+      "source_url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+    },
+    {
+      "cible": "eric-ciotti",
+      "cible_nom": "Éric Ciotti",
+      "type": "rival",
+      "description": "Battu par Éric Ciotti au second tour du congrès des Républicains de décembre 2022 (46,3 % contre 53,7 %).",
+      "date": "2022-12-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "eric-ciotti",
+      "cible_nom": "Éric Ciotti",
+      "type": "succession",
+      "description": "Succède à Éric Ciotti (après une direction collégiale intérimaire) à la présidence des Républicains en mai 2025.",
+      "date": "2025-05-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "gerald-darmanin",
+      "cible_nom": "Gérald Darmanin",
+      "type": "succession",
+      "description": "Succède à Gérald Darmanin au ministère de l'Intérieur le 21 septembre 2024.",
+      "date": "2024-09-21",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "nomination",
+      "description": "Nommé ministre de l'Intérieur dans le gouvernement de Michel Barnier le 21 septembre 2024.",
+      "date": "2024-09-21",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "francois-bayrou",
+      "cible_nom": "François Bayrou",
+      "type": "nomination",
+      "description": "Reconduit ministre de l'Intérieur avec le titre de ministre d'État dans le gouvernement de François Bayrou le 23 décembre 2024.",
+      "date": "2024-12-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "laurent-wauquiez",
+      "cible_nom": "Laurent Wauquiez",
+      "type": "rival",
+      "description": "Bat Laurent Wauquiez à l'élection à la présidence des Républicains du 18 mai 2025.",
+      "date": "2025-05-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "nomination",
+      "description": "Après son élection à la tête de LR, place Michel Barnier à la présidence du Conseil national du parti.",
+      "date": "2025-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "francois-xavier-bellamy",
+      "cible_nom": "François-Xavier Bellamy",
+      "type": "nomination",
+      "description": "Nomme François-Xavier Bellamy, qui l'avait soutenu en 2022, vice-président des Républicains en 2025.",
+      "date": "2025-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "david-lisnard",
+      "cible_nom": "David Lisnard",
+      "type": "nomination",
+      "description": "Soutenu par David Lisnard pour la présidence de LR, il le fait nommer vice-président des Républicains le 28 juin 2025.",
+      "date": "2025-06-28",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "sebastien-lecornu",
+      "cible_nom": "Sébastien Lecornu",
+      "type": "nomination",
+      "description": "Reconduit ministre d'État, ministre de l'Intérieur dans le gouvernement Lecornu I le 5 octobre 2025.",
+      "date": "2025-10-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "sebastien-lecornu",
+      "cible_nom": "Sébastien Lecornu",
+      "type": "rupture",
+      "description": "Critique publiquement la composition du gouvernement Lecornu I, ce qui pousse le Premier ministre à démissionner, puis refuse de participer au gouvernement suivant.",
+      "date": "2025-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "bruno-le-maire",
+      "cible_nom": "Bruno Le Maire",
+      "type": "rupture",
+      "description": "S'oppose publiquement à la présence de Bruno Le Maire dans le gouvernement Lecornu I, nomination qui lui aurait été cachée, et précipite la chute de ce gouvernement.",
+      "date": "2025-10-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+    },
+    {
+      "cible": "david-lisnard",
+      "cible_nom": "David Lisnard",
+      "type": "rupture",
+      "description": "David Lisnard, vice-président de LR, conteste le mode de désignation du candidat voulu par la direction de Bruno Retailleau et quitte le parti le 31 mars 2026.",
+      "date": "2026-03-31",
+      "source_url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+      "cible": "valerie-pecresse",
+      "cible_nom": "Valérie Pécresse",
+      "type": "soutien",
+      "description": "Reçoit le soutien de Valérie Pécresse pour l'élection présidentielle de 2027.",
+      "date": "2026",
+      "source_url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "force-republicaine",
+      "nom": "Force républicaine",
+      "type": "parti"
+    },
+    {
+      "id": "congres-lr-2022",
+      "nom": "Congrès des Républicains de 2022 (présidence du parti)",
+      "type": "election",
+      "debut": "2022-12",
+      "fin": "2022-12"
+    },
+    {
+      "id": "congres-lr-2025",
+      "nom": "Congrès des Républicains de 2025 (présidence du parti)",
+      "type": "election",
+      "debut": "2025-05",
+      "fin": "2025-05"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "philippe-de-villiers",
+      "nom": "Philippe de Villiers",
+      "description": "Fondateur du Mouvement pour la France, ancien président du conseil général de la Vendée"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    },
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "eric-ciotti",
+      "nom": "Éric Ciotti",
+      "description": "Président des Républicains de 2022 à 2024, fondateur de l'UDR"
+    },
+    {
+      "slug": "gerald-darmanin",
+      "nom": "Gérald Darmanin",
+      "description": "Ministre de l'Intérieur de 2020 à 2024, garde des Sceaux depuis 2024"
+    },
+    {
+      "slug": "michel-barnier",
+      "nom": "Michel Barnier",
+      "description": "Premier ministre en 2024, ancien commissaire européen"
+    },
+    {
+      "slug": "francois-bayrou",
+      "nom": "François Bayrou",
+      "description": "Président du MoDem, Premier ministre de 2024 à 2025"
+    },
+    {
+      "slug": "laurent-wauquiez",
+      "nom": "Laurent Wauquiez",
+      "description": "Président des Républicains de 2017 à 2019, président du groupe Droite républicaine à l'Assemblée"
+    },
+    {
+      "slug": "francois-xavier-bellamy",
+      "nom": "François-Xavier Bellamy",
+      "description": "Député européen, vice-président des Républicains"
+    },
+    {
+      "slug": "sebastien-lecornu",
+      "nom": "Sébastien Lecornu",
+      "description": "Premier ministre depuis septembre 2025"
+    },
+    {
+      "slug": "valerie-pecresse",
+      "nom": "Valérie Pécresse",
+      "description": "Présidente du conseil régional d'Île-de-France, candidate LR à la présidentielle 2022"
+    }
+  ],
+  "notes": "Wikipédia donne le MPF de 1994 à 2010 ; sa vice-présidence du MPF est mentionnée sans source et n'a pas été retenue. Fin de la présidence de Force républicaine inconnue (fin laissée à null). Gouvernement Bayrou : Retailleau reste en fonctions (gouvernement démissionnaire depuis le 9 septembre 2025) jusqu'à la formation de Lecornu I le 5 octobre 2025. Désigné candidat LR à la présidentielle 2027 lors d'une consultation interne les 18-19 avril 2026 (73,8 %, source LCP) : non saisi comme organisation. Relation « rupture » avec Bruno Le Maire : pas d'alliance préalable, mais un affrontement public direct ayant provoqué la chute du gouvernement Lecornu I. Le soutien de Valérie Pécresse pour 2027 provient de la page Wikipédia des candidatures 2027 ; Laurent Wauquiez y est indiqué comme soutenant Retailleau puis Édouard Philippe (non retenu). Bertrand et Retailleau sont concurrents pour 2027 (Retailleau critique la « chevauchée solitaire » de Bertrand), mais sans duel électoral direct à ce jour : pas de relation « rival ».",
+  "verifie_le": "2026-10-12"
+}

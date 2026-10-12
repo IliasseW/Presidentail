@@ -1,0 +1,50 @@
+{
+  "slug": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "parcours": [
+    {
+      "organisation": "npa",
+      "type": "parti",
+      "role": "Membre (Courant communiste révolutionnaire)",
+      "debut": "2017",
+      "fin": "2021-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
+    },
+    {
+      "organisation": "revolution-permanente",
+      "type": "parti",
+      "role": "Porte-parole",
+      "debut": "2022-12-18",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente_%28parti_politique%29"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Pré-candidat (parrainages insuffisants, 160)",
+      "debut": "2021-04",
+      "fin": "2022-03",
+      "source_url": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "philippe-poutou",
+      "cible_nom": "Philippe Poutou",
+      "type": "rival",
+      "description": "En 2021, maintient sa pré-candidature présidentielle face à Philippe Poutou, présenté par la direction du NPA.",
+      "date": "2021",
+      "source_url": "https://fr.wikipedia.org/wiki/Anasse_Kazib"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [
+    {
+      "slug": "philippe-poutou",
+      "nom": "Philippe Poutou",
+      "description": "Candidat du NPA aux présidentielles 2012, 2017 et 2022"
+    }
+  ],
+  "notes": "Date d'entrée à Révolution permanente/CCR incertaine (2017 dans le corps de l'article, 2021 dans l'infobox) ; début du rôle de porte-parole fixé au congrès fondateur du parti (18 décembre 2022), date exacte de prise de fonction non sourcée. Départ du NPA en juin 2021 (exclusion selon le CCR, départ volontaire selon le NPA). Candidature 2027 annoncée début juin 2026 (non saisie). Législatives 2024 (Seine-Saint-Denis, 3,67 %) non saisies.",
+  "verifie_le": "2026-10-12"
+}

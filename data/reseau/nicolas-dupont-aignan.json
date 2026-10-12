@@ -1,0 +1,284 @@
+{
+  "slug": "nicolas-dupont-aignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "parcours": [
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1976",
+      "fin": "1999-06-15",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Directeur des études",
+      "debut": "1997",
+      "fin": "1998-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Secrétaire national aux fédérations",
+      "debut": "1998-02",
+      "fin": "1999-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "debout-la-france",
+      "type": "parti",
+      "role": "Fondateur (Debout la République, club au sein du RPR)",
+      "debut": "1999-02-03",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "rpf",
+      "type": "parti",
+      "role": "Secrétaire général adjoint",
+      "debut": "1999-06",
+      "fin": "2000-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2002-11",
+      "fin": "2007-01-13",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "congres-ump-2002",
+      "type": "election",
+      "role": "Candidat à la présidence de l'UMP (14,9 %)",
+      "debut": "2002-11",
+      "fin": "2002-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "congres-ump-2004",
+      "type": "election",
+      "role": "Candidat à la présidence de l'UMP (9,1 %)",
+      "debut": "2004-11",
+      "fin": "2004-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "debout-la-france",
+      "type": "parti",
+      "role": "Président",
+      "debut": "2008-11-22",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "presidentielle-2012",
+      "type": "election",
+      "role": "Candidat (1,79 %)",
+      "debut": "2012-04-22",
+      "fin": "2012-04-22",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "presidentielle-2017",
+      "type": "election",
+      "role": "Candidat (4,70 %), puis allié de Marine Le Pen au 2nd tour",
+      "debut": "2017-04-23",
+      "fin": "2017-05-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "organisation": "presidentielle-2022",
+      "type": "election",
+      "role": "Candidat (2,06 %)",
+      "debut": "2022-04-10",
+      "fin": "2022-04-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "francois-bayrou",
+      "cible_nom": "François Bayrou",
+      "type": "collaborateur",
+      "description": "Chef de cabinet puis conseiller technique de François Bayrou, ministre de l'Éducation nationale, en 1993-1994.",
+      "date": "1993",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "michel-barnier",
+      "cible_nom": "Michel Barnier",
+      "type": "collaborateur",
+      "description": "Conseiller technique au cabinet de Michel Barnier, ministre de l'Environnement, en 1994-1995.",
+      "date": "1995-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "alain-juppe",
+      "cible_nom": "Alain Juppé",
+      "type": "nomination",
+      "description": "Désigné directeur des études du RPR par son président Alain Juppé en 1997.",
+      "date": "1997",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "philippe-seguin",
+      "cible_nom": "Philippe Séguin",
+      "type": "nomination",
+      "description": "Nommé secrétaire aux fédérations du RPR par Philippe Séguin en février 1998, avant d'être remplacé en janvier 1999.",
+      "date": "1998-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "charles-pasqua",
+      "cible_nom": "Charles Pasqua",
+      "type": "soutien",
+      "description": "Appelle à voter pour la liste souverainiste de Charles Pasqua et Philippe de Villiers aux européennes de 1999, puis devient secrétaire général adjoint du RPF de Pasqua.",
+      "date": "1999-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "philippe-de-villiers",
+      "cible_nom": "Philippe de Villiers",
+      "type": "soutien",
+      "description": "Appelle à voter pour la liste Pasqua-Villiers aux élections européennes de 1999.",
+      "date": "1999-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "alain-juppe",
+      "cible_nom": "Alain Juppé",
+      "type": "rival",
+      "description": "Candidat contre Alain Juppé à la présidence de l'UMP lors du congrès fondateur de 2002 (14,9 % contre 79,4 %).",
+      "date": "2002-11-17",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rival",
+      "description": "Candidat contre Nicolas Sarkozy à la présidence de l'UMP en 2004 (9,1 % contre 85,1 %).",
+      "date": "2004-11-28",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rupture",
+      "description": "Quitte l'UMP le 13 janvier 2007, estimant que Nicolas Sarkozy ne le laisse pas s'exprimer dans le processus d'investiture présidentielle.",
+      "date": "2007-01-13",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "soutien",
+      "description": "Appelle à voter pour Nicolas Sarkozy au second tour de la présidentielle de 2007, choix qu'il dit ensuite regretter.",
+      "date": "2007-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "francois-asselineau",
+      "cible_nom": "François Asselineau",
+      "type": "soutien",
+      "description": "Soutient François Asselineau lors de la législative partielle de 2013 dans le Lot-et-Garonne.",
+      "date": "2013",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "soutien",
+      "description": "Se rallie à Marine Le Pen pour le second tour de 2017 par un accord de gouvernement ; elle annonce qu'elle ferait de lui son Premier ministre si elle était élue.",
+      "date": "2017-04-29",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "florian-philippot",
+      "cible_nom": "Florian Philippot",
+      "type": "soutien",
+      "description": "Florian Philippot rallie sa candidature à la présidentielle le 14 mars 2022.",
+      "date": "2022-03-14",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+      "cible": "marine-le-pen",
+      "cible_nom": "Marine Le Pen",
+      "type": "soutien",
+      "description": "Appelle de nouveau à voter pour Marine Le Pen au second tour de la présidentielle de 2022.",
+      "date": "2022-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "rpf",
+      "nom": "Rassemblement pour la France (RPF, Charles Pasqua)",
+      "type": "parti",
+      "debut": "1999"
+    },
+    {
+      "id": "congres-ump-2002",
+      "nom": "Congrès fondateur de l'UMP (2002)",
+      "type": "election",
+      "debut": "2002-11",
+      "fin": "2002-11"
+    },
+    {
+      "id": "congres-ump-2004",
+      "nom": "Congrès de l'UMP de 2004",
+      "type": "election",
+      "debut": "2004-11",
+      "fin": "2004-11"
+    },
+    {
+      "id": "presidentielle-2012",
+      "nom": "Élection présidentielle 2012",
+      "type": "election",
+      "debut": "2012-04",
+      "fin": "2012-05"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "francois-bayrou",
+      "nom": "François Bayrou",
+      "description": "Président du MoDem, Premier ministre de 2024 à 2025"
+    },
+    {
+      "slug": "michel-barnier",
+      "nom": "Michel Barnier",
+      "description": "Premier ministre en 2024, ancien commissaire européen"
+    },
+    {
+      "slug": "alain-juppe",
+      "nom": "Alain Juppé",
+      "description": "Premier ministre de 1995 à 1997, président du RPR puis de l'UMP"
+    },
+    {
+      "slug": "philippe-seguin",
+      "nom": "Philippe Séguin",
+      "description": "Président du RPR de 1997 à 1999, ancien président de l'Assemblée nationale"
+    },
+    {
+      "slug": "charles-pasqua",
+      "nom": "Charles Pasqua",
+      "description": "Ancien ministre de l'Intérieur, fondateur du RPF, président du conseil général des Hauts-de-Seine (1988-2004)"
+    },
+    {
+      "slug": "philippe-de-villiers",
+      "nom": "Philippe de Villiers",
+      "description": "Fondateur du Mouvement pour la France, ancien président du conseil général de la Vendée"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012"
+    }
+  ],
+  "notes": "Adhésion au RPR datée de 1976 d'après l'infobox Wikipédia (non sourcée). Debout la République : club fondé le 3 février 1999 au sein du RPR, transformé en parti le 23 novembre 2008, renommé Debout la France en 2014. Les postes en cabinets ministériels (Bayrou, Barnier) sont saisis comme relations « collaborateur », pas comme postes au gouvernement. Le poste de Premier ministre de Marine Le Pen était seulement « pressenti » (annonce du 29 avril 2017), décrit dans la relation de soutien. En 2022 : alliance législative « Union pour la France » avec Les Patriotes et Génération Frexit (non saisie). Candidature 2027 annoncée le 8 mars 2025 ; maire d'Yerres de nouveau depuis mars 2026. En 2017, Xavier Bertrand l'a comparé à Pierre Laval (non typé). Aucune alliance DLF-RN pour 2027 trouvée.",
+  "verifie_le": "2026-10-12"
+}

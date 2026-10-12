@@ -1,0 +1,52 @@
+{
+  "slug": "juan-branco",
+  "nom": "Juan Branco",
+  "parcours": [
+    {
+      "organisation": "les-ecologistes",
+      "type": "parti",
+      "role": "Membre (Les Verts, Jeunes Verts)",
+      "debut": "2008",
+      "fin": "2011",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    },
+    {
+      "organisation": "lfi",
+      "type": "parti",
+      "role": "Candidat LFI aux législatives (12e circ. de Seine-Saint-Denis, 13,9 %)",
+      "debut": "2017-06",
+      "fin": "2017-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "collaborateur",
+      "description": "Membre du pôle « culture, audiovisuel et médias », dirigé par Aurélie Filippetti, de la campagne présidentielle de François Hollande en 2012.",
+      "date": "2012",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "collaborateur",
+      "description": "Devient l'avocat de Jean-Luc Mélenchon après sa prestation de serment en 2017.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "rupture",
+      "description": "Abandonne la défense de Jean-Luc Mélenchon en octobre 2018 sans que les raisons de cette rupture soient dévoilées.",
+      "date": "2018-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Juan_Branco"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [],
+  "notes": "Conseiller juridique de WikiLeaks et de Julian Assange (vers 2013-2015, équipe de Baltasar Garzón) : Wikipédia le décrit comme conseiller juridique, pas comme avocat d'Assange ; non saisi (pas une personnalité politique française). Avocat de figures des Gilets jaunes (Maxime Nicolle, Christophe Dettinger) non saisi. Attaques publiques contre Gabriel Attal (2018) et accusation de collusion Ruffin-Macron (2019, contestée par Ruffin) non saisies : pas un type de relation prévu. Collaborateur extérieur du ministère des Affaires étrangères 2012-2013 (ministre non nommé par la source). Intention de candidature 2027 annoncée en décembre 2025, mouvement non précisé. Mis en examen pour viol (2021, nie les faits, présumé innocent) et suspendu par le barreau (2024, confirmé en appel 2025) : non saisi.",
+  "verifie_le": "2026-10-12"
+}

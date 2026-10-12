@@ -1,0 +1,181 @@
+{
+  "slug": "bruno-le-maire",
+  "nom": "Bruno Le Maire",
+  "parcours": [
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2007",
+      "fin": "2015",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2015",
+      "fin": "2017-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "renaissance",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2017-09-24",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "primaire-droite-2016",
+      "type": "election",
+      "role": "Candidat (5e, 2,38 %)",
+      "debut": "2016-02",
+      "fin": "2016-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Secrétaire d'État chargé des Affaires européennes",
+      "debut": "2008-12-13",
+      "fin": "2009-06-23",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Ministre de l'Alimentation, de l'Agriculture et de la Pêche",
+      "debut": "2009-06-23",
+      "fin": "2010-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-fillon",
+      "type": "gouvernement",
+      "role": "Ministre de l'Agriculture, de l'Alimentation, de la Pêche, de la Ruralité et de l'Aménagement du territoire",
+      "debut": "2010-11",
+      "fin": "2012-05-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Ministre de l'Économie",
+      "debut": "2017-05-17",
+      "fin": "2017-06-21",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Ministre de l'Économie et des Finances",
+      "debut": "2017-06-21",
+      "fin": "2020-07-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-castex",
+      "type": "gouvernement",
+      "role": "Ministre de l'Économie, des Finances et de la Relance",
+      "debut": "2020-07-06",
+      "fin": "2022-05-20",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-borne",
+      "type": "gouvernement",
+      "role": "Ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
+      "debut": "2022-05-20",
+      "fin": "2024-01-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-attal",
+      "type": "gouvernement",
+      "role": "Ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
+      "debut": "2024-01-11",
+      "fin": "2024-09-21",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "organisation": "gouvernement-lecornu",
+      "type": "gouvernement",
+      "role": "Ministre d'État, ministre des Armées et des Anciens Combattants (gouvernement Lecornu I)",
+      "debut": "2025-10-05",
+      "fin": "2025-10-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_I"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "dominique-de-villepin",
+      "cible_nom": "Dominique de Villepin",
+      "type": "collaborateur",
+      "description": "Conseiller de Dominique de Villepin aux Affaires étrangères puis à l'Intérieur, puis son directeur de cabinet à Matignon (juillet 2006 - mai 2007).",
+      "date": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rival",
+      "description": "Candidat face à Nicolas Sarkozy à l'élection à la présidence de l'UMP le 29 novembre 2014 (29,18 % contre Sarkozy élu).",
+      "date": "2014-11-29",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "soutien",
+      "description": "Vote pour François Fillon au second tour de la primaire de 2016 et rejoint sa campagne, dont il démissionne le 1er mars 2017 après la convocation de Fillon par la justice.",
+      "date": "2016-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    },
+    {
+      "cible": "sebastien-lecornu",
+      "cible_nom": "Sébastien Lecornu",
+      "type": "collaborateur",
+      "description": "Sébastien Lecornu a été son conseiller au secrétariat d'État aux Affaires européennes puis au ministère de l'Agriculture, et a codirigé ses campagnes pour la présidence de l'UMP (2014) et la primaire de 2016.",
+      "date": "2008",
+      "source_url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"
+    },
+    {
+      "cible": "sebastien-lecornu",
+      "cible_nom": "Sébastien Lecornu",
+      "type": "succession",
+      "description": "Succède à Sébastien Lecornu au ministère des Armées le 5 octobre 2025, avant de quitter le gouvernement dès le lendemain.",
+      "date": "2025-10-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "primaire-droite-2016",
+      "nom": "Primaire de la droite et du centre (2016)",
+      "type": "election",
+      "president": null,
+      "debut": "2016-11",
+      "fin": "2016-11"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République de 2007 à 2012, ancien président de l'UMP"
+    },
+    {
+      "slug": "sebastien-lecornu",
+      "nom": "Sébastien Lecornu",
+      "description": "Premier ministre depuis septembre 2025, ancien ministre des Armées"
+    }
+  ],
+  "notes": "Pas de candidature déclarée au 12 octobre 2026 : il a annoncé qu'il dirait « en octobre » s'il est candidat (manifeste publié le 23 août 2026) ; aucune annonce trouvée à ce jour. Appartenance à Renaissance en 2026 non confirmée (fin laissée à null). Ministre le plus éphémère de la Ve République (Lecornu I) : ses attributions sont transférées au Premier ministre le 6 octobre 2025 à sa demande. Pas de relation directe documentée avec Bruno Retailleau hors appartenance commune à l'UMP/LR, ni avec Philippe/Attal (il les a critiqués pour leur manque de vision, sans relation typée).",
+  "verifie_le": "2026-10-12"
+}

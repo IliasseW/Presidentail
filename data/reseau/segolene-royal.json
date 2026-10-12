@@ -1,0 +1,307 @@
+{
+  "slug": "segolene-royal",
+  "nom": "Ségolène Royal",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1978",
+      "fin": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Candidate au poste de première secrétaire (congrès de Reims, battue par Martine Aubry)",
+      "debut": "2008-11",
+      "fin": "2008-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Secrétaire nationale chargée des mobilisations citoyennes",
+      "debut": "2011-11",
+      "fin": "2012-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre (réadhésion)",
+      "debut": "2021",
+      "fin": "2023",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre (réadhésion)",
+      "debut": "2024",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-beregovoy",
+      "type": "gouvernement",
+      "role": "Ministre de l'Environnement",
+      "debut": "1992-04-02",
+      "fin": "1993-03-29",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-jospin",
+      "type": "gouvernement",
+      "role": "Ministre déléguée à l'Enseignement scolaire",
+      "debut": "1997-06-04",
+      "fin": "2000-03-27",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-jospin",
+      "type": "gouvernement",
+      "role": "Ministre déléguée à la Famille et à l'Enfance",
+      "debut": "2000-03-27",
+      "fin": "2001-03-27",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-jospin",
+      "type": "gouvernement",
+      "role": "Ministre déléguée à la Famille, à l'Enfance et aux Personnes handicapées",
+      "debut": "2001-03-28",
+      "fin": "2002-05-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-valls",
+      "type": "gouvernement",
+      "role": "Ministre de l'Écologie, du Développement durable et de l'Énergie",
+      "debut": "2014-04-02",
+      "fin": "2016-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-valls",
+      "type": "gouvernement",
+      "role": "Ministre de l'Environnement, de l'Énergie et de la Mer, chargée des Relations internationales sur le climat",
+      "debut": "2016-02",
+      "fin": "2016-12-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "gouvernement-cazeneuve",
+      "type": "gouvernement",
+      "role": "Ministre de l'Environnement, de l'Énergie et de la Mer, chargée des Relations internationales sur le climat",
+      "debut": "2016-12-06",
+      "fin": "2017-05-17",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "primaire-socialiste-2006",
+      "type": "election",
+      "role": "Vainqueure (désignée candidate du PS, 60,65 %)",
+      "debut": "2006-11",
+      "fin": "2006-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "presidentielle-2007",
+      "type": "election",
+      "role": "Candidate au 2nd tour (46,94 %)",
+      "debut": "2007-04-22",
+      "fin": "2007-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "primaire-citoyenne-2011",
+      "type": "election",
+      "role": "Candidate (4e au premier tour, 6,95 %)",
+      "debut": "2011-10-09",
+      "fin": "2011-10-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "organisation": "primaire-gauche-2026",
+      "type": "election",
+      "role": "Candidate (3e au premier tour, 7,62 %)",
+      "debut": "2026-07-10",
+      "fin": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "francois-mitterrand",
+      "cible_nom": "François Mitterrand",
+      "type": "collaborateur",
+      "description": "Chargée de mission puis conseillère à la présidence de la République auprès de François Mitterrand de 1982 à 1988.",
+      "date": "1982",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "cible": "dominique-strauss-kahn",
+      "cible_nom": "Dominique Strauss-Kahn",
+      "type": "rival",
+      "description": "L'a devancé lors de la primaire socialiste de novembre 2006 pour la présidentielle 2007.",
+      "date": "2006-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2006"
+    },
+    {
+      "cible": "laurent-fabius",
+      "cible_nom": "Laurent Fabius",
+      "type": "rival",
+      "description": "L'a devancé lors de la primaire socialiste de novembre 2006 pour la présidentielle 2007.",
+      "date": "2006-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2006"
+    },
+    {
+      "cible": "nicolas-sarkozy",
+      "cible_nom": "Nicolas Sarkozy",
+      "type": "rival",
+      "description": "Battue par Nicolas Sarkozy au second tour de la présidentielle 2007 (46,94 % contre 53,06 %).",
+      "date": "2007-05-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "cible": "martine-aubry",
+      "cible_nom": "Martine Aubry",
+      "type": "rival",
+      "description": "Battue de 42 voix par Martine Aubry pour le poste de premier secrétaire du PS au congrès de Reims, résultat qu'elle a contesté.",
+      "date": "2008-11-21",
+      "source_url": "http://www.lefigaro.fr/politique/2008/11/21/01002-20081121ARTFIG00155-duel-serre-entre-aubry-et-royal-pour-la-direction-du-ps-.php"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "soutien",
+      "description": "Éliminée au premier tour de la primaire citoyenne de 2011, elle apporte son soutien à François Hollande pour le second tour.",
+      "date": "2011-10-12",
+      "source_url": "https://www.lemonde.fr/primaire-parti-socialiste/article/2011/10/12/segolene-royal-annonce-son-soutien-a-francois-hollande_1586195_1471072.html"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "nomination",
+      "description": "Nommée ministre de l'Écologie, du Développement durable et de l'Énergie par le président François Hollande (gouvernement Valls) le 2 avril 2014.",
+      "date": "2014-04-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "nomination",
+      "description": "Nommée par Emmanuel Macron ambassadrice chargée des pôles arctique et antarctique en 2017, puis démise de cette fonction par l'exécutif en janvier 2020.",
+      "date": "2017-09",
+      "source_url": "http://www.lefigaro.fr/flash-actu/2017/07/28/97001-20170728FILWWW00220-sroyal-nommee-ambassadrice-pour-les-poles.php"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "soutien",
+      "description": "A apporté son soutien à Jean-Luc Mélenchon pour la présidentielle 2022, le jugeant « vote utile à gauche ».",
+      "date": "2022-02-17",
+      "source_url": "https://www.franceinter.fr/politique/le-vote-utile-a-gauche-c-est-le-vote-melenchon-estime-segolene-royal"
+    },
+    {
+      "cible": "arnaud-montebourg",
+      "cible_nom": "Arnaud Montebourg",
+      "type": "succession",
+      "description": "A succédé à Arnaud Montebourg à la présidence de l'association France-Algérie le 18 décembre 2025.",
+      "date": "2025-12-18",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "cible": "luc-carvounas",
+      "cible_nom": "Luc Carvounas",
+      "type": "collaborateur",
+      "description": "Luc Carvounas, maire d'Alfortville, a été son directeur de campagne pour la primaire socialiste de 2026.",
+      "date": "2026-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Ségolène_Royal"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "rival",
+      "description": "Adversaire de Raphaël Glucksmann à la primaire « Choisir 2027 », marquée par des échanges publics (elle le qualifie de « stagiaire ») ; il l'emporte dès le premier tour.",
+      "date": "2026-10-11",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/glucksmann-qualifie-de-stagiaire-par-segolene-royal-la-primaire-est-elle-une-machine-a-perdre"
+    },
+    {
+      "cible": "raphael-glucksmann",
+      "cible_nom": "Raphaël Glucksmann",
+      "type": "soutien",
+      "description": "Après sa défaite, elle se déclare, conformément à la charte de la primaire, « pour celui qui a gagné », sans nommer Raphaël Glucksmann.",
+      "date": "2026-10-11",
+      "source_url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2007",
+      "nom": "Élection présidentielle 2007",
+      "type": "election",
+      "debut": "2007-04",
+      "fin": "2007-05"
+    },
+    {
+      "id": "primaire-citoyenne-2011",
+      "nom": "Primaire citoyenne PS-PRG (2011)",
+      "type": "election",
+      "debut": "2011-10",
+      "fin": "2011-10"
+    },
+    {
+      "id": "primaire-socialiste-2006",
+      "nom": "Primaire présidentielle socialiste (2006)",
+      "type": "election",
+      "debut": "2006-11",
+      "fin": "2006-11"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "francois-mitterrand",
+      "nom": "François Mitterrand",
+      "description": "Président de la République (1981-1995)"
+    },
+    {
+      "slug": "dominique-strauss-kahn",
+      "nom": "Dominique Strauss-Kahn",
+      "description": "Ancien ministre de l'Économie, candidat à la primaire socialiste de 2006"
+    },
+    {
+      "slug": "laurent-fabius",
+      "nom": "Laurent Fabius",
+      "description": "Ancien Premier ministre, candidat à la primaire socialiste de 2006"
+    },
+    {
+      "slug": "nicolas-sarkozy",
+      "nom": "Nicolas Sarkozy",
+      "description": "Président de la République (2007-2012)"
+    },
+    {
+      "slug": "martine-aubry",
+      "nom": "Martine Aubry",
+      "description": "Première secrétaire du PS (2008-2012), ministre de l'Emploi et de la Solidarité (1997-2000)"
+    },
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017 ; ancien secrétaire général adjoint de l'Élysée et ministre de l'Économie sous François Hollande"
+    },
+    {
+      "slug": "arnaud-montebourg",
+      "nom": "Arnaud Montebourg",
+      "description": "Ancien ministre de l'Économie (2014), candidat aux primaires socialistes de 2011 et 2017"
+    },
+    {
+      "slug": "luc-carvounas",
+      "nom": "Luc Carvounas",
+      "description": "Maire PS d'Alfortville, ancien sénateur et député"
+    }
+  ],
+  "notes": "Membre du PS par intermittence (1978-2017 ; 2021-2023 ; depuis 2024 selon l'infobox Wikipédia, dates de départ/réadhésion non détaillées). Intitulé ministériel 2014-2016 renommé lors du remaniement de février 2016 (date au mois). Le soutien post-primaire à Glucksmann est formulé de façon indirecte (« pour celui qui a gagné »). Lien de couple avec François Hollande volontairement exclu (vie privée).",
+  "verifie_le": "2026-10-12"
+}

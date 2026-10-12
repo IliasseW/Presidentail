@@ -1,0 +1,183 @@
+{
+  "slug": "raphael-glucksmann",
+  "nom": "Raphaël Glucksmann",
+  "parcours": [
+    {
+      "organisation": "alternative-liberale",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2006",
+      "fin": "2007",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "organisation": "place-publique",
+      "type": "parti",
+      "role": "Cofondateur",
+      "debut": "2018-10",
+      "fin": null,
+      "source_url": "https://www.lesinrocks.com/actu/raphael-glucksmann-devoile-un-nouveau-mouvement-politique-citoyen-ecologiste-et-solidaire-187648-31-10-2018/"
+    },
+    {
+      "organisation": "place-publique",
+      "type": "parti",
+      "role": "Coprésident (avec Aurore Lalucq)",
+      "debut": "2022-12-16",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "organisation": "europeennes-2019",
+      "type": "election",
+      "role": "Tête de liste PS-Place publique-Nouvelle Donne (élu, 6,19 %)",
+      "debut": "2019-03",
+      "fin": "2019-05-26",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "organisation": "europeennes-2024",
+      "type": "election",
+      "role": "Tête de liste PS-Place publique (élu, 13,83 %)",
+      "debut": "2024-02",
+      "fin": "2024-06-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Rallie l'alliance au nom de Place publique, sous conditions",
+      "debut": "2024-06",
+      "fin": "2024-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "organisation": "primaire-gauche-2026",
+      "type": "election",
+      "role": "Vainqueur dès le premier tour (66,13 %), désigné candidat",
+      "debut": "2026-08-23",
+      "fin": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "mikheil-saakachvili",
+      "cible_nom": "Mikheil Saakachvili",
+      "type": "collaborateur",
+      "description": "Conseiller spécial du président géorgien Mikheil Saakachvili de 2009 à 2012.",
+      "date": "2009",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    },
+    {
+      "cible": "olivier-faure",
+      "cible_nom": "Olivier Faure",
+      "type": "rival",
+      "description": "L'a battu dès le premier tour de la primaire « Choisir 2027 » (66,13 % contre 14,48 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "rival",
+      "description": "L'a battue à la primaire « Choisir 2027 » après une campagne marquée par des attaques mutuelles (« stagiaire », « postes quémandés »).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "emmanuel-maurel",
+      "cible_nom": "Emmanuel Maurel",
+      "type": "rival",
+      "description": "L'a battu à la primaire « Choisir 2027 » (Maurel 4e, 5,92 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "jerome-guedj",
+      "cible_nom": "Jérôme Guedj",
+      "type": "rival",
+      "description": "L'a battu à la primaire « Choisir 2027 » (Guedj 5e, 5,83 %).",
+      "date": "2026-10-11",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "rival",
+      "description": "Prône une « rupture totale » avec La France insoumise et se pose en rival de Jean-Luc Mélenchon pour le leadership de la gauche.",
+      "date": "2024-06-03",
+      "source_url": "https://www.liberation.fr/politique/raphael-glucksmann-prononce-une-rupture-totale-avec-ce-que-fait-la-france-insoumise-20240603_UCK72OEB4FB7VFLKFGADMKRZAE/"
+    },
+    {
+      "cible": "boris-vallaud",
+      "cible_nom": "Boris Vallaud",
+      "type": "soutien",
+      "description": "Boris Vallaud, président du groupe PS à l'Assemblée, lui a apporté son soutien pour la primaire le 27 août 2026.",
+      "date": "2026-08-27",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "anne-hidalgo",
+      "cible_nom": "Anne Hidalgo",
+      "type": "soutien",
+      "description": "Anne Hidalgo lui a apporté son soutien pour la primaire le 9 septembre 2026.",
+      "date": "2026-09-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Primaire_présidentielle_socialiste_française_de_2026"
+    },
+    {
+      "cible": "yannick-jadot",
+      "cible_nom": "Yannick Jadot",
+      "type": "soutien",
+      "description": "Yannick Jadot s'est rangé derrière sa candidature à la présidentielle en août 2026.",
+      "date": "2026-08-24",
+      "source_url": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "alternative-liberale",
+      "nom": "Alternative libérale",
+      "type": "parti",
+      "debut": "2006",
+      "fin": "2011"
+    },
+    {
+      "id": "europeennes-2019",
+      "nom": "Élections européennes 2019",
+      "type": "election",
+      "debut": "2019-05",
+      "fin": "2019-05"
+    },
+    {
+      "id": "europeennes-2024",
+      "nom": "Élections européennes 2024",
+      "type": "election",
+      "debut": "2024-06",
+      "fin": "2024-06"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "mikheil-saakachvili",
+      "nom": "Mikheil Saakachvili",
+      "description": "Président de la Géorgie (2004-2013)"
+    },
+    {
+      "slug": "boris-vallaud",
+      "nom": "Boris Vallaud",
+      "description": "Président du groupe socialiste à l'Assemblée nationale"
+    },
+    {
+      "slug": "anne-hidalgo",
+      "nom": "Anne Hidalgo",
+      "description": "Maire de Paris (2014-2026), candidate PS à la présidentielle 2022"
+    },
+    {
+      "slug": "yannick-jadot",
+      "nom": "Yannick Jadot",
+      "description": "Sénateur écologiste, candidat EELV à la présidentielle 2022"
+    }
+  ],
+  "notes": "Primaire « Choisir 2027 » (PS, Place publique, GRS ; vote du 9 au 11 octobre 2026) : victoire au premier tour, second tour annulé. Pourcentage : 66,13 % (tableau des résultats) / 66,11 % ou 66,17 % selon les sections Wikipédia. Date de cofondation de Place publique : octobre ou novembre 2018 selon les sources. Soutiens reçus de Faure, Hollande et Maurel enregistrés dans leurs fichiers. Pas de relation codée avec Hollande/Cazeneuve au-delà du soutien de Hollande en 2019 (réunion commune à Pontoise en novembre 2025). Vie privée exclue.",
+  "verifie_le": "2026-10-12"
+}

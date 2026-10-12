@@ -1,0 +1,178 @@
+{
+  "slug": "edouard-philippe",
+  "nom": "Édouard Philippe",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre (soutien de Michel Rocard)",
+      "debut": "1990",
+      "fin": "1992",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "rpr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1995",
+      "fin": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Membre fondateur",
+      "debut": "2002",
+      "fin": "2015",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "ump",
+      "type": "parti",
+      "role": "Directeur général des services",
+      "debut": "2002",
+      "fin": "2004",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "lr",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "2015",
+      "fin": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "horizons",
+      "type": "parti",
+      "role": "Fondateur et président",
+      "debut": "2021-10-09",
+      "fin": "2026-10-01",
+      "source_url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Premier ministre",
+      "debut": "2017-05-15",
+      "fin": "2020-07-03",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "gouvernement-philippe",
+      "type": "gouvernement",
+      "role": "Ministre de l'Intérieur (par intérim)",
+      "debut": "2018-10-03",
+      "fin": "2018-10-16",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "organisation": "presidentielle-2027",
+      "type": "election",
+      "role": "Candidat déclaré (Horizons)",
+      "debut": "2024-09-03",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "nomination",
+      "description": "Nommé Premier ministre par Emmanuel Macron le 15 mai 2017.",
+      "date": "2017-05",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "emmanuel-macron",
+      "cible_nom": "Emmanuel Macron",
+      "type": "rupture",
+      "description": "Appelle publiquement Emmanuel Macron à organiser une présidentielle anticipée et à démissionner après l'adoption du budget, au lendemain de la chute du gouvernement Lecornu I.",
+      "date": "2025-10-07",
+      "source_url": "https://www.france24.com/en/france/20251007-former-pm-and-macron-ally-%C3%A9douard-philippe-joins-calls-for-president-s-resignation"
+    },
+    {
+      "cible": "bernard-cazeneuve",
+      "cible_nom": "Bernard Cazeneuve",
+      "type": "succession",
+      "description": "Succède à Bernard Cazeneuve comme Premier ministre le 15 mai 2017.",
+      "date": "2017-05",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "jean-castex",
+      "cible_nom": "Jean Castex",
+      "type": "succession",
+      "description": "Jean Castex lui succède comme Premier ministre le 3 juillet 2020.",
+      "date": "2020-07",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "alain-juppe",
+      "cible_nom": "Alain Juppé",
+      "type": "collaborateur",
+      "description": "Proche d'Alain Juppé, il participe avec lui à la fondation de l'UMP dont il est directeur général des services jusqu'en 2004, puis entre à son cabinet au ministère de l'Écologie en 2007.",
+      "date": "2002",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "alain-juppe",
+      "cible_nom": "Alain Juppé",
+      "type": "collaborateur",
+      "description": "Porte-parole d'Alain Juppé lors de la primaire de la droite et du centre de 2016.",
+      "date": "2016",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "francois-fillon",
+      "cible_nom": "François Fillon",
+      "type": "rupture",
+      "description": "Quitte l'équipe de campagne présidentielle de François Fillon le 2 mars 2017, après l'annonce de la convocation de ce dernier par la justice.",
+      "date": "2017-03-02",
+      "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "cible": "gabriel-attal",
+      "cible_nom": "Gabriel Attal",
+      "type": "rival",
+      "description": "Concurrents déclarés pour la présidentielle 2027 au sein du bloc central ; Philippe refuse la primaire de départage proposée par Attal.",
+      "date": "2026-09",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-main-tendue-dedouard-philippe-rejetee-par-gabriel-attal-et-bruno-retailleau-relance-lidee-dune-primaire"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "presidentielle-2027",
+      "nom": "Élection présidentielle 2027",
+      "type": "election",
+      "president": null,
+      "debut": "2027-04",
+      "fin": null
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "alain-juppe",
+      "nom": "Alain Juppé",
+      "description": "Ancien Premier ministre (1995-1997), fondateur de l'UMP, maire de Bordeaux"
+    },
+    {
+      "slug": "emmanuel-macron",
+      "nom": "Emmanuel Macron",
+      "description": "Président de la République depuis 2017"
+    },
+    {
+      "slug": "francois-fillon",
+      "nom": "François Fillon",
+      "description": "Premier ministre de 2007 à 2012, candidat LR à la présidentielle 2017"
+    },
+    {
+      "slug": "jean-castex",
+      "nom": "Jean Castex",
+      "description": "Premier ministre de 2020 à 2022"
+    }
+  ],
+  "notes": "Horizons : Philippe a annoncé le 9 septembre 2026 quitter la présidence du parti ; Christophe Béchu (secrétaire général) assure la direction à partir du 1er octobre 2026 selon Wikipédia (infobox non mise à jour) — date de fin à confirmer. Départ de LR en 2017 (non exclu formellement, considéré comme s'étant mis en dehors du parti). Aucune relation directe documentée avec François Bayrou ni Sébastien Lecornu au-delà des gouvernements successifs (Lecornu a été ministre de ses gouvernements). Philippe n'a pas fait partie des gouvernements Lecornu I et II.",
+  "verifie_le": "2026-10-12"
+}

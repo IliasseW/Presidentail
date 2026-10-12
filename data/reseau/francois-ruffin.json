@@ -1,0 +1,68 @@
+{
+  "slug": "francois-ruffin",
+  "nom": "François Ruffin",
+  "parcours": [
+    {
+      "organisation": "debout",
+      "type": "mouvement",
+      "role": "Fondateur (sous le nom Picardie debout !)",
+      "debut": "2017-02-17",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Debout_%21"
+    },
+    {
+      "organisation": "debout",
+      "type": "mouvement",
+      "role": "Président",
+      "debut": "2025-06-28",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Debout_%21"
+    },
+    {
+      "organisation": "lfi",
+      "type": "parti",
+      "role": "Député siégeant au groupe LFI (non adhérent)",
+      "debut": "2017-06",
+      "fin": "2024-07",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Député réélu sous l'étiquette NUPES",
+      "debut": "2022-06",
+      "fin": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Initiateur de la coalition",
+      "debut": "2024-06",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "soutien",
+      "description": "Soutient la candidature de Jean-Luc Mélenchon à l'élection présidentielle de 2017.",
+      "date": "2017",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+      "cible": "jean-luc-melenchon",
+      "cible_nom": "Jean-Luc Mélenchon",
+      "type": "rupture",
+      "description": "Officialise sa rupture définitive avec La France insoumise et Jean-Luc Mélenchon le 4 juillet 2024.",
+      "date": "2024-07-04",
+      "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    }
+  ],
+  "organisations_nouvelles": [],
+  "personnes_nouvelles": [],
+  "notes": "Debout ! = Picardie debout ! (lancé le 17 février 2017, enregistré comme parti en février 2019, renommé Debout ! le 28 juin 2025 ; Ruffin en devient président en succédant à Mathieu Bosque). Primaire de la gauche : Ruffin annonce le 26 janvier 2026 sa candidature à la primaire unitaire prévue le 11 octobre 2026 ; cette primaire échoue en juillet 2026 et le scrutin final (PS/Place publique, remporté par Raphaël Glucksmann selon LCP) ne l'inclut pas — aucune entrée primaire-gauche-2026 saisie faute de certitude sur l'identité de « Choisir 2027 ». Opposition publique à Glucksmann sur l'élargissement de la primaire (LCP, 9 sept. 2026) non saisie comme rivalité directe. Branco l'a accusé en 2019 de collusion avec Macron (non saisi). Écarté de la direction LFI fin 2022 avec Autain, Corbière, Garrido.",
+  "verifie_le": "2026-10-12"
+}

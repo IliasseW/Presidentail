@@ -1,0 +1,162 @@
+{
+  "slug": "delphine-batho",
+  "nom": "Delphine Batho",
+  "parcours": [
+    {
+      "organisation": "ps",
+      "type": "parti",
+      "role": "Membre",
+      "debut": "1994",
+      "fin": "2018-05-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "gouvernement-ayrault",
+      "type": "gouvernement",
+      "role": "Ministre déléguée auprès de la garde des Sceaux, ministre de la Justice",
+      "debut": "2012-05-16",
+      "fin": "2012-06-21",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "gouvernement-ayrault",
+      "type": "gouvernement",
+      "role": "Ministre de l'Écologie, du Développement durable et de l'Énergie",
+      "debut": "2012-06-21",
+      "fin": "2013-07-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "generation-ecologie",
+      "type": "parti",
+      "role": "Présidente",
+      "debut": "2018-09",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "primaire-ecologiste-2021",
+      "type": "election",
+      "role": "Candidate (3e, 22,32 %)",
+      "debut": "2021-09",
+      "fin": "2021-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "nupes",
+      "type": "alliance",
+      "role": "Députée réélue (étiquette Génération écologie)",
+      "debut": "2022-06",
+      "fin": "2024-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "organisation": "nfp",
+      "type": "alliance",
+      "role": "Députée réélue (étiquette Génération écologie)",
+      "debut": "2024-07",
+      "fin": null,
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    }
+  ],
+  "relations": [
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "succession",
+      "description": "Succède à Ségolène Royal comme députée de la 2e circonscription des Deux-Sèvres en 2007.",
+      "date": "2007-06",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "segolene-royal",
+      "cible_nom": "Ségolène Royal",
+      "type": "collaborateur",
+      "description": "Proche conseillère de Ségolène Royal, elle est responsable de son projet lors de la primaire socialiste de 2011.",
+      "date": "2011",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "collaborateur",
+      "description": "L'une des quatre porte-parole de la campagne présidentielle de François Hollande en 2012.",
+      "date": "2011-10",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "jean-marc-ayrault",
+      "cible_nom": "Jean-Marc Ayrault",
+      "type": "nomination",
+      "description": "Nommée ministre en mai 2012 dans le gouvernement de Jean-Marc Ayrault, sur proposition duquel elle est limogée en juillet 2013.",
+      "date": "2012-05",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "francois-hollande",
+      "cible_nom": "François Hollande",
+      "type": "rupture",
+      "description": "Limogée du gouvernement par François Hollande le 2 juillet 2013 après avoir qualifié de « mauvais » le budget 2014 de son ministère.",
+      "date": "2013-07-02",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "julien-dray",
+      "cible_nom": "Julien Dray",
+      "type": "collaborateur",
+      "description": "Collaboratrice de Julien Dray au conseil régional d'Île-de-France, à qui elle reste fidèle lors de l'éclatement de la Gauche socialiste en 2003.",
+      "date": "2003",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "yannick-jadot",
+      "cible_nom": "Yannick Jadot",
+      "type": "rival",
+      "description": "Adversaire de Yannick Jadot à la primaire écologiste de 2021, où elle est éliminée au premier tour.",
+      "date": "2021-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+      "cible": "sandrine-rousseau",
+      "cible_nom": "Sandrine Rousseau",
+      "type": "rival",
+      "description": "Adversaire de Sandrine Rousseau à la primaire écologiste de 2021, où elle est éliminée au premier tour.",
+      "date": "2021-09",
+      "source_url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    }
+  ],
+  "organisations_nouvelles": [
+    {
+      "id": "primaire-ecologiste-2021",
+      "nom": "Primaire présidentielle de l'écologie (2021)",
+      "type": "election",
+      "president": null,
+      "debut": "2021-09",
+      "fin": "2021-09"
+    }
+  ],
+  "personnes_nouvelles": [
+    {
+      "slug": "jean-marc-ayrault",
+      "nom": "Jean-Marc Ayrault",
+      "description": "Premier ministre de 2012 à 2014"
+    },
+    {
+      "slug": "julien-dray",
+      "nom": "Julien Dray",
+      "description": "Député socialiste, cofondateur de SOS Racisme et de la Gauche socialiste"
+    },
+    {
+      "slug": "yannick-jadot",
+      "nom": "Yannick Jadot",
+      "description": "Candidat écologiste à la présidentielle 2022"
+    },
+    {
+      "slug": "sandrine-rousseau",
+      "nom": "Sandrine Rousseau",
+      "description": "Députée écologiste, finaliste de la primaire écologiste de 2021"
+    }
+  ],
+  "notes": "Élection à la présidence de Génération écologie : 9 ou 10 septembre 2018 selon les passages de Wikipédia (succède à Yves Piétrasanta) ; toujours présidente selon l'infobox, non revérifié en 2026. Date d'adhésion à GE non précisée. Candidature 2027 annoncée le 25 novembre 2025 (non saisie) ; aucune participation sourcée à la primaire de la gauche 2026. Vice-présidente de SOS Racisme 1992-1998 et présidente de la FIDL vers 1990 (non saisis). Membre du courant Gauche socialiste animé notamment par Jean-Luc Mélenchon (pas de relation directe saisie).",
+  "verifie_le": "2026-10-12"
+}
