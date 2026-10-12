@@ -1,0 +1,197 @@
+{
+  "slug": "nathalie-arthaud",
+  "nom": "Nathalie Arthaud",
+  "parti": "Lutte ouvrière",
+  "bord": "extreme-gauche",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2021-09-16",
+  "resultat": "1er tour : 0,56 % (12e)",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Profession de foi officielle du 1er tour",
+    "url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+    "date_publication": "2022-03-07"
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC et toutes les pensions et allocations à 2 000 euros nets minimum",
+      "detail": "Minimum de 2 000 euros nets pour les salaires, pensions, allocations chômage et handicap.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter tous les salaires de 300 à 500 euros par mois",
+      "detail": "« Des augmentations de 300, 400, 500 euros par mois » (profession de foi).",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer les salaires sur les prix",
+      "detail": "Échelle mobile des salaires contre l'inflation.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Répartir le travail entre tous sans perte de salaire",
+      "detail": "Objectif « zéro chômeur » par la baisse du temps de travail : « travailler moins pour travailler tous ».",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements",
+      "detail": "Mesure relevée par Public Sénat dans son comparatif emploi des candidats.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+      "source_date": "2022-03-22"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Revenir à la retraite à 60 ans",
+      "detail": "Retour de l'âge de départ à 60 ans.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+      "source_date": "2022-03-22"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Embaucher massivement dans les hôpitaux, Ehpad, écoles et transports publics",
+      "detail": "Selon les besoins listés par les personnels : « des centaines de milliers d'emplois utiles ».",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Mettre fin aux « emplois jetables »",
+      "detail": "Mêmes droits conventionnels pour tous les travailleurs.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+      "source_date": "2022-03-14"
+    },
+    {
+      "theme": "economie",
+      "titre": "Abolir le secret des affaires et contrôler les comptes des grands groupes",
+      "detail": "Contrôle des travailleurs sur la comptabilité et les contrats des grandes entreprises ; levée du secret commercial et professionnel.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "economie",
+      "titre": "Exproprier les grands groupes et planifier l'économie",
+      "detail": "Placer les grandes entreprises sous le contrôle de la collectivité si les grands actionnaires s'opposent aux revendications.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la TVA",
+      "detail": "Proposition citée par Lyon Capitale.",
+      "nature": "declaration",
+      "source_url": "https://www.lyoncapitale.fr/actualite/presidentielle-ce-quil-faut-savoir-sur-nathalie-arthaud-lo",
+      "source_date": "2022-04-06"
+    },
+    {
+      "theme": "sante",
+      "titre": "Rouvrir lits, maternités et centres de santé fermés",
+      "detail": "Contre la « loi du profit » à l'hôpital et dans les Ehpad ; soins gratuits.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+      "source_date": "2022-03-14"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les brevets et la propriété intellectuelle des laboratoires",
+      "detail": "Pour faire produire les vaccins sans recherche de profit.",
+      "nature": "declaration",
+      "source_url": "https://audio.lutte-ouvriere.org/medias/mensuelnumero/fichiers/2022/02/LDC222.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un revenu pour les proches aidants",
+      "detail": "Pour les proches qui cessent de travailler pour s'occuper d'une personne.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+      "source_date": "2022-03-14"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Garantir la liberté de circulation et d'installation",
+      "detail": "Accueillir les migrants comme des membres du monde du travail.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Accorder le droit de vote aux travailleurs immigrés",
+      "detail": "« Ils doivent avoir le droit de vote. »",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "defense",
+      "titre": "Retirer les troupes françaises d'Afrique",
+      "detail": "Et dénoncer les ventes d'armes (Rafale) aux dictatures.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Exproprier les grands groupes pour planifier la protection de la planète",
+      "detail": "Mettre fin à la concurrence et au « gâchis capitaliste » en recensant les besoins.",
+      "nature": "programme",
+      "source_url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+      "source_date": "2022-03-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Restreindre l'élevage intensif et l'abattage industriel",
+      "detail": "Mesure citée par VL Média.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+      "source_date": "2022-03-14"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire la chasse à courre",
+      "detail": "« Loisir cruel de riches oisifs ».",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+      "source_date": "2022-03-14"
+    },
+    {
+      "theme": "societe",
+      "titre": "Dépénaliser le cannabis",
+      "detail": "Proposition citée par Lyon Capitale.",
+      "nature": "declaration",
+      "source_url": "https://www.lyoncapitale.fr/actualite/presidentielle-ce-quil-faut-savoir-sur-nathalie-arthaud-lo",
+      "source_date": "2022-04-06"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.macommune.info/wp-content/uploads/2022/04/candidat-01-nathalie-arthaud-declaration.pdf",
+    "https://audio.lutte-ouvriere.org/medias/mensuelnumero/fichiers/2022/02/LDC222.pdf",
+    "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+    "https://vl-media.fr/presidentielle-2022-demandez-le-programme-de-nathalie-arthaud-lo/",
+    "https://www.lyoncapitale.fr/actualite/presidentielle-ce-quil-faut-savoir-sur-nathalie-arthaud-lo",
+    "https://www.nathalie-arthaud.info/",
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022"
+  ],
+  "notes": "Lutte ouvrière ne publie pas de programme électoral détaillé : Nathalie Arthaud défend un « programme de lutte » à imposer par les mobilisations, et non un programme de gouvernement. Sources : profession de foi officielle (datée du 7 mars 2022), intervention du 12 février 2022 publiée dans Lutte de classe n° 222 (mars 2022), et articles de presse (Public Sénat, VL Média, Lyon Capitale) pour l'interdiction des licenciements, la retraite à 60 ans, la suppression de la TVA, la dépénalisation du cannabis, l'interdiction de la chasse à courre, l'élevage intensif et le revenu des aidants, non retrouvés dans les documents primaires consultés. Le site nathalie-arthaud.info présente désormais la campagne 2027 et lutte-ouvriere.org n'était pas accessible en direct. Candidature annoncée en septembre 2021 (date du 16 septembre 2021 selon Wikipédia, à vérifier). Résultat (Wikipédia) : 197 094 voix, 0,56 %, 12e et dernière.",
+  "verifie_le": "2026-10-12"
+}

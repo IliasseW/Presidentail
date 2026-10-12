@@ -1,0 +1,119 @@
+{
+  "slug": "delphine-batho",
+  "nom": "Delphine Batho",
+  "parti": "Génération écologie (primaire des écologistes)",
+  "bord": "ecologiste",
+  "annee": 2022,
+  "statut_candidature": "primaire",
+  "resultat": "battue à la primaire écologiste (sept. 2021) — 3e au 1er tour avec 22,32 %",
+  "date_declaration": "2021-07-05",
+  "programme": {
+    "statut": "partiel",
+    "titre": "« L'autre écologie ! » — profession de foi (1er tour de la primaire des écologistes)",
+    "url": "https://www.generationecologie.fr/app/uploads/2021/09/Delphine-Batho-Profession-de-foi-1er-tour.pdf",
+    "date_publication": "2021-09-13"
+  },
+  "propositions": [
+    {
+      "theme": "economie",
+      "titre": "Bâtir le budget de l'État sur des indicateurs de bien-être et non sur le PIB",
+      "detail": "Indicateurs de bien-être humain (éducation, santé, pauvreté, résilience) et de la nature : cœur du projet de « décroissance ».",
+      "nature": "programme",
+      "source_url": "https://www.generationecologie.fr/2021/09/06/la-decroissance-pourquoi-et-comment/",
+      "source_date": "2021-09-06"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Faire de la réduction de la consommation d'énergie la priorité absolue",
+      "detail": "« Décroissance énergétique » présentée comme priorité.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+      "source_date": "2021-09-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir progressivement du nucléaire et stopper le projet de six EPR",
+      "detail": "Sortie « pragmatique et responsable » du nucléaire.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+      "source_date": "2021-09-16"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire par décret les pesticides les plus dangereux dont le glyphosate",
+      "detail": "Annoncée comme sa « première décision ».",
+      "nature": "declaration",
+      "source_url": "https://www.terre-net.fr/election-presidentielle/article/181298/decouvrez-les-principales-mesures-agricoles-des-candidats-verts",
+      "source_date": "2021-09-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Adopter une loi de séparation des lobbies et de l'État",
+      "detail": "Pour une démocratie « libérée du pouvoir des lobbys ».",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+      "source_date": "2021-09-16"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rompre avec le présidentialisme par une gouvernance collective",
+      "detail": "Gouvernance collective de campagne puis de gouvernement, dans une approche écoféministe du pouvoir.",
+      "nature": "programme",
+      "source_url": "https://www.generationecologie.fr/app/uploads/2021/09/Delphine-Batho-Profession-de-foi-1er-tour.pdf",
+      "source_date": "2021-09-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Élaborer le programme avec des assemblées citoyennes dans les 577 circonscriptions",
+      "detail": "Éclairées par une commission scientifique indépendante, avec vote des propositions au jugement majoritaire (janvier 2022).",
+      "nature": "programme",
+      "source_url": "https://www.generationecologie.fr/app/uploads/2021/09/Delphine-Batho-Profession-de-foi-1er-tour.pdf",
+      "source_date": "2021-09-13"
+    },
+    {
+      "theme": "education",
+      "titre": "Mettre en place une éducation populaire écologique « de 7 à 87 ans »",
+      "detail": "Proposition citée par Public Sénat.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+      "source_date": "2021-09-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Mener une politique pénale et de prévention contre les féminicides",
+      "detail": "Et contre toutes les violences et discriminations sexistes.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+      "source_date": "2021-09-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer une « sécurité sociale écologique » pour accompagner la fin d'activités polluantes",
+      "detail": "Mutualiser les conséquences de la fin ou de la réduction d'activités comme l'élevage industriel ou une part de l'aérien.",
+      "nature": "programme",
+      "source_url": "https://www.generationecologie.fr/2021/09/06/la-decroissance-pourquoi-et-comment/",
+      "source_date": "2021-09-06"
+    },
+    {
+      "theme": "societe",
+      "titre": "Défendre la laïcité comme pilier de l'écologie républicaine",
+      "detail": "Candidature « 100 % laïque, 100 % écoféministe, 100 % écologie intégrale ».",
+      "nature": "programme",
+      "source_url": "https://www.generationecologie.fr/app/uploads/2021/08/FLYER-delphine-batho-lautre-ecologie.pdf",
+      "source_date": "2021-08-10"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.generationecologie.fr/app/uploads/2021/09/Delphine-Batho-Profession-de-foi-1er-tour.pdf",
+    "https://www.generationecologie.fr/app/uploads/2021/08/FLYER-delphine-batho-lautre-ecologie.pdf",
+    "https://www.publicsenat.fr/actualites/politique/primaire-ecologiste-quels-sont-les-programmes-des-candidats-190437",
+    "https://www.terre-net.fr/election-presidentielle/article/181298/decouvrez-les-principales-mesures-agricoles-des-candidats-verts",
+    "https://www.generationecologie.fr/2021/09/06/la-decroissance-pourquoi-et-comment/",
+    "https://www.generationecologie.fr/2021/07/05/delphine-batho-candidate-a-la-primaire-des-ecologistes/",
+    "https://www.generationecologie.fr/2021/09/13/la-decroissance-est-le-seul-projet-politique-reellement-alternatif/",
+    "https://www.generationecologie.fr/2021/09/19/declaration-de-delphine-batho/",
+    "https://en.wikipedia.org/wiki/Delphine_Batho"
+  ],
+  "notes": "Candidature à la primaire des écologistes (16-19 septembre 2021) centrée sur la décroissance et l'« écologie intégrale ». Batho annonçait un programme à co-construire après la primaire, d'où peu de mesures concrètes (constat partagé par Terre-net). Résultat : 3e avec 22,32 % (chiffre de Wikipédia), éliminée au 1er tour. Interview Reporterre du 13/09/2021 non lisible (403).",
+  "verifie_le": "2026-10-12"
+}

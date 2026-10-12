@@ -6,10 +6,10 @@
   "statut_candidature": "declare",
   "date_declaration": "2026-09-06",
   "programme": {
-    "statut": "aucun",
-    "titre": null,
-    "url": null,
-    "date_publication": null
+    "statut": "partiel",
+    "titre": "Plan jeunesse 2027-2032 (seul plan thématique présenté ; pas de programme global)",
+    "url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+    "date_publication": "2026-10-06"
   },
   "propositions": [
     {
@@ -43,6 +43,86 @@
       "nature": "declaration",
       "source_url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-07-septembre-2026_8167895.html",
       "source_date": "2026-09-07"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA sur les carburants de 20 % à 5,5 %",
+      "detail": "Revendication de la campagne exposée par Ian Brossat, directeur de campagne (29/09/2026) ; Roussel a mené le 22/09/2026 une « opération carburant » pour rendre majoritaire la baisse de la TVA sur le carburant.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/carburants/ian-brossat-des-marges-qui-explosent-et-zero-impot-face-a-ce-scandale-absolu-il-faut-nationaliser-total",
+      "source_date": "2026-09-29"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Supprimer les certificats d'économie d'énergie (CEE)",
+      "detail": "Selon Ian Brossat, la transition écologique « ne doit pas être financée par les classes populaires et moyennes » via les CEE répercutés sur les prix.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/carburants/ian-brossat-des-marges-qui-explosent-et-zero-impot-face-a-ce-scandale-absolu-il-faut-nationaliser-total",
+      "source_date": "2026-09-29"
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser TotalEnergies s'il ne baisse pas ses marges sur les carburants",
+      "detail": "À la Fête de l'Humanité, Roussel demande à TotalEnergies de baisser le litre de 30 à 50 centimes, faute de quoi « il faudra la nationaliser » (« nationalisation-sanction ») ; Ian Brossat plaide le 29/09 pour nationaliser Total.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une",
+      "source_date": "2026-09-11"
+    },
+    {
+      "theme": "defense",
+      "titre": "Obtenir un cessez-le-feu rapide entre l'Ukraine et la Russie",
+      "detail": "Roussel souhaite un « cessez-le-feu rapide » et une France plus active sur le plan diplomatique ; il juge la France et l'UE « passives, soumises » dans ce conflit.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une",
+      "source_date": "2026-09-11"
+    },
+    {
+      "theme": "defense",
+      "titre": "Réorienter des crédits du ministère des Armées vers les services publics",
+      "detail": "Il veut « réorienter l'argent du ministère de la guerre vers les services publics » ; son plan jeunesse prévoit aussi de redéployer une partie du budget de la défense.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une",
+      "source_date": "2026-09-11"
+    },
+    {
+      "theme": "education",
+      "titre": "Consacrer 5 milliards d'euros par an pendant cinq ans à la rénovation des lycées",
+      "detail": "« Plan jeunesse 2027-2032 » présenté le 6/10/2026 : 5 Md€ immédiats via une loi de finances rectificative, puis 5 Md€ par an pendant cinq ans pour le bâti scolaire (60 % des établissements construits avant les années 1980).",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "education",
+      "titre": "Recruter 90 000 enseignants pour réduire le nombre d'élèves par classe",
+      "detail": "3,5 Md€ prévus dans le Plan jeunesse 2027-2032 pour ces embauches.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "education",
+      "titre": "Garantir le remplacement des enseignants absents sous 24 heures",
+      "detail": "Mesure du Plan jeunesse 2027-2032 ; 15 millions d'heures d'enseignement ne seraient pas remplacées selon Roussel.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "education",
+      "titre": "Réorganiser le temps scolaire sur 32 heures de cours par semaine, de 9 h à 17 h",
+      "detail": "Mesure annoncée dans le Plan jeunesse 2027-2032, avec le renforcement de la démocratie lycéenne.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réaffecter une partie des 211 Md€ d'aides publiques aux entreprises",
+      "detail": "Le Plan jeunesse serait financé par la réallocation d'une partie des « 211 milliards d'euros d'aides publiques aux entreprises sans contrepartie » et par un redéploiement du budget de la défense.",
+      "nature": "declaration",
+      "source_url": "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+      "source_date": "2026-10-06"
     }
   ],
   "sources_consultees": [
@@ -53,8 +133,17 @@
     "https://lcp.fr/actualites/presidentielle-fabien-roussel-bientot-candidat-malgre-les-attaques-de-lfi-440943",
     "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
     "https://www.lejdd.fr/politique/roussel-ruffin-polony-la-gauche-du-travail-veut-faire-entendre-sa-voix-en-2027-183015",
-    "https://votons-2027.fr/candidats/roussel/programme"
+    "https://votons-2027.fr/candidats/roussel/programme",
+    "https://lcp.fr/actualites/presidentielle-a-la-fete-de-l-huma-fabien-roussel-au-defi-de-prouver-l-utilite-d-une",
+    "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-loperation-carburant-de-fabien-roussel-pour-faire-baisser-la-tva-et-les-marges-de-totalenergies",
+    "https://www.humanite.fr/politique/carburants/ian-brossat-des-marges-qui-explosent-et-zero-impot-face-a-ce-scandale-absolu-il-faut-nationaliser-total",
+    "https://www.humanite.fr/politique/defense/fabien-roussel-presente-son-plan-pour-que-permettre-a-chaque-jeune-de-se-cultiver-de-se-former-detre-libre",
+    "https://www.humanite.fr/politique/election-presidentielle/presidentielles-2027-ce-quil-faut-retenir-du-meeting-de-fabien-roussel",
+    "https://www.humanite.fr/social-et-economie/aides-publiques/nationalisation-partage-de-richesses-le-match-retour-entre-fabien-roussel-et-patrick-martin-president-du-medef",
+    "https://www.humanite.fr/politique/election-presidentielle/roussel-bompard-tondelier-attal-philippe-quon-dit-les-candidats-a-la-presidentielle-et-leur-bras-droit-lors-de-la-rencontre-avec-emmanuel-macron",
+    "https://www.publicsenat.fr/actualites/politique/a-la-fete-de-lhuma-lambiance-de-meeting-permanent-laisse-les-electeurs-de-gauche-dans-le-flou",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-fabien-roussel-presente-180-propositions-pour-une-france-des-jours"
   ],
-  "notes": "Candidature annoncée au JT de TF1 le 6 septembre 2026, après un vote des adhérents du PCF (72 %). Aucun programme 2027 publié au 12 octobre 2026 : selon la campagne, les propositions seront dévoilées au fil de la campagne, et selon LCP (16-23 septembre 2026) il n'a pas encore présenté de programme sur les retraites. Les mesures de 2022 (« La France des jours heureux » : SMIC à 1 500 € net, retraite à 60 ans, 32 heures, 100 000 soignants), reprises par des agrégateurs, n'ont pas été retenues faute de réaffirmation explicite depuis 2025 trouvée dans une source fiable. Le site pcf.fr bloque l'accès automatisé (403) et n'a pas pu être consulté. La recherche a été interrompue par l'épuisement du quota de recherches web : d'autres déclarations de 2026 existent peut-être.",
+  "notes": "Candidature annoncée au JT de TF1 le 6 septembre 2026, après un vote des adhérents du PCF (72 %). Pas de programme global publié au 12/10/2026 : les propositions sont dévoilées au fil de la campagne. Passe 2 (12/10/2026) : ajout des annonces de la Fête de l'Humanité (11-12/09/2026, LCP), de l'« opération carburant » (22/09) et des propositions de Ian Brossat, directeur de campagne (l'Humanité, 29/09, article en partie réservé aux abonnés), et du « Plan jeunesse 2027-2032 » présenté le 6/10/2026 (l'Humanité). Les articles de l'Humanité sur le discours de la Fête (12/09) et le débat avec le Medef (14/09) sont tronqués (abonnés) : d'autres annonces de ces discours n'ont pu être lues. Le programme de 2022 « La France des jours heureux » (180 propositions, Public Sénat 24/01/2022 : SMIC 1 500 € net, retraite à 60 ans, 32 heures, sortie de l'OTAN…) n'est pas retenu faute de reprise explicite depuis 2025. pcf.fr et fabienroussel2027.fr bloquent l'accès automatisé (403) ; web.archive.org n'est pas accessible depuis cet environnement (politique réseau).",
   "verifie_le": "2026-10-12"
 }

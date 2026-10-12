@@ -1,0 +1,659 @@
+{
+  "slug": "jean-lassalle",
+  "nom": "Jean Lassalle",
+  "parti": "Résistons !",
+  "bord": "divers",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2021-03-16",
+  "resultat": "1er tour : 3,13 % (7e)",
+  "programme": {
+    "statut": "complet",
+    "titre": "La France authentique",
+    "url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+    "date_publication": "2022-02-25"
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Reconnaître le vote blanc comme suffrage exprimé",
+      "detail": "Selon sa proposition de loi constitutionnelle de février 2021 ; si le vote blanc arrivait en tête, les candidats désavoués devraient en tirer les conséquences.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Déclenchable avec le soutien de 700 000 citoyens (proposition de loi constitutionnelle de novembre 2021).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Organiser un référendum sur le septennat ou le quinquennat",
+      "detail": "Choix par référendum entre le maintien du quinquennat et le retour au septennat.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abolir la Cour de justice de la République",
+      "detail": "Les ministres relèveraient de la justice ordinaire.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Aligner les régimes sociaux des parlementaires sur le droit commun",
+      "detail": "Mesure de « refondation de la démocratie ».",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Convoquer un nouveau Conseil national de la Résistance",
+      "detail": "Réunissant forces politiques et sociales pour élaborer un nouveau contrat social ; rôle d'incubateur pour le CESE.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rétablir le cumul député-maire et sénateur-maire",
+      "detail": "Pour renouer le lien entre territoires et représentation nationale.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abroger les lois NOTRe et MAPTAM",
+      "detail": "Liberté pour les communes d'intégrer ou non une intercommunalité « à taille humaine » sans fiscalité directe.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Remplacer les régions par des provinces historiques",
+      "detail": "Provinces historiquement, économiquement et culturellement cohérentes à la place de régions jugées « budgétivores ».",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Faire débattre et voter au Parlement toute législation d'origine européenne",
+      "detail": "Au lieu d'une transposition par ordonnance.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "societe",
+      "titre": "Créer un Service national universel de neuf mois, militaire ou civil",
+      "detail": "Du 15 septembre au 15 juin pour les jeunes majeurs ; ouvrant une première annuité de retraite et des formations (permis, secourisme).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "societe",
+      "titre": "Légaliser le cannabis avec une vente strictement encadrée",
+      "detail": "Une grande part des recettes serait dédiée à la lutte contre l'addiction.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "societe",
+      "titre": "Défendre la chasse et la pêche traditionnelles",
+      "detail": "Considérées comme patrimoine national ; sortir des directives « Habitats » et « Oiseaux » et de la Convention de Berne face aux prédateurs (ours, loups, lynx).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recruter 6 000 gendarmes et policiers",
+      "detail": "Et ouvrir sur de larges horaires 2 000 bureaux de police et de gendarmerie dans les quartiers et les bourgs.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer des unités de réserve communale de sûreté",
+      "detail": "Volontaires venant en appui de la police municipale à la demande du maire.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Lancer un plan de construction de prisons à taille humaine",
+      "detail": "Pour garantir l'exécution des courtes peines et des conditions d'hygiène et de sécurité.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Augmenter le nombre de magistrats par des recrutements en passerelle",
+      "detail": "Un tiers par concours, deux tiers parmi des praticiens du droit ayant quinze ans d'expérience.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Développer la médiation et les modes alternatifs de règlement des litiges",
+      "detail": "Médiateurs présentés comme de nouveaux « juges de paix » ; amélioration de l'aide juridictionnelle.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Renforcer les douanes et les forces aux frontières",
+      "detail": "Là où se concentre l'immigration illégale, tout en respectant le droit d'asile.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 400 euros nets",
+      "detail": "Hausse d'environ 8 %.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA sur les carburants de 20 % à 5,5 %",
+      "detail": "TVA sur les hydrocarbures.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Maîtriser le prix de l'eau et de l'électricité",
+      "detail": "Mesure de souveraineté économique.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Garantir dans la Constitution le pouvoir d'achat des retraités",
+      "detail": "Maintien absolu face à l'inflation et interdiction des discriminations fiscales visant les retraités (ex. hausse de CSG).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Maintenir la retraite par répartition",
+      "detail": "Âge de départ établi selon les annuités de cotisation ; dotation de cotisation dès les études.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Exonérer de charges sociales l'embauche des deux premiers salariés",
+      "detail": "Pour les TPE et PMI.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Réaliser un audit du droit du travail pour le simplifier",
+      "detail": "Lutter contre le poids des normes pour employeurs et salariés.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Reconnaître les retraités comme troisième partenaire social",
+      "detail": "Siège à parité au CESE, au Conseil d'orientation des retraites et dans les caisses.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir l'ISF et supprimer l'IFI",
+      "detail": "Et lutter contre l'évasion fiscale.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Définir un plan Marshall de réindustrialisation",
+      "detail": "Plan de réindustrialisation de la France.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Renationaliser EDF, les autoroutes et les entreprises de défense",
+      "detail": "Achat d'entreprises stratégiques par la BPI dans l'énergie, l'automobile, l'aéronautique, le spatial.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer des zones franches dans les communes de moins de 15 000 habitants",
+      "detail": "Exonération de taxe foncière et d'impôt sur les sociétés pour les entreprises qui y ont leur siège.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Donner la priorité aux PME dans les marchés publics locaux",
+      "detail": "Avant ouverture aux multinationales.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réaliser un audit citoyen de la dette",
+      "detail": "Mesure de souveraineté économique.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Garantir un hôpital à moins de 40 minutes de route",
+      "detail": "Partout sur le territoire.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Ouvrir 20 000 lits d'hôpital",
+      "detail": "Y compris de réserve, avec le personnel soignant correspondant.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Recruter 100 000 infirmiers et aides-soignants",
+      "detail": "Sur la durée du mandat.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Financer les études de médecine contre six ans en désert médical",
+      "detail": "Et augmenter les places dans les facultés de médecine.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Remplacer les ARS par des directions départementales (DDASS)",
+      "detail": "Directions départementales des affaires sanitaires et sociales.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Généraliser le régime local d'Alsace-Moselle",
+      "detail": "La Sécurité sociale couvrirait toutes les dépenses de santé sans double traitement par les mutuelles.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Lever les brevets dont l'usage est vital",
+      "detail": "Commission habilitée à lever les brevets ; appels d'offres publics pour la recherche sur les maladies orphelines et le cancer.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser le salaire des enseignants d'environ 700 euros",
+      "detail": "Objectif d'au moins 2 181 euros, après négociation avec les syndicats.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Recentrer les programmes sur les savoirs fondamentaux",
+      "detail": "Lire, écrire, compter ; limiter les effectifs en primaire et en REP-REP+.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Revenir sur la réforme Blanquer du bac",
+      "detail": "Rétablir le baccalauréat comme diplôme national.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer une discipline et un CAPES dédiés au numérique",
+      "detail": "Pour maîtriser les outils numériques.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Réserver un quart des places en IUT et universités aux bacheliers professionnels",
+      "detail": "Valorisation de l'alternance et de l'apprentissage.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Accorder aux étudiants un prêt à taux zéro de 20 000 euros",
+      "detail": "Garanti par l'État.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Étendre le RSA aux jeunes",
+      "detail": "Sous critères de revenus et/ou condition de formation.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "education",
+      "titre": "Financer 500 euros par élève et par an pour des séjours éducatifs",
+      "detail": "Voyages linguistiques, séjours à la montagne ou à la campagne au collège et au lycée.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "social",
+      "titre": "Déconjugaliser l'allocation aux adultes handicapés",
+      "detail": "AAH indépendante des revenus du conjoint.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "social",
+      "titre": "Payer les AESH 1 700 euros nets pour un temps plein",
+      "detail": "Généraliser les temps pleins à 24 heures et former les accompagnants.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "social",
+      "titre": "Revaloriser le statut et le salaire des aidants et aides à domicile",
+      "detail": "Pour les personnes handicapées ou dépendantes.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "social",
+      "titre": "Assurer un toit à chaque personne sans abri",
+      "detail": "Logements sociaux à bas loyer et accompagnement.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "logement",
+      "titre": "Faire respecter la loi SRU",
+      "detail": "53 % des communes concernées n'atteignaient pas le seuil en 2019.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "logement",
+      "titre": "Augmenter les APL et revenir sur la réforme de 2020",
+      "detail": "Notamment pour les jeunes.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "logement",
+      "titre": "Développer la location-accession",
+      "detail": "Le locataire devient propriétaire quand les mensualités atteignent la valeur du bien.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "logement",
+      "titre": "Mieux contrôler l'encadrement des loyers",
+      "detail": "Et favoriser les primo-accédants et habitants locaux face aux résidences secondaires.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Prolonger de 25 ans les centrales nucléaires et développer la 4e génération",
+      "detail": "Investir aussi dans la fusion (ITER).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Stopper l'éolien non validé par les maires",
+      "detail": "Interdire les projets éoliens non validés par les maires après consultation des habitants.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Développer le solaire, la géothermie et les énergies marines",
+      "detail": "Centrales solaires, houle, énergie thermique des mers.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Affecter 3 milliards d'euros aux campagnes, grande cause nationale",
+      "detail": "Montant annoncé pour la ruralité.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Réorienter les aides de la PAC vers les paysans",
+      "detail": "Plutôt que vers la spéculation foncière ; 1,5 % des bénéficiaires touchaient 30 % des aides en 2015.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Créer un « ticket paysan » pour les circuits courts",
+      "detail": "Sur le modèle des tickets restaurant.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Exonérer de taxes les héritages agricoles",
+      "detail": "Et faciliter l'accès au foncier et la reprise des exploitations.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Implanter des outils de transformation au plus près des productions",
+      "detail": "Première et deuxième transformation pour toutes les filières.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Revoir la contribution française au budget européen",
+      "detail": "Dans une « Europe des Nations » ; coopérations bilatérales au cas par cas.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Retirer à la Commission la négociation des traités d'investissement",
+      "detail": "Et interrompre la négociation de ces accords (CETA…).",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Mettre fin à la supervision du franc CFA par le Trésor français",
+      "detail": "Nouvelle relation avec l'Afrique.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "defense",
+      "titre": "Préparer le désengagement de la France de l'OTAN",
+      "detail": "Désengagement progressif.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "defense",
+      "titre": "Soumettre les engagements militaires au vote du Parlement ou au référendum",
+      "detail": "Ouvrir le Conseil de défense à la représentation nationale ; contrôle parlementaire des ventes d'armes.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "defense",
+      "titre": "Consacrer à la cyberdéfense un quart du budget des autres armées",
+      "detail": "Renforcer une « 4e armée » indépendante des sociétés informatiques.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "defense",
+      "titre": "Créer une Garde nationale",
+      "detail": "Force d'appoint pour l'armée régulière.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Conditionner les aides aux médias privés à l'indépendance des propriétaires",
+      "detail": "Financement public des médias privés et de la culture.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Revaloriser le statut et le salaire des intermittents du spectacle",
+      "detail": "Et créer un fonds pour les lieux culturels accessibles aux plus défavorisés.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Garantir le libre accès en ligne aux publications de la recherche publique",
+      "detail": "Libérer le savoir issu de la recherche publique.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Développer une recherche spatiale souveraine",
+      "detail": "Pour ne pas laisser l'espace aux milliardaires.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir écoles, santé, fibre et 4G partout",
+      "detail": "Désenclavement des campagnes par le maintien ou la création de services publics.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Restaurer l'autonomie financière et fiscale des communes",
+      "detail": "Et leurs compétences.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "defense",
+      "titre": "Rapatrier à La Réunion le commandement des forces françaises des Émirats",
+      "detail": "Rapatriement du commandement des forces françaises stationnées aux Émirats arabes unis.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Renforcer les aides de l'État au tourisme ultramarin",
+      "detail": "Et garantir eau potable et assainissement dans les Outre-mer.",
+      "nature": "programme",
+      "source_url": "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "source_date": "2022-02-25"
+    }
+  ],
+  "sources_consultees": [
+    "https://resistons-france.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+    "https://www.macommune.info/wp-content/uploads/2022/04/candidat-05-jean-lassalle-declaration.pdf",
+    "https://resistons-france.fr/",
+    "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022"
+  ],
+  "notes": "Programme « La France authentique » (PDF de 12 pages, version datée du 25 février 2022 d'après le nom du fichier) toujours en ligne sur le site de Résistons !, recoupé avec la profession de foi officielle du 1er tour (mêmes mesures : SMIC à 1 400 euros, TVA carburants à 5,5 %, RIC, 6 000 gendarmes et policiers, 20 000 lits, 100 000 soignants…). Le site de campagne jl2022.fr n'est plus accessible. Candidature officialisée le 16 mars 2021. Résultat (Wikipédia) : 1 101 387 voix, 3,13 %, 7e.",
+  "verifie_le": "2026-10-12"
+}

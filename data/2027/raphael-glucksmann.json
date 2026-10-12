@@ -547,6 +547,46 @@
       "nature": "programme",
       "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
       "source_date": "2025-06-23"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser le salaire des enseignants et renforcer les personnels face aux élèves",
+      "detail": "Dans « Nous avons encore envie » : revalorisation « substantielle » des enseignants, plus de personnels face aux élèves et moins de postes administratifs.",
+      "nature": "livre",
+      "source_url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "source_date": "2026-05-28"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Supprimer le droit de veto des États au sein de l'Union européenne",
+      "detail": "Proposition du livre « Nous avons encore envie » pour lever les blocages de l'UE.",
+      "nature": "livre",
+      "source_url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "source_date": "2026-05-28"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Financer un plan de souveraineté européenne par un grand emprunt européen",
+      "detail": "Proposé dans le livre face à la menace russe (« déni » dénoncé).",
+      "nature": "livre",
+      "source_url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "source_date": "2026-05-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Proclamer l'« état d'urgence industriel » pour les secteurs menacés par la Chine",
+      "detail": "Annoncé au meeting d'Aubervilliers du 13 juin 2026, en cas de victoire.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir",
+      "source_date": "2026-06-13"
+    },
+    {
+      "theme": "social",
+      "titre": "Faire adopter la loi intégrale contre les violences sexistes et sexuelles",
+      "detail": "Appel à faire voter la proposition de loi transpartisane contre les violences faites aux enfants et aux femmes (meeting d'Aubervilliers).",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir",
+      "source_date": "2026-06-13"
     }
   ],
   "sources_consultees": [
@@ -570,8 +610,16 @@
     "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
     "https://www.lejdd.fr/politique/immigration-raphael-glucksmann-plaide-pour-une-convention-citoyenne-174735",
     "https://www.ici.fr/grand-est/marne-51/chalons-en-champagne/a-la-foire-de-chalons-raphael-glucksmann-place-les-agriculteurs-au-coeur-de-son-programme-politique-7377398",
-    "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite"
+    "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+    "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+    "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir",
+    "https://lcp.fr/actualites/presidentielle-2027-raphael-glucksmann-officialise-sa-candidature-et-participera-a-la",
+    "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+    "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+    "https://www.humanite.fr/politique/election-presidentielle/roussel-bompard-tondelier-attal-philippe-quon-dit-les-candidats-a-la-presidentielle-et-leur-bras-droit-lors-de-la-rencontre-avec-emmanuel-macron",
+    "https://glucks2027.fr/",
+    "https://place-publique.eu/posts/bVzEHsiKIArL1KpEE13hB/choisir-2027"
   ],
-  "notes": "Désigné candidat commun PS / Place publique / GRS : vainqueur dès le premier tour de la primaire le 11 octobre 2026 (66,13 %). Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Candidature annoncée le 23 août 2026 sur TF1. Programme présidentiel non encore publié (élaboration coordonnée par Marguerite Cazeneuve selon franceinfo). Profession de foi de primaire « Refonder la gauche, réveiller la France ! » (https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf) inaccessible le 12/10/2026 (HTTP 503). Les propositions marquées « programme » proviennent du projet de Place publique « Acte I » (parti qu'il copréside, document daté de juin 2025 d'après le nom de fichier du PDF, mis en ligne en 2026) : elles n'ont pas toutes été reprises explicitement par le candidat en 2026 (ex. SMIC à 1 600 € net). Livre « Nous avons encore envie » (Allary, mai 2026) non consulté directement. Sur les retraites, il refuse le retour à 60 ans mais soutient le retour à 62 ans (abrogation de la réforme 2023).",
+  "notes": "Désigné candidat commun PS / Place publique / GRS : vainqueur dès le premier tour de la primaire le 11 octobre 2026 (66,13 %). Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Candidature annoncée le 23 août 2026 sur TF1. Programme présidentiel non encore publié (élaboration coordonnée par Marguerite Cazeneuve selon franceinfo). Profession de foi de primaire « Refonder la gauche, réveiller la France ! » (https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf) inaccessible le 12/10/2026 (HTTP 503). Les propositions marquées « programme » proviennent du projet de Place publique « Acte I » (parti qu'il copréside, document daté de juin 2025 d'après le nom de fichier du PDF, mis en ligne en 2026) : elles n'ont pas toutes été reprises explicitement par le candidat en 2026 (ex. SMIC à 1 600 € net). Livre « Nous avons encore envie » (Allary, mai 2026) non consulté directement. Sur les retraites, il refuse le retour à 60 ans mais soutient le retour à 62 ans (abrogation de la réforme 2023). Passe 2 (12/10/2026) : ajout de propositions du livre « Nous avons encore envie » (Allary, 28/05/2026, d'après LCP/extraits du Nouvel Obs) et du meeting d'Aubervilliers (13/06/2026). Le livre reprend aussi la mixité sociale dans le privé et le « passeport pour l'émancipation » (séjours collectifs), déjà présents. Déclaration de victoire du 11/10/2026 (LCP) : aucune mesure nouvelle (« candidat de la rupture avec le macronisme », refus de l'alliance avec LFI). La profession de foi « Refonder la gauche, réveiller la France ! » reste illisible (choisir2027.fr en HTTP 503 ; web.archive.org bloqué par la politique réseau de cet environnement) ; le site de campagne glucks2027.fr ne contient pas encore de programme.",
   "verifie_le": "2026-10-12"
 }

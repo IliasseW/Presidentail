@@ -1,0 +1,825 @@
+{
+  "slug": "eric-zemmour",
+  "nom": "Éric Zemmour",
+  "parti": "Reconquête",
+  "bord": "extreme-droite",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2021-11-30",
+  "resultat": "1er tour : 7,07 % (4e)",
+  "programme": {
+    "statut": "complet",
+    "titre": "Pour que la France reste la France — Mon programme",
+    "url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+    "date_publication": "2022-03-16"
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Organiser un référendum sur l'immigration, la sécurité et la justice",
+      "detail": "Tenu en même temps que les élections législatives suivant la présidentielle (juin 2022), pour faire approuver les mesures prioritaires.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rendre le référendum obligatoire pour toute révision constitutionnelle",
+      "detail": "Également pour la ratification d'un traité européen ou un élargissement de l'UE ; usage du référendum favorisé pour les grandes mesures.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Faire primer les nouvelles lois nationales sur les traités antérieurs",
+      "detail": "Modification de l'article 55 de la Constitution, y compris à l'égard du droit dérivé.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Donner au Parlement le dernier mot face au Conseil constitutionnel",
+      "detail": "Vote du Parlement réuni en Congrès à la majorité des 3/5e en cas de censure d'une loi.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Lancer un audit de la Cour des comptes sur toutes les politiques publiques",
+      "detail": "Dès le lendemain de l'élection, pour engager la baisse de la dépense publique.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le regroupement familial",
+      "detail": "Et tous les droits automatiques liés à l'immigration familiale.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Limiter l'asile à une centaine de personnes par an",
+      "detail": "Contre près de 140 000 demandes ; demandes à déposer dans les consulats, hors du territoire national.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Exiger une caution de 10 000 € pour les visas de certains pays",
+      "detail": "Pour les ressortissants des pays dont sont majoritairement issus les immigrés clandestins.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Dénoncer l'accord franco-algérien de 1968",
+      "detail": "Et les autres accords bilatéraux facilitant l'immigration.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer les aides sociales non contributives pour les extra-européens",
+      "detail": "Allocations familiales, aides au logement, RSA, minimum vieillesse ; économie attendue de 20 Md€ par an.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer l'aide médicale de l'État (AME)",
+      "detail": "Seule une aide médicale d'urgence vitale serait conservée pour les clandestins.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le droit du sol",
+      "detail": "Un enfant de deux parents étrangers ne pourrait devenir français que par naturalisation.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Porter à 10 ans la durée de résidence requise pour la naturalisation",
+      "detail": "Au lieu de 5 ans, avec parfaite maîtrise de la langue, assimilation vérifiable et casier judiciaire vierge.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser les étrangers délinquants, criminels et fichés S",
+      "detail": "Délinquants dès leur condamnation, criminels à l'issue de leur peine, ainsi que tous les fichés S étrangers.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser les étrangers au chômage après six mois",
+      "detail": "Au terme de six mois de recherche d'emploi infructueuse.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Créer un ministère de l'Immigration et de l'Éloignement",
+      "detail": "Doté de moyens propres, notamment des avions ; retour aux charters collectifs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conditionner aide au développement et visas à la reprise des expulsés",
+      "detail": "Gel des avoirs des dirigeants et blocage des transferts de fonds vers les pays récalcitrants ; aide au développement réduite de moitié.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire le voile islamique dans l'espace public",
+      "detail": "Au nom du principe de discrétion de la pratique religieuse et de l'égale dignité des femmes.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire la construction de minarets et de mosquées imposantes",
+      "detail": "Avec la fermeture définitive des lieux de promotion du djihad.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire les Frères musulmans, les salafistes et toute mouvance djihadiste",
+      "detail": "Contrôle strict des imams et interdiction des financements étrangers du culte musulman.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Rétablir la loi sur les prénoms par référendum",
+      "detail": "Premier prénom issu des calendriers français, régionaux ou de personnages historiques antiques et bibliques.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Revenir sur la PMA sans père",
+      "detail": "Mesure du chapitre sur la famille.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire les transitions de genre chez les mineurs",
+      "detail": "Et ne reconnaître que la notion de sexe, et non de genre, dans le droit.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger la loi Pleven de 1972",
+      "detail": "Retour à la loi de 1881 sur la presse, qui réprime déjà injure, diffamation et provocation à certains crimes.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Accorder une présomption de légitime défense aux policiers et gendarmes",
+      "detail": "En cas d'usage de leurs armes ; instauration d'une « défense excusable » pour les citoyens agressés.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une force nationale contre les réseaux de trafic de drogue",
+      "detail": "Regroupant police, justice, douanes et administration fiscale ; expulsion des trafiquants et de leurs familles des logements sociaux.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer des peines planchers pour tous les crimes et délits",
+      "detail": "Et mettre fin aux aménagements de peine.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir une perpétuité réelle incompressible",
+      "detail": "Pour les criminels les plus dangereux et les terroristes.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Déchoir de la nationalité et expulser les binationaux criminels",
+      "detail": "Ainsi que les délinquants récidivistes binationaux.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Expulser les squatteurs en moins de 72 heures",
+      "detail": "Recours obligatoire à la force publique par les préfets.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abaisser la majorité pénale de 18 à 16 ans",
+      "detail": "Excuse de minorité pouvant être écartée dès 13 ans pour les crimes graves ; aides sociales des parents de récidivistes supprimées.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Construire 10 000 places de prison supplémentaires",
+      "detail": "Et libérer au moins 10 000 places en expulsant les détenus étrangers.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Déroger immédiatement aux règles européennes sur l'immigration",
+      "detail": "Reprendre le contrôle des frontières, si nécessaire en modifiant les traités.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Opposer un veto à tout traité de libre-échange",
+      "detail": "Négociations actuelles et futures, pour défendre entreprises et agriculteurs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refuser tout élargissement de l'UE et clore l'adhésion de la Turquie",
+      "detail": "Réorientation vers une Europe des Nations.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Œuvrer à la paix en Ukraine puis à un nouvel ordre de sécurité avec la Russie",
+      "detail": "Dialogue de fond avec tous les acteurs dont la Russie.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter le budget de la défense à 70 Md€ en 2030",
+      "detail": "Hausse annuelle pour moderniser forces nucléaires et conventionnelles.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir du commandement militaire intégré de l'OTAN",
+      "detail": "Tout en restant dans l'Alliance atlantique.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "defense",
+      "titre": "Disposer de deux porte-avions à horizon 2040",
+      "detail": "Avec vingt frégates, huit sous-marins nucléaires d'attaque et 300 avions de chasse.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "defense",
+      "titre": "Revaloriser de 20 % les soldes des militaires et réservistes",
+      "detail": "Et renforcer le rôle de la réserve opérationnelle.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "defense",
+      "titre": "Ouvrir un service militaire volontaire à 10 000 jeunes par an",
+      "detail": "Présenté comme un outil d'assimilation.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Recentrer le primaire sur lire, écrire, compter",
+      "detail": "Avec un certificat de fin d'études contrôlant les savoirs fondamentaux.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir les filières scientifique, littéraire et économique au lycée",
+      "detail": "Et refaire du baccalauréat un examen national, anonyme et terminal.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Mettre fin au collège unique avec des classes de niveau",
+      "detail": "Filière pré-professionnelle dès la 4e, passerelles maintenues.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre la blouse obligatoire à l'école primaire",
+      "detail": "Contre le harcèlement, le communautarisme et les inégalités sociales.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Suspendre les allocations familiales des parents d'élèves perturbateurs",
+      "detail": "Ou absentéistes ; création d'internats de réinsertion.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser les salaires des enseignants avec des primes d'excellence",
+      "detail": "Carrières accélérées et primes fondées sur des inspections plus fréquentes.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Porter la dépense de recherche et développement à 3 % du PIB",
+      "detail": "Dépense publique et privée ; revalorisation du statut de chercheur.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Héberger en France les données sensibles sur des solutions souveraines",
+      "detail": "Obligation légale pour les données des Français, de l'État et les données stratégiques du privé.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer un Livret Innovation défiscalisé",
+      "detail": "Pour investir sans fiscalité dans les start-ups et entreprises innovantes.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Baisser les impôts de production de 30 Md€ par an",
+      "detail": "Suppression prioritaire de la C3S, de la CVAE et de la CFE.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Abaisser l'impôt sur les sociétés à 15 % pour les PME",
+      "detail": "Pour les PME, artisans, commerçants et agriculteurs, jusqu'à 300 000 € de bénéfices.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer les droits de succession sur les entreprises familiales",
+      "detail": "Également pour les transmissions familiales d'exploitations agricoles.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Exiger le remboursement des aides publiques par les entreprises qui délocalisent",
+      "detail": "Remboursement intégral.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un « Patrie-score » indiquant la part de fabrication française",
+      "detail": "Note de A à E sur le modèle du Nutri-score.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "economie",
+      "titre": "Transformer l'Agence des participations de l'État en fonds souverain",
+      "detail": "Financé en partie par des fonds du Livret A destinés au logement social.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la CSG pour offrir un 13e mois aux salaires du SMIC à 2 000 €",
+      "detail": "Baisse dégressive financée par la suppression des aides non contributives aux étrangers extra-européens.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer de CSG et CRDS les retraites inférieures à 1 300 € par mois",
+      "detail": "Gain jusqu'à 600 € par an pour les petites retraites.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Créer une prime « zéro charges » jusqu'à trois mois de salaire net",
+      "detail": "Prime exonérée de cotisations patronales et salariales.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer d'impôts et de charges les heures supplémentaires",
+      "detail": "Retour à « travailler plus pour gagner plus ».",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Défiscaliser la participation et l'étendre aux entreprises de plus de 11 salariés",
+      "detail": "Exonération d'impôt sur le revenu, de CSG et de CRDS ; déblocage immédiat sans impôt ; suppression du forfait social.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Faire rembourser par l'employeur 50 % des frais de carburant domicile-travail",
+      "detail": "Dans la limite de 40 € par mois, sur le modèle du remboursement des transports en commun.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Revenir à 90 km/h sur les routes et supprimer les ZFE",
+      "detail": "Fin des interdictions de circulation dans les zones à faibles émissions, suppression du permis à points, amendes de stationnement plafonnées à 17 €.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Porter l'âge légal de départ à la retraite à 64 ans en 2030",
+      "detail": "Un trimestre de plus par an à partir de 2023, avec aménagements pour carrières longues ou pénibles.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Exonérer de charges pendant 2 ans deux embauches en CDI dans les TPE",
+      "detail": "Pour les entreprises de moins de 11 salariés.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Relever de 50 à 250 salariés le seuil de consultation du CSE",
+      "detail": "Œuvres sociales et culturelles maintenues dès 50 salariés.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Verser une prime de 10 000 € à la naissance en zone rurale",
+      "detail": "Pour chaque enfant d'une famille domiciliée depuis deux ans dans un territoire rural.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Rétablir l'universalité des allocations familiales",
+      "detail": "Fin des conditions de ressources.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Doubler le plafond du quotient familial à 3 000 €",
+      "detail": "Contre 1 592 € actuellement.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer 60 000 places de crèche",
+      "detail": "Sur le quinquennat, avec libre répartition du congé parental entre les deux parents.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Permettre de donner 200 000 € sans impôt tous les 10 ans à chaque enfant et petit-enfant",
+      "detail": "Et franchise de 200 000 € par enfant sur les successions, exonérant 95 % des familles.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Porter la pension de réversion de 54 % à 75 %",
+      "detail": "Et rétablir la demi-part fiscale des veuves et veufs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Déconjugaliser l'allocation aux adultes handicapés (AAH)",
+      "detail": "Et créer 15 000 places en établissements pour adultes handicapés.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Recruter 50 000 accompagnants d'élèves handicapés (AESH)",
+      "detail": "Accompagnement étendu à l'enseignement supérieur.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "social",
+      "titre": "Déployer une carte Vitale biométrique et une brigade anti-fraude",
+      "detail": "Contrôles systématiques des allocataires, suspension de 5 ans des aides aux fraudeurs récidivistes, minima sociaux plafonnés au SMIC.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Recruter 40 000 personnels hospitaliers",
+      "detail": "Avec un vaste plan d'investissement dans l'hôpital public.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Augmenter de 12 % la rémunération des infirmiers et aides-soignants",
+      "detail": "Hausse immédiate.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Doubler en 5 ans les capacités de formation des médecins et soignants",
+      "detail": "Mesure du chapitre santé.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Recruter 1 000 médecins salariés par l'État dans les déserts médicaux",
+      "detail": "Sur 5 ans, avec des services hospitaliers de proximité et une garde obligatoire des médecins.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les ARS et transférer leurs missions aux préfets",
+      "detail": "Organismes jugés « purement comptables et technocratiques ».",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Abolir définitivement le pass vaccinal",
+      "detail": "Mesure du chapitre santé.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "sante",
+      "titre": "Construire 400 000 places en EHPAD d'ici 2030",
+      "detail": "Dont 25 % réservées aux familles modestes ; contrôles confiés aux préfets avec pouvoir de sanction.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Construire au moins 14 réacteurs EPR2 d'ici 2050",
+      "detail": "Abandon de l'objectif de 50 % de nucléaire, prolongation du parc à 60 ans au moins et arrêt de la fermeture de 12 réacteurs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Remplacer l'ARENH par un tarif régulé de l'électricité nucléaire",
+      "detail": "Et mettre fin au projet Hercule de réorganisation d'EDF.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Mettre fin à tous les projets d'éoliennes, sur terre comme en mer",
+      "detail": "Soutien public redirigé vers la géothermie, le bois-énergie, les réseaux de chaleur et les pompes à chaleur.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relancer la recherche sur le nucléaire de 4e génération et la fusion",
+      "detail": "Programme ASTRID et projet ITER ; petits réacteurs modulaires prêts d'ici la fin du quinquennat.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Refuser l'ouverture à la concurrence des barrages hydroélectriques",
+      "detail": "Avec un plan d'investissement dans l'hydroélectricité.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les centrales d'achat communes de la grande distribution",
+      "detail": "Pour que la distribution ne puisse plus imposer ses prix aux producteurs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les importations agricoles produites hors normes françaises",
+      "detail": "Produits que les agriculteurs français n'ont pas le droit de produire.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Augmenter la dotation jeune agriculteur",
+      "detail": "Simplification de l'installation et de l'achat de foncier, garanties bancaires.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Indiquer le mode d'abattage sur les produits contenant de la viande",
+      "detail": "Conventionnel avec étourdissement ou rituel sans étourdissement.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "logement",
+      "titre": "Réserver l'attribution des logements sociaux aux Français",
+      "detail": "En priorité aux plus modestes ; réexamen de la situation des locataires tous les 5 ans.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abroger la loi SRU",
+      "detail": "Et ne plus financer de logements sociaux dans les villes qui en comptent plus d'un tiers.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer les droits de mutation pour les primo-accédants",
+      "detail": "Jusqu'à une valeur de 250 000 € ; intérêts d'emprunt déductibles à 50 % pendant 5 ans.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Réorienter les crédits de la politique de la ville vers les campagnes",
+      "detail": "Crédits de l'ANRU réinvestis dans les centres des villes moyennes, bourgs et villages.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Suspendre la fermeture des écoles rurales sans l'accord du maire",
+      "detail": "Et mettre fin à la fermeture des brigades de gendarmerie dans les villages.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Mettre fin aux référendums d'indépendance en Nouvelle-Calédonie",
+      "detail": "Réforme des institutions calédoniennes à l'issue de l'accord de Nouméa.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Privatiser France 2, France Inter et France Info et supprimer la redevance",
+      "detail": "Audiovisuel public recentré sur la culture et l'international ; France 3 et France Bleu transférés gratuitement aux collectivités.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Investir 2 Md€ dans la restauration du patrimoine",
+      "detail": "Sur le quinquennat, après un bilan complet de l'état du patrimoine national.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Interdire aux athlètes voilées de concourir en compétition officielle",
+      "detail": "Neutralité politique imposée au mouvement sportif.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+      "source_date": "2022-03-16"
+    }
+  ],
+  "sources_consultees": [
+    "https://xn--ambitionsant2022-mqb.fhf.fr/medias/ez-programme-2022-final6-compressed-623218e2a2ef4036050815.pdf",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022"
+  ],
+  "notes": "Programme officiel de 73 pages (31 chapitres, environ 400 mesures selon Public Sénat), avec un chiffrage : 60 Md€ par an de coût net financés par 65 Md€ d'économies (dont 20 Md€ issus de la suppression des aides non contributives aux étrangers extra-européens). Le site de campagne d'origine (programme.zemmour2022.fr, redirigé vers ericzemmour.fr) est inaccessible (403) et web.archive.org est bloqué depuis cet environnement : le PDF officiel a été consulté via une copie hébergée par la Fédération hospitalière de France (fhf.fr). La date du 16 mars 2022 provient des métadonnées du PDF. Les propositions retenues ne couvrent pas toutes les mesures : sélection des plus marquantes de chaque chapitre.",
+  "verifie_le": "2026-10-12"
+}

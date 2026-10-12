@@ -1,0 +1,938 @@
+{
+  "slug": "jean-luc-melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parti": "La France insoumise (Union populaire)",
+  "bord": "gauche-radicale",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2020-11-08",
+  "resultat": "1er tour : 21,95 % (3e)",
+  "programme": {
+    "statut": "complet",
+    "titre": "L'Avenir en commun – Le programme pour l'Union populaire",
+    "url": "https://laec.fr/sommaire",
+    "date_publication": "2021-11"
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Convoquer une Assemblée constituante pour passer à la 6e République",
+      "detail": "Référendum (article 11) pour lancer le processus ; aucun parlementaire sortant ne pourra y siéger ; projet de Constitution soumis à référendum après deux ans de travaux.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/1/reunir-une-assemblee-constituante-pour-passer-a-la-6e-republique",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un régime parlementaire et supprimer l'article 49.3",
+      "detail": "Dans le cadre de la Constituante : régime parlementaire stable, gouvernement responsable devant le Parlement, abolition des « votes forcés » comme le 49.3.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/2/abolir-la-monarchie-presidentielle",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Élire l'Assemblée nationale à la proportionnelle départementale",
+      "detail": "Mesure prévue par la loi, sans attendre la nouvelle Constitution (échelle de la collectivité unique en Outre-mer).",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/2/abolir-la-monarchie-presidentielle",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "RIC révocatoire, législatif, abrogatoire et constituant, déclenché par un nombre suffisant de signatures.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abaisser le droit de vote à 16 ans",
+      "detail": "Droit de vote accordé dès 16 ans.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Reconnaître le vote blanc et rendre le vote obligatoire",
+      "detail": "Avec un seuil minimal de votes exprimés pour valider une élection.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Imposer un référendum pour toute révision constitutionnelle ou tout traité européen",
+      "detail": "Recours obligatoire au référendum dans ces deux cas.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rendre inéligible à vie toute personne condamnée pour corruption",
+      "detail": "Avec un durcissement des règles contre les conflits d'intérêts et le pantouflage (démission et remboursement de la formation sans dix ans de service).",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/3/balayer-loligarchie-abolir-les-privileges-de-la-caste",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Plafonner à 200 euros les dons individuels aux partis politiques",
+      "detail": "Réforme du financement de la vie politique.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/3/balayer-loligarchie-abolir-les-privileges-de-la-caste",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les métropoles et abroger la loi NOTRe",
+      "detail": "Supprimer les mégarégions, mettre fin à l'obligation d'appartenance à une intercommunalité et redécouper les régions selon les bassins versants.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/14/lorganisation-de-letat-au-service-de-la-planification-ecologique",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger le concordat d'Alsace-Moselle",
+      "detail": "Ainsi que les statuts cultuels spécifiques des Outre-mer ; interdiction pour les élus d'assister ès qualités à des cérémonies religieuses.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/5/une-republique-laique",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Légaliser le cannabis récréatif sous monopole d'État",
+      "detail": "Recettes affectées à la prévention des addictions ; pilotage de la politique des drogues confié au ministère de la Santé.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/11/addictions-et-drogues-il-faut-changer-de-strategie",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Constitutionnaliser l'IVG, la contraception et le droit de mourir dans la dignité",
+      "detail": "Y compris l'aide active à mourir et l'accès garanti aux soins palliatifs.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/56/une-nouvelle-etape-des-libertes-et-de-lemancipation-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Allonger le délai légal d'IVG à 14 semaines",
+      "detail": "Et supprimer la double clause de conscience des médecins.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/55/realiser-legalite-entre-les-femmes-et-les-hommes",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Rembourser la PMA, l'ouvrir aux personnes trans et refuser la GPA",
+      "detail": "Filiation par reconnaissance comme principe par défaut.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/56/une-nouvelle-etape-des-libertes-et-de-lemancipation-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Permettre le changement d'état civil libre et gratuit",
+      "detail": "Devant un officier d'état civil.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/56/une-nouvelle-etape-des-libertes-et-de-lemancipation-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger la loi dite « séparatisme »",
+      "detail": "Dans le cadre d'une « République universaliste » contre le racisme et les discriminations.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/57/une-republique-universaliste-contre-le-racisme-et-les-discriminations",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire la chasse à courre et les spectacles cruels pour les animaux",
+      "detail": "Déterrage, chasse à courre, combats de coqs, spectacles avec animaux sauvages.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/28/rompre-avec-la-maltraitance-animale",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir la police de proximité et démanteler les BAC et les BRAV-M",
+      "detail": "Intégration des polices municipales dans la nouvelle police de proximité.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/10/refonder-une-police-republicaine",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Remplacer l'IGPN et l'IGGN par une autorité indépendante",
+      "detail": "Rattachée au Défenseur des droits, dotée d'un pouvoir de sanction disciplinaire.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/10/refonder-une-police-republicaine",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Interdire LBD, grenades de désencerclement, tasers et plaquage ventral",
+      "detail": "Pour favoriser la désescalade ; interdiction aussi de la « nasse » en manifestation.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/10/refonder-une-police-republicaine",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Interdire la reconnaissance faciale dans l'espace public",
+      "detail": "Interdiction légale de son usage et de son expérimentation.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/10/refonder-une-police-republicaine",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer un récépissé lors des contrôles d'identité",
+      "detail": "Pour lutter contre le contrôle au faciès, avec formation et sanctions.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/57/une-republique-universaliste-contre-le-racisme-et-les-discriminations",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Augmenter l'aide juridictionnelle et rétablir les tribunaux de proximité",
+      "detail": "Recrutement de magistrats, greffiers et agents de la PJJ.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/7/la-justice-au-nom-du-peuple",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Doubler les effectifs contre la délinquance financière",
+      "detail": "Et supprimer réellement le « verrou de Bercy » et la convention judiciaire d'intérêt public.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/8/une-politique-de-justice-efficace",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Inscrire la « règle verte » dans la Constitution",
+      "detail": "Ne pas prélever davantage à la nature que ce qu'elle peut reconstituer ; planification écologique par lois-cadres.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/13/la-bifurcation-ecologique-pour-une-societe-de-lharmonie",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Réduire de 65 % les émissions de gaz à effet de serre d'ici 2030",
+      "detail": "Contre un objectif de 40 % alors en vigueur, avec un bilan public annuel.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/13/la-bifurcation-ecologique-pour-une-societe-de-lharmonie",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du nucléaire et abandonner les projets d'EPR",
+      "detail": "Planifier le démantèlement et la reconversion des sites et de leurs bassins de vie.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Atteindre 100 % d'énergies renouvelables en 2050",
+      "detail": "Planification fondée sur la sobriété et l'efficacité énergétique ; fin des subventions aux énergies fossiles.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Renationaliser EDF et Engie dans un pôle public de l'énergie",
+      "detail": "Annuler la libéralisation du marché de l'électricité et du gaz, stopper la privatisation des barrages.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Isoler au moins 700 000 logements par an",
+      "detail": "Interdire réellement la location des passoires thermiques et cibler les aides selon les revenus.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Renationaliser la SNCF et refuser l'ouverture à la concurrence",
+      "detail": "Rouvrir des lignes du quotidien et maintenir des guichets en gare.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/18/developper-les-transports-publics-ecologiques-repenser-la-mobilite-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Supprimer les vols intérieurs quand le train met moins de 4 heures",
+      "detail": "Avec un plan de ferroutage et de report modal.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/18/developper-les-transports-publics-ecologiques-repenser-la-mobilite-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Interdire les plastiques à usage unique et rétablir la consigne",
+      "detail": "Consigne pour bouteilles et bocaux en verre ; abolition de l'obsolescence programmée.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/20/consommer-autrement-une-france-zero-dechet",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Assurer une gestion 100 % publique de l'eau",
+      "detail": "Haut-commissariat à l'eau, régies publiques, gratuité des mètres cubes indispensables.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/25/leau-enjeu-central-pour-lhumanite",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Créer 300 000 emplois agricoles",
+      "detail": "Par une agriculture relocalisée, diversifiée et écologique ; réforme agraire pour l'installation.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/21/souverainete-alimentaire-et-revolution-agricole-pour-une-agriculture-ecologique-et-paysanne",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Garantir des prix planchers aux agriculteurs",
+      "detail": "Interdire les ventes à perte et encadrer les marges de la grande distribution par un coefficient multiplicateur.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/21/souverainete-alimentaire-et-revolution-agricole-pour-une-agriculture-ecologique-et-paysanne",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire immédiatement le glyphosate et les néonicotinoïdes",
+      "detail": "Et planifier la réduction des engrais et pesticides.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/21/souverainete-alimentaire-et-revolution-agricole-pour-une-agriculture-ecologique-et-paysanne",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les fermes-usines",
+      "detail": "Limiter le transport d'animaux vivants, interdire l'élevage en batterie et le broyage des poussins.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/28/rompre-avec-la-maltraitance-animale",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Servir une alimentation 100 % bio et locale en restauration collective",
+      "detail": "Avec une option végétarienne quotidienne.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/22/en-finir-avec-la-malbouffe",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter immédiatement le SMIC à 1 400 euros nets",
+      "detail": "Hausse immédiate du SMIC mensuel et des minima sociaux.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/39/augmenter-les-salaires-et-reduire-les-inegalites-salariales-dans-lentreprise",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Bloquer les prix des produits de première nécessité",
+      "detail": "Mesure de l'« état d'urgence sociale ».",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/30/creer-un-etat-durgence-sociale",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Rendre gratuites les premières quantités d'énergie",
+      "detail": "Tarification progressive de l'énergie ; annulation des hausses du tarif du gaz depuis 2017.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA sur les produits de première nécessité",
+      "detail": "Financée par une « TVA grand luxe ».",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir la retraite à 60 ans à taux plein après 40 annuités",
+      "detail": "Hausse de 0,25 point par an des cotisations vieillesse et cotisations sur l'intéressement et la participation.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/44/garantir-une-retraite-digne",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Porter toutes les pensions au minimum au niveau du SMIC",
+      "detail": "Pour une carrière complète ; minimum vieillesse au seuil de pauvreté ; indexation des retraites sur les salaires.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/44/garantir-une-retraite-digne",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir les 35 heures et passer à 32 heures dans les métiers pénibles",
+      "detail": "Heures supplémentaires majorées à 25 % puis 50 % ; généralisation des 32 heures par la négociation.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/36/reduire-le-temps-de-travail-et-faire-naitre-une-societe-du-temps-choisi",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Instaurer une sixième semaine de congés payés",
+      "detail": "Pour tous les salariés.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/36/reduire-le-temps-de-travail-et-faire-naitre-une-societe-du-temps-choisi",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer une garantie d'emploi pour les chômeurs de longue durée",
+      "detail": "Embauche au moins au SMIC revalorisé dans un secteur d'urgence.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/35/etablir-la-garantie-demploi",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Plafonner les contrats précaires à 10 % en PME et 5 % en grande entreprise",
+      "detail": "Quota maximal de contrats précaires par entreprise.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/38/un-emploi-stable-pour-chacun",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger la loi El Khomri et les ordonnances Pénicaud",
+      "detail": "Rétablir le principe de faveur (loi > branche > entreprise).",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/38/un-emploi-stable-pour-chacun",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Requalifier en salariés les travailleurs des plateformes",
+      "detail": "Uber, Deliveroo et faux indépendants.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/38/un-emploi-stable-pour-chacun",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger la réforme Macron de l'assurance chômage",
+      "detail": "Indemnisation selon les derniers salaires, dès le premier jour.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/40/retablir-une-assurance-chomage-protectrice",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Donner aux CE un droit de veto suspensif sur les licenciements",
+      "detail": "Et un droit de préemption pour reprendre l'entreprise en coopérative.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/43/reconnaitre-la-citoyennete-dans-lentreprise-et-des-droits-nouveaux-aux-salaries",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements boursiers",
+      "detail": "Pour les entreprises qui versent des dividendes ou reçoivent des aides publiques.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/45/mettre-fin-au-pillage-economique-de-la-nation",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Lancer un plan d'investissement de 200 milliards d'euros",
+      "detail": "Investissements écologiquement et socialement utiles, financés notamment par l'annulation des cadeaux fiscaux sans contrepartie.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/17/investir-pour-lancer-la-bifurcation-de-notre-economie",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir l'ISF avec un volet climatique",
+      "detail": "Rétablissement et renforcement de l'impôt de solidarité sur la fortune.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Porter l'impôt sur le revenu à 14 tranches",
+      "detail": "Contre 5 ; CSG rendue progressive avec 14 tranches.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la flat tax",
+      "detail": "Imposer les revenus du capital comme ceux du travail.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Plafonner l'héritage à 12 millions d'euros",
+      "detail": "Soit 100 fois le patrimoine net médian ; droits de succession calculés sur toute la vie.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir l'exit tax et créer un impôt universel",
+      "detail": "Impôt universel sur les entreprises (taxées sur l'activité réalisée en France) et sur les revenus des particuliers, contre l'évasion fiscale.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Revenir sur les privatisations des autoroutes, aéroports et de la FDJ",
+      "detail": "Rendre effectif le droit de réquisition des entreprises d'intérêt général.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/45/mettre-fin-au-pillage-economique-de-la-nation",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un pôle public bancaire",
+      "detail": "Socialisation de banques généralistes ; licence bancaire pour la BPI.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/47/pour-des-banques-au-service-de-linteret-general",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Relocaliser les productions essentielles",
+      "detail": "Mesures antidumping, droits de douane écologiques et taxe kilométrique aux frontières.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/34/instaurer-un-protectionnisme-ecologique-et-solidaire-pour-produire-en-france-et-assurer-notre-independance",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Conditionner les aides publiques aux grandes entreprises",
+      "detail": "Objectifs sociaux, écologiques et fiscaux contraignants, avec remboursement en cas de non-respect.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/34/instaurer-un-protectionnisme-ecologique-et-solidaire-pour-produire-en-france-et-assurer-notre-independance",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Transformer la dette détenue par la BCE en dette perpétuelle à taux nul",
+      "detail": "Exigence adressée à l'Union européenne.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/49/refuser-le-chantage-annuler-la-dette-publique",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réaliser un audit citoyen de la dette publique",
+      "detail": "Pour en déterminer la part illégitime ; rétablir un circuit du Trésor.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/49/refuser-le-chantage-annuler-la-dette-publique",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Instaurer le « 100 % Sécu »",
+      "detail": "Rembourser à 100 % les soins prescrits en intégrant les mutuelles dans la Sécurité sociale.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/32/faire-passer-la-sante-dabord-et-reconstruire-les-etablissements-de-sante-publics-notamment-les-hopitaux",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer la tarification à l'acte à l'hôpital",
+      "detail": "Retour à la dotation globale et arrêt des suppressions de lits.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/32/faire-passer-la-sante-dabord-et-reconstruire-les-etablissements-de-sante-publics-notamment-les-hopitaux",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Garantir un service de santé public à moins de 30 minutes",
+      "detail": "Réouverture de services d'urgences, de maternités et d'Ehpad publics.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/32/faire-passer-la-sante-dabord-et-reconstruire-les-etablissements-de-sante-publics-notamment-les-hopitaux",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer réellement le numerus clausus contre les déserts médicaux",
+      "detail": "Recruter des médecins publics et créer des centres de santé pluridisciplinaires.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/32/faire-passer-la-sante-dabord-et-reconstruire-les-etablissements-de-sante-publics-notamment-les-hopitaux",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer un pôle public du médicament",
+      "detail": "Relocaliser la production et constituer une réserve stratégique.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/31/sorganiser-pour-faire-face-aux-pandemies",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer 10 000 places par an en Ehpad publics",
+      "detail": "Pendant cinq ans, avec un service public de la dépendance et 210 000 recrutements.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/58/faire-face-collectivement-a-la-perte-dautonomie-individuelle",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Assurer la gratuité réelle de l'école publique",
+      "detail": "Cantine, transport, activités périscolaires, manuels et fournitures.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Réduire les effectifs sous 19 élèves par classe",
+      "detail": "Moyenne européenne, en priorité en maternelle et en éducation prioritaire.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup",
+      "detail": "Accès sans sélection de tous les bacheliers à la formation de leur choix.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/67/refonder-lenseignement-superieur",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer la gratuité de l'enseignement supérieur",
+      "detail": "De la licence au doctorat ; abrogation des lois LRU et Fioraso.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/67/refonder-lenseignement-superieur",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Étendre la scolarité obligatoire à 18 ans",
+      "detail": "Avec, si nécessaire, une garantie d'autonomie dès 16 ans.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir le bac national et abroger la réforme du lycée",
+      "detail": "Abroger aussi les réformes de la voie professionnelle et du collège.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Créer 500 000 places en crèche en cinq ans",
+      "detail": "Service public de la petite enfance, crèches publiques gratuites.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/64/faire-le-service-public-de-la-petite-enfance",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Verser aux jeunes une garantie d'autonomie de 1 063 euros",
+      "detail": "Pour les jeunes détachés du foyer fiscal parental (seuil de pauvreté).",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/53/construire-lautonomie-des-jeunes",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Garantir à chacun un revenu au seuil de pauvreté",
+      "detail": "Garantie d'autonomie portant le revenu mensuel à 1 063 euros pour une personne seule.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/52/eradiquer-la-pauvrete",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Atteindre zéro sans-abri",
+      "detail": "Doublement des places d'accueil (estimées à 100 000).",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/52/eradiquer-la-pauvrete",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Verser l'AAH indépendamment des revenus du conjoint",
+      "detail": "Revalorisation de l'allocation aux adultes handicapés.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/59/lever-les-obstacles-a-lautonomie-des-personnes-en-situation-de-handicap",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Allouer un milliard d'euros contre les violences faites aux femmes",
+      "detail": "Loi de lutte contre le sexisme et les violences.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/55/realiser-legalite-entre-les-femmes-et-les-hommes",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Sanctionner l'inégalité salariale entre femmes et hommes",
+      "detail": "Amendes, refus de marchés publics et commission salariée de contrôle dans l'entreprise.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/55/realiser-legalite-entre-les-femmes-et-les-hommes",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Remplacer le quotient familial par un crédit d'impôt par enfant",
+      "detail": "Et mettre fin au quotient conjugal.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/50/faire-la-revolution-fiscale",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 200 000 logements publics par an",
+      "detail": "Pendant cinq ans, aux normes écologiques les plus exigeantes.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Encadrer les loyers partout et les baisser dans les grandes villes",
+      "detail": "Encadrement sur tout le territoire.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Interdire les expulsions locatives sans relogement",
+      "detail": "Avec une garantie universelle des loyers.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Porter à 30 % le quota de logements sociaux (loi SRU)",
+      "detail": "Et alourdir les sanctions contre les communes hors la loi.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Réquisitionner les logements vides",
+      "detail": "Et limiter les locations de courte durée type Airbnb aux propriétaires occupants.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs, étudiants et parents d'enfants scolarisés",
+      "detail": "Faciliter l'accès aux visas et faire de la carte de séjour de dix ans le titre de référence.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Abroger la loi asile et immigration",
+      "detail": "Garantir pleinement le droit d'asile.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Suspendre le règlement de Dublin et renégocier les accords du Touquet",
+      "detail": "Et sortir de « l'impasse » de Schengen et Frontex.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Garantir le droit du sol intégral",
+      "detail": "Et faciliter l'accès à la nationalité française.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/57/une-republique-universaliste-contre-le-racisme-et-les-discriminations",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Accorder le droit de vote aux étrangers aux élections locales",
+      "detail": "Droit de vote des résidents étrangers aux élections locales.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/57/une-republique-universaliste-contre-le-racisme-et-les-discriminations",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Désobéir aux règles européennes incompatibles avec le programme",
+      "detail": "Détachement des travailleurs, règles budgétaires, concurrence, libre circulation des capitaux.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/70/desobeir-a-chaque-fois-que-cest-necessaire-pour-mettre-en-uvre-notre-programme",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Bloquer par veto tout nouvel accord de libre-échange",
+      "detail": "Et tout nouvel élargissement sans harmonisation sociale, fiscale et environnementale.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/69/utiliser-tous-les-leviers-daction-face-aux-institutions-europeennes",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Conditionner la contribution française au budget européen",
+      "detail": "Levier face aux institutions européennes.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/69/utiliser-tous-les-leviers-daction-face-aux-institutions-europeennes",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Consacrer 0,7 % du RNB à l'aide publique au développement",
+      "detail": "Aide « débarrassée du carcan néolibéral ».",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/78/construire-des-cooperations-altermondialistes-et-internationalistes",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Reconnaître le crime d'écocide",
+      "detail": "Soutien à un tribunal international de justice climatique.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/75/etendre-les-protections-du-droit-international-aux-biens-communs-planetaires",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Quitter le commandement intégré de l'OTAN puis l'organisation",
+      "detail": "Retrait immédiat du commandement intégré, puis de l'OTAN par étapes.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/71/assumer-lindependance-de-la-france-dans-le-monde",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Instaurer une conscription citoyenne de neuf mois",
+      "detail": "Pour les moins de 25 ans, rémunérée au SMIC, avec formation militaire initiale ; création d'une garde nationale.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/68/un-temps-de-jeunesse-au-service-de-linteret-general-et-de-la-surete-de-la-nation",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Fixer un calendrier de retrait des opérations militaires au Sahel",
+      "detail": "Après un débat et un vote au Parlement.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/80/construire-une-relation-avec-lafrique-basee-sur-la-souverainete-des-peuples",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Refuser toute intervention militaire sans mandat de l'ONU",
+      "detail": "L'ONU comme seul organe légitime de sécurité collective.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/73/renforcer-lonu-pour-faire-vivre-un-monde-ordonne",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Porter le budget de la culture à 1 % du PIB",
+      "detail": "Budget consacré à l'art, à la culture et à la création.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/60/la-bifurcation-dans-les-arts-et-la-culture-pour-un-service-public-du-progres-humain",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Adopter une loi anti-concentration dans les médias",
+      "detail": "Et donner un droit d'agrément aux rédactions face à un nouvel actionnaire.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/6/la-revolution-citoyenne-dans-les-medias",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Faire élire par le Parlement les présidents de France Télévisions et de Radio France",
+      "detail": "Élection des dirigeants de l'audiovisuel public par le Parlement.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/6/la-revolution-citoyenne-dans-les-medias",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Rehausser l'investissement public dans la recherche",
+      "detail": "Renforcer les grands organismes (CNRS, Inserm…) et supprimer l'ANR.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/61/etre-une-grande-nation-scientifique",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Garantir un accès minimal gratuit à Internet",
+      "detail": "Et la couverture en fibre de tout le pays d'ici 2025.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/85/affirmer-le-caractere-dinteret-general-de-la-revolution-numerique",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Passer sous contrôle public les infrastructures télécoms",
+      "detail": "Garantir la neutralité du Net.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/86/garantir-la-souverainete-numerique-de-la-france",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir les services publics à 15-30 minutes de chaque habitation",
+      "detail": "École, gare, hôpital, bureau de poste, en particulier dans les zones rurales, quartiers populaires et Outre-mer.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/16/legalite-des-populations-par-la-democratie-et-les-services-publics",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir l'eau potable à tous les habitants des Outre-mer",
+      "detail": "Travaux financés par l'État, gestion en régie.",
+      "nature": "programme",
+      "source_url": "https://laec.fr/section/26/le-droit-a-leau-dans-les-outre-mer",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://laec.fr/sommaire",
+    "https://melenchon2022.fr/programme/ (redirige désormais vers melenchon2027.fr)",
+    "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022"
+  ],
+  "notes": "Sources : version en ligne intégrale de L'Avenir en commun (édition Seuil de novembre 2021, ISBN 978-2-02-148246-1) hébergée par laec.fr, site tenu par une équipe militante (Discord Insoumis) qui reproduit les 86 sections et environ 680 mesures du livre-programme ; le site officiel melenchon2022.fr redirige désormais vers melenchon2027.fr et web.archive.org n'était pas accessible. Sélection de 114 mesures parmi les plus structurantes (mesures clés de chaque section et mesures chiffrées). Le jour exact de publication n'est pas précisé (novembre 2021), d'où source_date null. Candidature annoncée le 8 novembre 2020. Résultat (Wikipédia) : 7 712 520 voix, 21,95 %, 3e.",
+  "verifie_le": "2026-10-12"
+}

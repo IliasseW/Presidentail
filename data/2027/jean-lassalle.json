@@ -11,14 +11,25 @@
     "url": null,
     "date_publication": null
   },
-  "propositions": [],
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Créer une banque pour financer les campagnes des petits partis",
+      "detail": "« Il faudrait qu'il y ait une banque pour les [petits] partis » : selon lui, les règles de campagne favorisent les grands partis (« C'est pas la démocratie »).",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+      "source_date": "2026-07-10"
+    }
+  ],
   "sources_consultees": [
     "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
     "https://en.wikipedia.org/wiki/2027_French_presidential_election",
     "https://www.resistons-france.fr/",
     "https://www.elyseescope.com/candidat/jean-lassalle",
-    "https://lcp.fr/motcle/jean-lassalle-349"
+    "https://lcp.fr/motcle/jean-lassalle-349",
+    "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html"
   ],
-  "notes": "Aucune proposition formulée pour 2027 n'a pu être vérifiée. Statut incertain : un résultat de recherche indiquait que Jean Lassalle avait lancé une cagnotte en ligne pour financer une troisième candidature, présentée comme « contre le système », et évoquait une interview à Ici Béarn. Ni l'article ni sa date n'ont pu être consultés (budget de recherche épuisé, Europe 1 en 403). Il ne figure ni dans la liste des candidats déclarés ou prétendants de LCP (octobre 2026), ni sur la page Wikipédia de l'élection de 2027. Le site de Résistons ! présente encore le programme de 2022 (SMIC à 1 400 € net, RIC, rétablissement de l'ISF, 3 Md€/an pour la ruralité…), sans mise à jour pour 2027 (dernière modification : 23/03/2025). Ce programme n'a pas été retenu, faute de reprise explicite depuis 2025. ElyseeScope le donne candidat déclaré, sans source et avec des erreurs manifestes (il y est présenté comme député) : cette indication n'est pas retenue. Scores passés : 1,21 % en 2017, 3,13 % en 2022. À revérifier.",
+  "notes": "Candidature envisagée mais non déclarée formellement à notre connaissance au 12/10/2026. Le 10 juillet 2026, sur ICI Béarn Bigorre, il a lancé une cagnotte en ligne pour financer une troisième candidature « contre le système, mais pour la France » (franceinfo, 15/07/2026). Il estime qu'il faut au moins 100 000 € pour se lancer officiellement, revendique 250 des 500 parrainages et dit qu'il décidera « à l'automne » selon le résultat de la cagnotte ; ne pas se présenter serait « un délit de fuite ». L'article de franceinfo porte le titre « lance une cagnotte pour pouvoir être de nouveau candidat » : il ne s'agit pas d'une déclaration formelle. Aucune annonce d'automne n'a été trouvée (recherches ciblées sur ICI, franceinfo, LCP, Public Sénat), et LCP ne le cite pas dans sa liste du 24/09/2026. Statut « pressenti ». Pas de programme 2027. Thèmes évoqués sans mesure : chute de la natalité, perte de confiance, bureaucratie (« qui ferait pâlir d'envie l'Union soviétique »), monde « archi-financiarisé, mondialisé ». Le site de Résistons ! présente encore le programme de 2022 (SMIC à 1 400 € net, RIC, rétablissement de l'ISF, 3 Md€/an pour la ruralité…), sans mise à jour pour 2027 ; non retenu faute de reprise explicite. ElyseeScope le donne candidat déclaré, sans source et avec des erreurs manifestes : non retenu. Scores passés : 1,21 % en 2017, 3,13 % en 2022.",
   "verifie_le": "2026-10-12"
 }

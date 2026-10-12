@@ -1,0 +1,830 @@
+{
+  "slug": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "parti": "Rassemblement national",
+  "bord": "extreme-droite",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2020-01-16",
+  "resultat": "1er tour : 23,15 % (2e) ; 2nd tour : 41,45 % (battue par Emmanuel Macron, 58,55 %)",
+  "programme": {
+    "statut": "complet",
+    "titre": "M la France — « 22 mesures pour 2022 », manifeste et livrets thématiques",
+    "url": "https://mlafrance.fr/programme",
+    "date_publication": "2022-03-28"
+  },
+  "propositions": [
+    {
+      "theme": "immigration",
+      "titre": "Organiser un référendum sur l'immigration dans les six mois suivant l'élection",
+      "detail": "Projet de loi référendaire déjà rédigé : il inscrirait la question migratoire dans la Constitution et empêcherait les juridictions supranationales d'imposer des politiques contraires à la volonté populaire.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Mettre fin à l'immigration de peuplement et au regroupement familial",
+      "detail": "Le regroupement familial deviendrait « une rare exception » ; toute forme de peuplement visant à « altérer l'identité de la France » serait interdite par référendum.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Traiter les demandes d'asile uniquement à l'étranger",
+      "detail": "Les demandes d'asile ne pourraient plus être déposées sur le territoire national.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Réserver les aides sociales aux Français",
+      "detail": "Les prestations de solidarité seraient conditionnées à cinq années de travail en France pour les étrangers.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Instaurer la priorité nationale pour l'emploi et le logement social",
+      "detail": "Priorité nationale d'accès au logement social et à l'emploi.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Retirer le titre de séjour aux étrangers sans emploi depuis un an",
+      "detail": "Les étrangers venus travailler devraient rentrer dans leur pays au bout d'un an de chômage.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser systématiquement clandestins, délinquants et criminels étrangers",
+      "detail": "Levée des obstacles juridiques à l'expulsion et à l'interdiction du territoire ; reconduite « systématique et immédiate » à la frontière.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation",
+      "detail": "Naturalisation sur des critères de mérite et d'assimilation.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Bloquer visas et transferts d'argent vers les pays refusant leurs ressortissants",
+      "detail": "Aucun visa délivré et transferts d'argent depuis la France bloqués pour les États refusant de reprendre leurs ressortissants.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "societe",
+      "titre": "Éradiquer les idéologies islamistes par une loi spécifique",
+      "detail": "Proposition de loi contre les idéologies islamistes ; fermeture systématique des mosquées radicales et dissolution des associations islamistes.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "societe",
+      "titre": "Instaurer un moratoire d'au moins trois ans sur les réformes sociétales",
+      "detail": "Pas de réouverture des sujets de société pendant au moins trois ans (les Français pourraient s'en saisir par RIC) ; interdiction de la GPA pouvant être renforcée.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir les peines planchers",
+      "detail": "Peines minimales pour certaines infractions, en priorité celles commises contre les dépositaires de l'autorité publique.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Supprimer réductions et aménagements de peine pour les violences",
+      "detail": "Fin des réductions et aménagements de peine, notamment pour les violences contre les personnes ; alternatives à la prison drastiquement limitées.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instituer une présomption de légitime défense pour les forces de l'ordre",
+      "detail": "Mesure figurant parmi les « 22 mesures pour 2022 ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Établir une perpétuité réelle",
+      "detail": "Peine de perpétuité sans possibilité d'aménagement.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Porter le parc pénitentiaire à 85 000 places de prison",
+      "detail": "Objectif de 85 000 places en 2027 (« en six ans » selon le manifeste).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Doubler le nombre de magistrats pour accélérer les procédures",
+      "detail": "Recrutement de plusieurs milliers de magistrats en cinq ans via un tour extérieur élargi (avocats, policiers, retraités du judiciaire).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Diviser par deux les délais de la justice civile",
+      "detail": "Plan d'action du garde des Sceaux, numérisation des procédures et simplification pour diviser les délais par deux d'ici la fin du quinquennat.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Inscrire les harceleurs de rue au fichier des délinquants sexuels",
+      "detail": "Mesure de la partie sécurité des « 22 mesures ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer au moins un centre éducatif fermé par département",
+      "detail": "Sanction sans délai des mineurs délinquants et responsabilisation des parents.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Juger dans des délais très brefs les conjoints violents",
+      "detail": "Mesures spécifiques contre les violences conjugales, sur le modèle espagnol, avec protection effective des victimes.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer un ministère de la lutte contre les fraudes",
+      "detail": "Ministère ayant autorité sur toutes les administrations compétentes (fraudes fiscales, sociales, aux importations, ententes).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Sanctionner la fraude sociale par des amendes de trois à cinq fois le montant perçu",
+      "detail": "Amende de 3 fois le montant à la première fraude, 5 fois à la deuxième, puis suspension temporaire de droits ; cartes Vitale biométriques.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Financer un programme chiffré à 68 Md€ par des économies",
+      "detail": "Chiffrage de 68,3 Md€ de dépenses nouvelles financées notamment par la baisse de l'immigration (16 Md€) et la lutte contre la fraude (15 Md€).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA de 20 % à 5,5 % sur carburants, fioul, gaz et électricité",
+      "detail": "Produits énergétiques considérés comme biens de première nécessité.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Supprimer la TVA sur un panier de 100 produits de première nécessité",
+      "detail": "Mesure d'urgence de pouvoir d'achat chiffrée à 3,5 à 4 Md€.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Suspendre les hausses de TICPE décidées entre 2015 et 2018",
+      "detail": "Mesure d'urgence sur les carburants, estimée à 8,5 Md€ (710 M€ par mois).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Renationaliser les autoroutes pour baisser les péages de 15 %",
+      "detail": "Rachat des concessions autoroutières via le fonds souverain français.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer de cotisations patronales les hausses de salaire de 10 % jusqu'à 3 SMIC",
+      "detail": "Dans le cadre d'un contrat d'entreprise, les entreprises augmentant tous les salaires de 10 % jusqu'à 3 SMIC seraient exonérées sur cette hausse.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer d'impôt sur le revenu tous les actifs de moins de 30 ans",
+      "detail": "Objectif affiché : que les jeunes restent en France et y fondent leur famille.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "economie",
+      "titre": "Remplacer l'IFI par un impôt sur la fortune financière (IFF)",
+      "detail": "IFF visant la spéculation (produits financiers, œuvres d'art détenues depuis moins de 10 ans), hors résidence principale et biens professionnels ; produit affecté à la politique familiale.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un fonds souverain français rémunérant l'épargne à au moins 2 %",
+      "detail": "Fonds alimenté par l'épargne des Français, investi dans les secteurs stratégiques, l'innovation et la transition écologique.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Appliquer la priorité nationale aux marchés publics et favoriser les PME",
+      "detail": "Priorité nationale (ou européenne dans certains cas) pour la commande publique, priorité aux PME.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la CFE et les impôts de production pénalisant les PME",
+      "detail": "Suppression de la cotisation foncière des entreprises ; suppression de la C3S réservée aux zones de relocalisation.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer l'impôt sur les sociétés 5 ans pour les créateurs de moins de 30 ans",
+      "detail": "Pour éviter le départ à l'étranger des jeunes entrepreneurs.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "economie",
+      "titre": "Exonérer de droits de succession les entreprises transmises et conservées 10 ans",
+      "detail": "Pacte Dutreil actualisé : plus d'impôt pour les héritiers s'engageant à garder l'entreprise au moins 10 ans.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer exceptionnellement les bénéfices des énergéticiens pétroliers et gaziers",
+      "detail": "Taxe spéciale de 10 % sur les bénéfices 2021-2022, estimée à 3,5 Md€.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Pénaliser les rachats d'actions",
+      "detail": "Pénalité de 33 % sur les rachats d'actions, estimée à 8 Md€ pour le seul CAC 40.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Permettre la retraite à 60 ans avec 40 annuités pour les carrières commencées avant 20 ans",
+      "detail": "Pour les autres, âge de départ et durée de cotisation dépendant de l'âge de début de carrière.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Refuser tout allongement de l'âge de départ à la retraite",
+      "detail": "Engagement des « 22 mesures pour 2022 ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Réindexer les retraites sur l'inflation",
+      "detail": "Pour préserver le pouvoir d'achat des retraités.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un chèque formation pour les apprentis et alternants",
+      "detail": "5 700 € par an avant 18 ans et 8 000 € entre 18 et 30 ans, partagés entre l'entreprise et le jeune.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Mettre fin au travail détaché",
+      "detail": "Présenté comme une « délocalisation déguisée », avec un renforcement des contrôles des importations.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Revaloriser le minimum vieillesse à 1 000 € par mois",
+      "detail": "Et augmentation des petites retraites.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Rétablir la demi-part fiscale des veuves et des veufs",
+      "detail": "Mesure du volet retraités des « 22 mesures ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Déconjugaliser l'allocation aux adultes handicapés (AAH)",
+      "detail": "AAH déconjugalisée et indexée sur l'inflation.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Inscrire la lutte contre les discriminations liées au handicap dans la Constitution",
+      "detail": "À l'occasion de la réforme constitutionnelle.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer des dizaines de milliers de places pour les personnes lourdement handicapées",
+      "detail": "Hausse des classes ULIS, plan d'accueil des enfants handicapés à l'école et un centre de dépistage de l'autisme par département.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Porter le congé de proche aidant de 3 à 12 mois sur une carrière",
+      "detail": "Meilleure prise en charge des pertes de salaire des aidants.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Accorder une part fiscale complète dès le deuxième enfant",
+      "detail": "Mesure de soutien aux familles et à la natalité.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Doubler l'allocation de soutien familial pour les mères isolées",
+      "detail": "Réservé aux familles françaises, avec contrôles renforcés contre la fraude.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un prêt à taux zéro de 100 000 € pour les jeunes couples, effacé au 3e enfant",
+      "detail": "Prêt public sur 10 ans pour l'achat d'un logement, transformé en subvention à la naissance du troisième enfant.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Réserver les allocations familiales aux familles dont un parent est français",
+      "detail": "Application du principe de priorité nationale.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "social",
+      "titre": "Exonérer les donations jusqu'à 100 000 € par enfant tous les dix ans",
+      "detail": "Abattement aligné pour les grands-parents ; successions exonérées sur les biens immobiliers jusqu'à 300 000 €.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "sante",
+      "titre": "Lancer un plan d'urgence de 20 Md€ pour la santé",
+      "detail": "Plan d'urgence incluant la revalorisation des salaires des soignants, l'investissement dans les technologies de santé et le rapatriement de la fabrication des médicaments.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "sante",
+      "titre": "Arrêter les fermetures de lits à l'hôpital public et de maternités",
+      "detail": "Mesure du plan santé des « 22 mesures ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les ARS et plafonner à 10 % les postes administratifs des hôpitaux",
+      "detail": "Hôpitaux dirigés par un binôme médecin-directeur.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "sante",
+      "titre": "Rembourser à prix bonifié les consultations dans les déserts médicaux",
+      "detail": "Plus d'incitations aux maisons de santé (traitant les « petites urgences ») et plan national de télémédecine.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer des urgences gériatriques dédiées aux personnes âgées",
+      "detail": "Et adosser aux urgences des cabinets de médecine de ville.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "sante",
+      "titre": "Ajouter 1 Md€ au plan EHPAD et confier leur tutelle aux préfets",
+      "detail": "Contrôles renforcés et droit opposable aux visites dans les hôpitaux et EHPAD.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "education",
+      "titre": "Remettre français, mathématiques et histoire au cœur du primaire",
+      "detail": "Augmentation significative des heures de cours dans ces matières.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter les classes à 20 élèves en primaire et 30 dans le secondaire",
+      "detail": "Généralisation du dédoublement engagé par le gouvernement.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer le collège unique au profit de classes de niveau",
+      "detail": "Inspiré du modèle suisse ; objectif de 40 % de jeunes en filière professionnelle après la 3e.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser de 3 % par an la grille des enseignants",
+      "detail": "Pendant cinq ans, pour atteindre la moyenne haute de l'OCDE.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer l'uniforme au primaire et au collège",
+      "detail": "Avec sanction des absences et des incivilités.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "education",
+      "titre": "Faire fixer les programmes scolaires par le Parlement",
+      "detail": "La loi définirait ce qui est attendu de chaque élève à la fin de chaque cycle ; inspections tous les deux ans.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "education",
+      "titre": "Verser un complément de salaire aux étudiants qui travaillent",
+      "detail": "200 à 300 € pour les jeunes travaillant pendant leurs études et validant leurs examens.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 100 000 logements sociaux par an",
+      "detail": "Dont 20 000 pour les étudiants et jeunes travailleurs.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 100 000 logements étudiants en cinq ans",
+      "detail": "Mesure du volet familles des « 22 mesures ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer un fonds de garantie des loyers pour protéger les propriétaires",
+      "detail": "Et lancer un plan de réhabilitation de l'habitat ancien.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Seuil de déclenchement abaissé à 500 000 signatures, pour adopter ou abroger une loi.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-reforme-des-institutions-au-coeur-du-duel-macron-le-pen-202480",
+      "source_date": "2022-04-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Élire les deux tiers des députés à la proportionnelle",
+      "detail": "Le mode d'élection du dernier tiers serait laissé au Parlement (prime majoritaire envisagée).",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-reforme-des-institutions-au-coeur-du-duel-macron-le-pen-202480",
+      "source_date": "2022-04-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un septennat non renouvelable",
+      "detail": "Mentionné parmi ses propositions institutionnelles du second tour.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-reforme-des-institutions-au-coeur-du-duel-macron-le-pen-202480",
+      "source_date": "2022-04-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réviser la Constitution directement par référendum",
+      "detail": "Sans validation parlementaire ; la voie de l'article 11 était envisagée selon Public Sénat.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-reforme-des-institutions-au-coeur-du-duel-macron-le-pen-202480",
+      "source_date": "2022-04-13"
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter le budget de la défense à 55 Md€ en 2027",
+      "detail": "Hausse des effectifs, matériels et munitions ; amélioration de la condition militaire.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "defense",
+      "titre": "Quitter le commandement intégré de l'OTAN",
+      "detail": "Politique « des mains libres », la France restant dans l'Alliance.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "defense",
+      "titre": "Mettre fin aux coopérations d'armement avec l'Allemagne",
+      "detail": "Coopération renforcée avec le Royaume-Uni (accords de Lancaster House).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Remplacer progressivement l'UE par une Alliance européenne des nations",
+      "detail": "Europe des nations « libres et souveraines » fondée sur les coopérations.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Baisser la contribution de la France au budget de l'UE",
+      "detail": "Économie de 5 Md€ par an inscrite au chiffrage.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+      "source_date": "2022-03-23"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Revoir les accords de libre-échange contraires aux intérêts français",
+      "detail": "Protéger l'économie de la concurrence déloyale.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Créer une Union francophone à vocation politique et économique",
+      "detail": "Les pays francophones d'Afrique y joueraient un rôle moteur.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Instaurer un moratoire sur l'éolien et démanteler progressivement les parcs",
+      "detail": "Moratoire dès le printemps 2022 sur toute nouvelle éolienne, terrestre ou maritime, démantèlement progressif et fin des subventions aux énergies intermittentes.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relancer la filière nucléaire et prolonger le parc existant",
+      "detail": "Prolongation du parc, nouveaux réacteurs, reprise des études sur les réacteurs à neutrons rapides et les petits réacteurs modulaires.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du marché européen de l'électricité",
+      "detail": "Pour « retrouver des prix décents ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Maintenir toute l'hydroélectricité dans le giron public d'EDF",
+      "detail": "Refus de l'ouverture à la concurrence des barrages.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rendre aux ménages les 5 Md€ de subventions aux éoliennes",
+      "detail": "Subventions versées notamment aux éoliennes restituées aux ménages.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du Green Deal européen",
+      "detail": "La France tiendrait les objectifs de l'accord de Paris par ses propres moyens et à son rythme.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/projet-lecologie.pdf",
+      "source_date": "2022-02-28"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Imposer l'affichage de la réparabilité et de la durée de vie des produits",
+      "detail": "Plus de vente de biens non réparables ni sans indication de durée de vie.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/projet-lecologie.pdf",
+      "source_date": "2022-02-28"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Imposer 80 % de produits agricoles français dans les cantines",
+      "detail": "Nouveau cadre réglementaire pour la restauration collective.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire l'importation de produits agricoles hors normes françaises",
+      "detail": "Importations ne respectant pas les normes de production françaises interdites.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Faire valider par l'État des prix minimums en cas de litige commercial",
+      "detail": "Contre les marges abusives de la grande distribution ; aides nationales contracycliques.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Généraliser l'étiquetage d'origine des produits alimentaires",
+      "detail": "Étiquetage de l'origine et de la qualité étendu à tous les produits.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Lancer un plan abattoirs et interdire l'abattage sans étourdissement",
+      "detail": "« Plan abattoirs » pour assurer des conditions dignes.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer un ministère d'État de la Mer et de l'Outre-mer",
+      "detail": "Mesure n° 21 des « 22 mesures pour 2022 ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Adopter une loi-programme de 15 ans pour l'outre-mer",
+      "detail": "Relance des dispositifs Pons et Perben, réforme de l'octroi de mer contre la vie chère.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rétablir la prime d'aménagement du territoire",
+      "detail": "Politique de « démétropolisation » : infrastructures de transport, numériques et énergétiques.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rendre les transports gratuits aux heures creuses pour les 18-25 ans",
+      "detail": "Plutôt que de « faire rouler des trains à moitié vides ».",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Privatiser l'audiovisuel public et supprimer la redevance",
+      "detail": "Suppression de la redevance de 138 €.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+      "source_date": "2022-02-08"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer un service national du patrimoine pour les 18-24 ans",
+      "detail": "Volontariat de six mois renouvelable une fois pour restaurer le patrimoine bâti et naturel.",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+      "source_date": "2022-03-28"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Réserver la commande publique numérique de défense à des fournisseurs français",
+      "detail": "Fournisseurs français exclusifs pour le militaire et la sécurité nationale, priorité européenne pour le reste (cloud compris).",
+      "nature": "programme",
+      "source_url": "https://mlafrance.fr/pdfs/projet-le-numerique.pdf",
+      "source_date": "2022-04-01"
+    }
+  ],
+  "sources_consultees": [
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+    "https://mlafrance.fr/pdfs/22-mesures-pour-2022.pdf",
+    "https://mlafrance.fr/pdfs/manifeste-m-la-france-programme-presidentiel.pdf",
+    "https://mlafrance.fr/pdfs/projet-le-numerique.pdf",
+    "https://mlafrance.fr/pdfs/projet-lecologie.pdf",
+    "https://mlafrance.fr/pdfs/tracts-chiffrage-programme-presidentiel.pdf",
+    "https://mlafrance.fr/programme",
+    "https://www.publicsenat.fr/actualites/politique/la-reforme-des-institutions-au-coeur-du-duel-macron-le-pen-202480"
+  ],
+  "notes": "Programme 2022 encore en ligne sur mlafrance.fr/programme (22 mesures, manifeste, chiffrage et 16 livrets thématiques : immigration, sécurité, santé, école, famille, jeunesse, agriculture, écologie, numérique, outre-mer, fraude, patrimoine, tourisme, animaux, enfance). Les dates de source sont celles des métadonnées des PDF (création), à quelques jours près de la publication. Le septennat non renouvelable et le détail de la proportionnelle (2/3 des sièges) proviennent de Public Sénat (13/04/2022), non d'un document du RN consulté. Les livrets défense, international et institutions n'apparaissent plus sur la page programme ; ces thèmes sont couverts via le manifeste.",
+  "verifie_le": "2026-10-12"
+}

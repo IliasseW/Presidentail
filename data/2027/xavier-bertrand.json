@@ -107,6 +107,22 @@
       "nature": "declaration",
       "source_url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
       "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Faire du pouvoir d'achat l'une des toutes premières priorités du projet",
+      "detail": "« Ce sera l'une de mes toutes premières priorités quand je présenterai mon projet présidentiel » ; aucune mesure précisée.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/08/on-a-beaucoup-de-points-communs-entre-la-normandie-et-les-hauts-de-france-xavier-bertrand-de-passage-a-granville-ouest-france/",
+      "source_date": "2026-08-21"
+    },
+    {
+      "theme": "economie",
+      "titre": "Mieux exploiter le potentiel maritime de la France",
+      "detail": "« La France n'utilise pas assez le potentiel maritime que nous avons » ; il veut aussi mettre davantage en valeur le patrimoine maritime. Pas de mesure chiffrée.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/08/on-a-beaucoup-de-points-communs-entre-la-normandie-et-les-hauts-de-france-xavier-bertrand-de-passage-a-granville-ouest-france/",
+      "source_date": "2026-08-21"
     }
   ],
   "sources_consultees": [
@@ -122,8 +138,11 @@
     "https://www.nousfrance.fr/programme/europe/",
     "https://www.nousfrance.fr/programme/immigration/",
     "https://www.nousfrance.fr/programme/pouvoir-achat/",
-    "https://www.nousfrance.fr/programme/travail/"
+    "https://www.nousfrance.fr/programme/travail/",
+    "https://www.nousfrance.fr/2026/08/on-a-beaucoup-de-points-communs-entre-la-normandie-et-les-hauts-de-france-xavier-bertrand-de-passage-a-granville-ouest-france/",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://www.parlons-politique.fr/elections/xavier-bertrand-garde-la-main-sur-2027-et-veut-verifier-si-sa-ligne-peut-encore-seduire-la-droite-et-les-electeurs-moderes_24692/"
   ],
-  "notes": "Le 27 août 2026 (université d'été du Medef), X. Bertrand a confirmé qu'il serait candidat (« Je le serai ») mais a précisé que « le moment n'est pas venu » de se déclarer officiellement (LCP, Le Monde). Il annonce une déclaration officielle en candidat indépendant entre mi-octobre et la fin 2026 (Ouest-France ; article « candidat en embuscade » repris sur nousfrance.fr le 29/09/2026) ; Le Figaro (07/09/2026) le qualifie de « candidat non déclaré ». Statut codé « pressenti » pour cette raison, à requalifier en « declare » lors de l'annonce officielle. Aucun programme publié : il dit « tester ses idées » et préparer un projet global. Les pages « programme » de nousfrance.fr datent de 2021-2024 (primaire LR 2021) et ne sont pas retenues faute de reprise explicite depuis 2025. Les propositions issues de l'entretien au Parisien (janv. 2026) relèvent en partie du débat budgétaire 2026. Propositions immigration/sécurité vues sur Europe 1 non retenues (dates non vérifiables, probablement 2021). Recherche web interrompue par l'épuisement du quota de recherches.",
+  "notes": "Le 27 août 2026, à l'université d'été du Medef, X. Bertrand a confirmé qu'il serait candidat (« Je le serai », « un candidat à la place, pas un candidat de plus, et avec un projet »), tout en précisant que « le moment n'est pas venu » de se déclarer (LCP, Le Monde). La liste de LCP (mise à jour le 24/09/2026) le range parmi les candidats déclarés sur la base de cette confirmation. Mais aucune déclaration formelle n'a été trouvée au 12/10/2026 : l'article « candidat en embuscade » (fin septembre, repris sur nousfrance.fr le 29/09) annonce une déclaration « entre mi-octobre et la fin de l'année », et Le Figaro (07/09) « le plus tard possible, avant les fêtes ». Le site nousfrance.fr ne publie rien d'octobre. Statut maintenu à « pressenti » (intention de candidature annoncée, déclaration formelle attendue) ; à requalifier lors de l'annonce officielle. Candidature annoncée comme indépendante, hors primaire. Aucun programme publié : il « teste ses idées » et veut être « plus précis » qu'en 2021, sans « 110 mesures ». Les pages « programme » de nousfrance.fr datent de 2021-2024 (primaire LR 2021) et ne sont pas retenues faute de reprise explicite depuis 2025 ; le compte à rebours du « congrès LR » affiché sur le site semble un reliquat de 2021. Les propositions issues de l'entretien au Parisien (janv. 2026) relèvent en partie du débat budgétaire 2026. Propositions immigration/sécurité vues sur Europe 1 non retenues (dates invérifiables, probablement 2021). Les grandes lignes (classes moyennes, dépenses sociales, capitalisation) ne sont chiffrées dans aucune source.",
   "verifie_le": "2026-10-12"
 }

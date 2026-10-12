@@ -7,20 +7,61 @@
   "date_declaration": "2026-09-24",
   "programme": {
     "statut": "aucun",
-    "titre": "Le Projet France, Refonder ou Périr (annoncé ; contenu non consulté)",
+    "titre": "Le Projet France, Refonder ou Périr (annoncé ; aucun document consultable)",
     "url": null,
     "date_publication": null
   },
   "propositions": [
-    {"theme": "ecologie_energie", "titre": "Produire des carburants de synthèse et des énergies décarbonées en France", "detail": "Réponse avancée à la crise des prix des carburants ; aucun chiffrage.", "nature": "declaration", "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee", "source_date": "2026-10-08"},
-    {"theme": "social", "titre": "Créer un système universel de protection sociale fondé sur droits et devoirs", "detail": "Système suivant chaque personne tout au long de sa vie, fondé sur la réciprocité entre droits et devoirs.", "nature": "declaration", "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee", "source_date": "2026-10-08"},
-    {"theme": "securite_justice", "titre": "Créer des « centres de redressement » encadrés par d'anciens militaires", "detail": "Les délinquants y travailleraient et y apprendraient un métier.", "nature": "declaration", "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee", "source_date": "2026-10-08"}
+    {
+      "theme": "ecologie_energie",
+      "titre": "Produire des carburants de synthèse et des énergies décarbonées en France",
+      "detail": "Réponse avancée à la crise des prix des carburants ; aucun chiffrage.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un système universel de protection sociale fondé sur droits et devoirs",
+      "detail": "Système suivant chaque personne tout au long de sa vie, fondé sur la réciprocité entre droits et devoirs.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer des « centres de redressement » encadrés par d'anciens militaires",
+      "detail": "Les délinquants y travailleraient et y apprendraient un métier.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réformer les institutions selon un « fédéralisme à la française »",
+      "detail": "Annoncé lors de sa déclaration de candidature à Rixheim ; aucun détail institutionnel précisé.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la moitié des normes applicables",
+      "detail": "Avancé en juin 2026, avant sa déclaration, avec une « refonte du système français actuel » ; normes visées non précisées.",
+      "nature": "declaration",
+      "source_url": "https://podcast.ausha.co/azur-fm-information-locale/16-juin-2026",
+      "source_date": "2026-06-16"
+    }
   ],
   "sources_consultees": [
     "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
     "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
-    "https://www.elyseescope.com/candidat/olivier-becht/economie"
+    "https://www.elyseescope.com/candidat/olivier-becht/economie",
+    "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+    "https://podcast.ausha.co/azur-fm-information-locale/16-juin-2026",
+    "https://www.franceinfo.fr/s/elisabeth-borne/",
+    "https://olivierbecht.fr/"
   ],
-  "notes": "Candidature annoncée le 24 septembre 2026 dans Paris Match (confirmé par LCP, liste mise à jour le 24/09/2026, et Sud Radio). Se présente comme candidat de « l'extrême centre », hors de tout camp, avec un projet intitulé « Le Projet France, Refonder ou Périr » présenté comme « de rupture, de radicalité, de refondation complète de notre modèle » (entretien au Point cité par Sud Radio). Aucun document programmatique ni site de campagne n'a pu être consulté (olivierbecht.fr indisponible, quota de recherche web épuisé avant d'accéder aux entretiens de Paris Match et du Point). Les fiches ÉlyséeScope sur Becht sont génériques et incohérentes (étiquette « Magistrat », votes de 2024 présentés comme positions) : non retenues. Il lui faut encore réunir 500 parrainages. Liste de propositions très probablement incomplète.",
+  "notes": "Candidature annoncée le 24 septembre 2026 dans Paris Match et le même jour devant la mairie de Rixheim (France 3 Grand Est, LCP, Sud Radio). Se présente comme candidat de « l'extrême centre », hors de tout camp. Son projet, « Le Projet France, Refonder ou Périr », se veut « de rupture, de radicalité, de refondation complète de notre modèle » (Le Point, cité par Sud Radio). Il propose de « tout réinventer » : modèle économique, social et de sécurité, et institutions selon un « fédéralisme à la française » (France 3). Il dit la France « au bout du rouleau », avec un risque « de guerre ou de révolution ». Aucun document programmatique n'a pu être consulté au 12/10/2026 : olivierbecht.fr ne répond pas (503, puis connexion refusée), aucune archive Wayback, Europe 1 en 403, entretiens de Paris Match et du Point introuvables en accès libre. La proposition sur les normes date de juin 2026, quand il envisageait encore de se présenter sous condition de réunir une équipe et 1 à 1,5 M€ (Azur FM, radio locale). Les fiches ÉlyséeScope sur Becht sont génériques et incohérentes (étiquette « Magistrat », votes de 2024 présentés comme positions) : non retenues. Il doit encore réunir 500 parrainages. Liste très probablement incomplète.",
   "verifie_le": "2026-10-12"
 }

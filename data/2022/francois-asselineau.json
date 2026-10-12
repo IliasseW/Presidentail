@@ -1,0 +1,673 @@
+{
+  "slug": "francois-asselineau",
+  "nom": "François Asselineau",
+  "parti": "Union populaire républicaine (UPR)",
+  "bord": "souverainiste",
+  "annee": 2022,
+  "statut_candidature": "non_qualifie",
+  "resultat": "non qualifié — parrainages insuffisants (293 parrainages)",
+  "date_declaration": null,
+  "programme": {
+    "statut": "complet",
+    "titre": "Programme présidentiel 2022 de François Asselineau (27 engagements + « ultime engagement »)",
+    "url": "https://upr.fr/notre-programme/programme-2022",
+    "date_publication": "2022-02-15"
+  },
+  "propositions": [
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'Union européenne en dénonçant les traités européens (Frexit)",
+      "detail": "Dénonciation juridique du traité sur l'UE et du traité sur le fonctionnement de l'UE, présentée comme condition préalable à l'ensemble du programme.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "economie",
+      "titre": "Sortir de l'euro et adopter un nouveau franc",
+      "detail": "L'abandon de l'euro, jugé surévalué, doit restaurer la compétitivité ; objectif d'un solde commercial positif en 3 ans.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir de l'OTAN",
+      "detail": "Retrait engagé dès les premiers jours de la présidence ; suppression du coût budgétaire lié à l'OTAN (400 M€) et désengagement des interventions menées dans ce cadre.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter le SMIC brut de 24 % sur le quinquennat",
+      "detail": "Soit environ +4,4 % par an cumulés ; revalorisation parallèle des grilles de la fonction publique, en priorité pour les fonctionnaires de terrain (soignants, policiers, militaires, enseignants).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "economie",
+      "titre": "Diminuer de 50 % les charges patronales des PME",
+      "detail": "Pour les entreprises de moins de 50 M€ de chiffre d'affaires, afin de compenser la hausse des salaires ; abattement supplémentaire de 5 % pour les entreprises respectant l'égalité salariale femmes-hommes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer le CICE pour les très grandes entreprises",
+      "detail": "Gain estimé à 10 milliards d'euros par an ; s'accompagne d'un choc de simplification des normes, notamment européennes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir le contrôle des changes et des mouvements de capitaux",
+      "detail": "Contrôle des investissements français à l'étranger (délocalisations) et des investissements étrangers en France (entreprises stratégiques).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Lancer un plan de lutte contre la fraude et l'optimisation fiscales",
+      "detail": "Fraude et optimisation estimées à 60-80 Md€ par an, avec un plan parallèle contre la fraude aux prestations sociales (14 à 45 Md€ selon les estimations).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réaliser 27 milliards d'euros d'économies budgétaires par an",
+      "detail": "Fin de la contribution à l'UE (12 Md€), suppression des conseils régionaux (5 Md€), du CICE des grandes entreprises (10 Md€), du coût de l'OTAN, baisse du nombre d'élus et du train de vie de l'exécutif (-30 %).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Créer deux tranches d'impôt sur le revenu au-delà de 250 000 et 500 000 euros",
+      "detail": "Ainsi qu'un impôt exceptionnel de solidarité pour les très grandes fortunes accrues pendant la crise du Covid-19.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Faire contribuer chaque ménage à l'impôt sur le revenu, même symboliquement",
+      "detail": "Contribution universelle et proportionnelle ; baisse des taux des tranches moyennes une fois les économies réalisées.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Étendre la taxe sur les transactions financières à toutes les opérations spéculatives",
+      "detail": "Toutes les transactions financières spéculatives réalisées en France, quelle que soit la nationalité de l'opérateur.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Baisser de 5 points les droits de succession sous 300 000 euros par héritier",
+      "detail": "Mesure présentée comme favorisant la transmission entre générations.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA sur les produits de consommation courante",
+      "detail": "Fin de la double taxation des carburants (TVA sur la TICPE) et hausse de la TVA sur les produits de très grand luxe.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Annuler la hausse de la CSG décidée sous le quinquennat Macron",
+      "detail": "Mesure de la réforme fiscale de justice pour les classes moyennes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Geler les tarifs de l'électricité et du gaz pendant au moins deux ans",
+      "detail": "Et imposer une baisse de 10 % des tarifs autoroutiers.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "economie",
+      "titre": "Renationaliser EDF, Enedis, La Poste, les autoroutes, la SNCF et la RATP",
+      "detail": "Ainsi que les réseaux d'eau, les sociétés de gaz et TDF ; fin du projet Hercule pour EDF et de l'ouverture des services publics à la concurrence.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Inscrire par référendum la propriété nationale des grands services publics",
+      "detail": "Interdiction constitutionnelle de privatiser la Sécurité sociale et les services stratégiques de sécurité, santé et éducation.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rehausser la DGF des communes de moins de 5 000 habitants au niveau de 2014",
+      "detail": "Fusions de communes conditionnées à un référendum ; obligations de service public renforcées en zone rurale.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Supprimer les allocations chômage après deux refus d'offres d'emploi",
+      "detail": "Offres correspondant aux critères géographiques du demandeur ; réduction progressive des emplois aidés (3 Md€ d'économies).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Inscrire la retraite par répartition dans la Constitution",
+      "detail": "Fin des réformes des retraites ; la capitalisation reste un choix personnel facultatif.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Indexer chaque année les pensions au moins sur l'inflation",
+      "detail": "Garantie d'État du pouvoir d'achat des retraités, avant comme après la création d'un nouveau franc.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir le cadre national du baccalauréat dès la première année",
+      "detail": "Retour de la notation, du classement et de la cérémonie de remise des prix en fin d'année.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Consacrer au moins 80 % du temps scolaire du primaire aux savoirs fondamentaux",
+      "detail": "Français, mathématiques, histoire-géographie et bases scientifiques.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter les écrans et appliquer strictement l'interdiction des portables en cours",
+      "detail": "Sanctions immédiates contre toute agression d'enseignant, port de vêtements neutres favorisé.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir le régime déclaratif pour l'instruction en famille",
+      "detail": "Avec les contrôles nécessaires.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Revaloriser les bourses étudiantes de 25 % et pérenniser les repas à 1 euro",
+      "detail": "Sur la durée du quinquennat.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir l'enseignement supérieur en langue française",
+      "detail": "Et promouvoir la publication des travaux de recherche en français.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Multiplier par 10 les crédits des grands projets de restauration du patrimoine",
+      "detail": "De 130 M€ (2019) à 1,3 Md€ en 2025 ; crédits d'entretien des monuments historiques portés de 326 M€ à 2,6 Md€.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer trois musées nationaux thématiques, dont un musée Léonard de Vinci à Chambord",
+      "detail": "La Joconde et les manuscrits de Léonard y seraient transférés, dans une logique de déconcentration des collections.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Revaloriser de 24 % l'indemnisation des intermittents du spectacle",
+      "detail": "Au même rythme que la hausse du SMIC proposée.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Interdire la concentration des médias et créer une Cour supérieure de l'audiovisuel",
+      "detail": "Création d'un statut de la presse pour protéger le pluralisme et les journalistes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Augmenter de 50 % le budget de la recherche",
+      "detail": "Grands projets : fusion nucléaire, cancer et maladies auto-immunes, composants électroniques, alternatives aux GAFAM, spatial, transports du futur.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Taxer les GAFAM sur les profits réalisés en France",
+      "detail": "Sous peine d'exclusion du marché français.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Interdire la censure du débat public par les plateformes numériques",
+      "detail": "Neutralité du net consacrée par la loi et passage des administrations à des solutions informatiques françaises ou libres.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "sante",
+      "titre": "Rouvrir 30 000 lits dans l'hôpital public",
+      "detail": "Budget de l'hôpital +15 % dès le premier budget ; objectif de 265 000 lits dont 25 000 de réanimation et soins intensifs.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer un pôle public de recherche pharmaceutique et de production de médicaments",
+      "detail": "Par regroupement d'institutions publiques et de laboratoires nationalisés, pour l'autosuffisance en médicaments et vaccins en 10 ans.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "sante",
+      "titre": "Majorer de 20 % les actes des médecins exerçant en déserts médicaux",
+      "detail": "Et instaurer un moratoire sur les fermetures d'hôpitaux publics et de maternités.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "sante",
+      "titre": "Interdire la rémunération des médecins hospitaliers par les laboratoires",
+      "detail": "Publication des contrats passés par l'État et l'UE avec les entreprises pharmaceutiques.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "societe",
+      "titre": "Supprimer le passe sanitaire ou vaccinal dès le début du quinquennat",
+      "detail": "Réaffirmation de la liberté de prescription, du secret médical et du consentement éclairé.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Interdire dans la Constitution les confinements et couvre-feux généralisés",
+      "detail": "Ainsi que toute surveillance généralisée de la population (QR code, passe sanitaire, identité numérique).",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Avec référendum obligatoire pour toute future révision de la Constitution.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réduire le nombre de parlementaires à 500 députés et environ 100 sénateurs",
+      "detail": "Soit -35 % ; quorum de présence effective de 60 % pour les votes au Parlement.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Remplacer le Conseil constitutionnel par une Cour constitutionnelle",
+      "detail": "Composée de juristes élus par les parlementaires pour un mandat unique de 12 ans.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rétablir le septennat et réduire le mandat des députés à quatre ans",
+      "detail": "Avec l'introduction d'une proportionnelle partielle aux législatives.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les conseils régionaux et réduire de moitié les conseillers départementaux",
+      "detail": "Régions remplacées par des établissements publics de coopération légers.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer le financement public des partis politiques",
+      "detail": "Économie estimée à 70 M€.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Interdire les machines à voter et le recours injustifié aux cabinets de conseil",
+      "detail": "Création d'une commission de contrôle des conflits d'intérêts des élus et hauts fonctionnaires.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Remettre en jeu son mandat si 14 des 27 engagements ne sont pas tenus à mi-mandat",
+      "detail": "« Ultime engagement » : vérification au bout de deux ans et demi.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relocaliser massivement la production industrielle",
+      "detail": "Via le contrôle des mouvements de marchandises et de capitaux ; les importations représenteraient 57 % de l'empreinte écologique de la France.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Porter à 70 % la part du rail sur les grands axes de fret",
+      "detail": "Plan de ferroutage (Paris-Marseille/Montpellier, Paris-Bordeaux, Paris-Belgique), interdiction de fermer des petites lignes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer une écotaxe sur les poids lourds étrangers",
+      "detail": "Pour financer les transports propres sans peser sur les ménages français.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Instaurer un moratoire de 5 ans sur les zones commerciales périphériques",
+      "detail": "Dans les villes de moins de 30 000 habitants, contre l'artificialisation des sols.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Remplacer la PAC par une politique agricole nationale (+25 % de revenus)",
+      "detail": "Revenus des agriculteurs, retraités compris, augmentés de 25 % sur le quinquennat ; objectif d'autosuffisance alimentaire.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Exonérer de TVA les produits alimentaires en circuit court ou bio",
+      "detail": "Y compris les produits issus de la permaculture.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les pesticides dangereux comme le glyphosate",
+      "detail": "Sans perte de revenus pour les agriculteurs.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les élevages en batterie et les fermes-usines",
+      "detail": "Type « ferme des 1 000 vaches » ; aggravation des peines pour maltraitance animale.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Cesser les négociations de traités de libre-échange et dénoncer le CETA",
+      "detail": "Arrêt immédiat des négociations de type TAFTA.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Mettre fin aux sanctions contre la Russie, le Venezuela ou la Biélorussie",
+      "detail": "Politiques de sanction jugées dictées par les États-Unis ; sanctions onusiennes demandées contre les États finançant le terrorisme.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Rapprocher la France des BRICS en demandant un siège d'observateur",
+      "detail": "Création d'un Parlement de la Francophonie et partenariat franco-britannique proposés.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Inscrire dans la Constitution l'incessibilité du siège français à l'ONU",
+      "detail": "Siège de membre permanent du Conseil de sécurité avec droit de veto.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "societe",
+      "titre": "Inscrire dans la Constitution la double tradition laïque et chrétienne de la France",
+      "detail": "Par référendum si nécessaire ; fin des subventions aux groupes jugés communautaristes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire tout financement étranger des lieux de culte",
+      "detail": "Mesure de lutte contre l'islam radical.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "social",
+      "titre": "Verser les allocations familiales dès le premier enfant",
+      "detail": "+10 % pour le deuxième, +15 % pour le troisième ; congé parental rémunéré par la CAF un an par enfant.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer 150 000 places de crèches en cinq ans",
+      "detail": "Financement partagé État / collectivités.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "social",
+      "titre": "Revaloriser l'AAH de 20 % et la déconjugaliser",
+      "detail": "Quota d'emplois réservés aux travailleurs handicapés porté à 7 % dans les entreprises de plus de 500 salariés.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "sante",
+      "titre": "Renforcer la surveillance des EHPAD et favoriser le maintien à domicile",
+      "detail": "Politique de la dépendance.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 80 000 logements supplémentaires par an",
+      "detail": "Programmes sociaux en partie en accession à la propriété, financés notamment par la fin de la contribution à l'UE.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "logement",
+      "titre": "Limiter les achats immobiliers étrangers dans les zones tendues",
+      "detail": "Grâce au contrôle des mouvements de capitaux.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "logement",
+      "titre": "Porter à 7 jours le délai d'expulsion des squatters en flagrance",
+      "detail": "Contre 48 h ; procédure judiciaire accélérée de moins de trois mois.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Investir 15 milliards d'euros dans les infrastructures ultramarines",
+      "detail": "Baisse des tarifs des liaisons aériennes de continuité territoriale.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Sortir de l'espace Schengen et rétablir les contrôles aux frontières",
+      "detail": "Avec des accommodements pour les travailleurs frontaliers.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Dénoncer le pacte de Marrakech sur les migrations",
+      "detail": "Pacte de l'ONU de 2018.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Porter à 75 % le taux effectif d'exécution des expulsions",
+      "detail": "Contre moins de 20 % ; sanctions contre les pays d'origine refusant les reconduites.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Organiser un référendum sur le regroupement familial et le droit du sol",
+      "detail": "Avant la fin de 2022.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Se retirer de certains articles de la CEDH",
+      "detail": "Pour retrouver la maîtrise des reconduites et de la lutte antiterroriste ; fin des travailleurs détachés avec la sortie de l'UE.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Augmenter de 20 % les budgets de la police et de la justice",
+      "detail": "Retour d'une police de proximité et exécution effective des peines.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir les peines planchers pour les récidivistes violents",
+      "detail": "Fin de l'aménagement automatique des peines de moins d'un an pour les violences, cambriolages et trafic de stupéfiants.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rendre obligatoire le travail ou la formation en prison",
+      "detail": "Suppression des crédits automatiques de réduction de peine.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer la perpétuité incompressible pour les crimes terroristes",
+      "detail": "Déchéance de nationalité pour les personnes ayant rejoint une entreprise terroriste à l'étranger, par révision constitutionnelle.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter le budget de la défense à 3 % du PIB",
+      "detail": "Refonte du Livre blanc, recentrage sur le spatial, le maritime et le cyber, hausse des soldes.",
+      "nature": "programme",
+      "source_url": "https://upr.fr/notre-programme/programme-2022",
+      "source_date": "2022-02-15"
+    }
+  ],
+  "sources_consultees": [
+    "https://upr.fr/notre-programme/programme-2022",
+    "https://upr.fr/post-img/uploads/2022/10/20220215_Programme-presi-leg-2022.pdf",
+    "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/"
+  ],
+  "notes": "Programme officiel 2022 consulté sur le site de l'UPR (page « Programme 2022 », reprenant le PDF daté du 15/02/2022 : programme présidentiel et législatif). 293 parrainages selon Le Courrier de Guadeloupe (1er avril 2022). Le Courrier cite des seuils de tranches d'impôt (300 000 et 720 000 €) différents du programme officiel (250 000 et 500 000 €) : le programme officiel a été retenu. Sélection de ~80 mesures sur les 27 engagements ; les mesures les plus mineures ont été regroupées.",
+  "verifie_le": "2026-10-12"
+}

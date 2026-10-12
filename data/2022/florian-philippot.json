@@ -1,0 +1,329 @@
+{
+  "slug": "florian-philippot",
+  "nom": "Florian Philippot",
+  "parti": "Les Patriotes",
+  "bord": "souverainiste",
+  "annee": 2022,
+  "statut_candidature": "non_qualifie",
+  "resultat": "non qualifié — candidature retirée le 18 février 2022 faute de parrainages (1 parrainage validé)",
+  "date_declaration": null,
+  "programme": {
+    "statut": "complet",
+    "titre": "Mon projet présidentiel — Libérons la France !",
+    "url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+    "date_publication": "2021-11-20"
+  },
+  "propositions": [
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'Union européenne et de l'euro (Frexit)",
+      "detail": "Présenté comme la condition de tous les changements économiques, sociaux, sociétaux et environnementaux.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger le passe sanitaire et rétablir toutes les libertés suspendues",
+      "detail": "Rétablissement intégral et définitif des libertés suspendues ou conditionnées pour motif sanitaire.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Interdire le confinement dans la Constitution",
+      "detail": "Et sortir des états d'urgence permanents (sanitaire, terroriste).",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "sante",
+      "titre": "Mettre fin au masque obligatoire en population générale et à l'école",
+      "detail": "Mesure du volet « tyrannie sanitaire ».",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire la reconnaissance faciale en population générale",
+      "detail": "Rétablissement du secret médical et vrai droit à l'oubli numérique.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "economie",
+      "titre": "Garantir la pérennité de l'argent liquide",
+      "detail": "Avec la protection de l'épargne.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Transformer le Conseil constitutionnel en assemblée de citoyens tirés au sort",
+      "detail": "Assistés de constitutionnalistes ; même modèle proposé pour le CSA.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer la proportionnelle intégrale à toutes les élections",
+      "detail": "Volet institutions et souveraineté populaire.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Mettre en place un vrai référendum d'initiative citoyenne",
+      "detail": "Et rendre le référendum obligatoire pour modifier la Constitution.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réduire le nombre de parlementaires et sanctionner l'absentéisme",
+      "detail": "Sanction pouvant aller jusqu'à la perte du mandat.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les conseils régionaux et les CESER",
+      "detail": "Et revaloriser le rôle du maire.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "sante",
+      "titre": "Fermer les agences régionales de santé (ARS)",
+      "detail": "Fin de la tarification à l'activité et plan d'investissement massif à l'hôpital et dans la recherche publique.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "sante",
+      "titre": "Réintégrer les soignants suspendus pour refus de vaccination",
+      "detail": "Transparence totale sur les effets secondaires des vaccins contre la Covid-19.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "sante",
+      "titre": "Suspendre la participation de la France à l'OMS",
+      "detail": "Volet santé du projet.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "sante",
+      "titre": "Dissoudre le Conseil de l'ordre des médecins",
+      "detail": "Liberté totale de prescription des médecins libéraux rétablie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Sanctionner lourdement toute censure politique sur internet et les réseaux",
+      "detail": "Visant notamment les GAFAM, au nom d'une liberté d'expression totale.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Réinvestir massivement dans le nucléaire de nouvelle génération",
+      "detail": "Plan de recherche sur l'hydrogène et les biocarburants à base d'algues.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Sortir du marché européen de l'électricité",
+      "detail": "Pour reprendre la main sur les prix de l'énergie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir les monopoles d'EDF et de GDF",
+      "detail": "Fin de la libre concurrence dans l'énergie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Arrêter la construction d'éoliennes sur tout le territoire",
+      "detail": "Volet énergie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Imposer une obligation industrielle de déplastification des emballages",
+      "detail": "Lutte renforcée contre la pollution de l'air, des sols et de l'eau ; fin des traités de libre-échange.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Favoriser le bio et les circuits courts",
+      "detail": "Volet écologie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser au moins une grande banque",
+      "detail": "Pour retirer à la finance sa mainmise sur l'économie réelle ; planification stratégique d'État.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer une fiscalité progressive selon la taille de l'entreprise",
+      "detail": "Les TPE/PME doivent payer moins que les grands groupes ; lutte totale contre l'évasion fiscale.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser immédiatement la fiscalité sur les carburants, le gaz et l'électricité",
+      "detail": "Et augmenter les salaires et les retraites par la relance permise par le Frexit.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "social",
+      "titre": "Faire de la protection animale une grande cause nationale",
+      "detail": "Volet protection animale.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre l'uniforme obligatoire à l'école",
+      "detail": "École de la transmission des savoirs fondamentaux, cours de morale, interdiction de l'écriture inclusive.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "education",
+      "titre": "Mettre un coup d'arrêt au tout-numérique dans l'apprentissage",
+      "detail": "Notamment pour une parfaite maîtrise de l'écriture manuscrite.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rendre inéligibles à vie les élus condamnés pour corruption",
+      "detail": "Alourdissement des peines et interdiction du pantouflage entre haute fonction publique et grands groupes.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Mettre fin au regroupement familial en sortant de la CEDH",
+      "detail": "Arrêt des flux d'immigration massive.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Sortir de l'espace Schengen et rétablir la maîtrise des frontières",
+      "detail": "Pression accrue sur les pays refusant de reprendre leurs ressortissants sous OQTF.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Exécuter systématiquement les peines",
+      "detail": "Et amplifier la lutte contre le trafic de drogues.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir de l'OTAN et refuser toute armée européenne",
+      "detail": "Refus de tout partage du siège permanent de la France au Conseil de sécurité.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Nouer des partenariats stratégiques avec toutes les puissances, dont la Russie",
+      "detail": "Valorisation de l'espace maritime français et de la Francophonie.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "defense",
+      "titre": "Doubler le budget de la défense en cinq ans",
+      "detail": "Construction de deux porte-avions nucléaires.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "defense",
+      "titre": "Abandonner le SCAF et le MGCS au profit de programmes 100 % français",
+      "detail": "Avion de combat et char lourd du futur nationaux ; consolidation de l'industrie militaire, si besoin par nationalisation.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Doubler le budget du spatial et lancer un programme spatial national",
+      "detail": "Retour sur la Lune, conquête de Mars et des autres corps du système solaire.",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer une grande École française d'architecture",
+      "detail": "Et un plan de sauvetage du patrimoine matériel et naturel (volet « Embellir la France »).",
+      "nature": "programme",
+      "source_url": "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+      "source_date": "2021-11-20"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.politique-animaux.fr/sites/www.politique-animaux.fr/fichiers/prises-de-positions/pieces-jointes/programme2022.pdf",
+    "https://www.dhnet.be/actu/monde/election-presidentielle-en-france-florian-philippot-figure-des-antipass-jette-l-eponge-620fbc1bd8ad586d3071ab20",
+    "https://les-patriotes.fr/"
+  ],
+  "notes": "Document programme officiel (dépliant de 8 pages « Libérons la France », avec coupon d'adhésion aux Patriotes) retrouvé hébergé par politique-animaux.fr ; la date retenue est celle des métadonnées du PDF (20/11/2021). Le site les-patriotes.fr ne propose plus ce programme. Candidature annoncée en juillet 2021 (date exacte non vérifiée) et retirée le 18/02/2022 avec un seul parrainage validé (AFP via La DH).",
+  "verifie_le": "2026-10-12"
+}

@@ -283,6 +283,30 @@
       "nature": "livre",
       "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
       "source_date": "2026-09-02"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Bâtir une Europe à plusieurs vitesses autour d'un noyau de 6 à 8 États",
+      "detail": "Selon le livre « Unir », 6 à 8 États membres avanceraient ensemble sur les industries d'avenir, le numérique, l'IA et la défense.",
+      "nature": "livre",
+      "source_url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Supprimer ponctuellement la TVA sur les carburants",
+      "detail": "Selon l'AFP, il propose de supprimer la TVA réduite à 5,5 % (alimentation, travaux énergétiques) « et de faire de même, mais de façon ponctuelle, pour les carburants » ; portée exacte de la mesure à confirmer dans le livre.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Recentrer le président sur l'essentiel et laisser gouverner le Premier ministre",
+      "detail": "Le Premier ministre conduirait l'action quotidienne du gouvernement avec l'Assemblée nationale, le président se concentrant sur les questions essentielles (source unique : Libre Journal).",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
     }
   ],
   "sources_consultees": [
@@ -297,8 +321,12 @@
     "https://actu.orange.fr/politique/retraite-a-63-ans-hausse-de-la-tva-immigration-francois-hollande-trace-sa-feuille-de-route-en-vue-de-la-presidentielle-magic-CNT000002rGYQq.html",
     "https://www.titrespresse.com/20039922603/francois-hollande-unir",
     "https://www.contexte.com/fr/actualite/pouvoirs/comment-francois-hollande-veut-revoir-le-fonctionnement-des-institutions-francaises_276591",
-    "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says"
+    "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
+    "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+    "https://www.lagazettefrance.fr/article/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusqu-au-centre",
+    "https://www.titrespresse.com/19937932603/francois-hollande-unir",
+    "https://www.titrespresse.com/19928212603/francois-hollande-ufrancois"
   ],
-  "notes": "Député PS de Corrèze, non candidat officiel : il ne participe pas à la primaire du PS (remportée par Raphaël Glucksmann selon des titres de presse d'octobre 2026, non vérifié en détail) et annoncera sa décision en décembre 2026 ; le 28/09/2026 (Reuters/la Repubblica) il dit qu'il ne se présentera que s'il voit une réelle chance de gagner. Le livre 'Unir. Nouveau monde, nouvelle gauche' (Robert Laffont, 3/09/2026, 304 p.) contiendrait 80 à près de 100 propositions selon les médias (88 selon Politis) ; le texte du livre n'a pas été consulté, les propositions sont reprises de la presse. Divergence sur la TVA réduite : Public Sénat parle d'un passage de 5,5 % à 0 % sur alimentation et travaux énergétiques, Sud Radio/AFP d'une 'suppression du taux réduit'. Plusieurs mesures (école, famille, compte carbone, immigration détaillée, déficit 3 %) ne sont attestées que par un article de Libre Journal (commentaire), à recouper. Aucune source consultée ne détaille ses positions sur le nucléaire, l'Ukraine ou les institutions nationales (Contexte annonce un volet institutionnel, réservé aux abonnés). Pas de page officielle de programme trouvée ; l'URL de programme renvoie à l'article franceinfo.",
+  "notes": "Député PS de Corrèze, non candidat officiel : il ne participe pas à la primaire du PS (remportée par Raphaël Glucksmann selon des titres de presse d'octobre 2026, non vérifié en détail) et annoncera sa décision en décembre 2026 ; le 28/09/2026 (Reuters/la Repubblica) il dit qu'il ne se présentera que s'il voit une réelle chance de gagner. Le livre 'Unir. Nouveau monde, nouvelle gauche' (Robert Laffont, 3/09/2026, 304 p.) contiendrait 80 à près de 100 propositions selon les médias (88 selon Politis) ; le texte du livre n'a pas été consulté, les propositions sont reprises de la presse. Divergence sur la TVA réduite : Public Sénat parle d'un passage de 5,5 % à 0 % sur alimentation et travaux énergétiques, Sud Radio/AFP d'une 'suppression du taux réduit'. Plusieurs mesures (école, famille, compte carbone, immigration détaillée, déficit 3 %) ne sont attestées que par un article de Libre Journal (commentaire), à recouper. Aucune source consultée ne détaille ses positions sur le nucléaire, l'Ukraine ou les institutions nationales (Contexte annonce un volet institutionnel, réservé aux abonnés). Pas de page officielle de programme trouvée ; l'URL de programme renvoie à l'article franceinfo. Passe 2 (12/10/2026) : recoupement des mesures. Libre Journal est une tribune de l'éditorialiste Valérie Lecasble (2/09/2026, veille de la parution) qui résume le livre. Recoupées par l'AFP / Euronews / Le Singulier : retraite à 63 ans, capitalisation, pensions à 1 %, TVA 20→24 %, cotisations salariales, patrimoines > 10 M€, 30 % de salariés dans les CA, chèque de 10 000 € « entrée dans la vie » pour le service civique (le chiffre de 300 000 jeunes et le permis gratuit ne reposent que sur Libre Journal). Recoupées par Politis : quotas d'immigration de travail, regroupement familial. Toujours attestées par Libre Journal seul (aucun autre compte rendu détaillé accessible : RMC, Le Dauphiné, L'Express/6Médias ne donnent que les grandes lignes ; RMC confirme seulement que le livre « multiplie les propositions » sur les salaires, les prisons et l'immigration) : mesures école (effectifs, classes de remise à niveau, répétiteur IA, Erasmus du secondaire, travail manuel), allocations dès le 1er enfant, congé parental obligatoire des pères, compte carbone, voiture électrique populaire, déficit à 3 %, OQTF/asile, apprentissage du français, prisons/narcotrafic, loi pluralisme, priorité défense européenne, rôle du président. Ajouts : Europe à plusieurs vitesses (Euronews), TVA ponctuelle sur les carburants (AFP), rôle du Premier ministre (Libre Journal). Statut inchangé (« pressenti ») : décision annoncée pour décembre 2026, non-participation à la primaire remportée par Glucksmann le 11/10/2026.",
   "verifie_le": "2026-10-12"
 }

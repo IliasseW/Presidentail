@@ -1,0 +1,129 @@
+{
+  "slug": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "parti": "Révolution permanente",
+  "bord": "extreme-gauche",
+  "annee": 2022,
+  "statut_candidature": "non_qualifie",
+  "resultat": "non qualifié — parrainages insuffisants (160 parrainages)",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "Programme « Anasse Kazib 2022 »",
+    "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+    "date_publication": "2021-11-19"
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 800 euros net",
+      "detail": "Mesure phare du programme « Anasse Kazib 2022 ».",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter tous les salaires de 300 euros",
+      "detail": "Hausse uniforme de 300 € pour tous les salariés.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "economie",
+      "titre": "Exproprier les secteurs stratégiques de l'économie",
+      "detail": "Au service des besoins de la société et d'une réelle transition écologique.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger le passe sanitaire",
+      "detail": "Mesure citée parmi les principales du programme.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abroger les lois « séparatisme » et « sécurité globale »",
+      "detail": "Ainsi que la loi sur la responsabilité pénale et l'interdiction du port du voile, selon Le Courrier de Guadeloupe.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser tous les sans-papiers",
+      "detail": "Avec l'arrêt des expulsions et la défense du droit au regroupement familial.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+      "source_date": "2021-11-19"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Accorder le droit de vote à tous les immigrés à toutes les élections",
+      "detail": "Présentée parmi les « idées originales » de la candidature.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements",
+      "detail": "Mesure phare relevée par la presse.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Transformer les CDD et contrats d'intérim en CDI",
+      "detail": "Avec une réduction du temps de travail.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Dissoudre les BAC, BRAV et CRS",
+      "detail": "Et supprimer les armes dites non létales utilisées contre les manifestants.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer une assemblée unique d'élus révocables payés au salaire médian",
+      "detail": "Élus pour deux ans au suffrage universel direct, avec droit de vote dès 16 ans.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Reconnaître le droit à l'autodétermination des territoires « colonisés »",
+      "detail": "Guadeloupe, Kanaky, Guyane, La Réunion, Martinique, Polynésie, ainsi que Pays basque, Bretagne et Corse, avec droit à réparation.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    },
+    {
+      "theme": "societe",
+      "titre": "Garantir l'autodétermination des personnes trans et la gratuité des transitions",
+      "detail": "Dépsychiatrisation et libre accès gratuit aux soins nécessaires aux parcours de transition.",
+      "nature": "programme",
+      "source_url": "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+      "source_date": "2022-04-01"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.revolutionpermanente.fr/Anasse-Kazib-2022-decouvrez-le-programme-de-la-campagne",
+    "https://lecourrierdeguadeloupe.com/les-idees-des-5-non-qualifies/",
+    "https://www.revolutionpermanente.fr/spip.php?page=recherche&recherche=programme+Anasse+Kazib+2022"
+  ],
+  "notes": "Le programme complet était téléchargeable sur anassekazib.fr (site hors ligne ; web.archive.org inaccessible depuis l'environnement de travail) : seules les mesures citées dans l'article de présentation de Révolution permanente (19/11/2021) et dans le récapitulatif du Courrier de Guadeloupe (01/04/2022) ont été retenues. Le programme est présenté par RP comme une série d'« objectifs transitoires » pour les luttes autant que pour l'élection. 160 parrainages selon Le Courrier de Guadeloupe.",
+  "verifie_le": "2026-10-12"
+}

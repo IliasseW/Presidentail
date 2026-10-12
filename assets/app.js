@@ -34,7 +34,11 @@ const fmtDate = (iso) => {
   const d = new Date(iso + (iso.length === 10 ? "T00:00:00" : ""));
   return isNaN(d) ? iso : d.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
 };
-const label = (c) => (c.annee === 2027 ? c.nom : `${c.nom} (${c.annee})`);
+// L'année n'est affichée que pour 2022, ou quand le même candidat est sélectionné pour deux années.
+const label = (c) => {
+  const twice = state.selected.filter((k) => k.startsWith(`${c.slug}@`)).length > 1;
+  return c.annee === 2027 && !twice ? c.nom : `${c.nom} (${c.annee})`;
+};
 
 function highlight(text) {
   const safe = esc(text);
@@ -114,6 +118,8 @@ function renderCards() {
         <dt>Programme</dt><dd>${programmeLine(c)}</dd>
         <dt>Propositions</dt><dd>${c.propositions.length}</dd>
       </dl>
+      ${c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`) && !state.selected.includes(`${c.slug}@2022`)
+        ? `<button type="button" class="btn btn-ghost btn-small" data-toggle="${esc(c.slug)}@2022">Comparer avec son programme 2022</button>` : ""}
       ${c.notes ? `<details><summary>Notes et incertitudes</summary><p>${esc(c.notes)}</p></details>` : ""}
     </article>`;
   }).join("");

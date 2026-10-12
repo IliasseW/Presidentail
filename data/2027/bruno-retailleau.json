@@ -547,6 +547,94 @@
       "nature": "declaration",
       "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
       "source_date": "2026-08-31"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Supprimer le juge d'application des peines",
+      "detail": "Annoncé lors de son premier grand meeting au Parc floral de Paris.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
+      "source_date": "2026-06-20"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Imposer la castration chimique aux pédocriminels, sans leur consentement",
+      "detail": "Annoncé lors du meeting du Parc floral.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
+      "source_date": "2026-06-20"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une cour disciplinaire pour les magistrats",
+      "detail": "Annoncé lors du meeting du Parc floral.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
+      "source_date": "2026-06-20"
+    },
+    {
+      "theme": "defense",
+      "titre": "Atteindre l'objectif OTAN de 3,5 % du PIB consacré à la défense",
+      "detail": "Au Sénat, lors de l'actualisation de la LPM : il veut lisser l'effort, faute de quoi la marche après 2030 serait trop haute, et le financer par « des économies » et de la richesse nouvelle, pas par l'impôt.",
+      "nature": "declaration",
+      "source_url": "https://www.senat.fr/seances/s202606/s20260602/s20260602021.html",
+      "source_date": "2026-06-02"
+    },
+    {
+      "theme": "defense",
+      "titre": "Multiplier par cinq les moyens consacrés à l'IA de défense",
+      "detail": "Effort centré sur cybersécurité, drones et systèmes autonomes, robotisation et calcul quantique ; financement par la BPI, la Caisse des dépôts, des partenariats public-privé et l'épargne longue.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Commander en priorité aux entreprises françaises et européennes l'IA de défense",
+      "detail": "Cyberdéfense, cryptographie, planification militaire, drones, robotique, renseignement, navigation autonome, technologies quantiques.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Refuser tout désarmement unilatéral sur les systèmes d'armes autonomes, y compris létaux",
+      "detail": "Lignes rouges fixées selon les intérêts vitaux et la doctrine stratégique ; pour la dissuasion, les considérations éthiques « ne valent que si elles sont réciproques ».",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Lancer un « plan Vauban numérique » de cybersécurité piloté par l'ANSSI",
+      "detail": "Bascule des hébergements sensibles vers le cloud souverain, stress tests réguliers des ministères et réseaux vitaux, renforcement de l'ANSSI, de l'AMIAD et de VIGINUM.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Héberger en Europe les données sensibles de l'État et de santé (SecNumCloud)",
+      "detail": "Hors d'atteinte des lois extraterritoriales ; création d'espaces de partage de données français et européens.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Développer des IA médicales françaises entraînées sur les données de santé nationales",
+      "detail": "Objectif affiché : rendre du temps de soin (« l'infirmière récupère deux heures de soin par jour ») ; IA pour les comptes rendus et courriers hospitaliers.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Transférer la santé scolaire aux départements",
+      "detail": "Pour bâtir un « bloc de compétences autour de la santé de l'enfant » ; volet d'une nouvelle étape de décentralisation de l'éducation.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
     }
   ],
   "sources_consultees": [
@@ -570,8 +658,13 @@
     "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
     "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
     "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
-    "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable"
+    "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
+    "https://www.senat.fr/seances/s202606/s20260602/s20260602021.html",
+    "https://lcp.fr/actualites/une-premiere-etape-en-quete-d-une-dynamique-a-droite-bruno-retailleau-en-meeting-a-paris",
+    "https://www.franceinfo.fr/replay-radio/le-brief-politique/bruno-retailleau-trace-sa-route-vers-2027_7963319.html",
+    "https://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/presidence-de-lr-les-deux-ordonnances-en-sante-de-bruno-retailleau-et-laurent-wauquiez"
   ],
-  "notes": "Candidature annoncée le 12 février 2026 (Public Sénat), confirmée par les adhérents LR le 19 avril 2026 (73,4 % pour la désignation directe, franceinfo). Pas de programme unique publié : LR publie depuis janvier 2026 une série de livrets thématiques (travail/pouvoir d'achat janv., Produire plus fév., agriculture mars, électricité/famille/logement mai-juin, IA juil., école sept.) sur republicains.fr/nos-propositions ; dates exactes de mise en ligne non indiquées (source_date null). Les livrets sont présentés comme propositions du parti présidé par B. Retailleau. Thèmes encore peu documentés par des sources fiables : santé, défense, Europe hors commerce/énergie, finances publiques globales (chiffrages de 50 ou 100 Md€ d'économies vus uniquement sur des agrégateurs, non retenus). Le plan anti-trafics (Nanterre, 23/04/2026) est sourcé par un média local (defense-92.fr). Recherche web interrompue par l'épuisement du quota de recherches : certaines propositions récentes peuvent manquer.",
+  "notes": "Candidature annoncée le 12 février 2026 (Public Sénat), confirmée par les adhérents LR le 19 avril 2026 (73,4 % pour la désignation directe, franceinfo). Pas de programme unique publié : LR publie depuis janvier 2026 une série de livrets thématiques (travail/pouvoir d'achat janv., Produire plus fév., agriculture mars, électricité/famille/logement mai-juin, IA juil., école sept.) sur republicains.fr/nos-propositions ; dates exactes de mise en ligne non indiquées (source_date null). Les livrets sont présentés comme propositions du parti présidé par B. Retailleau. Passe 2 (12/10/2026) : ajouts sur la justice (meeting du Parc floral, 20/06/2026, Public Sénat), la défense (intervention au Sénat du 02/06/2026 sur l'actualisation de la LPM ; volet défense du livret IA) et la santé (livrets IA et École). La santé reste très peu couverte : aucun livret santé publié au 12/10/2026, alors que le livret Famille renvoie à « notre programme santé » à venir. Ses positions sénatoriales sur la 4e année de médecine générale en zones sous-dotées, la « débureaucratisation » de l'hôpital et la transformation de l'AME en aide médicale d'urgence ne sont pas retenues faute de source accessible postérieure à 2025 (article du Quotidien du médecin de mai 2025 sous paywall). Pas de position trouvée sur la dissuasion nucléaire, l'Ukraine ou l'OTAN au-delà de l'objectif de 3,5 %. LCP (20/06/2026) annonçait un projet « davantage détaillé à l'automne » et un livre à la rentrée, introuvable à ce jour. Thèmes encore peu documentés : Europe hors commerce/énergie, finances publiques globales (chiffrages de 50 ou 100 Md€ d'économies vus uniquement sur des agrégateurs, non retenus). Le plan anti-trafics (Nanterre, 23/04/2026) est sourcé par un média local (defense-92.fr). Recherche web interrompue par l'épuisement du quota de recherches : certaines propositions récentes peuvent manquer.",
   "verifie_le": "2026-10-12"
 }

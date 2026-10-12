@@ -1,0 +1,884 @@
+{
+  "slug": "fabien-roussel",
+  "nom": "Fabien Roussel",
+  "parti": "Parti communiste français (PCF)",
+  "bord": "gauche-radicale",
+  "annee": 2022,
+  "statut_candidature": "candidat",
+  "date_declaration": "2020-11-26",
+  "resultat": "1er tour : 2,28 % (8e)",
+  "programme": {
+    "statut": "complet",
+    "titre": "La France des jours heureux – Projet pour un pacte social, écologique, républicain",
+    "url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+    "date_publication": "2022-01-24"
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 500 euros nets par mois",
+      "detail": "Soit 1 923 euros brut ; aucun minimum de branche inférieur au SMIC, conférence tripartite pour une hausse générale des salaires (proposition 1).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter de 30 % le point d'indice des fonctionnaires",
+      "detail": "Pour rattraper onze ans de gel (proposition 28).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Abaisser la TVA sur l'électricité et le gaz à 5,5 %",
+      "detail": "Baisse immédiate des taxes sur l'énergie, suppression des « taxes sur les taxes » (proposition 58).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le chèque énergie à 700 euros minimum par an",
+      "detail": "Avec interdiction des coupures d'énergie pour les ménages en précarité énergétique (proposition 58).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Réduire la TVA et la taxe sur les carburants (TICPE)",
+      "detail": "Impôts indirects jugés injustes car pesant sur la consommation populaire (proposition 125).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Interdire expulsions et coupures d'eau ou d'énergie pour les ménages en difficulté",
+      "detail": "Proposition 98.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir la retraite à 60 ans à taux plein",
+      "detail": "Pension égale à 75 % du revenu net d'activité, calculée sur les dix meilleures années dans le privé (proposition 8).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Fixer la pension minimale à 1 200 euros nets",
+      "detail": "Et rétablir la demi-part fiscale des veuves et des veufs (proposition 1).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Passer à la semaine de 32 heures sans perte de salaire",
+      "detail": "Proposition 9.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger la loi El Khomri, les ordonnances Macron et la réforme de l'assurance chômage",
+      "detail": "Rétablir CE et CHSCT, primauté de l'accord de branche sur l'accord d'entreprise (proposition 2).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Suspendre tous les plans sociaux et licenciements en cours",
+      "detail": "Moratoire pour examiner la situation réelle des entreprises et annuler les licenciements, notamment en cas de dividendes (proposition 3).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Donner aux salariés un droit de veto suspensif sur les restructurations",
+      "detail": "Droits décisionnels nouveaux et droit de préemption pour reprendre l'entreprise en coopérative (proposition 4).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Instaurer une sécurité d'emploi ou de formation",
+      "detail": "Loi garantissant à chacun d'être en emploi ou en formation avec maintien du revenu, et visant l'éradication du chômage (proposition 6).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Fusionner Pôle emploi, Cap emploi et missions locales en un service public unifié",
+      "detail": "Service public de l'emploi et de la formation ; compte personnel de formation relevé et déplafonné (proposition 7).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Donner un statut et des droits sociaux aux travailleurs des plateformes",
+      "detail": "Et aux auto-entrepreneurs ; droit de regard sur le « management algorithmique » (proposition 10).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer 500 000 emplois dans la fonction publique et les services publics",
+      "detail": "Dont 90 000 enseignants, 90 000 AESH, 30 000 agents des impôts, 30 000 policiers de proximité ; fin de la précarisation (propositions 29 et 30).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Réaliser l'égalité salariale femmes-hommes en un an",
+      "detail": "Six mois dans la fonction publique, un an dans les entreprises sous peine d'administrateur judiciaire (proposition 76).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser BNP Paribas, la Société générale et Axa",
+      "detail": "Constitution d'un pôle financier public avec la Caisse des dépôts, la Banque postale et BPI France (proposition 116).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser des groupes stratégiques",
+      "detail": "Pour disposer de pôles publics dans les grandes filières industrielles et de services (proposition 115).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Renationaliser EDF et Engie dans un pôle public de l'énergie incluant TotalEnergies",
+      "detail": "Pôle regroupant les grandes entreprises de l'énergie et le CEA (proposition 56).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Engager la réappropriation publique de la SNCF, de La Poste et de France Télécom",
+      "detail": "Avec EDF et Engie ; remise en cause des directives européennes de mise en concurrence (proposition 25).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser les autoroutes",
+      "detail": "Prévu dans le plan d'investissement pour les transports (proposition 48).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un impôt sur les sociétés progressif et modulé",
+      "detail": "Plus élevé pour les groupes qui délocalisent, suppriment des emplois ou polluent ; contribution exceptionnelle sur les profits des grands groupes (proposition 121).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer le CICE et les exonérations sans effet sur l'emploi",
+      "detail": "Remplacer le crédit d'impôt recherche par un crédit bonifié (proposition 122).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir et tripler l'impôt sur la fortune",
+      "detail": "Taux et progressivité accentués, suppression des niches, abolition du prélèvement forfaitaire unique (proposition 127).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Porter l'impôt sur le revenu à 15 tranches",
+      "detail": "Avec une disparition progressive de la CSG (proposition 126).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Doubler le nombre de tranches des droits de succession",
+      "detail": "Progressivité selon la valeur transmise et les ressources de l'héritier, franchise de 170 000 euros (proposition 128).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un impôt local sur le capital des entreprises",
+      "detail": "Sorte de nouvelle taxe professionnelle à barème progressif sur les actifs (proposition 123).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Moduler les cotisations patronales selon l'emploi et les salaires",
+      "detail": "Retour au financement de la Sécurité sociale par la cotisation (proposition 124).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer des crédits bonifiés pour les PME qui embauchent et forment",
+      "detail": "Dispositif doté de 20 milliards d'euros (proposition 118).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Doter la Caisse des dépôts d'un fonds de 250 milliards pour les services publics",
+      "detail": "Fonds de développement économique, social et écologique (proposition 120).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Conditionner les aides publiques aux entreprises à l'embauche de jeunes en CDI",
+      "detail": "10 % des nouvelles embauches réservées aux moins de 25 ans dans les moyennes et grandes entreprises (proposition 41).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Adopter une loi de programmation pour la réindustrialisation",
+      "detail": "Loi d'orientation et de programmation pour une nouvelle industrialisation (proposition 61).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Recruter massivement contre la fraude fiscale",
+      "detail": "30 000 agents des impôts recrutés ; renforcement des Douanes et de la DGCCRF (proposition 129 et volet emplois publics).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Abandonner la règle des 3 % de déficit et le pacte de stabilité",
+      "detail": "Et engager une rupture avec les traités européens actuels (proposition 154).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Refuser de faire payer aux peuples la dette Covid",
+      "detail": "Convocation d'une conférence européenne sur la dette (proposition 156).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Mettre fin au recours aux cabinets de conseil privés",
+      "detail": "Proposition 32.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer 100 000 emplois à l'hôpital public",
+      "detail": "Titularisation des contractuels, arrêt des privatisations et des restructurations (proposition 14).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer franchises médicales et dépassements d'honoraires",
+      "detail": "Tiers payant généralisé et retour à un secteur conventionnel unique (proposition 13).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Réguler l'installation des médecins dans les zones denses",
+      "detail": "Conventionnement sélectif ; 12 000 places par an en études de médecine contre 8 000 (proposition 13).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer 300 000 emplois en Ehpad et 100 000 aides à domicile",
+      "detail": "Service public du grand âge, ratio d'un soignant par résident, Ehpad privés sous tutelle (proposition 16).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Taxer 2 % des dividendes pour financer le grand âge",
+      "detail": "Contribution solidarité des actionnaires (environ 2 milliards d'euros) (proposition 16).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer un pôle public du médicament",
+      "detail": "Proposition 17.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Adopter une loi-cadre pour la psychiatrie",
+      "detail": "Moratoire sur la fermeture des CMP et CMPP (proposition 15).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Faire élire les administrateurs de la Sécurité sociale par les cotisants",
+      "detail": "Proposition 12.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Recruter 90 000 enseignants",
+      "detail": "Avec une formation renforcée (proposition 20).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Plafonner les classes à 20 élèves en primaire et 25 dans le secondaire",
+      "detail": "15 en toute petite section, 12 en éducation prioritaire (proposition 21).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup et la sélection à l'université",
+      "detail": "Abroger les réformes du lycée et du bac, rétablir des épreuves nationales (proposition 33).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Verser un revenu étudiant de 850 euros par mois",
+      "detail": "Financé pour moitié par une cotisation sociale et pour moitié par l'État (proposition 37).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Ouvrir le RSA aux moins de 25 ans",
+      "detail": "Proposition 42.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Généraliser le repas à un euro dans les cantines scolaires",
+      "detail": "Fonds alimentaire national de 10 milliards d'euros, produits bio et locaux (proposition 106).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre gratuits transports urbains, TER et permis pour les moins de 25 ans",
+      "detail": "Proposition 44.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Rémunérer les alternants au minimum au SMIC",
+      "detail": "Proposition 36.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir le bac professionnel en quatre ans",
+      "detail": "Proposition 35.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Faire du harcèlement scolaire une grande cause nationale",
+      "detail": "Y compris le cyber-harcèlement (proposition 105).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Consacrer 140 milliards d'euros par an au climat",
+      "detail": "Politique conforme aux recommandations du Giec, financée par un fonds écologique et social (proposition 47).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Construire au moins six EPR supplémentaires",
+      "detail": "Mix électrique 100 % public et 100 % décarboné associant nucléaire et renouvelables, surtout l'hydraulique (proposition 55).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rendre gratuits les transports collectifs urbains",
+      "detail": "Financés par une hausse du versement transport des grandes entreprises (proposition 50).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rouvrir les petites lignes ferroviaires",
+      "detail": "Et refondre la tarification sociale des transports (proposition 49).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Faire du fret ferroviaire et fluvial un axe stratégique",
+      "detail": "Proposition 51.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rénover 700 000 logements par an avec 10 milliards d'euros",
+      "detail": "Obligation de rénovation des passoires thermiques d'ici 2030 sans reste à charge pour les plus modestes (propositions 53 et 55).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Lutter contre la déforestation importée",
+      "detail": "Ne plus importer de produits responsables de la déforestation tropicale (proposition 70).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Proposer un traité mondial de protection des océans",
+      "detail": "Ainsi qu'un grand ministère de la Mer (propositions 66 et 68).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Investir massivement dans un service public de l'eau",
+      "detail": "Proposition 54.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Garantir des prix de base rémunérateurs aux paysans",
+      "detail": "Loi d'orientation agricole ; doublement de la dotation d'installation des jeunes agriculteurs (proposition 62).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Sortir l'agriculture des accords de libre-échange et de l'OMC",
+      "detail": "Proposition 64.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Revoir le plan stratégique national de la PAC",
+      "detail": "Proposition 63.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Limiter les installations industrielles d'élevage",
+      "detail": "Type « ferme des mille vaches » (proposition 73).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 200 000 logements sociaux par an",
+      "detail": "Viser 30 % de logements sociaux en zone urbaine (proposition 99).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Encadrer les loyers à 20 % des revenus du foyer",
+      "detail": "Quittance plafonnée à 20 % des revenus (proposition 99).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abroger la loi Elan et interdire la vente de logements sociaux",
+      "detail": "Renforcer les sanctions contre les communes ne respectant pas les 25 % de logements sociaux (proposition 97).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer un service public national du logement",
+      "detail": "Avec trois pôles publics : financier, construction, foncier (proposition 100).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un ministère des Droits des femmes doté d'un milliard d'euros",
+      "detail": "Contre les violences faites aux femmes (proposition 75).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Déconjugaliser l'AAH",
+      "detail": "Et créer un revenu d'existence pour les personnes qui ne peuvent travailler (proposition 93).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Rendre gratuites les protections hygiéniques",
+      "detail": "Distributeurs dans tous les lieux publics (proposition 79).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Interdire les sorties sèches de l'aide sociale à l'enfance",
+      "detail": "Garantie jeune automatique jusqu'à 21 ans (proposition 101).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer 100 000 emplois associatifs d'utilité publique",
+      "detail": "Et porter à 75 % le crédit d'impôt sur les dons (propositions 107 et 108).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Inscrire le droit à l'IVG dans la Constitution",
+      "detail": "Contraception libre et gratuite (proposition 77).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Juger les crimes sexistes et sexuels en cour d'assises",
+      "detail": "Proposition 84.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Rembourser intégralement le parcours de transition des personnes trans",
+      "detail": "Et mettre fin aux mutilations sur les personnes intersexes (proposition 92).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Créer un Observatoire indépendant de la laïcité",
+      "detail": "Réaffirmation de l'engagement laïque de la République (proposition 145).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recruter 30 000 policiers de proximité",
+      "detail": "Sous statut de fonctionnaire (objectif 2, emplois publics).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Refonder l'organisation et les missions de la police",
+      "detail": "Proposition 141.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer un récépissé contre les contrôles au faciès",
+      "detail": "Et sanctionner les violences racistes dans la police (proposition 88).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Lancer un grand plan de sauvetage de la justice",
+      "detail": "Proposition 142 ; 25 000 magistrats, éducateurs et éducatrices pour la justice et les mineurs.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abroger la loi « Sécurité globale »",
+      "detail": "Et les autres lois jugées liberticides du quinquennat (proposition 140).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs sans papiers",
+      "detail": "Interdire les tests osseux pour les mineurs non accompagnés (proposition 89).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Ouvrir des voies légales et sécurisées de migration",
+      "detail": "Proposition 162.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer l'élection du président de la République au suffrage universel",
+      "detail": "Président limité à un rôle de représentation, gouvernement investi par l'Assemblée ; abrogation des articles 49.3 et 40 (proposition 132).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Élire l'Assemblée nationale à la proportionnelle intégrale",
+      "detail": "Parité dans toutes les institutions élues et statut de l'élu (proposition 133).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Permettre un référendum d'initiative citoyenne à un million de signatures",
+      "detail": "Et l'inscription d'une proposition de loi à l'ordre du jour par pétition de 500 000 citoyens (proposition 134).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rétablir la clause de compétence générale des départements et régions",
+      "detail": "Abroger les lois NOTRe et MAPTAM et abandonner la loi 3DS (propositions 137 et 138).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Placer la BCE sous contrôle démocratique",
+      "detail": "Fin de l'indépendance de la Banque centrale européenne (proposition 157).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Proposer un pacte européen de 900 milliards d'euros par an pour le climat",
+      "detail": "6 % du PIB des pays européens (proposition 155).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Dénoncer les traités de libre-échange",
+      "detail": "Proposition 171.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Porter l'aide publique au développement à 0,7 % du RNB",
+      "detail": "Proposition 169.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Lever les brevets sur les vaccins",
+      "detail": "Priorité dès les premières semaines du mandat (proposition 153).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Quitter l'OTAN et demander sa dissolution",
+      "detail": "Construire un cadre européen de sécurité collective (proposition 167).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Signer le traité d'interdiction des armes nucléaires (TIAN)",
+      "detail": "Tout en conservant la dissuasion jusqu'à un désarmement multilatéral (propositions 166 et 177).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Retirer les forces armées françaises du Sahel",
+      "detail": "Proposition 168.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Créer un pôle public des industries d'armement",
+      "detail": "Et stopper les exportations « toxiques » (proposition 178).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer un ministère de la Culture, de l'Éducation populaire et des Médias",
+      "detail": "Proposition 111.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Adopter une loi contre la concentration des médias",
+      "detail": "Et créer un Conseil national des médias (propositions 151 et 152).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Lancer un plan de recrutement dans la recherche publique",
+      "detail": "À la place des exonérations fiscales et des appels à projets (proposition 26).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir un bouquet de services publics de proximité",
+      "detail": "Contrôle des élus sur l'aménagement du territoire (proposition 23).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Présenter une loi de programmation pour les Outre-mer",
+      "detail": "Rattrapage des retards en services publics et développement économique (proposition 147).",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Réformer l'octroi de mer et la fiscalité ultramarine",
+      "detail": "Proposition 148.",
+      "nature": "programme",
+      "source_url": "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+      "source_date": "2022-01-24"
+    }
+  ],
+  "sources_consultees": [
+    "https://xn--ambitionsant2022-mqb.fhf.fr/medias/exe-la-france-des-jours-heureux-livre-stc-compressed-6232177c5af32228446743.pdf",
+    "https://www.macommune.info/wp-content/uploads/2022/04/candidat-11-fabien-roussel-declaration-accessible.pdf",
+    "https://reporterre.net/Le-communiste-Fabien-Roussel-presente-un-programme-fort-en-nucleaire",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-fabien-roussel-presente-180-propositions-pour-une-france-des-jours",
+    "https://www.publicsenat.fr/actualites/politique/emploi-retrouvez-les-principales-propositions-des-candidats-a-la-presidentielle",
+    "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022"
+  ],
+  "notes": "Programme complet de 180 propositions (6 objectifs, 3 moyens), consulté dans sa version PDF intégrale hébergée par le site « Ambitions santé 2022 » de la Fédération hospitalière de France ; le site de campagne fabienroussel2022.fr redirige désormais vers fabienroussel2027.fr et web.archive.org n'était pas accessible. Le numéro de chaque proposition est indiqué dans le champ detail. Une centaine de mesures retenues. Date de présentation du programme (24 janvier 2022) d'après Reporterre ; candidature annoncée le 26 novembre 2020 et désignation par le vote des adhérents du PCF en mai 2021. Résultat (Wikipédia) : 802 422 voix, 2,28 %, 8e.",
+  "verifie_le": "2026-10-12"
+}

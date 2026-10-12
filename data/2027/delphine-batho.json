@@ -43,6 +43,86 @@
       "nature": "declaration",
       "source_url": "https://www.generationecologie.fr/2026/08/15/reaction-de-generation-ecologie-a-la-decision-du-conseil-constitutionnel-sur-la-loi-duplomb-2/",
       "source_date": "2026-08-15"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Diviser par deux la consommation d'énergie",
+      "detail": "Batho plaide pour la « décroissance de la consommation d'énergie et de matières premières » : « Il n'y a aucun scénario de neutralité carbone qui ne commence par diviser par deux la consommation d'énergie. »",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/06/22/quelle-politique-energetique-pour-la-france/",
+      "source_date": "2026-06-22"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Développer l'autoconsommation collective et les boucles locales d'énergie",
+      "detail": "Priorités énoncées : adaptation des réseaux au changement climatique, sécurité énergétique « plus localisée » via l'autoconsommation collective, développement de la chaleur et du froid renouvelables ; elle conteste la multiplication non débattue des data centers.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/06/22/quelle-politique-energetique-pour-la-france/",
+      "source_date": "2026-06-22"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Adopter un plan de sortie complète des énergies fossiles",
+      "detail": "Position de Génération Écologie après le choc pétrolier du printemps 2026 (communiqué signé par la direction du parti, pas par la candidate elle-même).",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/04/10/prix-de-lessence-a-la-pompe-lurgence-dagir/",
+      "source_date": "2026-04-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Rendre temporairement gratuits les transports en commun en cas de choc pétrolier",
+      "detail": "Mesures de « sobriété d'urgence » demandées par Génération Écologie : gratuité temporaire des transports en commun, doublement des fréquences des cars en zones rurales, baisse des vitesses.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/04/10/prix-de-lessence-a-la-pompe-lurgence-dagir/",
+      "source_date": "2026-04-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Verser automatiquement une aide mensuelle aux ménages vulnérables lors des chocs de prix",
+      "detail": "Aide versée dès les premières hausses de prix des énergies fossiles, ciblée selon la distance domicile-travail, contrôlée a posteriori et financée notamment par le surplus de TVA (Génération Écologie).",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/04/10/prix-de-lessence-a-la-pompe-lurgence-dagir/",
+      "source_date": "2026-04-10"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Saisir la Cour de justice de l'UE contre l'accord UE-Mercosur",
+      "detail": "Génération Écologie appelle la France et le Parlement européen à saisir la CJUE sur l'incompatibilité de l'accord avec les traités et l'Accord de Paris.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/01/09/accord-avec-le-mercosur-la-france-doit-saisir-la-cour-de-justice-de-lunion-europeenne/",
+      "source_date": "2026-01-09"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Réexaminer immédiatement les 70 000 plaintes de mineurs pour violences",
+      "detail": "Demande formulée par Delphine Batho après le meurtre de Lyhanna (juin 2026).",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/06/07/une-candidature-pour-sauver-lecologie/",
+      "source_date": "2026-06-07"
+    },
+    {
+      "theme": "defense",
+      "titre": "Augmenter le budget de la défense et bâtir une Europe de la défense autonome",
+      "detail": "Tribune signée par Delphine Batho (10/12/2025) : soutien à la hausse du budget de défense dès 2026, renforcement de la dissuasion militaire et d'une « dissuasion civile » réduisant les dépendances.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2025/12/10/oui-la-defense-contre-les-menaces-du-nouveau-yalta-des-predateurs/",
+      "source_date": "2025-12-10"
+    },
+    {
+      "theme": "defense",
+      "titre": "Mobiliser les avoirs russes gelés pour reconstruire l'Ukraine",
+      "detail": "Position de Génération Écologie (porte-parole Quentin Guillemain) : maintenir le soutien humanitaire, financier et militaire à l'Ukraine, renforcer les sanctions sur les énergies fossiles et les engrais russes.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/",
+      "source_date": "2026-02-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Ouvrir des lieux de rafraîchissement accessibles à tous pendant les canicules",
+      "detail": "Batho réclame une « mobilisation générale pour l'ombre et la fraîcheur », la protection des personnes vulnérables et des mesures de sécurité en eau (juillet 2026).",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/07/01/face-aux-vagues-de-chaleur-avoir-le-sens-des-priorites/",
+      "source_date": "2026-07-01"
     }
   ],
   "sources_consultees": [
@@ -59,8 +139,20 @@
     "https://www.generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
     "https://www.nouvelobs.com/politique/20251125.OBS110076/delphine-batho-je-suis-candidate-a-l-election-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner.html",
     "https://quivoter2027.com/candidats/batho",
-    "https://www.candidatspresidentielles2027.fr/candidats/delphine-batho"
+    "https://www.candidatspresidentielles2027.fr/candidats/delphine-batho",
+    "https://www.generationecologie.fr/2026/06/22/quelle-politique-energetique-pour-la-france/",
+    "https://www.generationecologie.fr/2026/04/10/prix-de-lessence-a-la-pompe-lurgence-dagir/",
+    "https://www.generationecologie.fr/2026/01/09/accord-avec-le-mercosur-la-france-doit-saisir-la-cour-de-justice-de-lunion-europeenne/",
+    "https://www.generationecologie.fr/2026/06/07/une-candidature-pour-sauver-lecologie/",
+    "https://www.generationecologie.fr/2025/12/10/oui-la-defense-contre-les-menaces-du-nouveau-yalta-des-predateurs/",
+    "https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/",
+    "https://www.generationecologie.fr/2026/07/01/face-aux-vagues-de-chaleur-avoir-le-sens-des-priorites/",
+    "https://www.generationecologie.fr/2026/08/24/dans-les-circonstances-historiques-de-cet-ete-il-faut-construire-une-nouvelle-ecologie/",
+    "https://www.generationecologie.fr/2026/08/20/les-francaises-et-les-francais-attendent-une-election-presidentielle-feconde/",
+    "https://www.generationecologie.fr/2026/07/09/rapport-du-haut-conseil-pour-le-climat-un-indispensable-electrochoc/",
+    "https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie",
+    "https://votons-2027.fr/candidats/batho/programme/climat"
   ],
-  "notes": "Candidature annoncée dans L'Obs le 25/11/2025 (relayée par Génération Écologie le 26/11), investiture officielle par la 15e convention nationale de GE le 6/06/2026. Refuse la primaire et la candidature commune de la gauche (lettre à Marine Tondelier, 20/08/2026). Aucun programme publié au 12/10/2026 : son site (delphinebatho.fr) annonce 'un nouveau programme politique' à élaborer avec les citoyens ; elle a publié le livre 'La politique de la beauté. Une nouvelle écologie' (non consulté). Les quelques propositions retenues proviennent de prises de position officielles de Génération Écologie (2025-2026), pas d'un programme présidentiel. Des sites agrégateurs (quivoter2027.com) lui prêtent d'autres positions (division par deux de la consommation d'énergie, arrêt du programme de 6 EPR, interdiction du glyphosate, abrogation de la réforme des retraites 2023, recours contre le Mercosur, soutien à l'Ukraine) sans source primaire vérifiable : non retenues. Ses interventions sur RMC (20/08/2026) et Sud Radio (24/08/2026) sont des vidéos non consultées. Recherche web interrompue (quota atteint).",
+  "notes": "Candidature annoncée dans L'Obs le 25/11/2025 (relayée par Génération Écologie le 26/11), investiture officielle par la 15e convention nationale de GE le 6/06/2026. Refuse la primaire et la candidature commune de la gauche (lettre à Marine Tondelier, 20/08/2026). Aucun programme publié au 12/10/2026 : son site (delphinebatho.fr) annonce 'un nouveau programme politique' à élaborer avec les citoyens ; elle a publié le livre 'La politique de la beauté. Une nouvelle écologie' (non consulté). Les quelques propositions retenues proviennent de prises de position officielles de Génération Écologie (2025-2026), pas d'un programme présidentiel. Des sites agrégateurs (quivoter2027.com) lui prêtent d'autres positions (division par deux de la consommation d'énergie, arrêt du programme de 6 EPR, interdiction du glyphosate, abrogation de la réforme des retraites 2023, recours contre le Mercosur, soutien à l'Ukraine) sans source primaire vérifiable : non retenues. Ses interventions sur RMC (20/08/2026) et Sud Radio (24/08/2026) sont des vidéos non consultées. Passe 2 (12/10/2026) : ajout de 10 positions tirées des publications de Génération Écologie (generationecologie.fr, lisible) ; plusieurs sont des communiqués du parti et non des déclarations personnelles de la candidate (précisé dans le détail). Toujours aucun programme présidentiel publié au 12/10/2026 ; ses interviews RMC (20/08) et Sud Radio (24/08) ne sont disponibles qu'en vidéo. Votons-2027 (agrégateur, page à jour au 30/06/2026) recense 37 mesures en ne citant que la page d'accueil de GE : seules celles retrouvées dans une publication datée de GE ont été retenues.",
   "verifie_le": "2026-10-12"
 }

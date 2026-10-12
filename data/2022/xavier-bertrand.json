@@ -1,0 +1,190 @@
+{
+  "slug": "xavier-bertrand",
+  "nom": "Xavier Bertrand",
+  "parti": "Les Républicains (congrès d'investiture 2021 ; candidat ex-LR soutenu par La Manufacture)",
+  "bord": "droite",
+  "annee": 2022,
+  "statut_candidature": "primaire",
+  "resultat": "battu au congrès LR (déc. 2021) — 4e au 1er tour avec 22,36 %",
+  "date_declaration": "2021-03-24",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Projet présenté pour le congrès LR (triptyque « autorité – travail – territoires »)",
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Créer une prime au travail : aucun salarié à temps plein sous 1 500 euros net",
+      "detail": "La prime remplacerait et dépasserait la prime d'activité, pour les salariés jusqu'à 2 000 € net par mois dans un premier temps.",
+      "nature": "declaration",
+      "source_url": "https://echodumardi.com/politiqueetterritoire/xavier-bertrand-a-courthezon-je-veux-mettre-en-place-une-republique-des-territoires",
+      "source_date": "2021-10-31"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Reporter progressivement l'âge légal de départ à 64 ans d'ici 2030",
+      "detail": "« Deux années de travail en plus » à la fin de la décennie, mais pas pour ceux qui sont « usés par le boulot ».",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+      "source_date": "2021-10-04"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Exonérer d'impôt et de charges les heures travaillées au-delà de 35 heures",
+      "detail": "Pour l'employeur, exonération de charges de 2 € par heure au-delà de 35 h, afin de sortir des 35 h « sans drame ».",
+      "nature": "declaration",
+      "source_url": "https://echodumardi.com/politiqueetterritoire/xavier-bertrand-a-courthezon-je-veux-mettre-en-place-une-republique-des-territoires",
+      "source_date": "2021-10-31"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Réformer l'assurance chômage dans un sens orienté vers le retour à l'emploi",
+      "detail": "Réforme voulue « plus ambitieuse » que celle du gouvernement.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+      "source_date": "2021-10-04"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Revenir sur l'objectif de réduction du nucléaire à 50 % de la production",
+      "detail": "Défense de l'indépendance énergétique ; critique du « développement anarchique » de l'éolien.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+      "source_date": "2021-10-04"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Faire fixer des quotas d'immigration par le Parlement après référendum",
+      "detail": "Révision constitutionnelle par référendum, soumise aux Français dès l'automne 2022, fixant qui accueillir, pour quel métier, combien de temps et de quel pays.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-derniere-ligne-droite-pour-les-cinq-candidats-a-l-investiture-lr",
+      "source_date": "2021-12-01"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser automatiquement tout étranger condamné à de la prison ferme",
+      "detail": "Rétablissement de la « double peine » une fois la peine purgée.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-xavier-bertrand-officialise-sa-candidature/",
+      "source_date": "2021-03-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abaisser la majorité pénale à 15 ans",
+      "detail": "Mesure de sa « révolution pénale ».",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer des peines minimales automatiques",
+      "detail": "Individualisation entre un minimum et un maximum, nécessitant une révision constitutionnelle ; révocation effective du sursis en cas de récidive.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Imposer un an de prison minimum pour les agresseurs de policiers, pompiers et maires",
+      "detail": "Peine minimale obligatoire d'un an pour ceux qui s'en prennent aux forces de l'ordre, aux pompiers et aux maires.",
+      "nature": "declaration",
+      "source_url": "https://echodumardi.com/politiqueetterritoire/xavier-bertrand-a-courthezon-je-veux-mettre-en-place-une-republique-des-territoires",
+      "source_date": "2021-10-31"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer 20 000 places de prison",
+      "detail": "Pour l'application effective des peines.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer une rétention de sûreté de 50 ans pour les terroristes",
+      "detail": "Annoncé dans Le Point en mars 2021.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-xavier-bertrand-officialise-sa-candidature/",
+      "source_date": "2021-03-25"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Saisir les amendes pénales impayées sur les salaires ou prestations sociales",
+      "detail": "Y compris sur le RSA ; le procureur pourrait prononcer directement TIG et amendes.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer des fonctionnaires de police judiciaire territoriaux",
+      "detail": "Au sein des polices municipales, sous l'autorité du procureur.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Voter une loi de programmation quinquennale pour la sécurité et la justice",
+      "detail": "Hausse des budgets de la sécurité et de la justice.",
+      "nature": "declaration",
+      "source_url": "https://vl-media.fr/presidentielle-2022-xavier-bertrand-officialise-sa-candidature/",
+      "source_date": "2021-03-25"
+    },
+    {
+      "theme": "sante",
+      "titre": "Augmenter les places en centres d'addictologie",
+      "detail": "Volet prévention de son programme de sécurité.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "source_date": "2021-09-15"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Instaurer une « République des territoires »",
+      "detail": "L'État recentré sur le régalien ; plus de liberté, d'autonomie et de responsabilité pour les collectivités dans la vie quotidienne.",
+      "nature": "declaration",
+      "source_url": "https://echodumardi.com/politiqueetterritoire/xavier-bertrand-a-courthezon-je-veux-mettre-en-place-une-republique-des-territoires",
+      "source_date": "2021-10-31"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire le recours à la dette en « faisant le ménage » dans le budget",
+      "detail": "Déclaration sur franceinfo.",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+      "source_date": "2021-10-04"
+    },
+    {
+      "theme": "societe",
+      "titre": "Observer une « pause » dans les réformes sociétales",
+      "detail": "Pour « apaiser le pays » ; refus d'un « pseudo-modernisme ».",
+      "nature": "declaration",
+      "source_url": "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+      "source_date": "2021-10-04"
+    },
+    {
+      "theme": "institutions",
+      "titre": "S'engager à n'effectuer qu'un seul mandat présidentiel",
+      "detail": "Engagement pris pendant la campagne du congrès LR.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-derniere-ligne-droite-pour-les-cinq-candidats-a-l-investiture-lr",
+      "source_date": "2021-12-01"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-derniere-ligne-droite-pour-les-cinq-candidats-a-l-investiture-lr",
+    "https://vl-media.fr/presidentielle-2022-xavier-bertrand-officialise-sa-candidature/",
+    "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+    "https://www.linfodurable.fr/presidentielle-bertrand-tacle-les-gouvernants-incapables-de-se-mettre-la-place-des-gens-28897",
+    "https://echodumardi.com/politiqueetterritoire/xavier-bertrand-a-courthezon-je-veux-mettre-en-place-une-republique-des-territoires",
+    "https://www.connaissancedesenergies.org/afp/election-presidentielle-xavier-bertrand-tacle-tout-va-ses-reflexions-sur-lenergie-211004",
+    "https://www.publicsenat.fr/actualites/politique/congres-lr-eric-ciotti-arrive-en-tete-du-premier-tour-avec-2559-des-voix-suivi-par",
+    "https://www.publicsenat.fr/article/politique/la-determination-de-sarko-l-humanite-de-chirac-les-soutiens-de-xavier-bertrand-au"
+  ],
+  "notes": "Candidature annoncée le 24/03/2021 dans Le Point, d'abord hors primaire, puis ralliement au congrès LR ; éliminé au 1er tour du congrès (Ciotti 25,59 %, Pécresse 25 %, Barnier 23,93 %, Bertrand 22,36 %, Juvin 3,13 %). Aucun document programme officiel retrouvé (domaine xavierbertrand.fr revendu, web.archive.org inaccessible) : propositions reconstituées à partir de la presse (Public Sénat, AFP, Echo du mardi, VL Media). Un extrait de moteur de recherche attribue aussi à Bertrand (3e débat LR, Europe 1/CNews) un doublement des logements aidés pour la rénovation et une défiscalisation des heures supplémentaires ; la page Europe 1 étant bloquée (403), la rénovation n'a pas été retenue. Les chiffres de baisse de l'immigration parfois attribués à Bertrand (‑30 %, ‑50 %, ‑2/3) n'ont pas été vérifiés et sont exclus.",
+  "verifie_le": "2026-10-12"
+}

@@ -8,7 +8,7 @@
   "programme": {
     "statut": "complet",
     "titre": "Pour une prospérité écologique — le nouveau programme des Écologistes (557 mesures)",
-    "url": "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet",
+    "url": "https://marinetondelier.fr/s/Programme-2027.pdf",
     "date_publication": "2026-07-13"
   },
   "propositions": [
@@ -151,25 +151,25 @@
     {
       "theme": "travail_retraites",
       "titre": "Revenir immédiatement à un âge minimum de départ à 62 ans",
-      "detail": "Objectif de 60 ans pour les carrières longues et les métiers pénibles (abrogation de la réforme de 2023).",
+      "detail": "Abrogation de la réforme de 2023 et objectif de 60 ans en priorité pour les personnes ayant commencé tôt ou exercé des métiers pénibles (mesure 31-1).",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
       "theme": "ecologie_energie",
       "titre": "Planifier la sortie du nucléaire en une vingtaine d'années",
-      "detail": "Fermeture progressive du parc, avec prolongations possibles sous strictes conditions de sûreté.",
+      "detail": "Arrêt progressif du parc étalé sur une vingtaine d'années, prolongations possibles sous stricte condition de sûreté ; fin des programmes EPR-2 et SMR (mesure 1-7).",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
       "theme": "economie",
       "titre": "Instaurer une taxe de 2 % sur les patrimoines de plus de 100 millions d'euros",
-      "detail": "Impôt plancher de type « taxe Zucman ».",
+      "detail": "« Taxe Zucman » de 2 % au-delà de 100 M€ de patrimoine et extension de l'exit tax (mesure 17-1).",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
@@ -185,31 +185,31 @@
       "titre": "Bloquer les prix en cas d'inflation anormale",
       "detail": "Blocage ciblé plutôt que gel général ; incitation à hausser les bas salaires via la réduction des exonérations de cotisations.",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
       "theme": "europe_international",
-      "titre": "Reconnaître l'État de Palestine et interdire les produits des colonies",
-      "detail": "Interdiction à l'échelle de l'UE des produits issus des colonies israéliennes et retrait israélien complet de Gaza.",
+      "titre": "Interdire les produits des colonies et suspendre l'accord UE-Israël",
+      "detail": "Le programme demande le retrait total d'Israël de Gaza, le démantèlement des colonies, la suspension de l'accord d'association UE-Israël et l'interdiction en Europe des produits des colonies (mesure 64-1). Titre corrigé : la reconnaissance de l'État de Palestine (acquise par la France en 2025) ne figure pas comme mesure.",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
       "theme": "defense",
       "titre": "Poursuivre le soutien militaire à l'Ukraine",
-      "detail": "Soutien à Kyiv inscrit au programme.",
+      "detail": "Livraison de matériel, y compris des capacités de frappe à longue portée et de défense antiaérienne, et formation des forces ukrainiennes (mesure 62-2).",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
       "theme": "securite_justice",
-      "titre": "Retirer les LBD et dissoudre la BRAV-M",
-      "detail": "Mesures de maintien de l'ordre inscrites au programme.",
+      "titre": "Interdire les LBD et les grenades mutilantes et démanteler la BRAV-M",
+      "detail": "Interdiction des LBD40 et grenades mutilantes, démantèlement des unités de type BRAV-M, abrogation des dispositions de la loi Cazeneuve sur l'ouverture du feu.",
       "nature": "programme",
-      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
       "source_date": "2026-07-13"
     },
     {
@@ -515,6 +515,590 @@
       "nature": "programme",
       "source_url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
       "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Adopter un « pacte fiscal vert » 2027-2032 de programmation des finances publiques",
+      "detail": "Loi de programmation conciliant transition écologique, engagements européens (y compris militaires) et services publics ; renégocier la trajectoire de réduction des déficits dans le Semestre européen.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Stabiliser le niveau de la dette publique",
+      "detail": "Trajectoire « stable et prévisible » fondée sur la justice fiscale ; réduire la part de dette indexée sur l'inflation et accroître celle des créanciers nationaux et européens.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Créer une tranche d'impôt sur le revenu à 60 % au-delà de 250 000 € par an",
+      "detail": "Avec une baisse de l'impôt pour les tranches les plus basses et un plafonnement global des niches fiscales par foyer.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer les exonérations de cotisations au-delà de 1,6 SMIC et sur les heures sup",
+      "detail": "Rationaliser les exonérations de cotisations sociales et conditionner les restantes à des hausses de salaire pour les salariés sous 2 000 €.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Ajouter deux tranches aux droits de succession au-delà de 4 et 13 millions d'euros",
+      "detail": "Barème progressif unique ; suppression de l'abattement spécifique de l'assurance-vie, plafonnement du pacte Dutreil à 50 % au-delà de 50 M€.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer un impôt minimal sur les bénéfices des sociétés de plus d'un milliard de CA",
+      "detail": "Impôt calculé à proportion de l'activité réalisée en France, taux modulé selon l'affectation des bénéfices.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Porter la taxe sur les transactions financières à 0,7 %",
+      "detail": "Et élargir son assiette à davantage d'instruments spéculatifs.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un fonds souverain financé par un « livret industrie »",
+      "detail": "Livret rémunéré au taux du livret A, ciblé sur les entreprises produisant l'essentiel de leur valeur ajoutée en Europe.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Séparer les banques de dépôt et les activités spéculatives",
+      "detail": "Réforme du secteur bancaire pour prévenir les crises systémiques et le renflouement par l'État.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un prêt à taux zéro pour la décarbonation des PME et ETI",
+      "detail": "Prêt long terme pour financer la baisse des émissions, avec un guichet unique d'accompagnement à la transition.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Réserver 50 à 80 % des marchés publics aux produits européens",
+      "detail": "« Buy green and european act » modulé selon les filières, avec conditionnalités environnementales.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le salaire minimum à 2 000 € brut par mois dès 2027",
+      "detail": "Avec des dispositifs de soutien ciblés aux TPE, PME et associations (mesure 13-1).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer le point d'indice des fonctionnaires sur l'inflation",
+      "detail": "Hausse de 10 % pour les catégories C et B et les catégories A ayant perdu du pouvoir d'achat ; +15 % pour les enseignants et +10 % pour les chercheurs sur le quinquennat.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Encadrer les prix d'un panier de biens essentiels",
+      "detail": "Logement, énergie, eau, transport, alimentation de qualité, biens culturels (prix unique, encadrement des marges ou limitation des hausses).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Revaloriser les APL de 10 %",
+      "detail": "Avec un mécanisme empêchant la répercussion sur les loyers ; fin de la discrimination envers les étudiants extracommunautaires.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit",
+      "detail": "Aides aux entreprises conditionnées ; création d'un compte épargne-temps universel.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger les réformes de l'assurance chômage des deux derniers quinquennats",
+      "detail": "Notamment le mode de calcul de l'allocation de retour à l'emploi.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Augmenter les cotisations retraite, y compris sur l'épargne salariale",
+      "detail": "Cotisations étendues à l'intéressement, la participation et aux actions gratuites ; +1 point de cotisation déplafonnée au-delà du plafond de la Sécurité sociale ; +0,2 point par an sur le quinquennat.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Porter progressivement le minimum contributif et l'ASPA au seuil de pauvreté",
+      "detail": "Réforme de la retraite agricole et amélioration des pensions des femmes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer 200 postes d'inspecteurs du travail et viser zéro mort au travail en 2032",
+      "detail": "Plan « santé au travail ».",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer 2 000 centres de santé d'ici 2030",
+      "detail": "Notamment dans les zones rurales et les quartiers prioritaires, avec médecins, infirmiers, psychologues, kinésithérapeutes et dentistes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les franchises médicales et rembourser à 100 % les soins essentiels",
+      "detail": "Les mutuelles seraient recentrées sur les soins optionnels.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "sante",
+      "titre": "Limiter les dépassements d'honoraires à 50 % du tarif de la Sécurité sociale",
+      "detail": "Encadrement des dépassements chez les spécialistes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "social",
+      "titre": "Remplacer le RSA par une garantie d'autonomie à 50 % du SMIC net dès 18 ans",
+      "detail": "Indexée sur le SMIC, sans les 15 heures d'activité hebdomadaires obligatoires.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "social",
+      "titre": "Augmenter de 250 € l'Allocation aux adultes handicapés",
+      "detail": "Intégration à la branche autonomie, délai maximal de 3 mois pour la reconnaissance.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "social",
+      "titre": "Verser les allocations familiales dès le premier enfant",
+      "detail": "Même montant dès le premier enfant ; retour de la majoration dès 14 ans.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "social",
+      "titre": "Sanctionner financièrement les entreprises qui ne respectent pas l'égalité salariale",
+      "detail": "Loi pour l'émancipation économique des femmes ; publication des écarts étendue aux entreprises de plus de 50 salariés.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "education",
+      "titre": "Réduire les classes de primaire à 19 élèves en 2032 et à 12 en éducation prioritaire",
+      "detail": "Avec davantage d'enseignants pour que chaque enfant sache lire, écrire, compter avant le collège.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "education",
+      "titre": "Remplacer Parcoursup et MonMaster par une plateforme sans lettre de motivation",
+      "detail": "Algorithmes publiés, quotas de boursiers, places supplémentaires en BUT et BTS.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Augmenter de 10 % les salaires de la recherche publique dès la première année",
+      "detail": "Objectif de 3 % du PIB en R&D orientée vers l'intérêt général en 2032.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Étendre le statut d'éditeur à toutes les grandes plateformes numériques",
+      "detail": "Pour les rendre responsables de l'ensemble des contenus qu'elles diffusent.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Encadrer l'implantation des data centers",
+      "detail": "Fin de leur labellisation « projet d'intérêt national majeur » et planification de leur consommation électrique.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Généraliser les logiciels libres dans les administrations",
+      "detail": "Principe « open source first » dans les appels d'offres publics.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Interdire les contrôles d'identité aléatoires et instaurer un récépissé",
+      "detail": "Contrôles limités au flagrant délit, à l'enquête judiciaire ou à l'ordre public.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer un numerus clausus carcéral et un moratoire sur les nouvelles prisons",
+      "detail": "Occupation plafonnée à 100 % des capacités (133 % actuellement), sauf remplacement de prisons insalubres.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rendre le parquet indépendant",
+      "detail": "Statut unifié de magistrat siège/parquet ; suppression de la Cour de justice de la République.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une juridiction spécialisée contre le narcotrafic dans chaque cour d'appel",
+      "detail": "Moyens financiers et cyber renforcés, priorité au démantèlement des réseaux et à la saisie des avoirs.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Légaliser et encadrer le cannabis",
+      "detail": "Production, vente et consommation encadrées, distribution réservée à des structures à but non lucratif, autoproduction encadrée.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer la proportionnelle intégrale aux élections législatives",
+      "detail": "Sans prime majoritaire, circonscriptions régionales ; prime municipale abaissée à 25 %.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un référendum d'initiative citoyenne propositionnel ou abrogatif",
+      "detail": "Sous contrôle de constitutionnalité préalable ; convention citoyenne permanente au sein d'un CESE transformé.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Ouvrir le droit de vote à 16 ans et aux étrangers aux élections locales",
+      "detail": "Vote des étrangers extracommunautaires après cinq ans de résidence ; inscription automatique sur les listes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rendre inéligibles à vie les élus condamnés pour corruption",
+      "detail": "Également pour détournement de fonds publics ; lutte contre le blanchiment érigée en priorité.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Abroger les lois asile et immigration adoptées sous Emmanuel Macron",
+      "detail": "Garantir scolarisation, accès à l'AME et à l'hébergement ; tutelle de l'OFPRA confiée aux Affaires étrangères.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Garantir le droit du sol, y compris à Mayotte, et faciliter la naturalisation",
+      "detail": "Suppression du régime dérogatoire mahorais.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Mettre fin à la rétention administrative des étrangers",
+      "detail": "Fin des refoulements illégaux et de la militarisation des frontières (Briançonnais, littoral Nord).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Remplacer le droit de veto national par la majorité qualifiée dans l'UE",
+      "detail": "« Saut fédéral » : majorité qualifiée sur droits fondamentaux, protection sociale, fiscalité et politique étrangère ; fin d'un commissaire par État.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refuser de ratifier les accords de libre-échange dont le Mercosur et le CETA",
+      "detail": "Ainsi que les accords avec le Vietnam, Singapour, le Chili, le Mexique, l'Indonésie et le Japon ; clauses miroirs dans les futurs traités.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "defense",
+      "titre": "Préparer l'armée à la haute intensité et voter une nouvelle loi de programmation militaire",
+      "detail": "Actualiser le livre blanc, soutenir la défense du flanc Est de l'UE face à la Russie, dans une logique de complémentarité européenne.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "defense",
+      "titre": "Créer un commandement militaire intégré européen",
+      "detail": "Placé sous la tutelle du Conseil de l'UE, sans mobilisation directe des armées nationales.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "defense",
+      "titre": "Affecter les 140 milliards d'avoirs russes gelés aux réparations de guerre en Ukraine",
+      "detail": "Et au remboursement du prêt européen.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Généraliser et pérenniser l'encadrement des loyers",
+      "detail": "Couverture de toutes les villes universitaires et hausse des amendes en cas de dépassement.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Réaliser 500 000 rénovations performantes de logements par an",
+      "detail": "Objectif de sortir un million de personnes par an de la précarité énergétique via MaPrimeRénov'.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer la RLS et baisser la TVA pour relancer le logement social",
+      "detail": "Relance de la construction et de la rénovation des HLM, abondement du Fonds national d'aide à la pierre.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abroger la loi Kasbarian et réquisitionner les logements vacants",
+      "detail": "Surtaxe modulée selon le nombre de logements détenus et la durée de vacance.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir un accueil physique des services publics à 15 minutes partout en France",
+      "detail": "Agents assermentés dans les Maisons France Services et unités mobiles.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Lutter contre la vie chère en outre-mer en combattant les monopoles",
+      "detail": "Règles anti-trust, contrôle des marges, réforme du bouclier qualité-prix et de l'octroi de mer, régulation des tarifs aériens.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Renationaliser progressivement les autoroutes",
+      "detail": "Pour financer l'entretien des réseaux routier, fluvial et ferroviaire et les pistes cyclables.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Placer 90 % de la population à moins de 30 minutes d'une gare bien desservie",
+      "detail": "Loi de programmation ferroviaire à 10 ans (au moins six trains par jour).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Limiter à 110 km/h sur autoroute la vitesse des véhicules thermiques",
+      "detail": "Avec encouragement du télétravail pour réduire les trajets.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Décréter un moratoire sur l'A69, le Lyon-Turin et le canal Seine-Nord",
+      "detail": "Moratoire sur les « grands projets inutiles et imposés », les extensions d'aéroports et les nouvelles capacités routières.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Doter le plan d'adaptation au changement climatique de 7 Md€ par an d'ici 2032",
+      "detail": "Rafraîchissement des bâtiments publics, droit opposable aux protections solaires.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer un leasing social d'un million de voitures électriques sur le quinquennat",
+      "detail": "En favorisant les véhicules européens.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Soutenir 10 000 communautés énergétiques renouvelables",
+      "detail": "Portées par des citoyens ou des collectivités.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Décréter un moratoire sur les méga-bassines",
+      "detail": "Retenues conditionnées à une baisse de la consommation d'eau ou à un projet agroécologique.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Porter l'agriculture biologique à 21 % en 2030 et 25 % en 2032",
+      "detail": "Hausse de l'éco-régime bio et revenu garanti sur trois ans en transition.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Abroger la loi Duplomb et adopter une nouvelle loi d'orientation agricole",
+      "detail": "Planifier la baisse de la dépendance aux intrants (engrais, pesticides, eau, énergie).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Inscrire dans la Constitution le droit à l'information et l'audiovisuel public",
+      "detail": "Droit à une information intègre et pluraliste, garantie d'un service audiovisuel public au financement pérenne.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Renforcer le Pass Sport et subventionner les licences des ménages modestes",
+      "detail": "Réintégration des 6-13 ans ; prise en charge de 10 à 100 % des licences selon les revenus.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "Légaliser l'aide active à mourir et garantir l'accès aux soins palliatifs",
+      "detail": "Adoption des deux lois sur la fin de vie en conservant l'équilibre des textes votés en première lecture.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "Créer un service public laïc des obsèques",
+      "detail": "Et développer des coopératives funéraires.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "Refonder l'Observatoire de la laïcité et former les fonctionnaires",
+      "detail": "Formation de l'ensemble des fonctionnaires à la laïcité et à la loi de 1905.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "Lancer un plan d'éradication des violences contre les personnes LGBTQIA+",
+      "detail": "Formation des agents accueillant du public, sanctions renforcées contre les propos haineux dans les médias.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "Reconnaître officiellement les crimes de la colonisation française",
+      "detail": "Ouverture des archives, restitution des biens culturels spoliés, création d'un Office franco-algérien pour la jeunesse.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Programme-2027.pdf",
+      "source_date": "2026-07-13"
     }
   ],
   "sources_consultees": [
@@ -539,8 +1123,11 @@
     "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture",
     "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
     "https://lesecologistes.fr/posts/4DGpyusxBAU4xQPexfncsx/marine-tondelier-designee-pour-representer-les-ecologistes-a-l-election-presidentielle",
-    "https://en.wikipedia.org/wiki/2026_United_Left_primary"
+    "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+    "https://marinetondelier.fr/s/Programme-2027.pdf",
+    "https://marinetondelier.fr/programme-2027",
+    "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
   ],
-  "notes": "Désignée candidate des Écologistes le 8/12/2025 (86 % des voix, vote interne du 5 au 8 décembre) ; une candidature avait été évoquée dès octobre 2025 (non vérifié). La primaire unitaire de la gauche prévue le 11/10/2026 a échoué après le choix du PS d'une primaire fermée (juillet 2026). Le 21/09/2026 le Conseil fédéral a adopté (69,44 %) une motion actant cet échec : elle reste officiellement candidate, mais un référendum interne (10-13 décembre 2026) tranchera entre sa candidature et le ralliement à un autre candidat de gauche ; candidature donc susceptible d'être retirée. Programme : 'Pour une prospérité écologique' (557 mesures, ~208 p.), adopté à 95 % par le Conseil fédéral et présenté le 13/07/2026 ; c'est un programme de parti, lié depuis marinetondelier.fr/le-programme. Le site lesecologistes.fr (dont le PDF du programme) est protégé par un challenge Cloudflare et n'a pas pu être lu : les mesures du programme sont reprises de la presse (Parlons Politique, AEF, ActuaLitté) et des livrets thématiques officiels lisibles sur marinetondelier.fr (enfance 17/09/2026 ; santé environnementale, solitude, santé reproductive, montagne, littoraux : dates de publication non affichées, source_date null). Les '21 priorités' (17/04/2026) sont un socle proposé aux partenaires de gauche. Montant du SMIC incertain (2 000 € brut ou 1 600 € net selon des sites non vérifiés ; Parlons Politique indique que le programme ne fixerait pas de hausse directe) : non retenu. Échéance de sortie du nucléaire : ~20 ans selon Parlons Politique, non vérifiée dans le texte officiel. Recherche web interrompue (quota atteint) : liste non exhaustive des 557 mesures.",
+  "notes": "Désignée candidate des Écologistes le 8/12/2025 (86 % des voix, vote interne du 5 au 8 décembre) ; une candidature avait été évoquée dès octobre 2025 (non vérifié). La primaire unitaire de la gauche prévue le 11/10/2026 a échoué après le choix du PS d'une primaire fermée (juillet 2026). Le 21/09/2026 le Conseil fédéral a adopté (69,44 %) une motion actant cet échec : elle reste officiellement candidate, mais un référendum interne (10-13 décembre 2026) tranchera entre sa candidature et le ralliement à un autre candidat de gauche ; candidature donc susceptible d'être retirée. Programme : 'Pour une prospérité écologique' (557 mesures, ~208 p.), adopté à 95 % par le Conseil fédéral et présenté le 13/07/2026 ; c'est un programme de parti, lié depuis marinetondelier.fr/le-programme. Le site lesecologistes.fr est protégé par un challenge Cloudflare, mais le PDF intégral du programme (208 p., daté juillet 2026, modifié le 25/08/2026) est hébergé sur marinetondelier.fr/s/Programme-2027.pdf et a été lu en passe 2 ; les mesures de passe 1 venaient de la presse (Parlons Politique, AEF, ActuaLitté) et des livrets thématiques officiels lisibles sur marinetondelier.fr (enfance 17/09/2026 ; santé environnementale, solitude, santé reproductive, montagne, littoraux : dates de publication non affichées, source_date null). Les '21 priorités' (17/04/2026) sont un socle proposé aux partenaires de gauche. SMIC : le programme (mesure 13-1) prévoit bien un salaire minimum à 2 000 € brut par mois dès 2027 (ajouté en passe 2). Sortie du nucléaire : « une vingtaine d'années » confirmée dans le texte officiel (mesure 1-7). Passe 2 (12/10/2026) : lecture du PDF officiel ; ajout d'une sélection de mesures couvrant notamment les thèmes peu couverts (finances publiques, société, territoires, immigration, institutions, défense, numérique) — la fiche reste une sélection, pas la liste des 557 mesures. Sources de 7 mesures de passe 1 remplacées par le PDF officiel ; titre corrigé pour la mesure Palestine (le programme ne propose pas de « reconnaître » l'État de Palestine) et pour les LBD/BRAV-M. L'« ISF climatique » (AEF) n'a pas été retrouvé tel quel dans le PDF (le programme parle de « taxe Zucman » et de fiscalité de la grande fortune) : conservé avec sa source presse, à vérifier. Le 11/10/2026, Tondelier a réagi à la victoire de Glucksmann en regrettant son « choix du repli » (LCP) ; candidature toujours soumise au référendum interne de décembre 2026.",
   "verifie_le": "2026-10-12"
 }
