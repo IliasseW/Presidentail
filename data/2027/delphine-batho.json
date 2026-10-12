@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Rompre avec l'objectif de croissance du PIB au profit de la décroissance",
       "detail": "Batho juge « vouloir sauver la croissance du PIB » incompatible avec la sécurité climatique, hydrique et alimentaire ; Génération Écologie fait de la décroissance son projet politique.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Inscrire le principe d'habitabilité à l'article 1er de la Constitution",
       "detail": "Pour faire primer le respect des limites planétaires et la préservation des biens communs dans la hiérarchie des normes (« République écologique ») ; position du parti après la validation de la loi Duplomb 2.",
       "nature": "declaration",
@@ -75,6 +77,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Rendre temporairement gratuits les transports en commun en cas de choc pétrolier",
       "detail": "Mesures de « sobriété d'urgence » demandées par Génération Écologie : gratuité temporaire des transports en commun, doublement des fréquences des cars en zones rurales, baisse des vitesses.",
       "nature": "declaration",
@@ -83,6 +86,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Verser automatiquement une aide mensuelle aux ménages vulnérables lors des chocs de prix",
       "detail": "Aide versée dès les premières hausses de prix des énergies fossiles, ciblée selon la distance domicile-travail, contrôlée a posteriori et financée notamment par le surplus de TVA (Génération Écologie).",
       "nature": "declaration",
@@ -91,6 +95,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Saisir la Cour de justice de l'UE contre l'accord UE-Mercosur",
       "detail": "Génération Écologie appelle la France et le Parlement européen à saisir la CJUE sur l'incompatibilité de l'accord avec les traités et l'Accord de Paris.",
       "nature": "declaration",
@@ -99,6 +104,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Réexaminer immédiatement les 70 000 plaintes de mineurs pour violences",
       "detail": "Demande formulée par Delphine Batho après le meurtre de Lyhanna (juin 2026).",
       "nature": "declaration",
@@ -107,6 +113,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Augmenter le budget de la défense et bâtir une Europe de la défense autonome",
       "detail": "Tribune signée par Delphine Batho (10/12/2025) : soutien à la hausse du budget de défense dès 2026, renforcement de la dissuasion militaire et d'une « dissuasion civile » réduisant les dépendances.",
       "nature": "declaration",
@@ -115,6 +122,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Mobiliser les avoirs russes gelés pour reconstruire l'Ukraine",
       "detail": "Position de Génération Écologie (porte-parole Quentin Guillemain) : maintenir le soutien humanitaire, financier et militaire à l'Ukraine, renforcer les sanctions sur les énergies fossiles et les engrais russes.",
       "nature": "declaration",

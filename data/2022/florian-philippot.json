@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Sortir de l'Union européenne et de l'euro (Frexit)",
       "detail": "Présenté comme la condition de tous les changements économiques, sociaux, sociétaux et environnementaux.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Abroger le passe sanitaire et rétablir toutes les libertés suspendues",
       "detail": "Rétablissement intégral et définitif des libertés suspendues ou conditionnées pour motif sanitaire.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Interdire le confinement dans la Constitution",
       "detail": "Et sortir des états d'urgence permanents (sanitaire, terroriste).",
       "nature": "programme",
@@ -49,6 +52,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Interdire la reconnaissance faciale en population générale",
       "detail": "Rétablissement du secret médical et vrai droit à l'oubli numérique.",
       "nature": "programme",
@@ -57,6 +61,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Garantir la pérennité de l'argent liquide",
       "detail": "Avec la protection de l'épargne.",
       "nature": "programme",
@@ -65,6 +70,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Transformer le Conseil constitutionnel en assemblée de citoyens tirés au sort",
       "detail": "Assistés de constitutionnalistes ; même modèle proposé pour le CSA.",
       "nature": "programme",
@@ -73,6 +79,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Instaurer la proportionnelle intégrale à toutes les élections",
       "detail": "Volet institutions et souveraineté populaire.",
       "nature": "programme",
@@ -81,6 +88,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Mettre en place un vrai référendum d'initiative citoyenne",
       "detail": "Et rendre le référendum obligatoire pour modifier la Constitution.",
       "nature": "programme",
@@ -89,6 +97,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Réduire le nombre de parlementaires et sanctionner l'absentéisme",
       "detail": "Sanction pouvant aller jusqu'à la perte du mandat.",
       "nature": "programme",
@@ -97,6 +106,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les conseils régionaux et les CESER",
       "detail": "Et revaloriser le rôle du maire.",
       "nature": "programme",
@@ -159,6 +169,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Sortir du marché européen de l'électricité",
       "detail": "Pour reprendre la main sur les prix de l'énergie.",
       "nature": "programme",
@@ -167,6 +178,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Rétablir les monopoles d'EDF et de GDF",
       "detail": "Fin de la libre concurrence dans l'énergie.",
       "nature": "programme",
@@ -202,6 +214,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Nationaliser au moins une grande banque",
       "detail": "Pour retirer à la finance sa mainmise sur l'économie réelle ; planification stratégique d'État.",
       "nature": "programme",
@@ -210,6 +223,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Instaurer une fiscalité progressive selon la taille de l'entreprise",
       "detail": "Les TPE/PME doivent payer moins que les grands groupes ; lutte totale contre l'évasion fiscale.",
       "nature": "programme",
@@ -218,6 +232,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser immédiatement la fiscalité sur les carburants, le gaz et l'électricité",
       "detail": "Et augmenter les salaires et les retraites par la relance permise par le Frexit.",
       "nature": "programme",
@@ -226,6 +241,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Faire de la protection animale une grande cause nationale",
       "detail": "Volet protection animale.",
       "nature": "programme",
@@ -234,6 +250,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Rendre l'uniforme obligatoire à l'école",
       "detail": "École de la transmission des savoirs fondamentaux, cours de morale, interdiction de l'écriture inclusive.",
       "nature": "programme",
@@ -242,6 +259,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Mettre un coup d'arrêt au tout-numérique dans l'apprentissage",
       "detail": "Notamment pour une parfaite maîtrise de l'écriture manuscrite.",
       "nature": "programme",
@@ -250,6 +268,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Rendre inéligibles à vie les élus condamnés pour corruption",
       "detail": "Alourdissement des peines et interdiction du pantouflage entre haute fonction publique et grands groupes.",
       "nature": "programme",
@@ -258,6 +277,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "regroupement_familial",
       "titre": "Mettre fin au regroupement familial en sortant de la CEDH",
       "detail": "Arrêt des flux d'immigration massive.",
       "nature": "programme",
@@ -266,6 +286,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Sortir de l'espace Schengen et rétablir la maîtrise des frontières",
       "detail": "Pression accrue sur les pays refusant de reprendre leurs ressortissants sous OQTF.",
       "nature": "programme",
@@ -274,6 +295,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Exécuter systématiquement les peines",
       "detail": "Et amplifier la lutte contre le trafic de drogues.",
       "nature": "programme",
@@ -282,6 +304,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Sortir de l'OTAN et refuser toute armée européenne",
       "detail": "Refus de tout partage du siège permanent de la France au Conseil de sécurité.",
       "nature": "programme",
@@ -290,6 +313,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Nouer des partenariats stratégiques avec toutes les puissances, dont la Russie",
       "detail": "Valorisation de l'espace maritime français et de la Francophonie.",
       "nature": "programme",
@@ -298,6 +322,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Doubler le budget de la défense en cinq ans",
       "detail": "Construction de deux porte-avions nucléaires.",
       "nature": "programme",
@@ -306,6 +331,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Abandonner le SCAF et le MGCS au profit de programmes 100 % français",
       "detail": "Avion de combat et char lourd du futur nationaux ; consolidation de l'industrie militaire, si besoin par nationalisation.",
       "nature": "programme",
@@ -323,6 +349,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Créer une grande École française d'architecture",
       "detail": "Et un plan de sauvetage du patrimoine matériel et naturel (volet « Embellir la France »).",
       "nature": "programme",

@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Instaurer un septennat présidentiel unique non renouvelable",
       "detail": "Proposition de son livre « Réveillons-nous ! » (Robert Laffont, 7 mai 2026).",
       "nature": "livre",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Faire présider le Conseil des ministres par le Premier ministre",
       "detail": "Premier ministre responsable devant le Parlement.",
       "nature": "livre",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Introduire une dose de proportionnelle aux élections législatives",
       "detail": "Proportion non précisée.",
       "nature": "livre",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Revoir la procédure de dissolution de l'Assemblée",
       "detail": "Décision jugée « trop importante pour dépendre de la seule intuition d'un président ».",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Légiférer moins et mieux appliquer les lois existantes",
       "detail": "Moins de nouvelles lois, plus d'effort de mise en œuvre.",
       "nature": "declaration",
@@ -72,6 +77,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Créer un impôt minimal de 15 % pour les plus aisés",
       "detail": "Impôt minimal de 15 % « sur les personnes les plus aisées », mis en avant lors du lancement de son livre « Réveillons-nous ! » (info.fr, Le Tribunal du Net, 6 mai 2026).",
       "nature": "livre",
@@ -80,6 +86,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "autre",
       "titre": "Créer un ministère de l'Immigration et de l'Intégration",
       "detail": "Mesure présentée lors du lancement de son livre « Réveillons-nous ! » (info.fr, Le Tribunal du Net, 6 mai 2026).",
       "nature": "livre",
@@ -97,6 +104,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Plafonner l'abattement fiscal de 10 % des retraités plutôt que geler les pensions",
       "detail": "Position exprimée dans le débat sur le budget 2027 : « plus juste d'intervenir par l'impôt », les pensions devant rester indexées.",
       "nature": "declaration",
@@ -105,6 +113,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Cibler l'aide aux carburants sur les ménages en difficulté et la simplifier",
       "detail": "Réévaluer l'aide existante et la rendre plus accessible, sans rétablir de remise générale à la pompe.",
       "nature": "declaration",

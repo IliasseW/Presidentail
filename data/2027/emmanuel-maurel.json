@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Lancer un grand emprunt national de 300 milliards d'euros dès 2027",
       "detail": "Pour financer l'investissement, la transition écologique et la réindustrialisation ; objectif de croissance d'au moins 2 % par an.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Créer un ministère de l'Industrie doté d'un fonds souverain",
       "detail": "Indépendant de Bercy, avec possibilité de nationaliser des secteurs stratégiques.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Imposer un contenu local dans les 170 milliards d'euros de commande publique annuelle",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -47,6 +50,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Ramener la TVA sur l'électricité à 5,5 %",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -64,6 +68,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 700 euros net et indexer les salaires sur l'inflation",
       "detail": "Aides aux entreprises conditionnées à la négociation salariale ; interdiction des minima de branche inférieurs au SMIC.",
       "nature": "programme",
@@ -72,6 +77,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter le point d'indice des fonctionnaires d'au moins 10 % sur le quinquennat",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -80,6 +86,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Créer un « dividende salarié » au-delà de 50 % des bénéfices distribués",
       "detail": "Lorsque l'entreprise distribue plus de la moitié de son bénéfice net en dividendes ou rachats d'actions.",
       "nature": "programme",
@@ -88,6 +95,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Rétablir l'ISF et taxer les fortunes de plus de 100 millions d'euros",
       "detail": "Relever le prélèvement forfaitaire unique à 40 %.",
       "nature": "programme",
@@ -96,6 +104,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Revoir les 465 niches fiscales (environ 90 milliards d'euros par an)",
       "detail": "Dont le crédit d'impôt recherche et le pacte Dutreil ; recruter des inspecteurs des impôts.",
       "nature": "programme",
@@ -131,6 +140,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Réserver au moins 30 % des sièges des conseils d'administration aux salariés",
       "detail": "Dans les entreprises de plus de 50 salariés ; fonds public pour les coopératives et les reprises par les salariés.",
       "nature": "programme",
@@ -166,6 +176,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Confier crèches et EHPAD à des opérateurs publics ou non lucratifs",
       "detail": "Avec des normes d'encadrement renforcées.",
       "nature": "programme",
@@ -237,6 +248,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer une journée annuelle de référendum",
       "detail": "Une partie des questions issue de l'initiative citoyenne.",
       "nature": "programme",
@@ -245,6 +257,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Limiter voire supprimer le droit de dissolution du président",
       "detail": "Réduire aussi son pouvoir de nomination.",
       "nature": "programme",
@@ -253,6 +266,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Réserver à terme le financement public aux seules écoles publiques",
       "detail": "Réduction progressive du financement des écoles privées.",
       "nature": "programme",
@@ -261,6 +275,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup et la réforme du lycée de 2019",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
@@ -269,6 +284,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Inscrire l'audiovisuel public dans la Constitution",
       "detail": "Défendre l'exception culturelle, le régime des intermittents et le prix unique du livre.",
       "nature": "programme",
@@ -277,6 +293,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Créer un réseau de 40 universités francophones à l'étranger",
       "detail": "« Réseau Descartes », objectif de 200 000 étudiants par an d'ici 2045.",
       "nature": "programme",
@@ -285,6 +302,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Créer une police républicaine de proximité",
       "detail": "Renforcer la police judiciaire contre le narcotrafic ; « tolérance zéro » sur la violence et les armes blanches chez les jeunes.",
       "nature": "programme",
@@ -293,6 +311,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Augmenter le budget de la Justice et le nombre de procureurs",
       "detail": "Budget actuel de 12 milliards d'euros ; loi-cadre contre les violences sexuelles.",
       "nature": "programme",
@@ -301,6 +320,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs sans papiers et maintenir le droit du sol",
       "detail": "Concentrer les éloignements sur les étrangers sous OQTF pour infractions graves.",
       "nature": "programme",
@@ -309,6 +329,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Créer un service public de l'intégration",
       "detail": "Cours de français financés pour tout arrivant, délais d'instruction réduits pour l'asile et les titres de séjour.",
       "nature": "programme",
@@ -317,6 +338,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Renégocier la contribution française au budget de l'UE pour obtenir un rabais",
       "detail": "Contribution passée de 23 à 28 milliards d'euros ; opposition au « 28e régime » et au fédéralisme.",
       "nature": "programme",
@@ -325,6 +347,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Exclure les investissements écologiques et numériques du calcul du déficit",
       "detail": "Comme pour la défense.",
       "nature": "programme",
@@ -333,6 +356,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Porter le budget de la défense à 3 % du PIB",
       "detail": "Enveloppe de 100 milliards d'euros ; renforcer la loi de programmation militaire, la cyberdéfense et les drones.",
       "nature": "programme",
@@ -341,6 +365,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Suspendre l'accord commercial UE-Israël",
       "detail": "Soutien à la reconnaissance de la Palestine et à une initiative méditerranéenne.",
       "nature": "programme",
@@ -358,6 +383,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Défiscaliser les pensions alimentaires et revaloriser l'allocation de soutien familial",
       "detail": "Faire des familles monoparentales une priorité nationale.",
       "nature": "declaration",

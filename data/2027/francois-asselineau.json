@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Activer l'article 50 du TUE dès la première semaine du mandat",
       "detail": "Sortie de l'UE sous deux ans, sans référendum préalable : l'élection vaudrait mandat.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Sortir de l'euro et revenir au franc à parité 1 pour 1",
       "detail": "Conversion à raison d'un nouveau franc pour un euro ; il estime à environ 15 % la dépréciation face au dollar, favorable aux exportations.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Se retirer des organisations mondiales jugées menaçantes pour la France",
       "detail": "Un des « fondamentaux » de l'UPR, avec l'incessibilité de l'arme nucléaire et du siège permanent à l'ONU.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Sortir de l'OTAN sous un an",
       "detail": "Notification immédiate au département d'État américain au titre de l'article 13 du traité de l'Atlantique Nord.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Arrêter immédiatement toute aide financière et militaire à l'Ukraine",
       "detail": "Dès la prise de fonction.",
       "nature": "declaration",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "dissuasion",
       "titre": "Revenir à une dissuasion nucléaire strictement nationale",
       "detail": "Retour à la doctrine gaullienne et coopération avec l'ensemble du monde.",
       "nature": "declaration",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Rétablir le contrôle des frontières pour les personnes, marchandises et capitaux",
       "detail": "Pour lutter contre les délocalisations et l'évasion fiscale des grands groupes ; contrôle des mouvements de capitaux supprimé en 1986.",
       "nature": "declaration",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Lancer un grand emprunt national pour racheter la dette détenue à l'étranger",
       "detail": "Emprunt réservé aux Français ; il écarte les suppressions massives de postes de fonctionnaires et mise sur la croissance.",
       "nature": "declaration",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Diviser par deux le budget de la présidence de la République",
       "detail": "Revente de la majeure partie des avions présidentiels et fin du statut non officiel de Première dame.",
       "nature": "declaration",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Réduire le nombre de députés et ramener les sénateurs de 348 à 100",
       "detail": "Proposition rappelée lors des sénatoriales, sur le modèle des États-Unis.",
       "nature": "declaration",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les régions et la moitié des conseillers départementaux",
       "detail": "Économie estimée à 6 Md€.",
       "nature": "declaration",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "Annoncé lors du lancement de campagne du 30 septembre 2026.",
       "nature": "declaration",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Reconnaître le vote blanc",
       "detail": "Un des « fondamentaux » affichés par l'UPR.",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Organiser de grands référendums sur l'immigration, la dette et le nucléaire",
       "detail": "Un des « fondamentaux » affichés par l'UPR.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Affirmer la primauté du peuple sur le Conseil constitutionnel",
       "detail": "Mesure de « démocratie directe » annoncée lors du discours de rentrée.",
       "nature": "declaration",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Imposer un questionnaire de transparence aux candidats à la présidentielle",
       "detail": "Autres nationalités, liens avec la French American Foundation ou le Bilderberg, appartenance à des loges, financement et dettes des partis.",
       "nature": "declaration",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Inscrire la liberté d'expression dans la Constitution, comme le 1er amendement américain",
       "detail": "Sanctuarisation constitutionnelle de la liberté d'expression.",
       "nature": "declaration",
@@ -150,6 +167,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Constitutionnaliser une « République laïque de tradition chrétienne » par référendum",
       "detail": "Proposition à soumettre aux Français par référendum.",
       "nature": "declaration",
@@ -176,6 +194,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Terminer chaque JT et bulletin météo du service public par l'outre-mer",
       "detail": "Pour lutter contre la méconnaissance des outre-mer.",
       "nature": "declaration",
@@ -184,6 +203,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Créer des échanges scolaires d'environ six semaines entre métropole et outre-mer",
       "detail": "Échanges d'environ un mois et demi entre élèves de l'Hexagone et des territoires ultramarins.",
       "nature": "declaration",

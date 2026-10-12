@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le RIC et le référendum d'initiative gouvernementale (RIG)",
       "detail": "RIC sur des textes proposés par le peuple et validés par signatures ; RIG à l'initiative du président, sans limite annuelle ; le résultat ferait loi, mis en œuvre par l'Assemblée.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Consulter les citoyens par échantillons tirés au sort à trois niveaux",
       "detail": "Consultations en ligne d'un million puis de dix millions de personnes tirées au sort, puis référendum général, avec information préalable.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Supprimer l'article 49.3",
       "detail": "Dans le cadre d'une révision de la Constitution redéfinissant le rôle des assemblées.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Créer une assemblée citoyenne hors partis chargée des efforts budgétaires",
       "detail": "L'assemblée proposerait les économies budgétaires, ensuite soumises à référendum ; le manifeste souhaite à terme la disparition des partis politiques.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Revenir à l'équilibre budgétaire de l'État, de la Sécurité sociale et des retraites",
       "detail": "Ne plus financer le fonctionnement par la dette (déficit d'environ 150 Md€ par an, dette de 3 500 Md€, 80 Md€ d'intérêts), l'emprunt restant admis pour l'investissement.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réduire les dépenses sans créer de nouvelles taxes",
       "detail": "Efforts portant sur les remboursements, le chômage, les prestations, les niches fiscales et les aides aux entreprises, avec études d'impact des aides.",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Limiter les hausses d'impôt aux hauts revenus et lutter contre l'optimisation fiscale",
       "detail": "Contrôles renforcés, taxation de la finance internationale et limitation des flux vers les paradis fiscaux.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "autre",
       "titre": "Prendre en compte les heures de bénévolat dans le calcul de l'impôt",
       "detail": "Mesure du volet fiscal du manifeste.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Exonérer d'impôts les entreprises pendant leurs trois premières années",
       "detail": "Aucun impôt et charges sociales symboliques pendant trois ans ; procédures d'alerte et intervention de l'État pour sauver les entreprises « méritantes ».",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Relocaliser la production des biens stratégiques",
       "detail": "Médicaments, masques, vaccins, poudre militaire, engrais, semences ; transformer le bois en France plutôt qu'exporter les grumes.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Imposer des durées de garantie contre l'obsolescence programmée",
       "detail": "Avec généralisation de la consigne des bouteilles en verre et suppression progressive des emballages non essentiels.",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Simplifier l'achat de bons du Trésor par les particuliers",
       "detail": "Mesure du volet économique du manifeste.",
       "nature": "programme",
@@ -155,6 +167,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "S'opposer à l'accord UE-Mercosur et renégocier certaines directives",
       "detail": "Renégociation des directives jugées pénalisantes ; réforme de l'unanimité dans l'UE et du droit de veto à l'ONU.",
       "nature": "programme",
@@ -163,6 +176,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Maintenir une armée de 250 000 militaires et développer les drones",
       "detail": "Budget annuel de 50 Md€ et refus d'une « économie de guerre ».",
       "nature": "programme",
@@ -171,6 +185,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Créer de nouvelles unités du RAID et du GIGN",
       "detail": "Ouverture de commissariats là où c'est nécessaire, peines alourdies et effectivement appliquées, moyens accrus pour la justice.",
       "nature": "programme",
@@ -179,6 +194,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Exiger une demande préalable en ambassade pour l'immigration économique",
       "detail": "Les migrants clandestins ne recevraient aucune aide et seraient renvoyés vers leur pays d'origine.",
       "nature": "programme",
@@ -187,6 +203,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Limiter l'accueil humanitaire à un séjour temporaire sans naturalisation",
       "detail": "Retour prévu, travaux bénévoles ; accueil conditionné à la garantie financière d'un contribuable français.",
       "nature": "programme",
@@ -195,6 +212,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "regroupement_familial",
       "titre": "Revoir le regroupement familial et réduire l'aide médicale d'État",
       "detail": "L'AME est jugée « incohérente » par le manifeste.",
       "nature": "programme",
@@ -203,6 +221,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Ramener la scolarité primaire et secondaire à 12 ans au lieu de 15",
       "detail": "Avec davantage de stages et des journées thématiques ; réflexion sur la pertinence du baccalauréat.",
       "nature": "programme",

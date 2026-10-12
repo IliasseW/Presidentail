@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Plafonner le prix de l'essence à 1,70 euro le litre jusqu'au 31 décembre",
       "detail": "En s'inspirant de l'Espagne ; mesure générale plutôt que ciblée.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Organiser une conférence salariale après la présidentielle",
       "detail": "Avec négociations de branche et aides aux entreprises conditionnées.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Rétablir l'impôt de solidarité sur la fortune (ISF)",
       "detail": "Seul impôt nouveau envisagé ; elle en fait un préalable à tout débat sur les retraites.",
       "nature": "declaration",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Supprimer les aides injustifiées aux entreprises et réformer le train de vie de l'État",
       "detail": "Exclut tout effacement, même partiel, de la dette.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Refuser le transfert des cotisations sociales vers le budget de l'État",
       "detail": "Opposition à la baisse de CSG compensée par l'État proposée par Raphaël Glucksmann, jugée « dangereuse ».",
       "nature": "declaration",
@@ -63,6 +68,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Appliquer la tolérance zéro envers les agresseurs et les violences faites aux enfants",
       "detail": "Dans le cadre d'un « ordre juste » pour l'éducation, la santé et la sécurité du quotidien.",
       "nature": "declaration",
@@ -80,6 +86,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Décréter une « urgence énergétique » pour les PME",
       "detail": "Contenu non détaillé.",
       "nature": "declaration",
@@ -88,6 +95,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Faire de la France une « puissance médiatrice »",
       "detail": "Redonner à la France une stature diplomatique.",
       "nature": "declaration",
@@ -96,6 +104,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Combiner soutien à l'Ukraine et négociation avec la Russie",
       "detail": "Diplomatie en priorité pour « une paix juste et durable », sans exclure de négocier avec Moscou.",
       "nature": "declaration",
@@ -104,6 +113,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Reconnaître un génocide à Gaza",
       "detail": "Position exprimée lors du premier débat (23 septembre 2026).",
       "nature": "declaration",

@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 600 euros net par mois",
       "detail": "Mesure du cahier « statut des travailleurs essentiels ». Certains médias citent 1 700 € net.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer les salaires sur l'inflation",
       "detail": "Comme jusqu'en 1982 ; mise en conformité des minima de branche avec le SMIC.",
       "nature": "programme",
@@ -129,6 +131,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Faire siéger les salariés en nombre aux conseils d'administration",
       "detail": "Mesure du cahier « travaillisme écologique ».",
       "nature": "programme",
@@ -137,6 +140,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Taxer de 4 % les dividendes des entreprises qui versent plus de 10 M€",
       "detail": "Taux de 2 % en dessous de ce seuil.",
       "nature": "programme",
@@ -145,6 +149,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Aligner le salaire du Président de la République sur le SMIC",
       "detail": "« Un Smic me suffira », contre environ 16 000 € par mois aujourd'hui ; même cohérence demandée pour les ministres.",
       "nature": "declaration",
@@ -153,6 +158,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Supprimer les avantages à vie des anciens présidents et Premiers ministres",
       "detail": "Fin de la rente post-mandat et des avantages matériels ; protection policière maintenue si nécessaire.",
       "nature": "programme",
@@ -161,6 +167,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Économiser 20 millions d'euros sur le budget de l'Élysée",
       "detail": "Présenté comme l'équivalent de 400 postes d'infirmières.",
       "nature": "programme",
@@ -169,6 +176,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Convoquer des états généraux de la fiscalité",
       "detail": "Avec des sièges pour les artisans, les retraités et les salariés.",
       "nature": "declaration",
@@ -177,6 +185,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Créer une Haute Autorité à la probité",
       "detail": "Fusion de la HATVP, de la Commission des comptes de campagne et de l'AFA, avec pouvoirs d'enquête et de sanction.",
       "nature": "programme",
@@ -185,6 +194,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Interdire le pantouflage des ministres pendant 10 ans",
       "detail": "Période de refroidissement de 10 ans pour les ministres sortants et leurs équipes ; rétro-pantouflage interdit.",
       "nature": "programme",
@@ -193,6 +203,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Imposer la démission de tout ministre mis en examen",
       "detail": "Départ immédiat du Gouvernement en cas de mise en examen.",
       "nature": "programme",
@@ -201,6 +212,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Exiger un casier judiciaire vierge des candidats à un mandat",
       "detail": "Bulletin n° 2 vierge de certaines condamnations ; candidats à l'Élysée à jour de leurs impôts et sans conflit d'intérêts.",
       "nature": "programme",
@@ -209,6 +221,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Supprimer la Cour de justice de la République",
       "detail": "Fin de l'inviolabilité pénale et civile du Président et du privilège de juridiction des ministres.",
       "nature": "programme",
@@ -217,6 +230,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Retirer au Gouvernement la nomination des magistrats du parquet",
       "detail": "Abrogation de ce pouvoir de nomination ; nominations collégiales selon une procédure publique.",
       "nature": "programme",
@@ -225,6 +239,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Supprimer la convention judiciaire d'intérêt public (CJIP)",
       "detail": "Sauf pour la corruption transnationale entre entreprises.",
       "nature": "programme",
@@ -233,6 +248,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Encadrer le lobbying et interdire tout cadeau aux décideurs publics",
       "detail": "Plafond de dépenses des lobbies, origine des amendements rendue publique, cahier des « visiteurs du soir ».",
       "nature": "programme",
@@ -241,6 +257,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Limiter le recours aux cabinets de conseil et publier leurs missions",
       "detail": "Publication de chaque mission (objet, montant, livrables) et plan de réinternalisation des compétences publiques.",
       "nature": "programme",
@@ -249,6 +266,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Soumettre au Parlement les rachats de fleurons industriels par l'étranger",
       "detail": "Avis de la commission des affaires économiques de l'Assemblée ; nationalisation d'entreprises stratégiques si nécessaire.",
       "nature": "programme",
@@ -257,6 +275,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Lancer un plan « Salles des fêtes et maisons du peuple » d'1 Md€ par an",
       "detail": "Pendant cinq ans : rénovation et création d'équipements, ouverture des bâtiments publics hors temps scolaire.",
       "nature": "programme",
@@ -265,6 +284,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Adopter une loi-cadre garantissant un droit aux vacances",
       "detail": "Premier séjour collectif financé pour chaque enfant pendant la scolarité obligatoire ; guichet unique des aides vacances.",
       "nature": "programme",
@@ -300,6 +320,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Rendre le BAFA gratuit",
       "detail": "Avec le financement de l'embauche d'animateurs pour les accueils de loisirs.",
       "nature": "programme",
@@ -308,6 +329,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Rétablir la part collective du Pass Culture et l'ouvrir aux adultes précaires",
       "detail": "Avec une prise en charge de la moitié des licences sportives pour les familles modestes.",
       "nature": "programme",
@@ -316,6 +338,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Créer un statut du bénévole avec un congé d'une demi-journée par mois",
       "detail": "Congé sans perte de revenu, droit à la formation, prise en compte pour la retraite.",
       "nature": "programme",
@@ -324,6 +347,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Rétablir 60 000 contrats aidés associatifs et doubler les postes FONJEP",
       "detail": "Aide FONJEP portée à 15 000 € par poste ; subventions pluriannuelles de 3 à 5 ans.",
       "nature": "programme",
@@ -350,6 +374,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Sortir des traités de libre-échange, dont le CETA et le Mercosur",
       "detail": "Avec une « exception agricole » : quotas d'importation et barrières douanières.",
       "nature": "programme",
@@ -547,6 +572,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "Et organiser des référendums sur les mesures écologiques.",
       "nature": "programme",
@@ -564,6 +590,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Créer un délit pénal de manquement au devoir de vigilance",
       "detail": "Et un délit de faute systémique pour les dirigeants en matière environnementale.",
       "nature": "programme",
@@ -581,6 +608,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Relocaliser 100 produits essentiels à la transition écologique",
       "detail": "Batteries, véhicules électriques, pompes à chaleur, isolants, turbines, matériel ferroviaire.",
       "nature": "programme",
@@ -589,6 +617,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Renforcer les moyens des SDIS et mieux indemniser les pompiers volontaires",
       "detail": "Formation accrue aux feux de forêt et équipements renforcés.",
       "nature": "programme",
@@ -633,6 +662,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup",
       "detail": "Proposition commune avec Dominique de Villepin le 5 octobre 2026.",
       "nature": "declaration",
@@ -641,6 +671,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Abaisser l'âge du droit de vote à 16 ans",
       "detail": "Défendu avec Dominique de Villepin le 5 octobre 2026.",
       "nature": "declaration",
@@ -649,6 +680,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Sanctuariser la part de l'Éducation nationale dans le budget de l'État",
       "detail": "Même si le nombre d'élèves baisse ; plan d'urgence de rénovation des bâtiments scolaires.",
       "nature": "declaration",

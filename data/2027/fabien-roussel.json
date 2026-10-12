@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Doubler la part de l'industrie dans le PIB",
       "detail": "Annoncé au JT de TF1 le jour de sa déclaration de candidature ; sans échéance précisée.",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter les salaires et les indexer sur les prix",
       "detail": "Présenté comme une proposition à venir par Ian Brossat, directeur de campagne, sur le modèle belge.",
       "nature": "declaration",
@@ -39,6 +41,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Faire de la lutte contre la fraude fiscale un engagement majeur",
       "detail": "La campagne chiffre la fraude fiscale à 100 milliards d'euros par an (Ian Brossat).",
       "nature": "declaration",
@@ -47,6 +50,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser la TVA sur les carburants de 20 % à 5,5 %",
       "detail": "Revendication de la campagne exposée par Ian Brossat, directeur de campagne (29/09/2026) ; Roussel a mené le 22/09/2026 une « opération carburant » pour rendre majoritaire la baisse de la TVA sur le carburant.",
       "nature": "declaration",
@@ -55,6 +59,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Supprimer les certificats d'économie d'énergie (CEE)",
       "detail": "Selon Ian Brossat, la transition écologique « ne doit pas être financée par les classes populaires et moyennes » via les CEE répercutés sur les prix.",
       "nature": "declaration",
@@ -63,6 +68,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Nationaliser TotalEnergies s'il ne baisse pas ses marges sur les carburants",
       "detail": "À la Fête de l'Humanité, Roussel demande à TotalEnergies de baisser le litre de 30 à 50 centimes, faute de quoi « il faudra la nationaliser » (« nationalisation-sanction ») ; Ian Brossat plaide le 29/09 pour nationaliser Total.",
       "nature": "declaration",
@@ -71,6 +77,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Obtenir un cessez-le-feu rapide entre l'Ukraine et la Russie",
       "detail": "Roussel souhaite un « cessez-le-feu rapide » et une France plus active sur le plan diplomatique ; il juge la France et l'UE « passives, soumises » dans ce conflit.",
       "nature": "declaration",
@@ -79,6 +86,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Réorienter des crédits du ministère des Armées vers les services publics",
       "detail": "Il veut « réorienter l'argent du ministère de la guerre vers les services publics » ; son plan jeunesse prévoit aussi de redéployer une partie du budget de la défense.",
       "nature": "declaration",
@@ -87,6 +95,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Consacrer 5 milliards d'euros par an pendant cinq ans à la rénovation des lycées",
       "detail": "« Plan jeunesse 2027-2032 » présenté le 6/10/2026 : 5 Md€ immédiats via une loi de finances rectificative, puis 5 Md€ par an pendant cinq ans pour le bâti scolaire (60 % des établissements construits avant les années 1980).",
       "nature": "declaration",
@@ -95,6 +104,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Recruter 90 000 enseignants pour réduire le nombre d'élèves par classe",
       "detail": "3,5 Md€ prévus dans le Plan jeunesse 2027-2032 pour ces embauches.",
       "nature": "declaration",
@@ -103,6 +113,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Garantir le remplacement des enseignants absents sous 24 heures",
       "detail": "Mesure du Plan jeunesse 2027-2032 ; 15 millions d'heures d'enseignement ne seraient pas remplacées selon Roussel.",
       "nature": "declaration",
@@ -111,6 +122,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Réorganiser le temps scolaire sur 32 heures de cours par semaine, de 9 h à 17 h",
       "detail": "Mesure annoncée dans le Plan jeunesse 2027-2032, avec le renforcement de la démocratie lycéenne.",
       "nature": "declaration",
@@ -119,6 +131,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réaffecter une partie des 211 Md€ d'aides publiques aux entreprises",
       "detail": "Le Plan jeunesse serait financé par la réallocation d'une partie des « 211 milliards d'euros d'aides publiques aux entreprises sans contrepartie » et par un redéploiement du budget de la défense.",
       "nature": "declaration",

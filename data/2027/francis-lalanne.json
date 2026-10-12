@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Sortir de l'Union européenne par un « Frexit organisé »",
       "detail": "Première mesure du volet « Souveraineté » du programme.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Revenir au franc et reprendre en main la Banque de France",
       "detail": "Mesure du volet « Souveraineté ».",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Restaurer l'amitié franco-russe via les BRICS et relancer la francophonie",
       "detail": "Volet « International » du programme.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Refonder la relation avec l'Afrique sur une base partenariale",
       "detail": "Rupture avec une politique africaine qualifiée de coloniale, au profit d'une politique « partenariale et fraternelle ».",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Sortir de l'OTAN",
       "detail": "Mesure répétée dans les volets « Souveraineté » et « Paix ».",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Retirer les troupes françaises engagées dans des territoires en guerre",
       "detail": "Volet « Paix » : retrait des troupes déployées dans des zones de conflit à l'étranger.",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Mettre fin aux subventions versées à des pays en guerre",
       "detail": "Volet « Paix » du programme.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Inscrire le RIC en toutes matières dans la Constitution",
       "detail": "Référendum d'initiative citoyenne constitutionnalisé, avec convocation d'une assemblée constituante.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Filmer le Conseil des ministres",
       "detail": "Transparence gouvernementale par des caméras au Conseil des ministres.",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Bloquer l'influence des lobbys et des puissances étrangères",
       "detail": "Volet « Démocratie » : blocage des lobbys et des influences étrangères ou multinationales.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Aligner le salaire des élus sur le salaire moyen",
       "detail": "Avec une baisse de la rémunération des hauts fonctionnaires (volet « Business d'État »).",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Abroger les lois Pleven, Gayssot et Avia",
       "detail": "Au nom d'une « liberté d'expression totale » ; les lois visées (1972, 1990, 2020) répriment notamment le racisme, le négationnisme et la haine en ligne.",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Interdire constitutionnellement toute discrimination fondée sur le statut médical",
       "detail": "Fin du pass sanitaire et refus des obligations médicales (volet « Liberté »).",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Refuser la facturation électronique et la surveillance systématique",
       "detail": "Volet « Liberté » : refus du « contrôle social » et limitation de l'intrusion de l'État dans la sphère privée.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Reconnaître que l'éducation relève d'abord de la famille",
       "detail": "Volet « Liberté » : limitation de l'intervention de l'État dans l'éducation.",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser les impôts, en priorité les taxes sur les carburants",
       "detail": "Volet « Impôts » du programme, sans chiffrage.",
       "nature": "programme",
@@ -151,6 +167,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Baisser les charges des TPE, PME et artisans",
       "detail": "Avec la fin de la « concurrence déloyale » (volet « Impôts »).",
       "nature": "programme",
@@ -159,6 +176,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Nationaliser des entreprises à vocation sociale et récupérer le patrimoine privatisé",
       "detail": "Volet « Business d'État » : nationalisations rentables pour l'État et restauration du service public.",
       "nature": "programme",
@@ -167,6 +185,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Refondre la justice sur l'indépendance et la séparation des pouvoirs",
       "detail": "« Réforme profonde de la justice » annoncée au lancement de la campagne.",
       "nature": "programme",
@@ -175,6 +194,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Renforcer les effectifs contre la pédocriminalité et les trafics",
       "detail": "Volet « Sécurité » du programme, sans chiffrage.",
       "nature": "programme",
@@ -183,6 +203,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Installer des caméras dans les tribunaux et sur les policiers en intervention",
       "detail": "Enregistrements des audiences, des dépositions et des interventions policières, consultables par des huissiers.",
       "nature": "programme",

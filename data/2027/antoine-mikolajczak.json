@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Donner plus de pouvoirs et de moyens aux territoires",
       "detail": "Priorité « Décider collectivement » du tract de campagne ; le candidat défend la subsidiarité et la stabilité des compétences des élus locaux.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Simplifier le droit et réduire le nombre de normes",
       "detail": "Engagement du tract de campagne « Renouer avec notre avenir ».",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Développer la démocratie directe et les conventions citoyennes",
       "detail": "Engagement du tract de campagne, pour que les citoyens soient « acteurs » des décisions.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Adopter le jugement majoritaire pour les élections qui s'y prêtent",
       "detail": "Position du parti Équinoxe, qui évoque aussi tirage au sort, proportionnelle et sortie du présidentialisme.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Relocaliser les productions agricoles et industrielles",
       "detail": "Priorité « Produire en France » : reprendre la main sur la souveraineté, notamment numérique et sanitaire, « dans le respect des limites planétaires ».",
       "nature": "programme",

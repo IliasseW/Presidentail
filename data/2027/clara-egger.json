@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer un référendum d'initiative citoyenne constituant (RIC)",
       "detail": "Révision de l'article 89 : une révision de la Constitution pourrait être proposée par 700 000 électeurs, avec 18 mois pour recueillir les signatures, puis soumise directement à référendum sans passage par le Parlement.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Soumettre obligatoirement toute révision constitutionnelle à référendum",
       "detail": "Le dispositif combine initiative citoyenne et référendum obligatoire pour toute révision de la Constitution (seules 2 des 25 révisions depuis 1958 sont passées par référendum).",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Permettre aux communes d'instaurer la démocratie directe par simple délibération",
       "detail": "Réforme du Code général des collectivités territoriales ; selon le calendrier proposé, la démocratie directe communale serait possible au plus tard le 17 octobre 2028.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Organiser les référendums sur le RIC constituant dès octobre 2027",
       "detail": "Nomination le 16 mai 2027 d'un gouvernement de transition chargé de lancer le référendum, débats au Parlement sans engagement de responsabilité, organisation des référendums le 9 octobre 2027.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Exercer la présidence comme un « président arbitre »",
       "detail": "La candidate s'engage à un rôle neutre, au-dessus des partis, sans programme de gouvernement au-delà de la réforme démocratique.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "S'engager devant notaire, sur ses biens, à appliquer le calendrier",
       "detail": "Engagement personnel notarié de la candidate ; les autres candidats sont invités à faire de même ou, à défaut, à léguer leurs biens à une association caritative.",
       "nature": "programme",

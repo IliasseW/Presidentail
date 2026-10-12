@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Effectuer un seul mandat présidentiel de cinq ans",
       "detail": "« Si je suis candidat, ce sera pour un seul mandat de cinq ans » pour être « débarrassé de l'obsession de la réélection ».",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Ne pas faire de la culture une variable d'ajustement budgétaire",
       "detail": "Engagement exprimé dans l'entretien à Ouest-France.",
       "nature": "declaration",
@@ -39,6 +41,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Faire des classes moyennes la priorité du projet présidentiel",
       "detail": "Grande ligne annoncée dans Le Figaro ; aucune mesure chiffrée à ce stade.",
       "nature": "declaration",
@@ -47,6 +50,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réduire les dépenses sociales",
       "detail": "Grande ligne annoncée dans Le Figaro, sans montant ni cible précisés.",
       "nature": "declaration",
@@ -82,6 +86,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Renforcer les moyens des sapeurs-pompiers et punir plus sévèrement les incendiaires",
       "detail": "Effectifs, matériel et formation renforcés, débroussaillage développé et application plus stricte du code pénal aux incendiaires volontaires.",
       "nature": "declaration",
@@ -108,6 +113,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Refuser l'application en l'état de l'accord UE-Mercosur",
       "detail": "Saisir la Cour de justice de l'UE si le Parlement européen ne s'y oppose pas.",
       "nature": "declaration",
@@ -116,6 +122,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "autre",
       "titre": "Faire du pouvoir d'achat l'une des toutes premières priorités du projet",
       "detail": "« Ce sera l'une de mes toutes premières priorités quand je présenterai mon projet présidentiel » ; aucune mesure précisée.",
       "nature": "declaration",
@@ -124,6 +131,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Mieux exploiter le potentiel maritime de la France",
       "detail": "« La France n'utilise pas assez le potentiel maritime que nous avons » ; il veut aussi mettre davantage en valeur le patrimoine maritime. Pas de mesure chiffrée.",
       "nature": "declaration",

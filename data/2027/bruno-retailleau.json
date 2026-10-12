@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Soumettre une réforme constitutionnelle à référendum dès l'automne 2027",
       "detail": "« Pacte constitutionnel » en deux textes (loi de révision + « Charte de l'ordre républicain » intégrée au bloc de constitutionnalité), présenté au Parlement en début de mandat puis soumis à référendum à la rentrée 2027.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Élargir le référendum de l'article 11 à l'ensemble du domaine de la loi",
       "detail": "Permettre des référendums législatifs notamment sur l'immigration, la sécurité, la justice, l'éducation et certaines questions de société.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Abaisser le seuil du référendum d'initiative partagée à environ 2,5 millions de signatures",
       "detail": "Contre près de 5 millions de soutiens d'électeurs nécessaires aujourd'hui.",
       "nature": "declaration",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Permettre au peuple ou au Congrès de passer outre une censure du Conseil constitutionnel",
       "detail": "Après censure d'une loi votée, le président pourrait soumettre la question au référendum ou réunir le Parlement en Congrès (« censurer la censure »).",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Instaurer un « bouclier constitutionnel » face au droit européen et international",
       "detail": "Faire prévaloir dans certaines situations la loi française sur le droit européen et la protéger des interprétations des cours européennes et internationales, surtout en matière d'immigration et de sécurité.",
       "nature": "declaration",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Inscrire des peines minimales pour certains crimes et délits graves",
       "detail": "Mesure prévue dans la « Charte de l'ordre républicain », avec un renforcement de la sécurité dans les prisons.",
       "nature": "declaration",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Étendre la rétention de sûreté aux personnes jugées dangereuses après leur peine",
       "detail": "Disposition annoncée dans le volet justice de la « Charte de l'ordre républicain ».",
       "nature": "declaration",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Créer un « état d'urgence anti-trafics » pour les quartiers gangrenés par la drogue",
       "detail": "Régime d'exception nécessitant une révision constitutionnelle, avec bouclage 24h/24 de certains quartiers (50 à 60 selon lui) et contrôle des entrées et sorties.",
       "nature": "declaration",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Allonger la durée de la détention provisoire contre le narcotrafic",
       "detail": "Volet judiciaire du plan anti-trafics présenté à Nanterre, complété par des mesures pour frapper financièrement les trafiquants.",
       "nature": "declaration",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Appliquer aux mineurs des peines courtes et exécutées dès les premiers délits",
       "detail": "Sanctions « courtes, systématiques et effectivement exécutées » pour les mineurs délinquants.",
       "nature": "declaration",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Supprimer le droit du sol par référendum",
       "detail": "Fin de l'acquisition de la nationalité par le droit du sol, tranchée par référendum après révision constitutionnelle.",
       "nature": "declaration",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Instaurer des plafonds migratoires",
       "detail": "Prévu dans la « Charte de l'ordre républicain » soumise à référendum.",
       "nature": "declaration",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Faciliter l'expulsion des étrangers condamnés ou représentant une menace grave",
       "detail": "Mesure du volet immigration de la réforme constitutionnelle.",
       "nature": "declaration",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Renforcer l'exigence d'assimilation pour obtenir la nationalité française",
       "detail": "Volet nationalité de la « Charte de l'ordre républicain ».",
       "nature": "declaration",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Conditionner le Revenu familial à 5 ans de résidence régulière et d'activité",
       "detail": "Le Revenu familial serait réservé aux parents en situation régulière exerçant une activité professionnelle depuis au moins cinq ans, avec suspension possible par décision de justice.",
       "nature": "programme",
@@ -170,6 +185,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Exonérer d'impôt et de cotisations les heures travaillées au-delà du seuil légal",
       "detail": "Seuil « zéro cotisation » : ni impôt ni cotisations salariales et patronales (hors CSG-CRDS) au-delà de 1 607 h ; gain estimé à environ 2 800 € net/an pour un salaire de 2 115 € net.",
       "nature": "declaration",
@@ -178,6 +194,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Remplacer RSA, prime d'activité et ASS par un revenu d'incitation à l'activité",
       "detail": "Le RIA serait conditionné à 15 heures d'activité hebdomadaire et cumulable avec un salaire.",
       "nature": "declaration",
@@ -186,6 +203,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Plafonner le total des aides sociales d'un foyer à 70 % du SMIC",
       "detail": "Via un « compte social unique » retraçant l'ensemble des aides perçues ; économies estimées à environ 10 Md€.",
       "nature": "declaration",
@@ -221,6 +239,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Supprimer dès l'élection les 50 règles les plus pénalisantes pour les entreprises",
       "detail": "Exemples : seuil de 50 salariés relevé à 100, CSE à partir de 50 salariés, principe de précaution remplacé par un principe de responsabilité.",
       "nature": "programme",
@@ -229,6 +248,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Refonder le code du travail sur 50 principes et renvoyer le reste à la négociation",
       "detail": "Hors socle de 50 principes indérogeables, l'accord d'entreprise (ou de branche) primerait ; accords possibles par référendum à l'initiative de l'employeur.",
       "nature": "programme",
@@ -237,6 +257,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Appliquer la règle du « un pour un » et créer une autorité de contrôle des normes",
       "detail": "Tout euro de coût réglementaire nouveau compensé par la suppression d'un euro existant ; autorité indépendante dotée d'un droit de veto sur les règles excessives.",
       "nature": "programme",
@@ -245,6 +266,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Interdire toute surtransposition des règles européennes",
       "detail": "« La France n'imposera jamais plus que ce que l'Europe exige » ; création d'une cellule de veille réglementaire à Bruxelles.",
       "nature": "programme",
@@ -253,6 +275,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Baisser de plus de 25 Md€ le coût du travail pour les entreprises",
       "detail": "Via le seuil « zéro cotisation » et une baisse des cotisations patronales non contributives ; handicap fiscal réduit de 40 Md€ sur 67 Md€, avec stabilité fiscale garantie pendant 5 ans.",
       "nature": "programme",
@@ -261,6 +284,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer la C3S et la CVAE et exonérer la part industrielle de la CFE",
       "detail": "Allègement d'environ 15 Md€ des impôts de production (C3S 5,3 Md€, CVAE 4,3 Md€, CFE industrielle 1,9 Md€) et réforme du forfait social.",
       "nature": "programme",
@@ -269,6 +293,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Garantir aux industriels un contrat d'électricité nucléaire de long terme",
       "detail": "Remplacer le Versement nucléaire universel par un contrat de type Exeltium sur 15 ans (jusqu'à 30 TWh/an) ; objectif de baisse jusqu'à 10 % du prix de fourniture pour l'industrie.",
       "nature": "programme",
@@ -277,6 +302,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Imposer des clauses de réciprocité dans tous les accords commerciaux européens",
       "detail": "Au moins 50 % des contrôles administratifs consacrés aux produits importés et extension du mécanisme d'ajustement carbone aux frontières aux produits transformés.",
       "nature": "programme",
@@ -285,6 +311,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Créer un Fonds France Production de 600 M€ par an piloté par les régions",
       "detail": "Dédié à la modernisation de l'outil industriel (robotisation, automatisation), complété par un sur-amortissement fiscal et la mobilisation des friches industrielles.",
       "nature": "programme",
@@ -293,6 +320,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Confier l'orientation et les lycées professionnels aux régions et aux entreprises",
       "detail": "Les lycées professionnels convergeraient vers le modèle des CFA ; aides à l'apprentissage recentrées sur les niveaux bac+2 et infra et sur les jeunes NEET (aide à l'embauche de 6 000 €).",
       "nature": "programme",
@@ -310,6 +338,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Différer les droits de succession sur le capital productif tant qu'il n'est pas cédé",
       "detail": "Droits calculés à la transmission mais exigibles seulement en cas de cession, pour les entreprises exerçant une activité productive réelle.",
       "nature": "programme",
@@ -372,6 +401,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Élargir les heures creuses et sortir l'électricité des certificats d'économies d'énergie",
       "detail": "Plages d'heures creuses élargies notamment en été, écart de prix heures pleines/creuses plus incitatif ; coefficient de conversion de l'électricité abaissé de 1,9 à 1,2.",
       "nature": "programme",
@@ -380,6 +410,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Constituer une coalition d'États pro-nucléaires au sein de l'UE",
       "detail": "Pour imposer la neutralité technologique dans les politiques énergétiques européennes et faire respecter la souveraineté française sur le mix énergétique.",
       "nature": "programme",
@@ -424,6 +455,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un Revenu familial de 240 € par mois dès le premier enfant",
       "detail": "Fusion de 12 dispositifs en une allocation versée de la naissance à 18 ans, doublée pour le troisième enfant mineur à charge.",
       "nature": "programme",
@@ -432,6 +464,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Développer des solutions privées de garde pour chaque enfant de moins de trois ans",
       "detail": "Avec un accompagnement des six premiers mois de l'enfant pour préparer le retour au travail.",
       "nature": "programme",
@@ -494,6 +527,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Supprimer l'équivalent de 250 000 postes publics grâce à l'IA d'ici 2032",
       "detail": "125 000 départs à la retraite non remplacés (économie nette d'environ 7,5 Md€) et 125 000 agents redéployés vers le terrain (police, école, hôpital, justice, guichets).",
       "nature": "declaration",
@@ -520,6 +554,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Aligner le salaire des enseignants débutants sur la moyenne européenne",
       "detail": "Environ +135 € net par mois en début de carrière et +300 € net environ en milieu de carrière, avec une vraie gestion des ressources humaines.",
       "nature": "programme",
@@ -528,6 +563,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Instaurer un examen d'entrée en sixième et des groupes de niveau au collège",
       "detail": "Fin du « collège unique » ; redoublement et orientation rendus aux conseils de classe ; note chiffrée rétablie et brevet qui oriente.",
       "nature": "programme",
@@ -536,6 +572,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Créer 1 000 établissements publics innovants dotés d'une autonomie totale",
       "detail": "Établissements « libres » fondés sur le volontariat, pouvant adapter programmes, rythmes et calendrier.",
       "nature": "programme",
@@ -544,6 +581,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Ramener la durée des vacances scolaires à la moyenne européenne",
       "detail": "Davantage d'heures consacrées aux savoirs fondamentaux.",
       "nature": "programme",
@@ -552,6 +590,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Ouvrir au moins un établissement disciplinaire par académie",
       "detail": "Pour les élèves exclus à répétition, encadrés par des professeurs volontaires mieux rémunérés.",
       "nature": "programme",
@@ -560,6 +599,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Limiter les écrans et exclure toute exposition directe des élèves à l'IA avant le lycée",
       "detail": "L'IA serait mise au service des professeurs, jamais à leur place.",
       "nature": "programme",
@@ -568,6 +608,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Instaurer un contrat d'engagement des parents",
       "detail": "Rappelant les règles de l'école et les droits et devoirs des familles, avec des prérogatives renforcées pour les chefs d'établissement.",
       "nature": "declaration",
@@ -576,6 +617,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Supprimer le juge d'application des peines",
       "detail": "Annoncé lors de son premier grand meeting au Parc floral de Paris.",
       "nature": "declaration",
@@ -584,6 +626,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Imposer la castration chimique aux pédocriminels, sans leur consentement",
       "detail": "Annoncé lors du meeting du Parc floral.",
       "nature": "declaration",
@@ -592,6 +635,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Créer une cour disciplinaire pour les magistrats",
       "detail": "Annoncé lors du meeting du Parc floral.",
       "nature": "declaration",
@@ -600,6 +644,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Atteindre l'objectif OTAN de 3,5 % du PIB consacré à la défense",
       "detail": "Au Sénat, lors de l'actualisation de la LPM : il veut lisser l'effort, faute de quoi la marche après 2030 serait trop haute, et le financer par « des économies » et de la richesse nouvelle, pas par l'impôt.",
       "nature": "declaration",
@@ -608,6 +653,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Multiplier par cinq les moyens consacrés à l'IA de défense",
       "detail": "Effort centré sur cybersécurité, drones et systèmes autonomes, robotisation et calcul quantique ; financement par la BPI, la Caisse des dépôts, des partenariats public-privé et l'épargne longue.",
       "nature": "programme",
@@ -616,6 +662,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Commander en priorité aux entreprises françaises et européennes l'IA de défense",
       "detail": "Cyberdéfense, cryptographie, planification militaire, drones, robotique, renseignement, navigation autonome, technologies quantiques.",
       "nature": "programme",
@@ -624,6 +671,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Refuser tout désarmement unilatéral sur les systèmes d'armes autonomes, y compris létaux",
       "detail": "Lignes rouges fixées selon les intérêts vitaux et la doctrine stratégique ; pour la dissuasion, les considérations éthiques « ne valent que si elles sont réciproques ».",
       "nature": "programme",
@@ -659,6 +707,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Transférer la santé scolaire aux départements",
       "detail": "Pour bâtir un « bloc de compétences autour de la santé de l'enfant » ; volet d'une nouvelle étape de décentralisation de l'éducation.",
       "nature": "programme",

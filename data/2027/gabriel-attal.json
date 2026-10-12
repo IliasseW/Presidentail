@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Rétablir le « choc des savoirs » dès le début du mandat",
       "detail": "Groupes de niveau en français et mathématiques au collège ; mesure présentée comme l'une des premières décisions du quinquennat.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Limiter à moins de 20 élèves les classes du primaire",
       "detail": "En s'appuyant sur la baisse démographique (1,7 million d'élèves de moins d'ici 10 ans).",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Rétablir un certificat d'études en fin de CM2",
       "detail": "Avec une « année passerelle » pour les élèves n'ayant pas le niveau.",
       "nature": "declaration",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rendre le brevet obligatoire pour passer en seconde",
       "detail": "Mesure décidée lorsqu'il était ministre puis abandonnée.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Adopter une loi de programmation pour l'école avec un ministre en poste cinq ans",
       "detail": "Entretien au Monde du 25 août 2026.",
       "nature": "declaration",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Fermer les 100 collèges les plus ségrégués",
       "detail": "Répartition de leurs élèves dans d'autres établissements pour favoriser la mixité sociale.",
       "nature": "declaration",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Augmenter les enseignants de 200 € à 500 € net par mois",
       "detail": "200 € net, jusqu'à 500 € net pour les milieux de carrière ; meilleure rémunération des AESH.",
       "nature": "declaration",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Créer un conseil de discipline dès l'école primaire et un barème national des sanctions",
       "detail": "Pour protéger enseignants et chefs d'établissement.",
       "nature": "declaration",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Retrouver en dix ans l'une des premières places du classement PISA",
       "detail": "Objectif affiché du chantier École.",
       "nature": "programme",
@@ -95,6 +104,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Lancer un « choc des salaires » : +250 € net par mois au salaire médian",
       "detail": "Équivalent d'un 13e mois pour les classes moyennes, par baisse des cotisations salariales financée « à l'euro près » par des économies sur le modèle social.",
       "nature": "declaration",
@@ -139,6 +149,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Démassifier le supérieur et réduire la durée des études initiales",
       "detail": "Pour favoriser l'emploi des jeunes (34,5 % contre 50 % en Allemagne selon l'OCDE) et valoriser les métiers manuels.",
       "nature": "programme",
@@ -147,6 +158,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un « livret garde d'enfant » pour financer des places en crèche",
       "detail": "Livret sur le modèle du Livret A ; besoin estimé à 3 Md€ ; former 200 000 professionnels de la petite enfance d'ici 2030.",
       "nature": "programme",
@@ -173,6 +185,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Verser 1 000 € par l'État sur un plan d'épargne de chaque nouveau-né",
       "detail": "Abondable par parents et grands-parents jusqu'aux 18 ans de l'enfant avec avantage fiscal.",
       "nature": "declaration",
@@ -181,6 +194,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Ne pas augmenter la fiscalité de l'assurance-vie ni des successions",
       "detail": "Et faciliter les donations du vivant, notamment aux petits-enfants.",
       "nature": "declaration",
@@ -189,6 +203,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réaliser 150 Md€ d'économies d'ici 2032, dont deux tiers sur la dépense sociale",
       "detail": "Retraites, assurance chômage, arrêts maladie, fonctionnement de l'État et des collectivités.",
       "nature": "declaration",
@@ -197,6 +212,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Ramener le déficit sous 3 % avant la fin du mandat et à zéro en 2037",
       "detail": "Équilibre des comptes sociaux en 2032 ; loi de programmation économique, fiscale et énergétique sur dix ans.",
       "nature": "declaration",
@@ -205,6 +221,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Inscrire une règle d'or budgétaire dans la Constitution par référendum",
       "detail": "Inspirée du modèle allemand.",
       "nature": "declaration",
@@ -213,6 +230,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Activer un « frein d'urgence » budgétaire de 15 Md€ dès l'arrivée à l'Élysée",
       "detail": "Pour éviter une crise de la dette.",
       "nature": "declaration",
@@ -221,6 +239,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Geler les prestations sociales en 2028 (« année blanche »)",
       "detail": "En protégeant les petites retraites.",
       "nature": "declaration",
@@ -229,6 +248,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Supprimer 100 000 postes dans l'État et les collectivités",
       "detail": "Par départs volontaires avec prime et non-remplacement d'une partie des départs en retraite ; Éducation, Armées, Justice et Intérieur sanctuarisés.",
       "nature": "declaration",
@@ -237,6 +257,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Ne pas augmenter les impôts pendant le quinquennat",
       "detail": "Et revenir sur plusieurs taxes décidées depuis la dissolution ; poursuite de la baisse des impôts de production.",
       "nature": "declaration",
@@ -245,6 +266,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Rendre le gouvernement démissionnaire si la trajectoire budgétaire dérive trois ans",
       "detail": "Sauf crise majeure ; départ des ministres ne tenant pas leurs enveloppes ; inéligibilité des parlementaires votant des budgets très endettants.",
       "nature": "declaration",
@@ -262,6 +284,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Réduire le Parlement à 350 députés et 200 sénateurs",
       "detail": "Dans le cadre de « la plus grande réforme institutionnelle depuis 1958 » soumise à référendum (entretien au JDD).",
       "nature": "declaration",
@@ -270,6 +293,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Organiser une journée référendaire chaque année",
       "detail": "Plusieurs questions préparées avec les forces politiques et les partenaires sociaux ; référendums locaux facilités.",
       "nature": "declaration",
@@ -278,6 +302,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Inscrire dans la Constitution un délai de réponse administrative de deux mois",
       "detail": "Et plafonner l'empilement des recours administratifs à 18 mois.",
       "nature": "declaration",
@@ -286,6 +311,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Créer un « spoil system » à la française",
       "detail": "Le président nommerait les responsables administratifs chargés d'appliquer son projet ; réforme des nominations.",
       "nature": "declaration",
@@ -294,6 +320,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Supprimer le juge de l'application des peines et les réductions automatiques",
       "detail": "Fin des aménagements automatiques comme la libération sous contrainte.",
       "nature": "declaration",
@@ -302,6 +329,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Réécrire entièrement le Code de procédure pénale",
       "detail": "Pour simplifier et réduire les délais ; objectif « zéro papier » et IA dans les juridictions.",
       "nature": "declaration",
@@ -310,6 +338,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Construire des places de prison par une loi d'exception",
       "detail": "Inspirée de la reconstruction de Notre-Dame, avec projets d'intérêt national (nombre non précisé).",
       "nature": "declaration",
@@ -318,6 +347,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Recruter 3 000 magistrats et greffiers supplémentaires",
       "detail": "Annoncé dans Le Figaro.",
       "nature": "declaration",
@@ -326,6 +356,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Créer un parquet national de lutte contre la pédocriminalité",
       "detail": "Sur le modèle du PNAT ; perpétuité réelle pour les violeurs en série ; imprescriptibilité des crimes sexuels sur mineurs.",
       "nature": "declaration",
@@ -334,6 +365,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Étendre l'attestation d'honorabilité à tous les employeurs en contact avec des mineurs",
       "detail": "Publics et privés ; premiers actes d'enquête sous 48 h pour les plaintes pédocriminelles.",
       "nature": "declaration",
@@ -342,6 +374,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Créer la comparution immédiate des mineurs et atténuer l'excuse de minorité",
       "detail": "Avec responsabilité des parents et principe « tu casses, tu répares » ; révision constitutionnelle non exclue.",
       "nature": "declaration",
@@ -350,6 +383,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Imposer un dossier préalable et un registre national aux convois de gens du voyage",
       "detail": "Registre pour les groupes de plus de 20 caravanes, facturation au prix d'un camping, délit de maintien illicite, décision du juge sous 48 h.",
       "nature": "declaration",
@@ -358,6 +392,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Instaurer une immigration choisie à points inspirée du Canada",
       "detail": "« Préférence travail » : offre d'emploi stable, logement, maîtrise du français, respect des valeurs.",
       "nature": "programme",
@@ -366,6 +401,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Faire voter par le Parlement des quotas d'immigration de travail tous les deux ans",
       "detail": "Par secteur et par origine, sur la base des besoins identifiés par les partenaires sociaux.",
       "nature": "declaration",
@@ -374,6 +410,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "regroupement_familial",
       "titre": "Encadrer puis réduire le regroupement familial",
       "detail": "« Accueillir moins pour mieux accueillir ».",
       "nature": "programme",
@@ -382,6 +419,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Poursuivre et amplifier le réarmement",
       "detail": "Faire de la dissuasion nucléaire un outil de puissance (doctrine de dissuasion avancée).",
       "nature": "programme",
@@ -390,6 +428,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Rédiger un nouveau Livre blanc de la défense dès 2027",
       "detail": "Revue des programmes d'armement, investissements dans les drones et l'IA, fonds propres pour les entreprises de défense.",
       "nature": "declaration",
@@ -398,6 +437,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Saisir les avoirs russes gelés pour financer l'Ukraine",
       "detail": "Poursuite du soutien et coordination de l'aide militaire européenne, notamment sol-air.",
       "nature": "declaration",
@@ -406,6 +446,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Bâtir les « États-Unis d'Europe » avec un noyau de pays volontaires",
       "detail": "Fusion économique, technologique et écologique, Parlement des eurodéputés concernés et président élu au suffrage universel pan-européen.",
       "nature": "declaration",
@@ -414,6 +455,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Créer une union bancaire et des marchés de capitaux avec un produit d'épargne européen",
       "detail": "Régulateur européen unique.",
       "nature": "declaration",
@@ -422,6 +464,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Taxer les produits chinois vendus à perte et contrôler les investissements chinois",
       "detail": "Acier, voitures électriques, panneaux solaires ; exclusion à l'échelle de l'UE des entreprises sanctionnées pour subventions.",
       "nature": "programme",
@@ -430,6 +473,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Préparer le retour du Royaume-Uni dans l'Union européenne",
       "detail": "Europe des coalitions sans unanimité, notamment sur la défense et l'IA.",
       "nature": "declaration",
@@ -492,6 +536,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Viser une électricité à environ 75 €/MWh",
       "detail": "Et des contrats sous 50 €/MWh pour les industriels exposés.",
       "nature": "declaration",
@@ -500,6 +545,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Relever à 1 000 € la prime carburant exonérée versée par l'employeur",
       "detail": "Avec revalorisation du barème kilométrique et extension du bonus électrique aux véhicules d'occasion.",
       "nature": "declaration",
@@ -553,6 +599,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Créer un bouclier tarifaire sur l'eau pour les besoins élémentaires",
       "detail": "Avec lutte contre les PFAS et principe pollueur-payeur.",
       "nature": "declaration",
@@ -579,6 +626,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Défiscaliser les pensions alimentaires et créer une carte « famille monoparentale »",
       "detail": "Avec un droit au répit (heures de garde) mis en place avec les CAF.",
       "nature": "declaration",
@@ -587,6 +635,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "condition_animale",
       "titre": "Supprimer les salons du chiot et créer un fichier des interdits de détention d'animaux",
       "detail": "Amende forfaitaire délictuelle dès le premier acte de maltraitance.",
       "nature": "declaration",
@@ -595,6 +644,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Maintenir l'interdiction de l'abaya à l'école",
       "detail": "Présentée comme application de la loi de 2004.",
       "nature": "declaration",

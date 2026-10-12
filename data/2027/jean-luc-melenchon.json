@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 700 euros",
       "detail": "Annoncé au premier meeting de campagne à Saint-Denis le 7 juin 2026 ; la source ne précise pas s'il s'agit du brut ou du net.",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Créer une « Sécurité sociale intégrale » gérée par ses cotisants",
       "detail": "Engagement énoncé lors du meeting de lancement de campagne à Saint-Denis (7 juin 2026).",
       "nature": "declaration",
@@ -39,6 +41,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Démanteler les groupes médiatico-culturels par une loi dès le début du mandat",
       "detail": "Présentée comme « notre première tâche législative » : démanteler les « trusts » médiatiques et culturels.",
       "nature": "declaration",
@@ -56,6 +59,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Accompagner la Corse vers une autonomie étendue",
       "detail": "Annoncé au meeting de Saint-Denis du 7 juin 2026.",
       "nature": "declaration",
@@ -64,6 +68,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Passer à la VIe République",
       "detail": "Appel à une « révolution citoyenne » et au passage à une Sixième République (Lettre au peuple de France, mai 2026).",
       "nature": "declaration",
@@ -72,6 +77,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "« Donnons le pouvoir au peuple avec le référendum d'initiative citoyenne ».",
       "nature": "declaration",
@@ -80,6 +86,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Instaurer un droit de révocation de tout élu",
       "detail": "Droit pour les citoyens de « révoquer aussi tout élu ».",
       "nature": "declaration",
@@ -88,6 +95,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Abaisser l'âge du droit de vote à 16 ans",
       "detail": "Promesse renouvelée au meeting de Clermont-Ferrand du 11 octobre 2026.",
       "nature": "declaration",
@@ -96,6 +104,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup",
       "detail": "Abrogation « au plus vite » de la plateforme d'orientation post-bac.",
       "nature": "declaration",
@@ -104,6 +113,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rétablir la « règle des quatre ans » pour le bac professionnel",
       "detail": "Réforme de l'enseignement professionnel annoncée au meeting de Clermont-Ferrand.",
       "nature": "declaration",
@@ -112,6 +122,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Créer une filière unique du CAP à la licence professionnelle",
       "detail": "Annoncé à Clermont-Ferrand ; le plan ruralité prévoit aussi une filière CAP-licence pro pour les métiers de la rénovation.",
       "nature": "declaration",
@@ -129,6 +140,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Plafonner le prix des carburants à 1,70 € le litre",
       "detail": "Prix maximal imposé par l'État via l'article L410-2 du Code de commerce en période de crise.",
       "nature": "declaration",
@@ -137,6 +149,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Plafonner par la loi la marge des raffineurs",
       "detail": "Mesure associée au prix maximal à la pompe pour ne pas fragiliser les stations-service.",
       "nature": "declaration",
@@ -145,6 +158,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Créer une « conscription écologique » et une garde régionale de sécurité civile",
       "detail": "Conscrits renforçant les équipes permanentes lors des crises (notamment incendies) ; remplace la « conscription citoyenne » de 2022.",
       "nature": "declaration",
@@ -153,6 +167,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Remplacer les régions actuelles par des « éco-régions »",
       "detail": "Régions redécoupées selon des critères écologiques (bassins versants, massifs, façades maritimes).",
       "nature": "declaration",
@@ -161,6 +176,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les métropoles et rendre aux communes le libre choix d'association",
       "detail": "Abrogation des lois ayant organisé la concentration des pouvoirs locaux ; refus des fusions forcées de communes.",
       "nature": "programme",
@@ -187,6 +203,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Rétablir une taxation locale tenant compte des revenus",
       "detail": "Barème tenant compte des revenus et des commodités des logements.",
       "nature": "programme",
@@ -204,6 +221,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Renforcer le statut de l'élu local au-delà de la loi de décembre 2025",
       "detail": "Maintien des droits sociaux et trimestres de retraite, formation, protection contre les violences ; parité imposée dans les exécutifs municipaux et intercommunaux.",
       "nature": "programme",
@@ -257,6 +275,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Limiter à 15 minutes les temps de transport scolaire en zone rurale",
       "detail": "Densification du maillage scolaire, maintien des écoles à classe unique, abrogation des « conventions ruralité ».",
       "nature": "programme",
@@ -265,6 +284,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Rendre les transports scolaires gratuits",
       "detail": "Gratuité et accessibilité pour tous les élèves.",
       "nature": "programme",
@@ -273,6 +293,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rétablir un service public national de l'orientation",
       "detail": "Avec des forums métiers itinérants pour les jeunes ruraux.",
       "nature": "programme",
@@ -308,6 +329,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un service public de la petite enfance",
       "detail": "Adapté aux contraintes horaires des travailleurs en zone rurale.",
       "nature": "programme",
@@ -325,6 +347,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "ivg_droits_femmes",
       "titre": "Garantir un accès effectif à l'IVG à proximité du domicile",
       "detail": "Y compris par des consultations itinérantes ; financement sanctuarisé des centres de planification et du Planning familial.",
       "nature": "programme",
@@ -333,6 +356,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Créer de nouvelles brigades de gendarmerie de proximité en zone rurale",
       "detail": "Pour garantir un accès de proximité au dépôt de plainte, notamment pour les victimes de violences.",
       "nature": "programme",
@@ -377,6 +401,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Conditionner les aides aux entreprises à la localisation et à l'emploi",
       "detail": "Critères de localisation dans les territoires fragiles et de maintien des emplois.",
       "nature": "programme",
@@ -385,6 +410,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Adapter le code des marchés publics pour favoriser les filières locales",
       "detail": "Permettre aux collectivités des appels d'offres adaptés aux filières locales ; soutien aux coopératives (SCIC, SCOP).",
       "nature": "programme",
@@ -411,6 +437,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "sport",
       "titre": "Lancer un plan d'urgence pour les équipements sportifs de proximité",
       "detail": "Construction et rénovation (piscines, salles, skateparks) et transports pour y accéder.",
       "nature": "programme",
@@ -419,6 +446,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Créer un plan national contre l'isolement des personnes âgées en zone rurale",
       "detail": "Visites à domicile et soutien aux réseaux de solidarité de voisinage.",
       "nature": "programme",
@@ -508,6 +536,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Doubler le budget public d'entretien du patrimoine",
       "detail": "Objectif de doubler le nombre annuel de monuments dont l'état s'améliore.",
       "nature": "programme",
@@ -516,6 +545,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "autre",
       "titre": "Investir 12 milliards d'euros publics de plus par an dans le BTP et le logement",
       "detail": "Investissements supplémentaires de l'État, complétés par le pôle public bancaire et d'autres opérateurs.",
       "nature": "programme",

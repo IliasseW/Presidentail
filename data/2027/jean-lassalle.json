@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Créer une banque pour financer les campagnes des petits partis",
       "detail": "« Il faudrait qu'il y ait une banque pour les [petits] partis » : selon lui, les règles de campagne favorisent les grands partis (« C'est pas la démocratie »).",
       "nature": "declaration",

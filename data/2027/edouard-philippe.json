@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Instaurer des peines courtes et dissuasives dès la première infraction",
       "detail": "Sur le modèle des pays du Nord de l'Europe.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Instaurer des peines planchers pour les infractions les plus graves",
       "detail": "Notamment pour les atteintes aux personnes dépositaires de l'autorité publique.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Supprimer le juge d'application des peines",
       "detail": "Mesure inscrite dans le volet « Rétablir l'autorité, la fermeté et l'efficacité de la Justice ».",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Ouvrir le recrutement des magistrats à des profils venus d'autres métiers du droit",
       "detail": "Révision de la formation et du recrutement des magistrats.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Réviser la composition du CSM et créer un « devoir de redevabilité » des juges",
       "detail": "Renforcer la responsabilité des magistrats, notamment envers les victimes.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Permettre au garde des Sceaux de donner des instructions individuelles aux procureurs",
       "detail": "Renforcer l'autorité du ministre de la Justice sur le parquet.",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Donner aux maires un pouvoir de sanction pénale pour les petites infractions",
       "detail": "Incivilités et petites infractions ; le plan narcotrafic prévoit aussi que le maire puisse sanctionner l'usage de stupéfiants et fermer des établissements.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Créer un « état d'urgence narco »",
       "detail": "Moyens juridiques d'exception limités dans le temps et l'espace, pouvant aller jusqu'à une reconnaissance faciale ciblée.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Créer une « fiche S financière » pour les condamnés pour narcotrafic",
       "detail": "Profil bancaire spécifique des personnes condamnées pour trafic de stupéfiants.",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Lever l'excuse de minorité et créer la comparution immédiate des mineurs pour narcotrafic",
       "detail": "Avec création d'établissements de réinsertion et de soin pour les mineurs condamnés.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Aligner l'application des peines des grands narcotrafiquants sur celle des terroristes",
       "detail": "Le plan d'Horizons prévoit aussi la suppression de la confusion des peines.",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Mobiliser la DGSI contre le narcotrafic et saisir les avoirs, y compris en cryptomonnaies",
       "detail": "Réforme du renseignement économique et financier pour tracer les fonds.",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Mener un plan anticorruption avec criblage des fonctions publiques sensibles",
       "detail": "Greffiers, agents fiscaux, préfectures ; réforme des habilitations.",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Recouvrer de force les amendes impayées sur les prestations sociales",
       "detail": "Mesure également appliquée aux opérations « place nette » en boîtes de nuit et festivals.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Informer l'employeur public d'un agent poursuivi pour usage de stupéfiants",
       "detail": "Information systématique des employeurs publics.",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Lancer un « plan Marshall » de sécurisation des ports et aéroports",
       "detail": "Volet « flux mondiaux » du plan contre le narcotrafic.",
       "nature": "programme",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Créer une liste noire européenne des pays non coopératifs contre la drogue",
       "detail": "« Diplomatie narco » visant pays producteurs et de transit.",
       "nature": "programme",
@@ -159,6 +176,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Diviser au moins par deux l'immigration sur le quinquennat",
       "detail": "Objectif d'un niveau « largement inférieur à 200 000 » titres de séjour par an ; seules l'immigration de travail et la protection des persécutés seraient retenues.",
       "nature": "declaration",
@@ -167,6 +185,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Dénoncer l'accord franco-algérien de 1968",
       "detail": "Mesure du volet « Reprendre le contrôle de nos frontières ».",
       "nature": "programme",
@@ -175,6 +194,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Faire voter chaque année par le Parlement une liste de pays sûrs pour l'asile",
       "detail": "Afin de mettre fin au « détournement de l'asile » ; il a aussi défendu une liste commune de pays sûrs à l'échelle de l'UE.",
       "nature": "programme",
@@ -183,6 +203,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "regroupement_familial",
       "titre": "Restreindre l'immigration familiale",
       "detail": "Restriction du regroupement familial.",
       "nature": "programme",
@@ -191,6 +212,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Instaurer des quotas pour l'immigration économique",
       "detail": "Quotas migratoires pour choisir l'immigration de travail.",
       "nature": "programme",
@@ -199,6 +221,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Exiger une preuve de ressources des étudiants étrangers",
       "detail": "Preuve financière obligatoire, annoncée parmi les leviers de réduction de l'immigration.",
       "nature": "declaration",
@@ -207,6 +230,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser immédiatement les étrangers délinquants et supprimer leurs aides sociales",
       "detail": "Recours aux centres de retour prévus par le règlement européen « retour ».",
       "nature": "programme",
@@ -215,6 +239,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Fonder l'intégration sur la langue, le travail et les valeurs républicaines",
       "detail": "Politique d'intégration affichée dans le volet frontières.",
       "nature": "programme",
@@ -223,6 +248,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Porter les réservistes de 45 000 à 250 000",
       "detail": "Et le service militaire volontaire de 3 000 à 50 000 places par an.",
       "nature": "programme",
@@ -231,6 +257,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Massifier la production et l'achat de drones tactiques",
       "detail": "Sur le modèle du programme américain de 300 000 drones.",
       "nature": "programme",
@@ -239,6 +266,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Lancer un grand plan munitions",
       "detail": "Dépasser les 100 000 obus par an pour viser l'échelle des 700 000 produits annuellement par l'Allemagne.",
       "nature": "programme",
@@ -247,6 +275,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Doubler le nombre de navires aux Antilles et renforcer la flotte",
       "detail": "Renforcement de la flotte navale.",
       "nature": "programme",
@@ -255,6 +284,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Adopter une nouvelle loi de programmation militaire « de la massification »",
       "detail": "Nouvelle LPM.",
       "nature": "programme",
@@ -263,6 +293,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Imposer une mesure de protection immédiate à chaque plainte concernant un enfant",
       "detail": "« Principe de précaution pénal » pour la victime potentielle.",
       "nature": "programme",
@@ -271,6 +302,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un « droit de savoir » pour les parents sur les antécédents des intervenants",
       "detail": "Inspiré de la Sarah's law britannique : vérification par la police des antécédents d'une personne en contact avec l'enfant.",
       "nature": "programme",
@@ -279,6 +311,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Rendre imprescriptibles les crimes sur mineurs",
       "detail": "Volet « Protéger nos enfants ».",
       "nature": "programme",
@@ -296,6 +329,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Généraliser les certificats d'honorabilité dans le périscolaire",
       "detail": "Réforme du périscolaire avec un « choc de formation ».",
       "nature": "programme",
@@ -304,6 +338,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Faire des chefs d'établissement les « patrons » de l'école",
       "detail": "Liberté d'adapter méthodes et horaires, d'imposer l'uniforme, de fixer la discipline, de choisir et d'évaluer les enseignants.",
       "nature": "programme",
@@ -312,6 +347,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Revaloriser massivement le métier de professeur",
       "detail": "Hausse des rémunérations, révision du recrutement, de la formation et de l'accompagnement (non chiffrée).",
       "nature": "programme",
@@ -320,6 +356,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Raccourcir les journées scolaires et les vacances d'été",
       "detail": "Rythmes centrés sur les besoins des enfants, avec plus de sport et de culture ; annoncé au meeting de l'Adidas Arena du 5 juillet 2026.",
       "nature": "programme",
@@ -328,6 +365,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Recentrer le primaire sur lire, écrire, compter",
       "detail": "Enseignement primaire recentré sur les savoirs fondamentaux.",
       "nature": "programme",
@@ -336,6 +374,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Créer un service public universel du soutien scolaire",
       "detail": "Combinant un assistant IA personnalisé et des « brigades » d'anciens professeurs et d'étudiants volontaires.",
       "nature": "programme",
@@ -344,6 +383,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer une allocation familiale unique de 350 € par mois dès le premier enfant",
       "detail": "Dégressive selon le revenu, fusionnant une dizaine de dispositifs, à coût constant.",
       "nature": "declaration",
@@ -352,6 +392,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Exonérer d'impôt sur le revenu les jeunes parents des classes moyennes pendant 3 ans",
       "detail": "Exonération pour les foyers payant moins de 3 000 € d'impôt, réduction de 3 000 € au-delà, jusqu'à l'entrée à l'école de l'enfant ; coût estimé 3 Md€ par an.",
       "nature": "declaration",
@@ -369,6 +410,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un temps partiel parental à 80 % payé 100 % pendant 2 mois",
       "detail": "À l'issue des congés parentaux.",
       "nature": "programme",
@@ -422,6 +464,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat",
       "detail": "Effort portant pour moitié sur les dépenses sociales et pour un quart sur les collectivités.",
       "nature": "programme",
@@ -430,6 +473,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Inscrire une règle d'or de maîtrise des déficits dans la Constitution",
       "detail": "Volet « comptes publics ».",
       "nature": "programme",
@@ -438,6 +482,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Ne remplacer qu'un fonctionnaire sur trois partant à la retraite",
       "detail": "Soit environ 250 000 postes supprimés sur cinq ans.",
       "nature": "declaration",
@@ -446,6 +491,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Regrouper ou privatiser des agences et opérateurs de l'État",
       "detail": "Réorganisation de l'État et forte simplification des procédures.",
       "nature": "programme",
@@ -463,6 +509,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Baisser de 50 Md€ les impôts de production contre 50 Md€ d'aides aux entreprises",
       "detail": "« Pacte fiscal » : suppression de 50 Md€ d'aides publiques jugées improductives en échange.",
       "nature": "programme",
@@ -471,6 +518,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Instaurer un moratoire normatif et fiscal sur le quinquennat",
       "detail": "Aucune nouvelle norme ni aucun nouvel impôt pendant cinq ans.",
       "nature": "programme",
@@ -479,6 +527,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Financer le modèle social moins par le travail pour augmenter le salaire net",
       "detail": "Volet « retraites et modèle social ».",
       "nature": "programme",
@@ -496,6 +545,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Protéger le marché européen de la concurrence chinoise jugée déloyale",
       "detail": "Transferts de technologie, quotas de production et coentreprises dans les secteurs stratégiques (automobile, sidérurgie, nucléaire).",
       "nature": "programme",
@@ -504,6 +554,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Achever le marché unique et créer une union des marchés de capitaux",
       "detail": "Suppression des spécifications nationales faisant office de barrières douanières.",
       "nature": "programme",
@@ -539,6 +590,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Créer un « livret capital France » pour financer les champions technologiques",
       "detail": "Mobilisation de l'épargne dormante et de la capitalisation retraite.",
       "nature": "programme",
@@ -547,6 +599,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Former 100 000 ingénieurs par an d'ici cinq ans",
       "detail": "Contre 40 000 aujourd'hui selon le site ; adaptation de l'enseignement à l'IA.",
       "nature": "programme",
@@ -582,6 +635,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Instaurer un prix du carbone aux frontières européennes",
       "detail": "Pour protéger les industries qui décarbonent.",
       "nature": "programme",
@@ -626,6 +680,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Produire un bombardier d'eau français pendant le quinquennat",
       "detail": "« Canadair français » pour ne plus dépendre de fournisseurs étrangers.",
       "nature": "declaration",
@@ -652,6 +707,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Abroger le code de la commande publique si la simplification européenne aboutit",
       "detail": "Annoncé lors de la présentation du plan d'adaptation climatique.",
       "nature": "declaration",
@@ -660,6 +716,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Adopter une vingtaine d'ordonnances dès l'été 2027",
       "detail": "Présentées lors d'une session extraordinaire en juillet 2027 pour une entrée en vigueur « dès l'automne ».",
       "nature": "declaration",

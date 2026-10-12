@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Reconnaître le vote blanc comme suffrage exprimé",
       "detail": "Selon sa proposition de loi constitutionnelle de février 2021 ; si le vote blanc arrivait en tête, les candidats désavoués devraient en tirer les conséquences.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "Déclenchable avec le soutien de 700 000 citoyens (proposition de loi constitutionnelle de novembre 2021).",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Organiser un référendum sur le septennat ou le quinquennat",
       "detail": "Choix par référendum entre le maintien du quinquennat et le retour au septennat.",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Abolir la Cour de justice de la République",
       "detail": "Les ministres relèveraient de la justice ordinaire.",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Aligner les régimes sociaux des parlementaires sur le droit commun",
       "detail": "Mesure de « refondation de la démocratie ».",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Convoquer un nouveau Conseil national de la Résistance",
       "detail": "Réunissant forces politiques et sociales pour élaborer un nouveau contrat social ; rôle d'incubateur pour le CESE.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Rétablir le cumul député-maire et sénateur-maire",
       "detail": "Pour renouer le lien entre territoires et représentation nationale.",
       "nature": "programme",
@@ -72,6 +79,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Abroger les lois NOTRe et MAPTAM",
       "detail": "Liberté pour les communes d'intégrer ou non une intercommunalité « à taille humaine » sans fiscalité directe.",
       "nature": "programme",
@@ -80,6 +88,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Remplacer les régions par des provinces historiques",
       "detail": "Provinces historiquement, économiquement et culturellement cohérentes à la place de régions jugées « budgétivores ».",
       "nature": "programme",
@@ -88,6 +97,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Faire débattre et voter au Parlement toute législation d'origine européenne",
       "detail": "Au lieu d'une transposition par ordonnance.",
       "nature": "programme",
@@ -96,6 +106,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "autre",
       "titre": "Créer un Service national universel de neuf mois, militaire ou civil",
       "detail": "Du 15 septembre au 15 juin pour les jeunes majeurs ; ouvrant une première annuité de retraite et des formations (permis, secourisme).",
       "nature": "programme",
@@ -104,6 +115,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "drogues_legalisation",
       "titre": "Légaliser le cannabis avec une vente strictement encadrée",
       "detail": "Une grande part des recettes serait dédiée à la lutte contre l'addiction.",
       "nature": "programme",
@@ -112,6 +124,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "condition_animale",
       "titre": "Défendre la chasse et la pêche traditionnelles",
       "detail": "Considérées comme patrimoine national ; sortir des directives « Habitats » et « Oiseaux » et de la Convention de Berne face aux prédateurs (ours, loups, lynx).",
       "nature": "programme",
@@ -120,6 +133,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recruter 6 000 gendarmes et policiers",
       "detail": "Et ouvrir sur de larges horaires 2 000 bureaux de police et de gendarmerie dans les quartiers et les bourgs.",
       "nature": "programme",
@@ -128,6 +142,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Créer des unités de réserve communale de sûreté",
       "detail": "Volontaires venant en appui de la police municipale à la demande du maire.",
       "nature": "programme",
@@ -136,6 +151,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Lancer un plan de construction de prisons à taille humaine",
       "detail": "Pour garantir l'exécution des courtes peines et des conditions d'hygiène et de sécurité.",
       "nature": "programme",
@@ -144,6 +160,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Augmenter le nombre de magistrats par des recrutements en passerelle",
       "detail": "Un tiers par concours, deux tiers parmi des praticiens du droit ayant quinze ans d'expérience.",
       "nature": "programme",
@@ -152,6 +169,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Développer la médiation et les modes alternatifs de règlement des litiges",
       "detail": "Médiateurs présentés comme de nouveaux « juges de paix » ; amélioration de l'aide juridictionnelle.",
       "nature": "programme",
@@ -160,6 +178,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Renforcer les douanes et les forces aux frontières",
       "detail": "Là où se concentre l'immigration illégale, tout en respectant le droit d'asile.",
       "nature": "programme",
@@ -168,6 +187,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 400 euros nets",
       "detail": "Hausse d'environ 8 %.",
       "nature": "programme",
@@ -176,6 +196,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser la TVA sur les carburants de 20 % à 5,5 %",
       "detail": "TVA sur les hydrocarbures.",
       "nature": "programme",
@@ -184,6 +205,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Maîtriser le prix de l'eau et de l'électricité",
       "detail": "Mesure de souveraineté économique.",
       "nature": "programme",
@@ -192,6 +214,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Garantir dans la Constitution le pouvoir d'achat des retraités",
       "detail": "Maintien absolu face à l'inflation et interdiction des discriminations fiscales visant les retraités (ex. hausse de CSG).",
       "nature": "programme",
@@ -236,6 +259,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Rétablir l'ISF et supprimer l'IFI",
       "detail": "Et lutter contre l'évasion fiscale.",
       "nature": "programme",
@@ -244,6 +268,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Définir un plan Marshall de réindustrialisation",
       "detail": "Plan de réindustrialisation de la France.",
       "nature": "programme",
@@ -252,6 +277,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Renationaliser EDF, les autoroutes et les entreprises de défense",
       "detail": "Achat d'entreprises stratégiques par la BPI dans l'énergie, l'automobile, l'aéronautique, le spatial.",
       "nature": "programme",
@@ -260,6 +286,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Créer des zones franches dans les communes de moins de 15 000 habitants",
       "detail": "Exonération de taxe foncière et d'impôt sur les sociétés pour les entreprises qui y ont leur siège.",
       "nature": "programme",
@@ -268,6 +295,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Donner la priorité aux PME dans les marchés publics locaux",
       "detail": "Avant ouverture aux multinationales.",
       "nature": "programme",
@@ -276,6 +304,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Réaliser un audit citoyen de la dette",
       "detail": "Mesure de souveraineté économique.",
       "nature": "programme",
@@ -347,6 +376,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Revaloriser le salaire des enseignants d'environ 700 euros",
       "detail": "Objectif d'au moins 2 181 euros, après négociation avec les syndicats.",
       "nature": "programme",
@@ -355,6 +385,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Recentrer les programmes sur les savoirs fondamentaux",
       "detail": "Lire, écrire, compter ; limiter les effectifs en primaire et en REP-REP+.",
       "nature": "programme",
@@ -363,6 +394,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Revenir sur la réforme Blanquer du bac",
       "detail": "Rétablir le baccalauréat comme diplôme national.",
       "nature": "programme",
@@ -371,6 +403,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Créer une discipline et un CAPES dédiés au numérique",
       "detail": "Pour maîtriser les outils numériques.",
       "nature": "programme",
@@ -379,6 +412,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Réserver un quart des places en IUT et universités aux bacheliers professionnels",
       "detail": "Valorisation de l'alternance et de l'apprentissage.",
       "nature": "programme",
@@ -387,6 +421,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Accorder aux étudiants un prêt à taux zéro de 20 000 euros",
       "detail": "Garanti par l'État.",
       "nature": "programme",
@@ -395,6 +430,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Étendre le RSA aux jeunes",
       "detail": "Sous critères de revenus et/ou condition de formation.",
       "nature": "programme",
@@ -403,6 +439,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Financer 500 euros par élève et par an pour des séjours éducatifs",
       "detail": "Voyages linguistiques, séjours à la montagne ou à la campagne au collège et au lycée.",
       "nature": "programme",
@@ -411,6 +448,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Déconjugaliser l'allocation aux adultes handicapés",
       "detail": "AAH indépendante des revenus du conjoint.",
       "nature": "programme",
@@ -419,6 +457,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Payer les AESH 1 700 euros nets pour un temps plein",
       "detail": "Généraliser les temps pleins à 24 heures et former les accompagnants.",
       "nature": "programme",
@@ -427,6 +466,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Revaloriser le statut et le salaire des aidants et aides à domicile",
       "detail": "Pour les personnes handicapées ou dépendantes.",
       "nature": "programme",
@@ -435,6 +475,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Assurer un toit à chaque personne sans abri",
       "detail": "Logements sociaux à bas loyer et accompagnement.",
       "nature": "programme",
@@ -551,6 +592,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Revoir la contribution française au budget européen",
       "detail": "Dans une « Europe des Nations » ; coopérations bilatérales au cas par cas.",
       "nature": "programme",
@@ -559,6 +601,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Retirer à la Commission la négociation des traités d'investissement",
       "detail": "Et interrompre la négociation de ces accords (CETA…).",
       "nature": "programme",
@@ -567,6 +610,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Mettre fin à la supervision du franc CFA par le Trésor français",
       "detail": "Nouvelle relation avec l'Afrique.",
       "nature": "programme",
@@ -575,6 +619,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Préparer le désengagement de la France de l'OTAN",
       "detail": "Désengagement progressif.",
       "nature": "programme",
@@ -583,6 +628,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Soumettre les engagements militaires au vote du Parlement ou au référendum",
       "detail": "Ouvrir le Conseil de défense à la représentation nationale ; contrôle parlementaire des ventes d'armes.",
       "nature": "programme",
@@ -591,6 +637,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Consacrer à la cyberdéfense un quart du budget des autres armées",
       "detail": "Renforcer une « 4e armée » indépendante des sociétés informatiques.",
       "nature": "programme",
@@ -599,6 +646,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Créer une Garde nationale",
       "detail": "Force d'appoint pour l'armée régulière.",
       "nature": "programme",
@@ -607,6 +655,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Conditionner les aides aux médias privés à l'indépendance des propriétaires",
       "detail": "Financement public des médias privés et de la culture.",
       "nature": "programme",
@@ -615,6 +664,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Revaloriser le statut et le salaire des intermittents du spectacle",
       "detail": "Et créer un fonds pour les lieux culturels accessibles aux plus défavorisés.",
       "nature": "programme",
@@ -659,6 +709,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Rapatrier à La Réunion le commandement des forces françaises des Émirats",
       "detail": "Rapatriement du commandement des forces françaises stationnées aux Émirats arabes unis.",
       "nature": "programme",

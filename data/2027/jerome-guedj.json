@@ -68,6 +68,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer un droit au répit opposable et un véritable statut de l'aidant",
       "detail": "Meilleure indemnisation et revalorisation du congé de proche aidant, bilan de santé annuel, prise en compte de l'aidance pour la retraite.",
       "nature": "programme",
@@ -76,6 +77,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Faire de la prestation de compensation du handicap un droit national",
       "detail": "Mêmes critères sur tout le territoire, suppression des barrières d'âge, aides techniques essentielles intégralement prises en charge.",
       "nature": "programme",
@@ -84,6 +86,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Rendre tous les établissements publics accessibles d'ici 2032",
       "detail": "Calendrier public, responsable identifié par établissement, pouvoirs de contrôle et de sanction renforcés pour les préfets.",
       "nature": "programme",
@@ -92,6 +95,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer un service public national unique de la compensation du handicap",
       "detail": "Ne jamais redemander une information déjà transmise ; PCH provisoire accordée sous 72 heures en cas d'urgence.",
       "nature": "programme",
@@ -100,6 +104,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Supprimer les effets de seuil qui pénalisent les bénéficiaires de l'AAH qui travaillent",
       "detail": "Supprimer aussi la liste des emplois à « conditions d'aptitude particulière » quand elle fait obstacle à l'emploi.",
       "nature": "programme",
@@ -108,6 +113,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Confier à l'Éducation nationale la scolarisation de tous les enfants handicapés",
       "detail": "Former massivement les enseignants aux handicaps ; interlocuteur unique pour le parcours de l'enfant.",
       "nature": "programme",
@@ -125,6 +131,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Créer un Défenseur de la laïcité, autorité indépendante",
       "detail": "Compétent dans les services publics et dans les entreprises.",
       "nature": "programme",
@@ -133,6 +140,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Généraliser le CV anonyme et judiciariser les testings contre les discriminations",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -141,6 +149,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Planifier l'immigration par une loi votée au Parlement avec une « préférence travail »",
       "detail": "Selon les besoins de l'économie et par secteur, en refusant le principe des quotas.",
       "nature": "programme",
@@ -149,6 +158,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Créer une carte de séjour permanente",
       "detail": "Avec inversion de la charge de la preuve lors des renouvellements.",
       "nature": "programme",
@@ -157,6 +167,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Conditionner l'intégration à la langue et faciliter la naturalisation des travailleurs",
       "detail": "Intégration conditionnée à l'apprentissage du français et au respect des principes communs.",
       "nature": "programme",
@@ -165,6 +176,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Réduire les effectifs par classe et mieux payer les enseignants",
       "detail": "Priorité aux territoires en difficulté, rénovation des bâtiments, « empêcher que la carte scolaire devienne une carte sociale ».",
       "nature": "programme",
@@ -182,6 +194,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un statut de parent isolé et verser les allocations familiales dès le premier enfant",
       "detail": "Statut couvrant logement et garde d'enfants.",
       "nature": "declaration",
@@ -199,6 +212,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Plafonner les marges des raffineurs et des distributeurs de carburant",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
@@ -207,6 +221,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Limiter les aides aux entreprises qui maintiennent leurs salariés au SMIC trop longtemps",
       "detail": "Soutien prioritaire aux entreprises qui augmentent les rémunérations.",
       "nature": "declaration",
@@ -215,6 +230,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter réellement les bas salaires et renforcer la participation aux profits",
       "detail": "Maîtriser les prix de l'énergie et encadrer les mutations du travail liées à l'IA.",
       "nature": "programme",
@@ -223,6 +239,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Faire contribuer grands patrimoines et hauts revenus sans alourdir les classes moyennes",
       "detail": "Lutte contre la fraude et l'évasion fiscales et les rentes, pour restaurer les comptes publics.",
       "nature": "programme",
@@ -249,6 +266,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Renforcer les moyens de la police et de la justice contre les grands trafics",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -257,6 +275,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Bâtir une Europe capable de se défendre et tenir une ligne ferme face à la Russie",
       "detail": "Met en garde contre une « paix munichoise » en Ukraine.",
       "nature": "declaration",

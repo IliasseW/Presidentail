@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter massivement salaires, pensions et allocations (2 200 € net minimum)",
       "detail": "« Il faut gagner au moins 2 200 euros net par mois pour s'en sortir » ; augmentations de 300 à 500 € évoquées.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer salaires, pensions et allocations sur la hausse réelle des prix",
       "detail": "Indexation sur la hausse constatée par les travailleurs, et non sur l'inflation officielle.",
       "nature": "programme",
@@ -48,6 +50,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Rendre publics les comptes des grandes entreprises",
       "detail": "Levée du secret commercial et du secret des affaires, transparence des circuits financiers.",
       "nature": "programme",
@@ -56,6 +59,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Confisquer les bénéfices des « profiteurs de guerre »",
       "detail": "Bénéfices des groupes pétroliers et de l'armement affectés aux hôpitaux et aux écoles.",
       "nature": "programme",
@@ -64,6 +68,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Exproprier sans indemnité les actionnaires du pétrole et de l'armement",
       "detail": "« Expropriation sans indemnité ni rachat », en commençant par l'industrie pétrolière et les industries de guerre.",
       "nature": "programme",
@@ -72,6 +77,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser tous les sans-papiers",
       "detail": "Avec la liberté de circulation et d'installation pour tous.",
       "nature": "programme",
@@ -80,6 +86,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Mettre fin aux expulsions et à l'« Europe-forteresse »",
       "detail": "« À bas les barbelés, les traques, les expulsions ! »",
       "nature": "programme",
@@ -88,6 +95,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Rejeter le protectionnisme et le « produire français »",
       "detail": "Présentés comme une arme des capitalistes dans leur guerre économique.",
       "nature": "programme",
@@ -96,6 +104,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "S'opposer à la hausse des crédits militaires et à l'« unité nationale »",
       "detail": "Critique de la rallonge de 36 Md€ pour l'armée et des 10 Md€ du nouveau porte-avions.",
       "nature": "programme",

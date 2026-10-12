@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "Premier « pivot » du programme : un article de loi prêt à l'emploi, inspiré de Votation France et de Solution démocratique, est en cours de rédaction ; en interview, le candidat inclut le RIC constituant.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Faire réécrire la Constitution par 500 citoyens tirés au sort",
       "detail": "Assemblée constituante citoyenne de 500 personnes tirées au sort ; le texte serait soumis à référendum, avec démission du président.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Désigner les représentants par tirage au sort plutôt que par l'élection",
       "detail": "Tirage au sort avec quotas de lieu de vie, de revenus, d'âge et de genre.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Multiplier les assemblées citoyennes de 150 personnes tirées au sort",
       "detail": "Assemblées de 150 citoyens tirés au sort décidant pour tous, appelées à se substituer au format parlementaire actuel.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Organiser une « méta-convention » pour définir les futures conventions citoyennes",
       "detail": "Proposition exposée en interview ; calendrier envisagé : référendums en début de mandat sur le RIC constituant et sur la convocation d'une constituante.",
       "nature": "declaration",

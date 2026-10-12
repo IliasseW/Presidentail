@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Sortir de l'Union européenne en dénonçant les traités européens (Frexit)",
       "detail": "Dénonciation juridique du traité sur l'UE et du traité sur le fonctionnement de l'UE, présentée comme condition préalable à l'ensemble du programme.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Sortir de l'euro et adopter un nouveau franc",
       "detail": "L'abandon de l'euro, jugé surévalué, doit restaurer la compétitivité ; objectif d'un solde commercial positif en 3 ans.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Sortir de l'OTAN",
       "detail": "Retrait engagé dès les premiers jours de la présidence ; suppression du coût budgétaire lié à l'OTAN (400 M€) et désengagement des interventions menées dans ce cadre.",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter le SMIC brut de 24 % sur le quinquennat",
       "detail": "Soit environ +4,4 % par an cumulés ; revalorisation parallèle des grilles de la fonction publique, en priorité pour les fonctionnaires de terrain (soignants, policiers, militaires, enseignants).",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Diminuer de 50 % les charges patronales des PME",
       "detail": "Pour les entreprises de moins de 50 M€ de chiffre d'affaires, afin de compenser la hausse des salaires ; abattement supplémentaire de 5 % pour les entreprises respectant l'égalité salariale femmes-hommes.",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer le CICE pour les très grandes entreprises",
       "detail": "Gain estimé à 10 milliards d'euros par an ; s'accompagne d'un choc de simplification des normes, notamment européennes.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Rétablir le contrôle des changes et des mouvements de capitaux",
       "detail": "Contrôle des investissements français à l'étranger (délocalisations) et des investissements étrangers en France (entreprises stratégiques).",
       "nature": "programme",
@@ -72,6 +79,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Lancer un plan de lutte contre la fraude et l'optimisation fiscales",
       "detail": "Fraude et optimisation estimées à 60-80 Md€ par an, avec un plan parallèle contre la fraude aux prestations sociales (14 à 45 Md€ selon les estimations).",
       "nature": "programme",
@@ -80,6 +88,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réaliser 27 milliards d'euros d'économies budgétaires par an",
       "detail": "Fin de la contribution à l'UE (12 Md€), suppression des conseils régionaux (5 Md€), du CICE des grandes entreprises (10 Md€), du coût de l'OTAN, baisse du nombre d'élus et du train de vie de l'exécutif (-30 %).",
       "nature": "programme",
@@ -88,6 +97,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Créer deux tranches d'impôt sur le revenu au-delà de 250 000 et 500 000 euros",
       "detail": "Ainsi qu'un impôt exceptionnel de solidarité pour les très grandes fortunes accrues pendant la crise du Covid-19.",
       "nature": "programme",
@@ -96,6 +106,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Faire contribuer chaque ménage à l'impôt sur le revenu, même symboliquement",
       "detail": "Contribution universelle et proportionnelle ; baisse des taux des tranches moyennes une fois les économies réalisées.",
       "nature": "programme",
@@ -104,6 +115,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Étendre la taxe sur les transactions financières à toutes les opérations spéculatives",
       "detail": "Toutes les transactions financières spéculatives réalisées en France, quelle que soit la nationalité de l'opérateur.",
       "nature": "programme",
@@ -112,6 +124,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Baisser de 5 points les droits de succession sous 300 000 euros par héritier",
       "detail": "Mesure présentée comme favorisant la transmission entre générations.",
       "nature": "programme",
@@ -120,6 +133,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Baisser la TVA sur les produits de consommation courante",
       "detail": "Fin de la double taxation des carburants (TVA sur la TICPE) et hausse de la TVA sur les produits de très grand luxe.",
       "nature": "programme",
@@ -128,6 +142,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Annuler la hausse de la CSG décidée sous le quinquennat Macron",
       "detail": "Mesure de la réforme fiscale de justice pour les classes moyennes.",
       "nature": "programme",
@@ -136,6 +151,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Geler les tarifs de l'électricité et du gaz pendant au moins deux ans",
       "detail": "Et imposer une baisse de 10 % des tarifs autoroutiers.",
       "nature": "programme",
@@ -144,6 +160,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Renationaliser EDF, Enedis, La Poste, les autoroutes, la SNCF et la RATP",
       "detail": "Ainsi que les réseaux d'eau, les sociétés de gaz et TDF ; fin du projet Hercule pour EDF et de l'ouverture des services publics à la concurrence.",
       "nature": "programme",
@@ -197,6 +214,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rétablir le cadre national du baccalauréat dès la première année",
       "detail": "Retour de la notation, du classement et de la cérémonie de remise des prix en fin d'année.",
       "nature": "programme",
@@ -205,6 +223,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Consacrer au moins 80 % du temps scolaire du primaire aux savoirs fondamentaux",
       "detail": "Français, mathématiques, histoire-géographie et bases scientifiques.",
       "nature": "programme",
@@ -213,6 +232,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Limiter les écrans et appliquer strictement l'interdiction des portables en cours",
       "detail": "Sanctions immédiates contre toute agression d'enseignant, port de vêtements neutres favorisé.",
       "nature": "programme",
@@ -221,6 +241,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Rétablir le régime déclaratif pour l'instruction en famille",
       "detail": "Avec les contrôles nécessaires.",
       "nature": "programme",
@@ -229,6 +250,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Revaloriser les bourses étudiantes de 25 % et pérenniser les repas à 1 euro",
       "detail": "Sur la durée du quinquennat.",
       "nature": "programme",
@@ -237,6 +259,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Rétablir l'enseignement supérieur en langue française",
       "detail": "Et promouvoir la publication des travaux de recherche en français.",
       "nature": "programme",
@@ -245,6 +268,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Multiplier par 10 les crédits des grands projets de restauration du patrimoine",
       "detail": "De 130 M€ (2019) à 1,3 Md€ en 2025 ; crédits d'entretien des monuments historiques portés de 326 M€ à 2,6 Md€.",
       "nature": "programme",
@@ -253,6 +277,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Créer trois musées nationaux thématiques, dont un musée Léonard de Vinci à Chambord",
       "detail": "La Joconde et les manuscrits de Léonard y seraient transférés, dans une logique de déconcentration des collections.",
       "nature": "programme",
@@ -261,6 +286,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Revaloriser de 24 % l'indemnisation des intermittents du spectacle",
       "detail": "Au même rythme que la hausse du SMIC proposée.",
       "nature": "programme",
@@ -269,6 +295,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Interdire la concentration des médias et créer une Cour supérieure de l'audiovisuel",
       "detail": "Création d'un statut de la presse pour protéger le pluralisme et les journalistes.",
       "nature": "programme",
@@ -340,6 +367,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Supprimer le passe sanitaire ou vaccinal dès le début du quinquennat",
       "detail": "Réaffirmation de la liberté de prescription, du secret médical et du consentement éclairé.",
       "nature": "programme",
@@ -348,6 +376,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Interdire dans la Constitution les confinements et couvre-feux généralisés",
       "detail": "Ainsi que toute surveillance généralisée de la population (QR code, passe sanitaire, identité numérique).",
       "nature": "programme",
@@ -356,6 +385,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Créer le référendum d'initiative citoyenne (RIC)",
       "detail": "Avec référendum obligatoire pour toute future révision de la Constitution.",
       "nature": "programme",
@@ -364,6 +394,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Réduire le nombre de parlementaires à 500 députés et environ 100 sénateurs",
       "detail": "Soit -35 % ; quorum de présence effective de 60 % pour les votes au Parlement.",
       "nature": "programme",
@@ -372,6 +403,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Remplacer le Conseil constitutionnel par une Cour constitutionnelle",
       "detail": "Composée de juristes élus par les parlementaires pour un mandat unique de 12 ans.",
       "nature": "programme",
@@ -380,6 +412,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Rétablir le septennat et réduire le mandat des députés à quatre ans",
       "detail": "Avec l'introduction d'une proportionnelle partielle aux législatives.",
       "nature": "programme",
@@ -388,6 +421,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les conseils régionaux et réduire de moitié les conseillers départementaux",
       "detail": "Régions remplacées par des établissements publics de coopération légers.",
       "nature": "programme",
@@ -396,6 +430,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Supprimer le financement public des partis politiques",
       "detail": "Économie estimée à 70 M€.",
       "nature": "programme",
@@ -404,6 +439,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Interdire les machines à voter et le recours injustifié aux cabinets de conseil",
       "detail": "Création d'une commission de contrôle des conflits d'intérêts des élus et hauts fonctionnaires.",
       "nature": "programme",
@@ -412,6 +448,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Remettre en jeu son mandat si 14 des 27 engagements ne sont pas tenus à mi-mandat",
       "detail": "« Ultime engagement » : vérification au bout de deux ans et demi.",
       "nature": "programme",
@@ -492,6 +529,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Cesser les négociations de traités de libre-échange et dénoncer le CETA",
       "detail": "Arrêt immédiat des négociations de type TAFTA.",
       "nature": "programme",
@@ -500,6 +538,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Mettre fin aux sanctions contre la Russie, le Venezuela ou la Biélorussie",
       "detail": "Politiques de sanction jugées dictées par les États-Unis ; sanctions onusiennes demandées contre les États finançant le terrorisme.",
       "nature": "programme",
@@ -508,6 +547,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Rapprocher la France des BRICS en demandant un siège d'observateur",
       "detail": "Création d'un Parlement de la Francophonie et partenariat franco-britannique proposés.",
       "nature": "programme",
@@ -516,6 +556,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Inscrire dans la Constitution l'incessibilité du siège français à l'ONU",
       "detail": "Siège de membre permanent du Conseil de sécurité avec droit de veto.",
       "nature": "programme",
@@ -524,6 +565,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Inscrire dans la Constitution la double tradition laïque et chrétienne de la France",
       "detail": "Par référendum si nécessaire ; fin des subventions aux groupes jugés communautaristes.",
       "nature": "programme",
@@ -532,6 +574,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Interdire tout financement étranger des lieux de culte",
       "detail": "Mesure de lutte contre l'islam radical.",
       "nature": "programme",
@@ -540,6 +583,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Verser les allocations familiales dès le premier enfant",
       "detail": "+10 % pour le deuxième, +15 % pour le troisième ; congé parental rémunéré par la CAF un an par enfant.",
       "nature": "programme",
@@ -548,6 +592,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer 150 000 places de crèches en cinq ans",
       "detail": "Financement partagé État / collectivités.",
       "nature": "programme",
@@ -556,6 +601,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Revaloriser l'AAH de 20 % et la déconjugaliser",
       "detail": "Quota d'emplois réservés aux travailleurs handicapés porté à 7 % dans les entreprises de plus de 500 salariés.",
       "nature": "programme",
@@ -609,6 +655,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Sortir de l'espace Schengen et rétablir les contrôles aux frontières",
       "detail": "Avec des accommodements pour les travailleurs frontaliers.",
       "nature": "programme",
@@ -617,6 +664,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Dénoncer le pacte de Marrakech sur les migrations",
       "detail": "Pacte de l'ONU de 2018.",
       "nature": "programme",
@@ -625,6 +673,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Porter à 75 % le taux effectif d'exécution des expulsions",
       "detail": "Contre moins de 20 % ; sanctions contre les pays d'origine refusant les reconduites.",
       "nature": "programme",
@@ -633,6 +682,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Organiser un référendum sur le regroupement familial et le droit du sol",
       "detail": "Avant la fin de 2022.",
       "nature": "programme",
@@ -641,6 +691,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Se retirer de certains articles de la CEDH",
       "detail": "Pour retrouver la maîtrise des reconduites et de la lutte antiterroriste ; fin des travailleurs détachés avec la sortie de l'UE.",
       "nature": "programme",
@@ -649,6 +700,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Augmenter de 20 % les budgets de la police et de la justice",
       "detail": "Retour d'une police de proximité et exécution effective des peines.",
       "nature": "programme",
@@ -657,6 +709,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Rétablir les peines planchers pour les récidivistes violents",
       "detail": "Fin de l'aménagement automatique des peines de moins d'un an pour les violences, cambriolages et trafic de stupéfiants.",
       "nature": "programme",
@@ -665,6 +718,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Rendre obligatoire le travail ou la formation en prison",
       "detail": "Suppression des crédits automatiques de réduction de peine.",
       "nature": "programme",
@@ -673,6 +727,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "terrorisme_separatisme",
       "titre": "Instaurer la perpétuité incompressible pour les crimes terroristes",
       "detail": "Déchéance de nationalité pour les personnes ayant rejoint une entreprise terroriste à l'étranger, par révision constitutionnelle.",
       "nature": "programme",
@@ -681,6 +736,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Porter le budget de la défense à 3 % du PIB",
       "detail": "Refonte du Livre blanc, recentrage sur le spatial, le maritime et le cyber, hausse des soldes.",
       "nature": "programme",

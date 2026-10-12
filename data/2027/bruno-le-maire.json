@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Recentrer l'État sur la sécurité, la protection des personnes, l'éducation et la santé",
       "detail": "« Tout le reste doit être délégué » ; axe « autorité » du manifeste.",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Désindexer les pensions, les prestations sociales et le barème de l'impôt sur le revenu",
       "detail": "Mesure d'assainissement des comptes publics, la dette étant évaluée à environ 1 300 Md€ selon le texte.",
       "nature": "declaration",
@@ -39,6 +41,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Inscrire dans la Constitution une règle de bonne gestion des comptes publics",
       "detail": "Règle constitutionnelle d'équilibre.",
       "nature": "declaration",
@@ -47,6 +50,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Relever la TVA de 2 à 3 points en baissant les cotisations salariales",
       "detail": "Basculer le financement du modèle social du travail vers la consommation pour augmenter le salaire net.",
       "nature": "declaration",
@@ -55,6 +59,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter immédiatement le Smic",
       "detail": "Montant non précisé.",
       "nature": "declaration",
@@ -63,6 +68,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Assouplir le recrutement des fonctionnaires",
       "detail": "Plus de flexibilité dans la fonction publique.",
       "nature": "declaration",
@@ -71,6 +77,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Créer une fédération de six États-nations européens",
       "detail": "France, Allemagne, Italie, Espagne, Pologne et Pays-Bas, mettant en commun un nombre restreint de politiques au sein de l'UE à 27.",
       "nature": "declaration",
@@ -79,6 +86,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Taxer à 30 % les produits technologiques importés sans quota de composants européens",
       "detail": "Droits de douane sur les produits ne respectant pas une part minimale de composants fabriqués en Europe.",
       "nature": "declaration",
@@ -87,6 +95,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Permettre aux plus grandes fortunes de financer directement des services publics",
       "detail": "Mesure du manifeste ; montant et modalités non précisés.",
       "nature": "declaration",
@@ -95,6 +104,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Réexaminer l'ensemble des aides versées aux étrangers en situation irrégulière",
       "detail": "Mesure du manifeste, sans détail.",
       "nature": "declaration",
@@ -112,6 +122,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Recourir davantage au référendum, national et local",
       "detail": "Mesure du manifeste, sans précision sur les sujets ni la procédure.",
       "nature": "declaration",

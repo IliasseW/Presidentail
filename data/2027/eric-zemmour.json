@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Passer de l'« immigration zéro » à l'« immigration négative » (remigration)",
       "detail": "Objectif de départs supérieurs aux arrivées, défini comme le renvoi des criminels, des clandestins et de ceux qui vivent de l'assistanat ; réaffirmé à Port-Marly le 13 septembre 2026.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser tous les étrangers détenus dans les prisons françaises",
       "detail": "Ils représentent selon lui 25 % des détenus.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser les étrangers condamnés qui purgent leur peine hors de prison",
       "detail": "Sont visés les condamnés sous bracelet électronique ou soumis à des travaux d'intérêt général.",
       "nature": "declaration",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Renvoyer les étrangers en situation irrégulière",
       "detail": "Annoncé sur BFMTV le 17 septembre 2026.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser les étrangers au chômage depuis plus d'un an, même en situation régulière",
       "detail": "Seuil d'un an retenu après une hésitation avec six mois ; aucune exception précisée (résidents de longue durée, parents d'enfants français, réfugiés…).",
       "nature": "declaration",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser les étrangers vivant uniquement des aides sociales",
       "detail": "Il invoque un article du droit des étrangers de 1945 selon lequel un étranger à la charge des finances publiques doit être expulsé.",
       "nature": "declaration",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Appliquer la « préférence nationale »",
       "detail": "L'une des cinq priorités du tract national de Reconquête diffusé en octobre 2026, sans détail de mise en œuvre.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Remplacer la main-d'œuvre immigrée par la robotisation",
       "detail": "Accélérer la robotisation de l'économie pour réduire le recours à la main-d'œuvre étrangère ; il salue les progrès de l'intelligence artificielle.",
       "nature": "declaration",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Baisser massivement les dépenses publiques pour baisser tous les impôts",
       "detail": "« Baisser massivement les dépenses pour pouvoir baisser massivement les impôts » ; projet préparé avec Sarah Knafo ne comportant « que des baisses ». Formule du tract 2026 : « Dépenser moins pour taxer moins ».",
       "nature": "declaration",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Promouvoir le travail, la propriété et la transmission du patrimoine",
       "detail": "Priorité du tract national de Reconquête d'octobre 2026, sans mesures détaillées.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Rétablir une école exigeante centrée sur les savoirs fondamentaux",
       "detail": "Grammaire, dictée, calcul mental, langues anciennes et grands textes ; « réformer l'école pour relever son niveau » figure parmi les cinq priorités du tract.",
       "nature": "declaration",
@@ -138,6 +149,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "S'opposer aux restrictions des réseaux sociaux et au règlement européen DSA",
       "detail": "Présenté comme une défense de la liberté d'expression face à la régulation d'internet.",
       "nature": "declaration",

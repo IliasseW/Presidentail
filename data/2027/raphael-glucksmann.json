@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter le salaire net en baissant la CSG et les prélèvements sur les salaires",
       "detail": "Objectif de « rapprocher le salaire net du salaire brut », financé par une taxation accrue des très grands héritages.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Taxer les « méga-héritages » au-delà de 2 millions d'euros",
       "detail": "Viser le 1 % des plus grosses successions et réformer le pacte Dutreil pour environ 15 milliards d'euros, reversés sur les fiches de paie.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Tripler le chèque carburant à 500 euros et l'étendre aux classes moyennes",
       "detail": "Versement automatique aux bénéficiaires du chèque énergie, ciblé sur ceux qui ont besoin de leur voiture pour travailler.",
       "nature": "declaration",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Taxer les superprofits des multinationales des énergies fossiles",
       "detail": "Taxe idéalement européenne, visant notamment TotalEnergies, pour financer les aides aux « grands rouleurs ».",
       "nature": "declaration",
@@ -55,6 +59,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Voter une loi de programmation sur cinq ans pour sauver l'école publique",
       "detail": "Présentée comme son « premier acte » : hausse de la rémunération des enseignants, baisse des effectifs par classe en primaire, rénovation du bâti scolaire, lycées.",
       "nature": "declaration",
@@ -63,6 +68,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Garantir à chaque enfant un séjour collectif (relance des colonies de vacances)",
       "detail": "« Passeport pour l'émancipation » : séjour collectif dans ou hors du cadre scolaire pour chaque enfant.",
       "nature": "declaration",
@@ -71,6 +77,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Instaurer un service civique obligatoire de dix mois",
       "detail": "Tous les jeunes consacreraient dix mois à la nation (EHPAD, écoles, services publics, associations), après quelques semaines de regroupement hors de leur quartier.",
       "nature": "livre",
@@ -79,6 +86,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Organiser une convention citoyenne sur l'immigration",
       "detail": "Citoyens tirés au sort confrontés aux données démographiques, économiques et sécuritaires ; propositions soumises au débat et au vote du Parlement.",
       "nature": "declaration",
@@ -87,6 +95,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs sans papiers",
       "detail": "Position défendue lors du dernier débat de la primaire ; le projet de Place publique prévoit aussi de faciliter ces régularisations.",
       "nature": "declaration",
@@ -113,6 +122,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un statut de parent isolé",
       "detail": "Proposition avancée lors du débat BFMTV du 4 octobre 2026.",
       "nature": "declaration",
@@ -121,6 +131,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Saisir les avoirs publics russes pour financer l'aide à l'Ukraine",
       "detail": "Renforcer l'aide militaire et la protection du ciel ukrainien, financées notamment par les avoirs publics russes.",
       "nature": "declaration",
@@ -129,6 +140,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Soutenir le jugement de Benyamin Netanyahou par la justice internationale",
       "detail": "Position exprimée lors des débats ; il refuse en revanche d'employer le terme de « génocide » pour Gaza.",
       "nature": "declaration",
@@ -146,6 +158,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Renforcer la lutte contre le blanchiment et encadrer les cryptomonnaies",
       "detail": "Cibler les profits des narcotrafiquants, les cryptomonnaies étant décrites comme un outil de blanchiment.",
       "nature": "declaration",
@@ -154,6 +167,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Laisser aux maires le choix d'armer leur police municipale et d'installer des caméras",
       "detail": "« Faire confiance aux maires » sur la sécurité locale, dans un cadre fixé par la loi.",
       "nature": "declaration",
@@ -162,6 +176,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Protéger les productions françaises et réimplanter des usines dans les territoires",
       "detail": "Dans le cadre d'un « nouveau contrat patriotique » et d'une industrialisation fondée sur la transition écologique.",
       "nature": "declaration",
@@ -170,6 +185,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Sortir les EHPAD et les crèches de la logique marchande",
       "detail": "Engagement de la lettre aux Français publiée à l'entrée en campagne.",
       "nature": "declaration",
@@ -178,6 +194,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Réduire dette et déficits tout en investissant dans l'école, la défense et l'industrie",
       "detail": "Investissements massifs dans l'école, la défense, la réindustrialisation et la transition écologique, sans chiffrage annoncé à ce stade.",
       "nature": "declaration",
@@ -186,6 +203,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "defense_europeenne",
       "titre": "Créer un fonds européen de défense de 500 milliards d'euros par emprunt commun",
       "detail": "Investissements réservés aux productions européennes (EDIP).",
       "nature": "programme",
@@ -194,6 +212,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "dissuasion",
       "titre": "Proposer d'étendre la dissuasion nucléaire française aux partenaires de l'UE",
       "detail": "La France conserverait la souveraineté sur la décision d'emploi, pilier d'un pacte de sécurité européen.",
       "nature": "programme",
@@ -202,6 +221,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Augmenter fortement la réserve opérationnelle et produire massivement des drones",
       "detail": "Contrats de long terme avec les industriels, programmes drones et spatial, programme « cyber sentinelle » et renforcement de l'ANSSI.",
       "nature": "programme",
@@ -210,6 +230,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Passer à une Europe fédérale avec un traité de refondation d'ici 2030",
       "detail": "Majorité qualifiée au Conseil européen, initiative législative au Parlement européen, hausse massive du budget et nouvelles ressources propres.",
       "nature": "programme",
@@ -218,6 +239,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Porter un « Buy European Act » et un indice d'achat local dans la commande publique",
       "detail": "Prioriser les productions européennes dans les marchés publics ; renforcer les mesures miroirs et la défense commerciale.",
       "nature": "programme",
@@ -226,6 +248,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Créer un label européen de l'épargne pour financer les entreprises européennes",
       "detail": "Également : fonds régionaux pour permettre aux Régions d'entrer au capital d'entreprises clés.",
       "nature": "programme",
@@ -243,6 +266,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Indexer une partie de la facture d'électricité sur les coûts de production",
       "detail": "Sortir en partie du prix de marché ; annuler la hausse de taxe sur l'électricité de 2024 ; relancer MaPrimeRénov'.",
       "nature": "programme",
@@ -287,6 +311,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 600 euros net dans les deux ans",
       "detail": "Mesure du projet de Place publique (2025), avec des conférences salariales par branche ; non chiffrée de nouveau par le candidat en 2026.",
       "nature": "programme",
@@ -313,6 +338,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Intégrer des administrateurs salariés dès 100 salariés et créer un « chèque syndical »",
       "detail": "Redonner la priorité aux accords de branche sur les accords d'entreprise ; stratégie « Zéro mort au travail ».",
       "nature": "programme",
@@ -348,6 +374,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Intégrer les établissements privés sous contrat à la carte scolaire",
       "detail": "Mixité sociale exigée de tous les établissements financés par le contribuable.",
       "nature": "programme",
@@ -356,6 +383,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Repenser Parcoursup et créer un capital formation universel",
       "detail": "Concertation sur Parcoursup ; aide nationale compensant l'éloignement géographique des étudiants.",
       "nature": "programme",
@@ -391,6 +419,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Investir le Premier ministre par un vote de confiance et instaurer la censure constructive",
       "detail": "Ce qui permettrait de mettre fin au 49.3 ; suppression de l'article 16 et de l'article 40.",
       "nature": "programme",
@@ -399,6 +428,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Instaurer immédiatement la proportionnelle",
       "detail": "De préférence par circonscriptions régionales avec fléchage départemental des candidats.",
       "nature": "programme",
@@ -407,6 +437,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Créer un droit d'initiative citoyenne pour déclencher des référendums",
       "detail": "À l'échelle locale et nationale ; généraliser les conventions citoyennes et lancer une convention préparant une constituante.",
       "nature": "programme",
@@ -415,6 +446,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Ouvrir le vote à 16 ans et aux étrangers extracommunautaires aux élections locales",
       "detail": "Avec inscription automatique sur les listes électorales.",
       "nature": "programme",
@@ -432,6 +464,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Aller vers une Sécurité sociale unique fusionnant tous les régimes",
       "detail": "Dossier social unique et minimum social unique accessible dès 18 ans, y compris aux moins de 25 ans.",
       "nature": "programme",
@@ -440,6 +473,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recréer une police de proximité et généraliser les récépissés de contrôle d'identité",
       "detail": "Police centrée sur la prévention et la médiation ; office national de lutte contre le blanchiment.",
       "nature": "programme",
@@ -448,6 +482,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Organiser une convention citoyenne sur les drogues et le cannabis",
       "detail": "Incluant la question de la légalisation du cannabis.",
       "nature": "programme",
@@ -474,6 +509,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Consacrer un milliard d'euros à un plan contre les violences sexistes et sexuelles",
       "detail": "Inspiré du modèle espagnol ; inscrire dans la loi une définition du viol fondée sur le consentement.",
       "nature": "programme",
@@ -482,6 +518,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Rendre la contraception gratuite et créer un droit opposable à la garde d'enfant",
       "detail": "Remboursement des protections périodiques, congé menstruel, réforme du congé parental.",
       "nature": "programme",
@@ -490,6 +527,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Abroger la loi immigration de 2024",
       "detail": "Ouvrir le droit au travail dès l'enregistrement de la demande d'asile ; carte de séjour pluriannuelle comme titre de référence.",
       "nature": "programme",
@@ -498,6 +536,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Remplacer le système de Dublin par un mécanisme européen de répartition",
       "detail": "Harmoniser les procédures d'asile et refuser l'externalisation ; force européenne de sauvetage en mer.",
       "nature": "programme",
@@ -506,6 +545,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Abolir progressivement les régimes dérogatoires à la loi de 1905",
       "detail": "Renforcer la MIVILUDES et la prévention des pratiques sectaires.",
       "nature": "programme",
@@ -514,6 +554,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Aligner les droits à la filiation des couples LGBTQIA+ sur ceux des couples hétérosexuels",
       "detail": "Garantir le droit à l'autodétermination de genre.",
       "nature": "programme",
@@ -540,6 +581,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Financer la presse par une taxe sur les géants du numérique",
       "detail": "Créer un délit de désinformation organisée dans la loi de 1881 et limiter la concentration des médias.",
       "nature": "programme",
@@ -548,6 +590,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Supprimer la part individuelle du pass Culture",
       "detail": "Au profit du financement d'artistes intervenant en milieu scolaire ; Pacte d'aménagement culturel du territoire.",
       "nature": "programme",
@@ -556,6 +599,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Taxer automatiquement les superprofits des multinationales et des profiteurs de guerre",
       "detail": "Supprimer les niches fiscales inefficaces et rééquilibrer la fiscalité entre travail, capital et héritage.",
       "nature": "programme",
@@ -564,6 +608,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Porter l'aide publique au développement à 0,7 % du RNB",
       "detail": "Via une programmation budgétaire annuelle dans la loi de développement solidaire.",
       "nature": "programme",
@@ -572,6 +617,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Revaloriser le salaire des enseignants et renforcer les personnels face aux élèves",
       "detail": "Dans « Nous avons encore envie » : revalorisation « substantielle » des enseignants, plus de personnels face aux élèves et moins de postes administratifs.",
       "nature": "livre",
@@ -580,6 +626,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Supprimer le droit de veto des États au sein de l'Union européenne",
       "detail": "Proposition du livre « Nous avons encore envie » pour lever les blocages de l'UE.",
       "nature": "livre",
@@ -588,6 +635,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Financer un plan de souveraineté européenne par un grand emprunt européen",
       "detail": "Proposé dans le livre face à la menace russe (« déni » dénoncé).",
       "nature": "livre",
@@ -596,6 +644,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Proclamer l'« état d'urgence industriel » pour les secteurs menacés par la Chine",
       "detail": "Annoncé au meeting d'Aubervilliers du 13 juin 2026, en cas de victoire.",
       "nature": "declaration",
@@ -604,6 +653,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Faire adopter la loi intégrale contre les violences sexistes et sexuelles",
       "detail": "Appel à faire voter la proposition de loi transpartisane contre les violences faites aux enfants et aux femmes (meeting d'Aubervilliers).",
       "nature": "declaration",

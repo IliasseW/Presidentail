@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Faire sortir la France de l'Union européenne (Frexit)",
       "detail": "Cœur de la candidature annoncée sur France 2 le 9 mai 2026, avec la sortie de l'OTAN.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Activer l'article 50 du TUE dès l'élection d'un président pro-Frexit",
       "detail": "Suppression du titre XV de la Constitution par le Congrès, par référendum constitutionnel ou par une nouvelle Constitution ; sortie en « quelques mois à quelques années ».",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Sortir de l'euro et créer un nouveau franc à parité 1 pour 1",
       "detail": "Conversion selon le principe de la lex monetae (dette comprise), contrôle temporaire des capitaux et flottement contrôlé du franc.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Quitter l'espace Schengen et rétablir les frontières nationales",
       "detail": "Fin de la libre circulation sans contrôle des personnes, présentée comme condition de la maîtrise migratoire.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Dénoncer la Convention européenne des droits de l'homme",
       "detail": "Sortie de la CEDH pour pouvoir notamment remettre en cause le regroupement familial.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Sortir de l'OMS et dénoncer le traité mondial sur les pandémies",
       "detail": "Pour « redonner au peuple français la main sur la politique de santé ».",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Mettre fin aux accords de libre-échange signés par l'UE",
       "detail": "Notamment pour protéger les agriculteurs d'une concurrence jugée déloyale ; promotion d'un « protectionnisme intelligent ».",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Refuser l'euro numérique et l'identité numérique européenne",
       "detail": "Sanctuariser l'argent liquide, interdire toute monnaie numérique de banque centrale et soutenir les crypto-monnaies.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Quitter l'OTAN",
       "detail": "Sortie de l'organisation, présentée comme condition de l'indépendance internationale de la France.",
       "nature": "declaration",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "defense_europeenne",
       "titre": "Rejeter la création d'une armée européenne",
       "detail": "Opposition aux nouvelles compétences de l'UE en défense, dont le fonds européen de 100 Md€ pour l'achat d'armements.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "dissuasion",
       "titre": "Conserver une dissuasion nucléaire strictement nationale",
       "detail": "Refus de tout partage de la dissuasion française avec l'Europe.",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Cesser de financer la guerre en Ukraine et lancer une initiative de paix",
       "detail": "Couper les financements européens à l'Ukraine (dont 10 Md€ supportés par la France selon le document) et privilégier la diplomatie.",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Économiser environ 20 milliards d'euros par an grâce au Frexit",
       "detail": "Fin de la contribution nette au budget de l'UE (environ 15 Md€/an actuellement, 20 Md€ attendus après 2028 selon le document).",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Réduire le train de vie de l'État et supprimer des structures jugées inutiles",
       "detail": "Cibler les ministères « non régaliens » et les régimes spéciaux des élus ; l'Arcom est citée en exemple ; pas de hausse d'impôts.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Permettre à l'État d'emprunter directement auprès de la Banque de France",
       "detail": "Abrogation de la « loi de 1973 » et création d'une Caisse nationale pour l'équipement et la réindustrialisation.",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Instaurer des droits de douane supplémentaires de 10 % (Chine, Mercosur…)",
       "detail": "Recettes douanières estimées à 7 Md€/an pour la Chine dans le tableau de chiffrage du projet.",
       "nature": "programme",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Soutenir artisans et TPE-PME par une fiscalité avantageuse et une simplification",
       "detail": "Incitations au maintien et au retour en France et simplification « drastique » des procédures administratives.",
       "nature": "programme",
@@ -150,6 +167,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Renationaliser les autoroutes",
       "detail": "Retour au public des concessions autoroutières privatisées.",
       "nature": "programme",
@@ -158,6 +176,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Rétablir des monopoles publics dans le rail et l'énergie",
       "detail": "Retour sur les réformes de libéralisation imposées par les directives européennes.",
       "nature": "programme",
@@ -283,6 +302,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Renvoyer les clandestins et exécuter les OQTF",
       "detail": "Sortie de la directive « retour » pour permettre un renvoi immédiat ; flux migratoires « extrêmement limités ».",
       "nature": "programme",
@@ -291,6 +311,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Dissoudre Frontex et échapper au pacte européen sur la migration",
       "detail": "Refus de la répartition des migrants assortie de 20 000 € d'amende par migrant refusé.",
       "nature": "programme",
@@ -299,6 +320,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Conditionner la nationalité à la maîtrise du français et à l'adhésion aux valeurs",
       "detail": "Faire de l'assimilation une « exigence nationale » pour la nationalité ou les droits civiques.",
       "nature": "programme",
@@ -307,6 +329,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recréer une police de proximité visible et permanente",
       "detail": "Unités implantées dans les quartiers sensibles, avec l'appui du RAID et des CRS.",
       "nature": "programme",
@@ -315,6 +338,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Réformer la justice des mineurs et limiter l'excuse de minorité",
       "detail": "Jugement et sanction concomitants ; excuse de minorité seulement sur motivation spéciale du juge.",
       "nature": "programme",
@@ -323,6 +347,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Rétablir les peines planchers et supprimer les réductions automatiques de peine",
       "detail": "Sanction dès la première infraction.",
       "nature": "programme",
@@ -331,6 +356,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Construire des dizaines de milliers de places de prison et expulser les détenus étrangers",
       "detail": "Les détenus étrangers représentent 25 % des prisonniers selon le document.",
       "nature": "programme",
@@ -339,6 +365,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Suspendre les prestations sociales des parents de mineurs récidivistes",
       "detail": "Révision du droit au logement social, voire expulsion de la famille du territoire dans les cas les plus graves.",
       "nature": "programme",
@@ -347,6 +374,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Rendre automatique la castration chimique des pédocriminels récidivistes",
       "detail": "Alourdir les peines, faire de la lutte contre la pédocriminalité une grande cause nationale et renforcer les moyens spécialisés de police et de justice.",
       "nature": "programme",
@@ -355,6 +383,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Créer une commission d'enquête parlementaire sur le volet français de l'affaire Epstein",
       "detail": "Établir les faits commis en France ou impliquant des ressortissants français.",
       "nature": "programme",
@@ -363,6 +392,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC) sur tout sujet",
       "detail": "RIC inscrit dans la Constitution.",
       "nature": "programme",
@@ -371,6 +401,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Réviser la Constitution uniquement par référendum",
       "detail": "Suppression de la procédure de révision par le Congrès.",
       "nature": "programme",
@@ -379,6 +410,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Rendre inéligibles à vie les élus condamnés définitivement pour corruption",
       "detail": "Avec interdiction de toute charge publique.",
       "nature": "programme",
@@ -387,6 +419,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Recentraliser l'Aide sociale à l'enfance auprès de l'État",
       "detail": "Compétence retirée aux départements, inspections inopinées et suivi individuel de chaque enfant.",
       "nature": "programme",
@@ -395,6 +428,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Accompagner vers l'autonomie les jeunes sortant de l'ASE à 18 ans",
       "detail": "Solution de logement, suivi éducatif et sanitaire, parcours de formation ou d'insertion.",
       "nature": "programme",
@@ -403,6 +437,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Contrôler les antécédents judiciaires des adultes travaillant avec des enfants",
       "detail": "Contrôle préalable et périodique pour les professionnels et bénévoles au contact de mineurs.",
       "nature": "programme",
@@ -411,6 +446,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Revaloriser les métiers d'accompagnement du handicap, dont les AESH",
       "detail": "Mieux rémunérer, former et soutenir ces professionnels.",
       "nature": "programme",
@@ -419,6 +455,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer des unités en maison de retraite pour handicapés vieillissants dès 55 ans",
       "detail": "Pour éviter les placements en Belgique, faute de places en France.",
       "nature": "programme",
@@ -472,6 +509,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "fin_de_vie",
       "titre": "Refuser toute incitation à l'euthanasie des personnes handicapées",
       "detail": "« Promouvoir le soin et la vie ».",
       "nature": "programme",
@@ -480,6 +518,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "condition_animale",
       "titre": "Interdire l'abattage rituel sans étourdissement",
       "detail": "Et mettre fin aux abattages massifs d'animaux sains pour raisons sanitaires (dermatose nodulaire).",
       "nature": "programme",
@@ -488,6 +527,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Abroger les lois restreignant la liberté d'expression",
       "detail": "Opposition au règlement européen DSA.",
       "nature": "programme",
@@ -523,6 +563,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Consacrer la moitié du temps scolaire du primaire au français",
       "detail": "Recentrer le primaire sur le français, le calcul, l'histoire-géographie et les sciences.",
       "nature": "programme",
@@ -531,6 +572,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Supprimer le collège unique et ouvrir des parcours différenciés dès 14 ans",
       "detail": "Revaloriser la voie professionnelle et l'apprentissage.",
       "nature": "programme",
@@ -539,6 +581,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Faire de l'école un sanctuaire sans intelligence artificielle",
       "detail": "Pour protéger les capacités cognitives des enfants.",
       "nature": "programme",
@@ -547,6 +590,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Revenir sur les restrictions de l'instruction en famille",
       "detail": "Assouplir les règles de « l'école à la maison » instaurées sous Emmanuel Macron.",
       "nature": "programme",
@@ -573,6 +617,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Prioriser la restauration du patrimoine et simplifier le mécénat",
       "detail": "Rééquilibrer les budgets culturels au profit du bâti menacé.",
       "nature": "programme",

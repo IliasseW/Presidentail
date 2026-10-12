@@ -23,6 +23,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Créer un système universel de protection sociale fondé sur droits et devoirs",
       "detail": "Système suivant chaque personne tout au long de sa vie, fondé sur la réciprocité entre droits et devoirs.",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Créer des « centres de redressement » encadrés par d'anciens militaires",
       "detail": "Les délinquants y travailleraient et y apprendraient un métier.",
       "nature": "declaration",
@@ -39,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Réformer les institutions selon un « fédéralisme à la française »",
       "detail": "Annoncé lors de sa déclaration de candidature à Rixheim ; aucun détail institutionnel précisé.",
       "nature": "declaration",
@@ -47,6 +50,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Supprimer la moitié des normes applicables",
       "detail": "Avancé en juin 2026, avant sa déclaration, avec une « refonte du système français actuel » ; normes visées non précisées.",
       "nature": "declaration",

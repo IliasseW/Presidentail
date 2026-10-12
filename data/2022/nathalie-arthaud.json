@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC et toutes les pensions et allocations à 2 000 euros nets minimum",
       "detail": "Minimum de 2 000 euros nets pour les salaires, pensions, allocations chômage et handicap.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter tous les salaires de 300 à 500 euros par mois",
       "detail": "« Des augmentations de 300, 400, 500 euros par mois » (profession de foi).",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer les salaires sur les prix",
       "detail": "Échelle mobile des salaires contre l'inflation.",
       "nature": "programme",
@@ -85,6 +88,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Abolir le secret des affaires et contrôler les comptes des grands groupes",
       "detail": "Contrôle des travailleurs sur la comptabilité et les contrats des grandes entreprises ; levée du secret commercial et professionnel.",
       "nature": "programme",
@@ -93,6 +97,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Exproprier les grands groupes et planifier l'économie",
       "detail": "Placer les grandes entreprises sous le contrôle de la collectivité si les grands actionnaires s'opposent aux revendications.",
       "nature": "programme",
@@ -101,6 +106,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Supprimer la TVA",
       "detail": "Proposition citée par Lyon Capitale.",
       "nature": "declaration",
@@ -127,6 +133,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer un revenu pour les proches aidants",
       "detail": "Pour les proches qui cessent de travailler pour s'occuper d'une personne.",
       "nature": "declaration",
@@ -135,6 +142,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Garantir la liberté de circulation et d'installation",
       "detail": "Accueillir les migrants comme des membres du monde du travail.",
       "nature": "programme",
@@ -143,6 +151,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "autre",
       "titre": "Accorder le droit de vote aux travailleurs immigrés",
       "detail": "« Ils doivent avoir le droit de vote. »",
       "nature": "programme",
@@ -151,6 +160,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Retirer les troupes françaises d'Afrique",
       "detail": "Et dénoncer les ventes d'armes (Rafale) aux dictatures.",
       "nature": "programme",
@@ -177,6 +187,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "condition_animale",
       "titre": "Interdire la chasse à courre",
       "detail": "« Loisir cruel de riches oisifs ».",
       "nature": "declaration",
@@ -185,6 +196,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "drogues_legalisation",
       "titre": "Dépénaliser le cannabis",
       "detail": "Proposition citée par Lyon Capitale.",
       "nature": "declaration",

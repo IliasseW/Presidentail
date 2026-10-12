@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Organiser un référendum sur l'immigration dans les six mois suivant l'élection",
       "detail": "Projet de loi référendaire déjà rédigé : il inscrirait la question migratoire dans la Constitution et empêcherait les juridictions supranationales d'imposer des politiques contraires à la volonté populaire.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "regroupement_familial",
       "titre": "Mettre fin à l'immigration de peuplement et au regroupement familial",
       "detail": "Le regroupement familial deviendrait « une rare exception » ; toute forme de peuplement visant à « altérer l'identité de la France » serait interdite par référendum.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Traiter les demandes d'asile uniquement à l'étranger",
       "detail": "Les demandes d'asile ne pourraient plus être déposées sur le territoire national.",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Réserver les aides sociales aux Français",
       "detail": "Les prestations de solidarité seraient conditionnées à cinq années de travail en France pour les étrangers.",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Instaurer la priorité nationale pour l'emploi et le logement social",
       "detail": "Priorité nationale d'accès au logement social et à l'emploi.",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Retirer le titre de séjour aux étrangers sans emploi depuis un an",
       "detail": "Les étrangers venus travailler devraient rentrer dans leur pays au bout d'un an de chômage.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser systématiquement clandestins, délinquants et criminels étrangers",
       "detail": "Levée des obstacles juridiques à l'expulsion et à l'interdiction du territoire ; reconduite « systématique et immédiate » à la frontière.",
       "nature": "programme",
@@ -72,6 +79,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation",
       "detail": "Naturalisation sur des critères de mérite et d'assimilation.",
       "nature": "programme",
@@ -80,6 +88,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Bloquer visas et transferts d'argent vers les pays refusant leurs ressortissants",
       "detail": "Aucun visa délivré et transferts d'argent depuis la France bloqués pour les États refusant de reprendre leurs ressortissants.",
       "nature": "programme",
@@ -88,6 +97,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Éradiquer les idéologies islamistes par une loi spécifique",
       "detail": "Proposition de loi contre les idéologies islamistes ; fermeture systématique des mosquées radicales et dissolution des associations islamistes.",
       "nature": "programme",
@@ -96,6 +106,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "autre",
       "titre": "Instaurer un moratoire d'au moins trois ans sur les réformes sociétales",
       "detail": "Pas de réouverture des sujets de société pendant au moins trois ans (les Français pourraient s'en saisir par RIC) ; interdiction de la GPA pouvant être renforcée.",
       "nature": "programme",
@@ -104,6 +115,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Rétablir les peines planchers",
       "detail": "Peines minimales pour certaines infractions, en priorité celles commises contre les dépositaires de l'autorité publique.",
       "nature": "programme",
@@ -112,6 +124,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Supprimer réductions et aménagements de peine pour les violences",
       "detail": "Fin des réductions et aménagements de peine, notamment pour les violences contre les personnes ; alternatives à la prison drastiquement limitées.",
       "nature": "programme",
@@ -120,6 +133,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Instituer une présomption de légitime défense pour les forces de l'ordre",
       "detail": "Mesure figurant parmi les « 22 mesures pour 2022 ».",
       "nature": "programme",
@@ -128,6 +142,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Établir une perpétuité réelle",
       "detail": "Peine de perpétuité sans possibilité d'aménagement.",
       "nature": "programme",
@@ -136,6 +151,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Porter le parc pénitentiaire à 85 000 places de prison",
       "detail": "Objectif de 85 000 places en 2027 (« en six ans » selon le manifeste).",
       "nature": "programme",
@@ -144,6 +160,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Doubler le nombre de magistrats pour accélérer les procédures",
       "detail": "Recrutement de plusieurs milliers de magistrats en cinq ans via un tour extérieur élargi (avocats, policiers, retraités du judiciaire).",
       "nature": "programme",
@@ -152,6 +169,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Diviser par deux les délais de la justice civile",
       "detail": "Plan d'action du garde des Sceaux, numérisation des procédures et simplification pour diviser les délais par deux d'ici la fin du quinquennat.",
       "nature": "programme",
@@ -160,6 +178,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Inscrire les harceleurs de rue au fichier des délinquants sexuels",
       "detail": "Mesure de la partie sécurité des « 22 mesures ».",
       "nature": "programme",
@@ -168,6 +187,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Créer au moins un centre éducatif fermé par département",
       "detail": "Sanction sans délai des mineurs délinquants et responsabilisation des parents.",
       "nature": "programme",
@@ -176,6 +196,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Juger dans des délais très brefs les conjoints violents",
       "detail": "Mesures spécifiques contre les violences conjugales, sur le modèle espagnol, avec protection effective des victimes.",
       "nature": "programme",
@@ -184,6 +205,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Créer un ministère de la lutte contre les fraudes",
       "detail": "Ministère ayant autorité sur toutes les administrations compétentes (fraudes fiscales, sociales, aux importations, ententes).",
       "nature": "programme",
@@ -192,6 +214,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Sanctionner la fraude sociale par des amendes de trois à cinq fois le montant perçu",
       "detail": "Amende de 3 fois le montant à la première fraude, 5 fois à la deuxième, puis suspension temporaire de droits ; cartes Vitale biométriques.",
       "nature": "programme",
@@ -200,6 +223,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Financer un programme chiffré à 68 Md€ par des économies",
       "detail": "Chiffrage de 68,3 Md€ de dépenses nouvelles financées notamment par la baisse de l'immigration (16 Md€) et la lutte contre la fraude (15 Md€).",
       "nature": "programme",
@@ -208,6 +232,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser la TVA de 20 % à 5,5 % sur carburants, fioul, gaz et électricité",
       "detail": "Produits énergétiques considérés comme biens de première nécessité.",
       "nature": "programme",
@@ -216,6 +241,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Supprimer la TVA sur un panier de 100 produits de première nécessité",
       "detail": "Mesure d'urgence de pouvoir d'achat chiffrée à 3,5 à 4 Md€.",
       "nature": "programme",
@@ -224,6 +250,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Suspendre les hausses de TICPE décidées entre 2015 et 2018",
       "detail": "Mesure d'urgence sur les carburants, estimée à 8,5 Md€ (710 M€ par mois).",
       "nature": "programme",
@@ -232,6 +259,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "autre",
       "titre": "Renationaliser les autoroutes pour baisser les péages de 15 %",
       "detail": "Rachat des concessions autoroutières via le fonds souverain français.",
       "nature": "programme",
@@ -240,6 +268,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Exonérer de cotisations patronales les hausses de salaire de 10 % jusqu'à 3 SMIC",
       "detail": "Dans le cadre d'un contrat d'entreprise, les entreprises augmentant tous les salaires de 10 % jusqu'à 3 SMIC seraient exonérées sur cette hausse.",
       "nature": "programme",
@@ -248,6 +277,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Exonérer d'impôt sur le revenu tous les actifs de moins de 30 ans",
       "detail": "Objectif affiché : que les jeunes restent en France et y fondent leur famille.",
       "nature": "programme",
@@ -256,6 +286,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Remplacer l'IFI par un impôt sur la fortune financière (IFF)",
       "detail": "IFF visant la spéculation (produits financiers, œuvres d'art détenues depuis moins de 10 ans), hors résidence principale et biens professionnels ; produit affecté à la politique familiale.",
       "nature": "programme",
@@ -264,6 +295,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Créer un fonds souverain français rémunérant l'épargne à au moins 2 %",
       "detail": "Fonds alimenté par l'épargne des Français, investi dans les secteurs stratégiques, l'innovation et la transition écologique.",
       "nature": "programme",
@@ -272,6 +304,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Appliquer la priorité nationale aux marchés publics et favoriser les PME",
       "detail": "Priorité nationale (ou européenne dans certains cas) pour la commande publique, priorité aux PME.",
       "nature": "programme",
@@ -280,6 +313,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer la CFE et les impôts de production pénalisant les PME",
       "detail": "Suppression de la cotisation foncière des entreprises ; suppression de la C3S réservée aux zones de relocalisation.",
       "nature": "programme",
@@ -288,6 +322,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Supprimer l'impôt sur les sociétés 5 ans pour les créateurs de moins de 30 ans",
       "detail": "Pour éviter le départ à l'étranger des jeunes entrepreneurs.",
       "nature": "programme",
@@ -296,6 +331,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Exonérer de droits de succession les entreprises transmises et conservées 10 ans",
       "detail": "Pacte Dutreil actualisé : plus d'impôt pour les héritiers s'engageant à garder l'entreprise au moins 10 ans.",
       "nature": "programme",
@@ -304,6 +340,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Taxer exceptionnellement les bénéfices des énergéticiens pétroliers et gaziers",
       "detail": "Taxe spéciale de 10 % sur les bénéfices 2021-2022, estimée à 3,5 Md€.",
       "nature": "programme",
@@ -312,6 +349,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Pénaliser les rachats d'actions",
       "detail": "Pénalité de 33 % sur les rachats d'actions, estimée à 8 Md€ pour le seul CAC 40.",
       "nature": "programme",
@@ -365,6 +403,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Revaloriser le minimum vieillesse à 1 000 € par mois",
       "detail": "Et augmentation des petites retraites.",
       "nature": "programme",
@@ -373,6 +412,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Rétablir la demi-part fiscale des veuves et des veufs",
       "detail": "Mesure du volet retraités des « 22 mesures ».",
       "nature": "programme",
@@ -381,6 +421,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Déconjugaliser l'allocation aux adultes handicapés (AAH)",
       "detail": "AAH déconjugalisée et indexée sur l'inflation.",
       "nature": "programme",
@@ -389,6 +430,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Inscrire la lutte contre les discriminations liées au handicap dans la Constitution",
       "detail": "À l'occasion de la réforme constitutionnelle.",
       "nature": "programme",
@@ -397,6 +439,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer des dizaines de milliers de places pour les personnes lourdement handicapées",
       "detail": "Hausse des classes ULIS, plan d'accueil des enfants handicapés à l'école et un centre de dépistage de l'autisme par département.",
       "nature": "programme",
@@ -405,6 +448,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Porter le congé de proche aidant de 3 à 12 mois sur une carrière",
       "detail": "Meilleure prise en charge des pertes de salaire des aidants.",
       "nature": "programme",
@@ -413,6 +457,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Accorder une part fiscale complète dès le deuxième enfant",
       "detail": "Mesure de soutien aux familles et à la natalité.",
       "nature": "programme",
@@ -421,6 +466,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Doubler l'allocation de soutien familial pour les mères isolées",
       "detail": "Réservé aux familles françaises, avec contrôles renforcés contre la fraude.",
       "nature": "programme",
@@ -429,6 +475,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un prêt à taux zéro de 100 000 € pour les jeunes couples, effacé au 3e enfant",
       "detail": "Prêt public sur 10 ans pour l'achat d'un logement, transformé en subvention à la naissance du troisième enfant.",
       "nature": "programme",
@@ -437,6 +484,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Réserver les allocations familiales aux familles dont un parent est français",
       "detail": "Application du principe de priorité nationale.",
       "nature": "programme",
@@ -445,6 +493,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Exonérer les donations jusqu'à 100 000 € par enfant tous les dix ans",
       "detail": "Abattement aligné pour les grands-parents ; successions exonérées sur les biens immobiliers jusqu'à 300 000 €.",
       "nature": "programme",
@@ -507,6 +556,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Remettre français, mathématiques et histoire au cœur du primaire",
       "detail": "Augmentation significative des heures de cours dans ces matières.",
       "nature": "programme",
@@ -515,6 +565,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Limiter les classes à 20 élèves en primaire et 30 dans le secondaire",
       "detail": "Généralisation du dédoublement engagé par le gouvernement.",
       "nature": "programme",
@@ -523,6 +574,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Supprimer le collège unique au profit de classes de niveau",
       "detail": "Inspiré du modèle suisse ; objectif de 40 % de jeunes en filière professionnelle après la 3e.",
       "nature": "programme",
@@ -531,6 +583,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Revaloriser de 3 % par an la grille des enseignants",
       "detail": "Pendant cinq ans, pour atteindre la moyenne haute de l'OCDE.",
       "nature": "programme",
@@ -539,6 +592,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Instaurer l'uniforme au primaire et au collège",
       "detail": "Avec sanction des absences et des incivilités.",
       "nature": "programme",
@@ -547,6 +601,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Faire fixer les programmes scolaires par le Parlement",
       "detail": "La loi définirait ce qui est attendu de chaque élève à la fin de chaque cycle ; inspections tous les deux ans.",
       "nature": "programme",
@@ -555,6 +610,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Verser un complément de salaire aux étudiants qui travaillent",
       "detail": "200 à 300 € pour les jeunes travaillant pendant leurs études et validant leurs examens.",
       "nature": "programme",
@@ -590,6 +646,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "Seuil de déclenchement abaissé à 500 000 signatures, pour adopter ou abroger une loi.",
       "nature": "programme",
@@ -598,6 +655,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Élire les deux tiers des députés à la proportionnelle",
       "detail": "Le mode d'élection du dernier tiers serait laissé au Parlement (prime majoritaire envisagée).",
       "nature": "programme",
@@ -606,6 +664,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Instaurer un septennat non renouvelable",
       "detail": "Mentionné parmi ses propositions institutionnelles du second tour.",
       "nature": "programme",
@@ -614,6 +673,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Réviser la Constitution directement par référendum",
       "detail": "Sans validation parlementaire ; la voie de l'article 11 était envisagée selon Public Sénat.",
       "nature": "programme",
@@ -622,6 +682,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Porter le budget de la défense à 55 Md€ en 2027",
       "detail": "Hausse des effectifs, matériels et munitions ; amélioration de la condition militaire.",
       "nature": "programme",
@@ -630,6 +691,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Quitter le commandement intégré de l'OTAN",
       "detail": "Politique « des mains libres », la France restant dans l'Alliance.",
       "nature": "programme",
@@ -638,6 +700,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Mettre fin aux coopérations d'armement avec l'Allemagne",
       "detail": "Coopération renforcée avec le Royaume-Uni (accords de Lancaster House).",
       "nature": "programme",
@@ -646,6 +709,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Remplacer progressivement l'UE par une Alliance européenne des nations",
       "detail": "Europe des nations « libres et souveraines » fondée sur les coopérations.",
       "nature": "programme",
@@ -654,6 +718,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Baisser la contribution de la France au budget de l'UE",
       "detail": "Économie de 5 Md€ par an inscrite au chiffrage.",
       "nature": "programme",
@@ -662,6 +727,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Revoir les accords de libre-échange contraires aux intérêts français",
       "detail": "Protéger l'économie de la concurrence déloyale.",
       "nature": "programme",
@@ -670,6 +736,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Créer une Union francophone à vocation politique et économique",
       "detail": "Les pays francophones d'Afrique y joueraient un rôle moteur.",
       "nature": "programme",
@@ -822,6 +889,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Privatiser l'audiovisuel public et supprimer la redevance",
       "detail": "Suppression de la redevance de 138 €.",
       "nature": "programme",
@@ -830,6 +898,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Créer un service national du patrimoine pour les 18-24 ans",
       "detail": "Volontariat de six mois renouvelable une fois pour restaurer le patrimoine bâti et naturel.",
       "nature": "programme",

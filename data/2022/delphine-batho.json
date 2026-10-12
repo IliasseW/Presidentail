@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Bâtir le budget de l'État sur des indicateurs de bien-être et non sur le PIB",
       "detail": "Indicateurs de bien-être humain (éducation, santé, pauvreté, résilience) et de la nature : cœur du projet de « décroissance ».",
       "nature": "programme",
@@ -51,6 +52,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Adopter une loi de séparation des lobbies et de l'État",
       "detail": "Pour une démocratie « libérée du pouvoir des lobbys ».",
       "nature": "declaration",
@@ -59,6 +61,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Rompre avec le présidentialisme par une gouvernance collective",
       "detail": "Gouvernance collective de campagne puis de gouvernement, dans une approche écoféministe du pouvoir.",
       "nature": "programme",
@@ -67,6 +70,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Élaborer le programme avec des assemblées citoyennes dans les 577 circonscriptions",
       "detail": "Éclairées par une commission scientifique indépendante, avec vote des propositions au jugement majoritaire (janvier 2022).",
       "nature": "programme",
@@ -75,6 +79,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Mettre en place une éducation populaire écologique « de 7 à 87 ans »",
       "detail": "Proposition citée par Public Sénat.",
       "nature": "declaration",
@@ -83,6 +88,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Mener une politique pénale et de prévention contre les féminicides",
       "detail": "Et contre toutes les violences et discriminations sexistes.",
       "nature": "declaration",
@@ -91,6 +97,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Créer une « sécurité sociale écologique » pour accompagner la fin d'activités polluantes",
       "detail": "Mutualiser les conséquences de la fin ou de la réduction d'activités comme l'élevage industriel ou une part de l'aérien.",
       "nature": "programme",
@@ -99,6 +106,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Défendre la laïcité comme pilier de l'écologie républicaine",
       "detail": "Candidature « 100 % laïque, 100 % écoféministe, 100 % écologie intégrale ».",
       "nature": "programme",

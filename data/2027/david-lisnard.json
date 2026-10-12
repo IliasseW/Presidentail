@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réaliser 200 Md€ d'économies réparties entre salaires, entreprises et dette",
       "detail": "Règle annoncée : 120 Md€ rendus aux actifs en salaire net (baisse de cotisations), 40 Md€ de baisse des impôts de production, 40 Md€ affectés à la dette.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Ne plus remplacer l'ensemble des 500 000 départs annuels dans la fonction publique",
       "detail": "En commençant par les fonctions administratives ; 80 Md€ d'économies visées dès la première année, une partie servant à mieux rémunérer les agents de terrain.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Instaurer une « règle d'or » limitant les déficits de fonctionnement",
       "detail": "Règle institutionnelle s'appliquant aux dépenses de fonctionnement mais pas à l'investissement, avec un plan de lutte contre les gaspillages sur 5 ans.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer la C3S et réduire les impôts de production",
       "detail": "Baisse de 40 Md€ des impôts de production « à commencer par la suppression de la C3S » ; baisses d'impôts uniquement après baisse de la dépense.",
       "nature": "declaration",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Regrouper les aides sociales en une allocation unique plafonnée à un pourcentage du SMIC",
       "detail": "Retrait du logement social et des aides aux personnes condamnées pour délinquance ; fin du versement de prestations non contributives à l'étranger.",
       "nature": "declaration",
@@ -90,6 +95,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Diviser par deux les contraintes administratives pesant sur entreprises et citoyens",
       "detail": "Avec un processus de réduction du stock de normes et la réforme des trois fonctions publiques (contrat systématisé hors fonctions régaliennes).",
       "nature": "programme",
@@ -107,6 +113,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Rétablir le septennat présidentiel",
       "detail": "Le président recentré sur l'article 5 de la Constitution ; le Sénat chargé d'évaluer les politiques publiques.",
       "nature": "declaration",
@@ -115,6 +122,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Libérer le référendum de l'article 11 de ses limites thématiques",
       "detail": "Tout sujet pourrait être soumis au pays : immigration, école, justice, dépense publique ; à terme, révision directe de la Constitution par référendum.",
       "nature": "declaration",
@@ -123,6 +131,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Rendre praticable le référendum d'initiative populaire",
       "detail": "Seuil de signatures atteignable et vote garanti au terme du délai.",
       "nature": "declaration",
@@ -131,6 +140,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Permettre de passer outre par référendum une censure fondée sur le préambule",
       "detail": "Le préambule de 1946 et la Charte de l'environnement cesseraient de servir de normes de contrôle de constitutionnalité.",
       "nature": "declaration",
@@ -139,6 +149,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Regrouper départements et régions en une cinquantaine de provinces",
       "detail": "Sur le modèle de la carte de Michel Debré (1947), avec subsidiarité inscrite comme règle constitutionnelle et refus de la décentralisation « à la carte ».",
       "nature": "declaration",
@@ -147,6 +158,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Recentrer l'État sur le régalien et supprimer les agences redondantes",
       "detail": "Sécurité, justice, défense et diplomatie ; l'État compterait plus de 1 200 agences et opérateurs.",
       "nature": "declaration",
@@ -155,6 +167,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Accorder au Parlement un droit d'initiative réservé sur un périmètre législatif",
       "detail": "Renforcement du contrôle de l'action gouvernementale et recentrage de la loi sur les grands principes.",
       "nature": "programme",
@@ -172,6 +185,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Réviser l'article 55 de la Constitution pour faire primer la loi sur la CEDH",
       "detail": "Lorsque le Parlement décide clairement de s'écarter d'une interprétation de la CEDH, la loi française s'appliquerait, en priorité en matière d'immigration.",
       "nature": "declaration",
@@ -180,6 +194,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Négocier un traité de démocratisation de l'Union européenne",
       "detail": "Revoir la répartition des compétences entre institutions européennes et redéfinir les compétences de l'UE selon la subsidiarité.",
       "nature": "programme",
@@ -188,6 +203,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Permettre un référendum en cas de blocage dû à des règles supranationales",
       "detail": "Implique de revoir partiellement la hiérarchie des normes.",
       "nature": "programme",
@@ -196,6 +212,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Porter à 50 % minimum le temps de présence des forces de l'ordre sur le terrain",
       "detail": "Contre 37 % aujourd'hui selon Nouvelle Énergie ; préfets dotés de marges de commandement locales et audit public annuel de la performance sécuritaire.",
       "nature": "programme",
@@ -204,6 +221,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Permettre aux communes volontaires d'armer leur police municipale",
       "detail": "Avec accès aux fichiers, verbalisation renforcée et amendes forfaitaires délictuelles.",
       "nature": "programme",
@@ -212,6 +230,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Créer des cellules locales anti-stupéfiants sous l'autorité du préfet",
       "detail": "Confiscations ciblées, infiltration numérique des réseaux, coopération internationale et task forces en outre-mer.",
       "nature": "programme",
@@ -220,6 +239,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Supprimer les réductions de peine automatiques et rétablir les peines planchers",
       "detail": "Peines planchers pour les récidivistes, fin des aménagements dès l'audience, sanction même courte dès la première infraction.",
       "nature": "programme",
@@ -228,6 +248,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Doubler les effectifs des juridictions correctionnelles",
       "detail": "Renforcement des greffes et dématérialisation de l'ensemble du circuit judiciaire.",
       "nature": "programme",
@@ -236,6 +257,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Abaisser la majorité pénale à 16 ans",
       "detail": "Inversion de l'excuse de minorité dès 13 ans, comparution immédiate dès 13 ans pour les cas graves, internats disciplinaires fermés.",
       "nature": "programme",
@@ -244,6 +266,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Séparer le budget de la justice de celui de l'administration pénitentiaire",
       "detail": "Et doubler le nombre de procureurs et de juges d'application des peines.",
       "nature": "programme",
@@ -252,6 +275,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Interdire les Frères musulmans et le voile à l'université",
       "detail": "Ainsi que contrôle des écoles hors contrat et expulsion des prêcheurs radicaux.",
       "nature": "programme",
@@ -260,6 +284,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Revenir sur l'accord franco-algérien de 1968",
       "detail": "Avec des mesures de rétorsion (visas, transferts d'argent, aide au développement) envers les pays non coopératifs.",
       "nature": "programme",
@@ -268,6 +293,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Diviser par huit la délivrance de titres de séjour",
       "detail": "Quotas de main-d'œuvre qualifiée et regroupement familial conditionné à des ressources et à des tests d'intégration.",
       "nature": "programme",
@@ -276,6 +302,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Mettre fin à l'automaticité du droit du sol",
       "detail": "Mesure du volet « maîtriser notre peuplement ».",
       "nature": "programme",
@@ -284,6 +311,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Allonger la rétention administrative à 24 mois et construire plus de CRA",
       "detail": "Volet « rétablir l'autorité de l'État ».",
       "nature": "programme",
@@ -292,6 +320,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Inscrire dans la Constitution la primauté du droit national en matière migratoire",
       "detail": "Pour rendre inapplicables les décisions de la CJUE et de la CEDH contraires à l'intérêt national ; sortie de la CEDH en dernier recours.",
       "nature": "programme",
@@ -300,6 +329,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Supprimer l'AME et la remplacer par une aide d'urgence",
       "detail": "Économie annoncée de 700 M€.",
       "nature": "programme",
@@ -308,6 +338,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Rétablir le délit de séjour irrégulier",
       "detail": "Avec expulsion systématique des étrangers condamnés pour délits graves et des fichés S étrangers.",
       "nature": "programme",
@@ -316,6 +347,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Réserver les prestations non contributives aux étrangers résidant légalement depuis 5 ans",
       "detail": "Conditionnement à au moins cinq ans de résidence régulière.",
       "nature": "programme",
@@ -324,6 +356,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Traiter les demandes d'asile dans les consulats à l'étranger",
       "detail": "Mesure du volet diplomatique de la politique migratoire.",
       "nature": "programme",
@@ -332,6 +365,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Abroger la carte scolaire et instaurer progressivement un chèque-éducation",
       "detail": "Libre choix de l'école public ou privé avec financement public équivalent et transparence des résultats.",
       "nature": "programme",
@@ -340,6 +374,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Créer un certificat de fin de primaire conditionnant l'entrée au collège",
       "detail": "Accompagnement spécifique pour les élèves ne maîtrisant pas les savoirs fondamentaux.",
       "nature": "programme",
@@ -348,6 +383,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Étendre l'initiation au grec, au latin et à la philosophie dès le primaire",
       "detail": "Sur le modèle de l'expérimentation menée à Cannes.",
       "nature": "programme",
@@ -356,6 +392,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Augmenter de 20 % en cinq ans la rémunération des enseignants",
       "detail": "Sous condition d'une réorganisation : autonomie accrue, présence renforcée, formation continue obligatoire, évaluation régulière.",
       "nature": "programme",
@@ -364,6 +401,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Créer un corps unique d'enseignants contractuels recrutés par concours national",
       "detail": "Éducation nationale recentrée sur le tronc commun 6-16 ans, l'éveil (1-6 ans) étant confié aux communes.",
       "nature": "programme",
@@ -372,6 +410,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Donner aux chefs d'établissement la liberté de recruter et de gérer leur budget",
       "detail": "Autonomie en contrepartie d'une évaluation publique des résultats ; classes d'excellence en maths et sciences dans chaque académie.",
       "nature": "programme",

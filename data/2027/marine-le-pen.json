@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réaliser 140 milliards d'euros d'économies nettes d'ici 2032",
       "detail": "Objectif du contre-budget 2027 du RN : 140 Md€ nets d'économies en 2032 par rapport à 2026 (125 Md€ annoncés fin août devant le Medef).",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Ramener le déficit public sous 3 % du PIB dès 2030",
       "detail": "Le RN vise un déficit sous 3 % du PIB en 2030 et une dette ramenée à 112 % du PIB en 2032 ; retour à l'équilibre du solde primaire visé 18 mois après l'arrivée à l'Élysée.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Inscrire une règle d'or budgétaire dans la Constitution par référendum",
       "detail": "Plafond de déficit fixé au niveau qui stabilise la dette, imposant une baisse annuelle de la dette ; référendum envisagé dans les douze mois suivant l'élection.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Baisser les impôts d'au moins 30 milliards d'euros nets sur le quinquennat",
       "detail": "Baisse nette d'impôts annoncée dans le contre-budget 2027 présenté le 6 octobre 2026.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Supprimer plus de 120 taxes",
       "detail": "Mesure du contre-budget 2027, sans chiffrage détaillé selon la presse.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Centraliser les recettes de TVA et les répartir chaque année",
       "detail": "Recettes de TVA centralisées puis transférées aux collectivités et à la Sécurité sociale selon les besoins estimés par le Parlement ; fin des reconductions automatiques de dépenses sans visa du ministre des Comptes publics.",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Supprimer la quasi-totalité des agences et organismes de l'État jugés inutiles",
       "detail": "Économie affichée de 3,4 Md€ en 2027 sur les agences et opérateurs ; la réorganisation de l'État doit rapporter 20,7 Md€ dès 2027.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Ne pas remplacer 201 000 départs dans les agences et collectivités d'ici 2032",
       "detail": "85 000 postes non remplacés dans les agences et 116 000 dans les collectivités d'ici 2032 (départs non remplacés, pas de licenciements).",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Baisser la dotation globale de fonctionnement des régions et des EPCI",
       "detail": "Baisse de 5 Md€ de la DGF des régions et des EPCI inscrite au contre-budget 2026.",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réduire les subventions aux associations ne relevant pas de l'intérêt général",
       "detail": "Économie attendue de 3,7 Md€ à partir de 2028 selon le contre-budget 2027.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Réduire le train de vie de l'État (Élysée, Assemblée, Sénat, CESE)",
       "detail": "Économie chiffrée à 0,513 Md€ dans le contre-budget 2026 du RN.",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Renforcer la lutte contre les fraudes fiscale et sociale",
       "detail": "Plan de lutte contre les fraudes chiffré à 3,5 Md€ de recettes dans le contre-budget 2026.",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Réduire fortement l'aide publique au développement",
       "detail": "« Forte baisse » de l'aide publique au développement inscrite au contre-budget 2027, sans chiffrage publié.",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer trois impôts de production : CFE, CVAE et C3S",
       "detail": "Suppression de la CFE (8,8 Md€), de la CVAE (2,6 Md€) et de la C3S (4,8 Md€), soit 16,2 Md€.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Remplacer l'IFI par un impôt sur la fortune financière (IFF)",
       "detail": "L'IFF remplacerait l'IFI et la taxe sur les holdings ; recette estimée à 4 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Créer une taxe sur les rachats d'actions",
       "detail": "Recette estimée à 8,4 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Taxer les superdividendes et les transactions financières intra-journalières",
       "detail": "Taxe sur les superdividendes (0,75 Md€ dans le tableau, 1,3 Md€ dans la synthèse) et taxe sur les transactions intra-journalières (3 Md€).",
       "nature": "programme",
@@ -150,6 +167,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Prendre une « golden share » de l'État dans Atos, Arcelor et Opella",
       "detail": "Mesure de « souveraineté économique » chiffrée à 0,496 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -158,6 +176,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Assouplir le pacte Dutreil contre une détention de 10 ans",
       "detail": "Annulation de la taxation en cas de détention de 10 ans ; coût estimé à 0,5 Md€.",
       "nature": "programme",
@@ -166,6 +185,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Exempter les ETI de la surtaxe d'impôt sur les sociétés (« super-IS »)",
       "detail": "Coût estimé à 0,5 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -174,6 +194,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser la TVA sur l'énergie de 20 % à 5,5 %",
       "detail": "Gaz, électricité, carburants, bois et fioul ; coût estimé à 10,96 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -182,6 +203,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Supprimer la TVA sur 100 produits de première nécessité",
       "detail": "Coût estimé à 3,5 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -190,6 +212,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Indexer le barème de l'impôt sur le revenu et la CSG sur l'inflation",
       "detail": "Coût estimé à 1,9 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -198,6 +221,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Accorder une part fiscale pleine dès le deuxième enfant",
       "detail": "Coût estimé à 2,86 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -206,6 +230,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Généraliser la demi-part fiscale pour les veufs et veuves",
       "detail": "Coût estimé à 1 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -214,6 +239,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Créer une allocation sociale unique",
       "detail": "Mesure citée dans le contre-budget 2027, sans détail de périmètre.",
       "nature": "programme",
@@ -258,6 +284,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Organiser dès l'élection un référendum constitutionnel sur l'immigration",
       "detail": "Selon Jordan Bardella : expulsion des étrangers condamnés, fin du droit du sol et du regroupement familial, priorité nationale pour les prestations, asile durci, fin de la primauté du droit européen dans plusieurs domaines (article 11).",
       "nature": "declaration",
@@ -266,6 +293,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Réserver les prestations de solidarité aux étrangers ayant 5 ans de travail",
       "detail": "Prestations de solidarité réservées aux étrangers ayant travaillé au moins 5 ans à temps plein en France ; économie estimée à 6,1 Md€.",
       "nature": "programme",
@@ -274,6 +302,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Remplacer l'AME par une aide médicale d'urgence (AMU)",
       "detail": "Économie estimée à 1,3 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -282,6 +311,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Supprimer le visa pour soins",
       "detail": "Économie estimée à 1 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -290,6 +320,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Mettre fin à l'accord franco-algérien de 1968",
       "detail": "Économie estimée à 1,3 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -298,6 +329,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Renvoyer les étrangers sans emploi depuis un an ne pouvant subvenir à leurs besoins",
       "detail": "Économie estimée à 1,11 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -306,6 +338,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Augmenter les frais de scolarité des étudiants étrangers",
       "detail": "Hors conventions interétatiques ; recette estimée à 1,1 Md€.",
       "nature": "programme",
@@ -314,6 +347,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Instaurer un timbre sur les visas touristiques",
       "detail": "Recette estimée à 0,8 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -439,6 +473,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Plafonner la contribution nette de la France au budget de l'UE à 5 milliards d'euros",
       "detail": "Contre près de 29 Md€ en 2026 selon la presse ; 9 Md€ d'économies attendues sur la contribution française.",
       "nature": "programme",
@@ -447,6 +482,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Faire payer aux États de l'UE trop polluants une contribution carbone",
       "detail": "Prélèvement fondé sur l'intensité carbone de leur économie.",
       "nature": "programme",
@@ -455,6 +491,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Quitter le commandement intégré de l'OTAN, mais pas pendant la guerre en Ukraine",
       "detail": "Marine Le Pen maintient la volonté de sortir du commandement intégré, en la conditionnant à la fin de la guerre.",
       "nature": "declaration",
@@ -463,6 +500,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Arrêter l'aide financière à l'Ukraine tout en maintenant formation et aide militaire",
       "detail": "Fin de l'aide financière française à Kyiv, mais formation des soldats et de l'encadrement ukrainiens et aide militaire possibles.",
       "nature": "declaration",
@@ -471,6 +509,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Interdire le voile islamique dans l'espace public par référendum",
       "detail": "Interdiction par étapes (bâtiments publics, universités, fonction publique d'abord), sanction par amende évoquée ; inscrite au programme 2027 selon le RN.",
       "nature": "declaration",
@@ -479,6 +518,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les EPCI et les métropoles",
       "detail": "Économie estimée à environ 250 M€ ; simplification des compétences pour mettre fin au « millefeuille » territorial.",
       "nature": "programme",
@@ -487,6 +527,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les conseils économiques, sociaux et environnementaux régionaux",
       "detail": "Suppression des CESER, économie estimée à 40 M€.",
       "nature": "programme",
@@ -513,6 +554,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Baisser la dotation à l'audiovisuel public",
       "detail": "Économie de 0,154 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -521,6 +563,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Supprimer les aides à la presse, hors avantage postal",
       "detail": "Économie de 0,177 Md€ dans le contre-budget 2026.",
       "nature": "programme",
@@ -556,6 +599,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Réserver les aides à l'apprentissage aux étudiants avant la licence",
       "detail": "Économie estimée à 1,6 Md€ dans le contre-budget 2026.",
       "nature": "programme",

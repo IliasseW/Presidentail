@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC) en toutes matières",
       "detail": "RIC « en toutes matières » sur le modèle suisse, annoncé dès la déclaration de candidature.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "participation_citoyenne",
       "titre": "Instaurer des mandats impératifs et révocables",
       "detail": "Mandat révocable des élus par les électeurs, présenté comme un pilier de la « souveraineté populaire ».",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Convoquer une assemblée constituante pour une nouvelle Constitution",
       "detail": "Assemblée constituante siégeant 12 mois pour changer de régime politique.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Fusionner les trois cours suprêmes en une « Cour des peuples »",
       "detail": "Fusion du Conseil constitutionnel, de la Cour de cassation et du Conseil d'État, et création d'un « défenseur des peuples » élu pour neuf ans, absorbant notamment le CSM.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Supprimer l'article 49.3",
       "detail": "Suppression des procédures du 49.3 dans le volet « Démocratie » du projet.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les régions",
       "detail": "Suppression de l'échelon régional, dans le cadre du pilier « Libérer ».",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Déménager la présidence de la République au palais du Luxembourg",
       "detail": "Mesure du volet « Géographie des pouvoirs », qui prévoit aussi une tutelle de Paris pendant trois ans.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Organiser des référendums sur la sortie de l'UE, de l'euro et de Schengen",
       "detail": "Référendum (article 11) sur la sortie de l'Union européenne, de l'euro, du Conseil de l'Europe ou de Schengen ; création d'unions des peuples européens et francophones.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Bloquer les négociations de traités de libre-échange",
       "detail": "Blocage des négociations commerciales et politique douanière fondée sur des critères écologiques, sanitaires et sociaux.",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Taxer les importations des pays fortement consommateurs de charbon",
       "detail": "Création d'une taxe à l'importation (TCI) proportionnelle à la part du charbon dans la consommation énergétique du pays exportateur, et d'une taxe kilométrique aux frontières.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Organiser un référendum sur la sortie de l'OTAN",
       "detail": "Référendum sur la sortie de l'OTAN, abandon de l'interopérabilité systématique avec les systèmes OTAN, doctrine de neutralité et de non-alignement.",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Arrêter les livraisons d'armes à l'Ukraine",
       "detail": "Mesure inscrite dans la réforme « Extérieur et Défense ».",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Organiser un référendum sur un service obligatoire civil ou militaire",
       "detail": "Service d'État universel avec option civile ou militaire, soumis à référendum.",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Produire un million de drones par an et viser 300 avions de combat",
       "detail": "Objectifs capacitaires : capacité de production d'un million de drones annuels et flotte de 300 avions de combat.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Nationaliser l'électricité, l'eau, les télécoms et les autoroutes",
       "detail": "Nationalisations listées dans le pilier « Souverainiser » (électricité, eau, santé, télécoms, autoroutes).",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Supprimer plus de 300 taxes, cotisations et impôts",
       "detail": "Simplification fiscale massive (dont « suppression de 267 taxes » dans la réforme Économie).",
       "nature": "programme",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Rétablir l'ISF avec un précompte sur les droits de succession",
       "detail": "Rétablissement de l'impôt sur la fortune adossé aux droits de succession.",
       "nature": "programme",
@@ -150,6 +167,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Exonérer de droits de succession 90 % des foyers",
       "detail": "Réforme de la fiscalité de l'héritage : fin des droits de mutation à titre gratuit pour 90 % des foyers, taux très élevés au-delà de certains montants.",
       "nature": "programme",
@@ -158,6 +176,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Augmenter de 10 points la TVA sur les produits de luxe",
       "detail": "Hausse de dix points de la TVA sur le luxe et les aliments ultra-transformés ; TVA sociale sur les biens non essentiels pour baisser les cotisations sur les salaires.",
       "nature": "programme",
@@ -166,6 +185,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Élire le gouverneur de la Banque de France et contrôler les changes",
       "detail": "Élection du gouverneur de la Banque de France, rétablissement du circuit du Trésor, contrôle des changes et des capitaux.",
       "nature": "programme",
@@ -174,6 +194,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Baisser les prélèvements obligatoires et les dépenses publiques",
       "detail": "Baisse des prélèvements (sauf pour le dernier décile) et fusion de plus de 100 organismes administratifs et 500 opérateurs d'État.",
       "nature": "programme",
@@ -182,6 +203,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Procéder à une purge partielle de la dette publique",
       "detail": "« Purge partielle des dettes d'État » et émission d'obligations d'État destinées aux citoyens pour financer les grands investissements.",
       "nature": "programme",
@@ -190,6 +212,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à un minimum national de 1 500 euros net",
       "detail": "« Déconcentration du SMIC » avec un seuil minimal national relevé à 1 500 € net.",
       "nature": "programme",
@@ -216,6 +239,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Ouvrir le RSA dès 18 ans et le déconditionnaliser",
       "detail": "Extension du RSA aux jeunes à partir de 18 ans, suppression des conditions d'activité, automaticité des minima sociaux fusionnés en un revenu minimal universel.",
       "nature": "programme",
@@ -224,6 +248,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Créer un statut de l'aidant et recentraliser la politique du handicap",
       "detail": "Guichet unique du handicap, nationalisation des IME, dépistage des troubles « dys » en CP et CM1.",
       "nature": "programme",
@@ -232,6 +257,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Mettre l'Aide sociale à l'enfance sous tutelle de l'État",
       "detail": "Fin de la départementalisation de la protection de l'enfance, création d'un Code de l'enfance, prise en charge jusqu'à 25 ans.",
       "nature": "programme",
@@ -276,6 +302,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Rendre les études universitaires réellement gratuites",
       "detail": "Gratuité pour tout résident et hausse immédiate de 30 % des budgets universitaires, financée par la suppression du crédit d'impôt recherche.",
       "nature": "programme",
@@ -284,6 +311,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup et abroger la loi LRU",
       "detail": "Fin de Parcoursup et des « MIG (ex-SNU) », abrogation de la LRU et des responsabilités et compétences élargies.",
       "nature": "programme",
@@ -310,6 +338,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Municipaliser la police nationale et supprimer la BAC",
       "detail": "Municipalisation de la police nationale hors police judiciaire et maintien de l'ordre ; doublement des agents des douanes.",
       "nature": "programme",
@@ -318,6 +347,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Limiter la garde à vue à 24 heures et généraliser les jurés citoyens",
       "detail": "Retour de la collégialité, jurés citoyens, prescriptions ramenées à 3 ans (délits) et 10 ans (crimes).",
       "nature": "programme",
@@ -326,6 +356,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Amnistier les gilets jaunes et créer des comités de poursuites",
       "detail": "Volet « Fin de l'impunité » : amnistie de militants, comités de poursuites (Covid-19, violences politiques, infractions économiques), commissions d'enquête sur la corruption.",
       "nature": "programme",
@@ -334,6 +365,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Conditionner le regroupement familial et traiter l'asile au niveau consulaire",
       "detail": "Asile à deux niveaux dont le second dépend de l'origine géographique ; déconcentration du traitement des demandes dans les consulats.",
       "nature": "programme",
@@ -342,6 +374,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "integration_sejour",
       "titre": "Fixer des critères objectifs d'intégration pour les étrangers",
       "detail": "Obligations de service à la nation pour les régularisations ; réduction des durées de rétention et TIG systématiques pour infraction au séjour.",
       "nature": "programme",
@@ -413,6 +446,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Organiser un référendum sur l'indépendance des médias",
       "detail": "Fin du contrôle des grandes fortunes sur les médias, avec transfert gratuit des participations des grands actionnaires.",
       "nature": "programme",
@@ -421,6 +455,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Supprimer les aides à la presse et le Pass culture",
       "detail": "Suppression des aides à la presse, du Pass culture et de la niche fiscale des journalistes ; licence globale et fin de la publicité sur les radios publiques.",
       "nature": "programme",
@@ -438,6 +473,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Soumettre à référendum le régime de la laïcité",
       "detail": "Choix référendaire entre confirmation de la laïcité et régime concordataire ; options référendaires également sur les drogues et la prostitution.",
       "nature": "programme",

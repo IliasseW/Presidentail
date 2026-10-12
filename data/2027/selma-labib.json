@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter les salaires et pensions de 400 € par mois, sans revenu sous 2 000 € net",
       "detail": "« Il ne faut pas un seul revenu sous les 2000 euros net », avec une hausse du brut et du super-brut en conséquence.",
       "nature": "declaration",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer les salaires au moins sur l'inflation",
       "detail": "« Pour que nos salaires suivent au moins l'inflation galopante, c'est maintenant. »",
       "nature": "declaration",
@@ -48,6 +50,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser tous les sans-papiers et ouvrir les frontières",
       "detail": "Liberté de circulation et d'installation.",
       "nature": "declaration",
@@ -56,6 +59,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Refuser tout financement des « guerres impérialistes »",
       "detail": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes ».",
       "nature": "declaration",

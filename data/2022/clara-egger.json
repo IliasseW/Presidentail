@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le RIC constituant par référendum (article 11)",
       "detail": "Mesure unique du programme : référendum sur une révision de l'article 89 permettant aux citoyens d'initier et de voter des révisions constitutionnelles.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Fixer à 700 000 signatures le seuil de déclenchement d'un RIC",
       "detail": "Soit 1,8 % du corps électoral, à réunir en 18 mois sur support papier ou numérique ; signatures contrôlées par la Cour de cassation en 4 mois maximum.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Adopter un RIC sans quorum, à la majorité simple des votants",
       "detail": "La révision est définitive après approbation par référendum, organisé entre 3 mois et 1 an après validation.",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Confier au tribunal d'instance le contrôle de recevabilité préalable des RIC",
       "detail": "Décision en 20 jours sur la forme de la proposition, avant la collecte des signatures.",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Garantir une campagne contradictoire avant chaque référendum",
       "detail": "Campagne assurant la diffusion de débats contradictoires et de toutes les informations nécessaires.",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Nommer un gouvernement de transition chargé du seul référendum",
       "detail": "Calendrier annoncé : gouvernement nommé début mai 2022, référendum sur le RIC constituant organisé le 25 septembre 2022.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Exercer une présidence « arbitre », sans programme de gouvernement",
       "detail": "Le président se limiterait au rôle d'arbitre prévu par l'article 5 de la Constitution, au-dessus des partis.",
       "nature": "programme",

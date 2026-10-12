@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 800 euros net",
       "detail": "Mesure phare du programme « Anasse Kazib 2022 ».",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter tous les salaires de 300 euros",
       "detail": "Hausse uniforme de 300 € pour tous les salariés.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Exproprier les secteurs stratégiques de l'économie",
       "detail": "Au service des besoins de la société et d'une réelle transition écologique.",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Abroger le passe sanitaire",
       "detail": "Mesure citée parmi les principales du programme.",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Abroger les lois « séparatisme » et « sécurité globale »",
       "detail": "Ainsi que la loi sur la responsabilité pénale et l'interdiction du port du voile, selon Le Courrier de Guadeloupe.",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser tous les sans-papiers",
       "detail": "Avec l'arrêt des expulsions et la défense du droit au regroupement familial.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "autre",
       "titre": "Accorder le droit de vote à tous les immigrés à toutes les élections",
       "detail": "Présentée parmi les « idées originales » de la candidature.",
       "nature": "programme",
@@ -90,6 +97,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Dissoudre les BAC, BRAV et CRS",
       "detail": "Et supprimer les armes dites non létales utilisées contre les manifestants.",
       "nature": "programme",
@@ -98,6 +106,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Instaurer une assemblée unique d'élus révocables payés au salaire médian",
       "detail": "Élus pour deux ans au suffrage universel direct, avec droit de vote dès 16 ans.",
       "nature": "programme",
@@ -115,6 +124,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Garantir l'autodétermination des personnes trans et la gratuité des transitions",
       "detail": "Dépsychiatrisation et libre accès gratuit aux soins nécessaires aux parcours de transition.",
       "nature": "programme",

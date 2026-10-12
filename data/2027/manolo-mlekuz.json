@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Réunir un collège de constitutionnalistes pour définir la constituante",
       "detail": "Première étape : des constitutionnalistes rédigent les modalités de convocation d'une assemblée constituante.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Soumettre les modalités de la constituante à un référendum (article 11)",
       "detail": "En cas de refus, le collège se réunit à nouveau jusqu'à trouver des modalités approuvées par une majorité de Français.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Faire rédiger une nouvelle Constitution par une assemblée tirée au sort",
       "detail": "Assemblée constituante composée d'un échantillon représentatif de la population, tiré au sort.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Soumettre la nouvelle Constitution à référendum",
       "detail": "Si elle est adoptée, elle remplace la Constitution de 1958 ; sinon celle-ci est maintenue.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Quitter la présidence à l'issue du processus constituant",
       "detail": "Pendant environ deux ans, de nouvelles législatives sont organisées et le chef du parti arrivé en tête gouverne ; le président se met en retrait puis quitte ses fonctions quel que soit le résultat.",
       "nature": "programme",

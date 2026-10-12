@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Créer un cadre national unifié pour la petite enfance",
       "detail": "Compétences vérifiées pour toute personne au contact d'enfants, formation, effectifs suffisants et rémunérations revalorisées, inspections régulières selon des critères publics, dispositif national de signalement à réponse obligatoire sous délai fixe.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Garantir une réponse à toute plainte pour violences faites à un enfant",
       "detail": "Rappel, autant que nécessaire, de magistrats retraités volontaires pour reprendre les dossiers en souffrance ; restauration des capacités d'investigation (spécialisation, temps long).",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Faire du féminisme l'inspiration des grandes politiques publiques",
       "detail": "Lutte contre les violences et les féminicides, résorption des écarts de salaire, correction des retraites pénalisées par les carrières interrompues.",
       "nature": "programme",
@@ -65,6 +68,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Rétablir une police de proximité dotée d'effectifs dédiés et formés",
       "detail": "Associée à un investissement dans la prévention (école, structures de prévention, seconde chance).",
       "nature": "programme",
@@ -73,6 +77,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Renforcer la lutte contre le narcotrafic et la criminalité organisée",
       "detail": "Unités spécialisées, peines réellement exécutées, coopération européenne renforcée, Parquet européen aux compétences élargies, gel des avoirs et traque des financements.",
       "nature": "programme",
@@ -99,6 +104,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Simplifier, unifier et automatiser les aides sociales fondamentales",
       "detail": "Mesure de lutte contre la précarité et le non-recours ; pas de chiffrage.",
       "nature": "programme",
@@ -143,6 +149,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Instaurer une « règle d'or sociale » : compenser chaque exonération de cotisations",
       "detail": "Rétablissement plein de la loi Veil : toute exonération (part salariale et patronale, heures supplémentaires, primes) compensée à l'euro près à la Sécurité sociale, indexée sur les salaires, avec effet rétroactif depuis 2019.",
       "nature": "programme",
@@ -151,6 +158,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Équilibrer les comptes sociaux sur un cycle de cinq ans",
       "detail": "Retour à l'équilibre sous dix ans au plus en cas de crise majeure ; périmètre limité aux branches maladie, vieillesse et autonomie ; avis du HCFP et loi annuelle d'approbation des comptes sociaux distincte du budget de l'État.",
       "nature": "programme",
@@ -159,6 +167,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Rétablir le septennat présidentiel",
       "detail": "Le quinquennat est jugé avoir transformé le Président en chef de majorité.",
       "nature": "programme",
@@ -167,6 +176,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Obliger le Premier ministre à engager sa responsabilité devant le Parlement",
       "detail": "Engagement systématique de la responsabilité du gouvernement lorsque les circonstances l'exigent, d'abord à l'entrée en fonction du Premier ministre.",
       "nature": "programme",
@@ -175,6 +185,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Encadrer le recours au 49.3, aux ordonnances et aux procédures accélérées",
       "detail": "« Discipline » sur ces outils, dont la lettre dénonce l'« abus ».",
       "nature": "programme",
@@ -183,6 +194,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Introduire une dose de proportionnelle aux élections législatives",
       "detail": "Sans précision sur la part de proportionnelle.",
       "nature": "programme",
@@ -191,6 +203,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Simplifier la fabrique de la loi et l'ouvrir à la participation citoyenne",
       "detail": "À commencer par les textes budgétaires.",
       "nature": "programme",
@@ -199,6 +212,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Sortir du « tout-comparution immédiate » et de la prison par défaut",
       "detail": "Avec des moyens accrus, une indépendance reconnue et des magistrats protégés contre les intimidations ; la lettre cite près de 50 000 comparutions immédiates en 2021 contre 31 000 en 2001.",
       "nature": "programme",
@@ -207,6 +221,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Limiter par la loi la concentration capitalistique des médias",
       "detail": "Pas de seuil précisé.",
       "nature": "programme",
@@ -215,6 +230,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Réformer la haute fonction publique",
       "detail": "Restaurer la vocation de service et organiser des passerelles régulées avec le privé, les collectivités, le monde associatif et la recherche.",
       "nature": "programme",
@@ -223,6 +239,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Refonder la décentralisation en clarifiant « qui fait quoi »",
       "detail": "Refonte de la territorialité de la République et confiance accrue aux territoires, citoyens et associations.",
       "nature": "programme",
@@ -231,6 +248,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Supprimer deux normes pour toute norme créée",
       "detail": "Revue systématique des normes avec obligation de compensation.",
       "nature": "programme",
@@ -239,6 +257,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Taxer davantage les très grandes fortunes, hauts revenus du capital et rentes",
       "detail": "Rééquilibrage de la taxation entre travail et capital ; simplification de l'impôt avec moins de niches et de dérogations ; pas de taux précisé.",
       "nature": "programme",
@@ -247,6 +266,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Baisser les impôts de production en réduisant les aides fiscales",
       "detail": "Au bénéfice de toute la chaîne productive (ETI, PME, TPE).",
       "nature": "programme",
@@ -255,6 +275,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Assurer la vérité budgétaire et la maîtrise de la dette",
       "detail": "La lettre rappelle une dette à 117,5 % du PIB au premier trimestre 2026 ; méthode « le politique d'abord, l'expert ensuite » avec plus de 150 experts mobilisés.",
       "nature": "programme",
@@ -263,6 +284,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Lancer un plan de réindustrialisation sur dix ans",
       "detail": "Filières stratégiques sécurisées par l'État, règles stables, incitations fiscales ciblées sur la recherche et l'investissement productif, écoles de métiers et zones d'activité décarbonées.",
       "nature": "programme",
@@ -316,6 +338,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Mieux former et mieux payer les enseignants",
       "detail": "Montant de revalorisation non précisé.",
       "nature": "programme",
@@ -324,6 +347,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Enseigner l'esprit critique dès le collège et la philosophie dès la Seconde",
       "detail": "Retour aux humanités et effort égal pour les sciences et les mathématiques, éthique des données.",
       "nature": "programme",
@@ -341,6 +365,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Lutter contre la ségrégation scolaire et l'« évitement organisé »",
       "detail": "Le problème désigné n'est pas la coexistence public/privé mais l'évitement ; pas de mécanisme précisé.",
       "nature": "programme",
@@ -349,6 +374,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Verser au moins 2 000 € d'aide supplémentaire aux étudiants boursiers",
       "detail": "Pendant leurs deux premières années d'études.",
       "nature": "programme",
@@ -357,6 +383,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Créer une « avance jeunesse » de 3 000 € pour les 18-24 ans sans diplôme ni emploi",
       "detail": "Sous conditions de ressources, complétable par les collectivités territoriales.",
       "nature": "programme",
@@ -374,6 +401,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Refonder la politique familiale avec une prise en charge ambitieuse de la petite enfance",
       "detail": "Sans chiffrage.",
       "nature": "programme",
@@ -382,6 +410,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Réarmer « à proportion de la menace » et consolider l'industrie de défense",
       "detail": "Coopérations européennes planifiées, préférence aux productions nationales et européennes.",
       "nature": "programme",
@@ -390,6 +419,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Rester dans l'OTAN et ouvrir une réflexion européenne sur la dissuasion",
       "detail": "Contribuer à l'Europe de la défense sans s'y substituer ; réflexion sur l'apport de la dissuasion française, y compris avec le Royaume-Uni ; protection antimissile coordonnée du continent.",
       "nature": "programme",
@@ -398,6 +428,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Élargir la réserve citoyenne",
       "detail": "Réserve « plus ambitieuse, ouverte à davantage de Français ».",
       "nature": "programme",
@@ -406,6 +437,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "diplomatie",
       "titre": "Réformer le Conseil de sécurité de l'ONU",
       "detail": "Défense de l'ordre international fondé sur le droit et nouveau partenariat, « débarrassé du paternalisme », avec le Sud global.",
       "nature": "programme",
@@ -414,6 +446,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Défendre la sécurité d'Israël et un État pour les Palestiniens",
       "detail": "La lettre condamne la politique du gouvernement Netanyahou, qui « ruine la perspective d'une paix à deux États ».",
       "nature": "programme",
@@ -422,6 +455,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Supprimer la règle de l'unanimité au sein de l'UE",
       "detail": "Décisions à la majorité, réforme budgétaire, politique industrielle commune, doctrine de la concurrence moins dogmatique et politique commerciale moins naïve.",
       "nature": "programme",
@@ -430,6 +464,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Fonder la politique migratoire sur « humanité, intégration, fermeté »",
       "detail": "Droit d'asile maintenu, apprentissage du français et respect de l'égalité femmes-hommes, lutte contre l'immigration irrégulière et démantèlement des filières ; politique migratoire pensée à l'échelle européenne.",
       "nature": "programme",
@@ -465,6 +500,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "autre",
       "titre": "Améliorer le pouvoir d'achat par une politique d'ensemble, sans mesure dédiée",
       "detail": "Refus de toute « formule magique » : travail qui paie, loyers et énergie maîtrisés, services publics, fiscalité rééquilibrée, relance via le plan École-Climat-Solidarité.",
       "nature": "programme",
@@ -473,6 +509,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Défendre la laïcité comme principe de liberté et de séparation",
       "detail": "Laïcité présentée comme « un joyau à protéger des manipulations », non comme une religion civile.",
       "nature": "programme",

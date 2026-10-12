@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 700 euros net",
       "detail": "Avec une conférence salariale tripartite (État, syndicats, patronat) réunie après l'élection.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer les salaires sur l'inflation",
       "detail": "Engagement listé dans son message de candidature, aux côtés du SMIC à 1 700 € et de la taxe Zucman.",
       "nature": "declaration",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Instaurer la taxe Zucman sur les très hauts patrimoines",
       "detail": "Impôt plancher de 2 % par an sur les patrimoines de plus de 100 millions d'euros, destiné à financer la transition écologique.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Plafonner les écarts de rémunération dans les entreprises",
       "detail": "Seuil non précisé.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "autre",
       "titre": "Verser 1 euro aux salariés pour chaque euro de dividende versé aux actionnaires",
       "detail": "Via la participation, l'intéressement ou les salaires.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Conditionner les aides publiques aux entreprises à leur politique salariale",
       "detail": "Remise à plat des aides lors d'une grande conférence salariale après la présidentielle.",
       "nature": "declaration",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Relocaliser la production des biens essentiels et des médicaments",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Faire de la transition écologique un grand chantier de réindustrialisation",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Plafonner les marges de TotalEnergies et taxer ses superprofits",
       "detail": "Aides carburant « ciblées » plutôt que générales.",
       "nature": "declaration",
@@ -158,6 +167,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Instaurer une sécurité sociale de l'alimentation",
       "detail": "Accès à une alimentation de qualité, en privilégiant circuits courts et bio.",
       "nature": "programme",
@@ -175,6 +185,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Limiter les classes à 19 élèves maximum",
       "detail": "Avec une mixité sociale réelle et de meilleures conditions de travail pour les AESH.",
       "nature": "programme",
@@ -183,6 +194,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Conditionner le financement des écoles privées à la mixité sociale",
       "detail": "Appliquer la carte scolaire du public aux établissements privés sous contrat.",
       "nature": "declaration",
@@ -191,6 +203,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Organiser des états généraux de l'éducation par académie",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
@@ -199,6 +212,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Renforcer les aides au logement, au transport et à l'alimentation des étudiants",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -234,6 +248,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Renforcer le financement public de la culture et de la création",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "programme",
@@ -242,6 +257,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Réduire la dette par de nouvelles recettes fiscales, sans annulation",
       "detail": "Privilégier les recettes fiscales (hauts patrimoines, grandes entreprises) plutôt qu'une annulation, même partielle, de la dette.",
       "nature": "declaration",
@@ -250,6 +266,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Utiliser les avoirs publics russes pour financer l'aide à l'Ukraine",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
@@ -258,6 +275,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs sans papiers sur le modèle espagnol",
       "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
       "nature": "declaration",
@@ -266,6 +284,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Qualifier de génocide la situation à Gaza",
       "detail": "Position défendue lors des trois débats, en citant la Convention de 1948.",
       "nature": "declaration",

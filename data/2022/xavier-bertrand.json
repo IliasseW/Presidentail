@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Créer une prime au travail : aucun salarié à temps plein sous 1 500 euros net",
       "detail": "La prime remplacerait et dépasserait la prime d'activité, pour les salariés jusqu'à 2 000 € net par mois dans un premier temps.",
       "nature": "declaration",
@@ -60,6 +61,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "niveau_quotas",
       "titre": "Faire fixer des quotas d'immigration par le Parlement après référendum",
       "detail": "Révision constitutionnelle par référendum, soumise aux Français dès l'automne 2022, fixant qui accueillir, pour quel métier, combien de temps et de quel pays.",
       "nature": "declaration",
@@ -68,6 +70,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Expulser automatiquement tout étranger condamné à de la prison ferme",
       "detail": "Rétablissement de la « double peine » une fois la peine purgée.",
       "nature": "declaration",
@@ -76,6 +79,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Abaisser la majorité pénale à 15 ans",
       "detail": "Mesure de sa « révolution pénale ».",
       "nature": "declaration",
@@ -84,6 +88,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Instaurer des peines minimales automatiques",
       "detail": "Individualisation entre un minimum et un maximum, nécessitant une révision constitutionnelle ; révocation effective du sursis en cas de récidive.",
       "nature": "declaration",
@@ -92,6 +97,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Imposer un an de prison minimum pour les agresseurs de policiers, pompiers et maires",
       "detail": "Peine minimale obligatoire d'un an pour ceux qui s'en prennent aux forces de l'ordre, aux pompiers et aux maires.",
       "nature": "declaration",
@@ -100,6 +106,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Créer 20 000 places de prison",
       "detail": "Pour l'application effective des peines.",
       "nature": "declaration",
@@ -108,6 +115,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "terrorisme_separatisme",
       "titre": "Instaurer une rétention de sûreté de 50 ans pour les terroristes",
       "detail": "Annoncé dans Le Point en mars 2021.",
       "nature": "declaration",
@@ -116,6 +124,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Saisir les amendes pénales impayées sur les salaires ou prestations sociales",
       "detail": "Y compris sur le RSA ; le procureur pourrait prononcer directement TIG et amendes.",
       "nature": "declaration",
@@ -124,6 +133,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Créer des fonctionnaires de police judiciaire territoriaux",
       "detail": "Au sein des polices municipales, sous l'autorité du procureur.",
       "nature": "declaration",
@@ -132,6 +142,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Voter une loi de programmation quinquennale pour la sécurité et la justice",
       "detail": "Hausse des budgets de la sécurité et de la justice.",
       "nature": "declaration",
@@ -158,6 +169,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Réduire le recours à la dette en « faisant le ménage » dans le budget",
       "detail": "Déclaration sur franceinfo.",
       "nature": "declaration",
@@ -166,6 +178,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "autre",
       "titre": "Observer une « pause » dans les réformes sociétales",
       "detail": "Pour « apaiser le pays » ; refus d'un « pseudo-modernisme ».",
       "nature": "declaration",
@@ -174,6 +187,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "S'engager à n'effectuer qu'un seul mandat présidentiel",
       "detail": "Engagement pris pendant la campagne du congrès LR.",
       "nature": "declaration",

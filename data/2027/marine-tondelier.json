@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter le SMIC et indexer les bas salaires sur l'inflation",
       "detail": "Priorité n°1 du socle proposé à la gauche ; montant non précisé dans ce texte (la presse cite des chiffres divergents).",
       "nature": "declaration",
@@ -31,6 +32,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Financer les services publics par une réforme fiscale visant les ultra-riches",
       "detail": "Santé et éducation notamment.",
       "nature": "declaration",
@@ -48,6 +50,7 @@
     },
     {
       "theme": "social",
+      "sujet": "securite_sociale",
       "titre": "Instaurer une sécurité sociale écologique, dont une sécurité sociale de l'alimentation",
       "detail": "Mesure reprise dans son discours des Journées d'été 2026.",
       "nature": "declaration",
@@ -74,6 +77,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Augmenter de 15 % le salaire des enseignants sur le quinquennat",
       "detail": "Avec un investissement dans la recherche publique.",
       "nature": "declaration",
@@ -82,6 +86,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Planifier la renaissance industrielle en priorisant les secteurs stratégiques",
       "detail": "Sans détail sectoriel dans ce texte.",
       "nature": "declaration",
@@ -90,6 +95,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Réinstaurer une police de proximité",
       "detail": "« Au service de la population ».",
       "nature": "declaration",
@@ -98,6 +104,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Consacrer 3 Md€ à la lutte contre les violences faites aux femmes et aux enfants",
       "detail": "Périodicité (annuelle ou sur le quinquennat) non précisée.",
       "nature": "declaration",
@@ -106,6 +113,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Étendre la gratuité des musées nationaux et améliorer le régime des intermittents",
       "detail": "Sans chiffrage.",
       "nature": "declaration",
@@ -114,6 +122,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Reconnaître les aidants familiaux et bâtir une société inclusive du handicap",
       "detail": "Orientation générale.",
       "nature": "declaration",
@@ -122,6 +131,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs sans papiers",
       "detail": "Et accorder des titres de séjour pluriannuels automatiquement renouvelables.",
       "nature": "declaration",
@@ -130,6 +140,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Fonder une 6e République écologique, parlementaire et décentralisée",
       "detail": "Redonner le pouvoir aux citoyens et aux territoires.",
       "nature": "declaration",
@@ -138,6 +149,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Empêcher la concentration des médias entre les mains de milliardaires",
       "detail": "Le programme culture prévoit aussi une loi anti-concentration des industries culturelles.",
       "nature": "declaration",
@@ -146,6 +158,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Relancer le Pacte vert européen pour l'autonomie stratégique de l'UE",
       "detail": "Autonomie énergétique, alimentaire, industrielle et technologique.",
       "nature": "declaration",
@@ -172,6 +185,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Instaurer une taxe de 2 % sur les patrimoines de plus de 100 millions d'euros",
       "detail": "« Taxe Zucman » de 2 % au-delà de 100 M€ de patrimoine et extension de l'exit tax (mesure 17-1).",
       "nature": "programme",
@@ -180,6 +194,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Créer un « ISF climatique »",
       "detail": "Impôt sur la fortune tenant compte de l'empreinte carbone des patrimoines ; taux non précisé dans les sources consultées.",
       "nature": "programme",
@@ -188,6 +203,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Bloquer les prix en cas d'inflation anormale",
       "detail": "Blocage ciblé plutôt que gel général ; incitation à hausser les bas salaires via la réduction des exonérations de cotisations.",
       "nature": "programme",
@@ -196,6 +212,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "proche_orient",
       "titre": "Interdire les produits des colonies et suspendre l'accord UE-Israël",
       "detail": "Le programme demande le retrait total d'Israël de Gaza, le démantèlement des colonies, la suspension de l'accord d'association UE-Israël et l'interdiction en Europe des produits des colonies (mesure 64-1). Titre corrigé : la reconnaissance de l'État de Palestine (acquise par la France en 2025) ne figure pas comme mesure.",
       "nature": "programme",
@@ -204,6 +221,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Poursuivre le soutien militaire à l'Ukraine",
       "detail": "Livraison de matériel, y compris des capacités de frappe à longue portée et de défense antiaérienne, et formation des forces ukrainiennes (mesure 62-2).",
       "nature": "programme",
@@ -212,6 +230,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Interdire les LBD et les grenades mutilantes et démanteler la BRAV-M",
       "detail": "Interdiction des LBD40 et grenades mutilantes, démantèlement des unités de type BRAV-M, abrogation des dispositions de la loi Cazeneuve sur l'ouverture du feu.",
       "nature": "programme",
@@ -220,6 +239,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Créer une assurance-chômage pour les artistes-auteurs",
       "detail": "Financée par une hausse de 5 % de la cotisation des diffuseurs.",
       "nature": "programme",
@@ -228,6 +248,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Rémunérer les œuvres utilisées pour entraîner les IA",
       "detail": "Avec un droit d'opposition des artistes à tout usage commercial ou numérique de leurs créations.",
       "nature": "programme",
@@ -236,6 +257,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Réviser le Pass Culture et préserver le prix unique du livre",
       "detail": "Révision « en profondeur » du Pass Culture, garantie du maillage des bibliothèques, loi anti-concentration des industries culturelles.",
       "nature": "programme",
@@ -244,6 +266,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Adopter une loi sanctionnant le mensonge en politique",
       "detail": "Sur le modèle gallois : sanctions graduées de la rectification publique jusqu'à l'inéligibilité et la révocation pour mensonge factuel délibéré.",
       "nature": "declaration",
@@ -288,6 +311,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Rendre imprescriptibles tous les crimes commis contre des mineurs",
       "detail": "Mesure clé du livret « Pour un pays à hauteur d'enfants ».",
       "nature": "programme",
@@ -296,6 +320,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "violences_femmes_enfants",
       "titre": "Créer des centres d'urgence pour victimes de violences sexuelles (modèle belge)",
       "detail": "Gratuits, ouverts 24h/24, guichet unique : soins, constat médico-légal, soutien psychologique, dépôt de plainte.",
       "nature": "programme",
@@ -304,6 +329,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Interdire le secteur lucratif dans la protection de l'enfance et la petite enfance",
       "detail": "Avec un plan d'investissement pluriannuel dans la protection de l'enfance.",
       "nature": "programme",
@@ -312,6 +338,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Accompagner les jeunes sortant de l'ASE jusqu'à 25 ans",
       "detail": "Accompagnement financier spécifique pour les jeunes sans soutien familial ; minimum social accessible dès 18 ans aux personnes fiscalement indépendantes.",
       "nature": "programme",
@@ -329,6 +356,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "autre",
       "titre": "Créer un ministère de l'Enfance et une Assemblée nationale des enfants",
       "detail": "Ministère englobant l'Éducation nationale et la politique familiale.",
       "nature": "programme",
@@ -337,6 +365,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Instaurer un statut de famille monoparentale",
       "detail": "Droits spécifiques d'accès aux modes de garde, défiscalisation plafonnée des pensions alimentaires perçues.",
       "nature": "programme",
@@ -345,6 +374,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Recruter 9 000 magistrats, 10 000 greffiers et 7 000 attachés de justice en 10 ans",
       "detail": "Avec des juridictions et magistrats spécialisés sur les violences sexistes et sexuelles dans chaque tribunal (modèle espagnol).",
       "nature": "programme",
@@ -362,6 +392,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Porter l'EPS à 4 heures par semaine au collège et 3 heures au lycée",
       "detail": "Avec apprentissage de la nage pour tous et plan de rénovation des équipements sportifs.",
       "nature": "programme",
@@ -370,6 +401,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autre",
       "titre": "Créer un fonds vert pour l'école de 2 milliards d'euros par an",
       "detail": "Rénovation des 130 millions de m² de bâtiments scolaires ; objectif 100 % de cours d'école végétalisées et débitumées en 2035.",
       "nature": "programme",
@@ -396,6 +428,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Supprimer les tests osseux pour les mineurs non accompagnés",
       "detail": "Présomption de minorité, évaluation refondue nationalement et fin du placement d'enfants en centres de rétention à Mayotte.",
       "nature": "programme",
@@ -404,6 +437,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Créer une filière de catégorie B pour les AESH",
       "detail": "Déprécarisation des accompagnants d'élèves en situation de handicap.",
       "nature": "programme",
@@ -457,6 +491,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Augmenter la Tascom pour préserver cafés et commerces de proximité",
       "detail": "Hausse de la taxe sur les surfaces commerciales des grandes enseignes pour aider les communes.",
       "nature": "programme",
@@ -483,6 +518,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Rendre effective l'éducation à la vie affective et sexuelle (EVARS)",
       "detail": "Heures banalisées, budget dédié et cadre national commun à tous les établissements.",
       "nature": "programme",
@@ -500,6 +536,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Recruter 40 000 nouveaux sapeurs-pompiers d'ici 2040",
       "detail": "Et atteindre 10 000 camions-citernes feux de forêts d'ici 2030, nouveaux bombardiers d'eau.",
       "nature": "programme",
@@ -544,6 +581,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Adopter un « pacte fiscal vert » 2027-2032 de programmation des finances publiques",
       "detail": "Loi de programmation conciliant transition écologique, engagements européens (y compris militaires) et services publics ; renégocier la trajectoire de réduction des déficits dans le Semestre européen.",
       "nature": "programme",
@@ -552,6 +590,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Stabiliser le niveau de la dette publique",
       "detail": "Trajectoire « stable et prévisible » fondée sur la justice fiscale ; réduire la part de dette indexée sur l'inflation et accroître celle des créanciers nationaux et européens.",
       "nature": "programme",
@@ -560,6 +599,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Créer une tranche d'impôt sur le revenu à 60 % au-delà de 250 000 € par an",
       "detail": "Avec une baisse de l'impôt pour les tranches les plus basses et un plafonnement global des niches fiscales par foyer.",
       "nature": "programme",
@@ -568,6 +608,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Supprimer les exonérations de cotisations au-delà de 1,6 SMIC et sur les heures sup",
       "detail": "Rationaliser les exonérations de cotisations sociales et conditionner les restantes à des hausses de salaire pour les salariés sous 2 000 €.",
       "nature": "programme",
@@ -576,6 +617,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Ajouter deux tranches aux droits de succession au-delà de 4 et 13 millions d'euros",
       "detail": "Barème progressif unique ; suppression de l'abattement spécifique de l'assurance-vie, plafonnement du pacte Dutreil à 50 % au-delà de 50 M€.",
       "nature": "programme",
@@ -584,6 +626,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fraude_evasion",
       "titre": "Instaurer un impôt minimal sur les bénéfices des sociétés de plus d'un milliard de CA",
       "detail": "Impôt calculé à proportion de l'activité réalisée en France, taux modulé selon l'affectation des bénéfices.",
       "nature": "programme",
@@ -592,6 +635,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Porter la taxe sur les transactions financières à 0,7 %",
       "detail": "Et élargir son assiette à davantage d'instruments spéculatifs.",
       "nature": "programme",
@@ -600,6 +644,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Créer un fonds souverain financé par un « livret industrie »",
       "detail": "Livret rémunéré au taux du livret A, ciblé sur les entreprises produisant l'essentiel de leur valeur ajoutée en Europe.",
       "nature": "programme",
@@ -608,6 +653,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Séparer les banques de dépôt et les activités spéculatives",
       "detail": "Réforme du secteur bancaire pour prévenir les crises systémiques et le renflouement par l'État.",
       "nature": "programme",
@@ -616,6 +662,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Créer un prêt à taux zéro pour la décarbonation des PME et ETI",
       "detail": "Prêt long terme pour financer la baisse des émissions, avec un guichet unique d'accompagnement à la transition.",
       "nature": "programme",
@@ -624,6 +671,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Réserver 50 à 80 % des marchés publics aux produits européens",
       "detail": "« Buy green and european act » modulé selon les filières, avec conditionnalités environnementales.",
       "nature": "programme",
@@ -632,6 +680,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le salaire minimum à 2 000 € brut par mois dès 2027",
       "detail": "Avec des dispositifs de soutien ciblés aux TPE, PME et associations (mesure 13-1).",
       "nature": "programme",
@@ -640,6 +689,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Indexer le point d'indice des fonctionnaires sur l'inflation",
       "detail": "Hausse de 10 % pour les catégories C et B et les catégories A ayant perdu du pouvoir d'achat ; +15 % pour les enseignants et +10 % pour les chercheurs sur le quinquennat.",
       "nature": "programme",
@@ -648,6 +698,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Encadrer les prix d'un panier de biens essentiels",
       "detail": "Logement, énergie, eau, transport, alimentation de qualité, biens culturels (prix unique, encadrement des marges ou limitation des hausses).",
       "nature": "programme",
@@ -656,6 +707,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Revaloriser les APL de 10 %",
       "detail": "Avec un mécanisme empêchant la répercussion sur les loyers ; fin de la discrimination envers les étudiants extracommunautaires.",
       "nature": "programme",
@@ -736,6 +788,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Remplacer le RSA par une garantie d'autonomie à 50 % du SMIC net dès 18 ans",
       "detail": "Indexée sur le SMIC, sans les 15 heures d'activité hebdomadaires obligatoires.",
       "nature": "programme",
@@ -744,6 +797,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Augmenter de 250 € l'Allocation aux adultes handicapés",
       "detail": "Intégration à la branche autonomie, délai maximal de 3 mois pour la reconnaissance.",
       "nature": "programme",
@@ -752,6 +806,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Verser les allocations familiales dès le premier enfant",
       "detail": "Même montant dès le premier enfant ; retour de la majoration dès 14 ans.",
       "nature": "programme",
@@ -760,6 +815,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Sanctionner financièrement les entreprises qui ne respectent pas l'égalité salariale",
       "detail": "Loi pour l'émancipation économique des femmes ; publication des écarts étendue aux entreprises de plus de 50 salariés.",
       "nature": "programme",
@@ -768,6 +824,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Réduire les classes de primaire à 19 élèves en 2032 et à 12 en éducation prioritaire",
       "detail": "Avec davantage d'enseignants pour que chaque enfant sache lire, écrire, compter avant le collège.",
       "nature": "programme",
@@ -776,6 +833,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Remplacer Parcoursup et MonMaster par une plateforme sans lettre de motivation",
       "detail": "Algorithmes publiés, quotas de boursiers, places supplémentaires en BUT et BTS.",
       "nature": "programme",
@@ -820,6 +878,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Interdire les contrôles d'identité aléatoires et instaurer un récépissé",
       "detail": "Contrôles limités au flagrant délit, à l'enquête judiciaire ou à l'ordre public.",
       "nature": "programme",
@@ -828,6 +887,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Instaurer un numerus clausus carcéral et un moratoire sur les nouvelles prisons",
       "detail": "Occupation plafonnée à 100 % des capacités (133 % actuellement), sauf remplacement de prisons insalubres.",
       "nature": "programme",
@@ -836,6 +896,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Rendre le parquet indépendant",
       "detail": "Statut unifié de magistrat siège/parquet ; suppression de la Cour de justice de la République.",
       "nature": "programme",
@@ -844,6 +905,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Créer une juridiction spécialisée contre le narcotrafic dans chaque cour d'appel",
       "detail": "Moyens financiers et cyber renforcés, priorité au démantèlement des réseaux et à la saisie des avoirs.",
       "nature": "programme",
@@ -852,6 +914,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "drogue_narcotrafic",
       "titre": "Légaliser et encadrer le cannabis",
       "detail": "Production, vente et consommation encadrées, distribution réservée à des structures à but non lucratif, autoproduction encadrée.",
       "nature": "programme",
@@ -860,6 +923,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Instaurer la proportionnelle intégrale aux élections législatives",
       "detail": "Sans prime majoritaire, circonscriptions régionales ; prime municipale abaissée à 25 %.",
       "nature": "programme",
@@ -868,6 +932,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer un référendum d'initiative citoyenne propositionnel ou abrogatif",
       "detail": "Sous contrôle de constitutionnalité préalable ; convention citoyenne permanente au sein d'un CESE transformé.",
       "nature": "programme",
@@ -876,6 +941,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Ouvrir le droit de vote à 16 ans et aux étrangers aux élections locales",
       "detail": "Vote des étrangers extracommunautaires après cinq ans de résidence ; inscription automatique sur les listes.",
       "nature": "programme",
@@ -884,6 +950,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Rendre inéligibles à vie les élus condamnés pour corruption",
       "detail": "Également pour détournement de fonds publics ; lutte contre le blanchiment érigée en priorité.",
       "nature": "programme",
@@ -892,6 +959,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Abroger les lois asile et immigration adoptées sous Emmanuel Macron",
       "detail": "Garantir scolarisation, accès à l'AME et à l'hébergement ; tutelle de l'OFPRA confiée aux Affaires étrangères.",
       "nature": "programme",
@@ -900,6 +968,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Garantir le droit du sol, y compris à Mayotte, et faciliter la naturalisation",
       "detail": "Suppression du régime dérogatoire mahorais.",
       "nature": "programme",
@@ -908,6 +977,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Mettre fin à la rétention administrative des étrangers",
       "detail": "Fin des refoulements illégaux et de la militarisation des frontières (Briançonnais, littoral Nord).",
       "nature": "programme",
@@ -916,6 +986,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "fonctionnement_ue",
       "titre": "Remplacer le droit de veto national par la majorité qualifiée dans l'UE",
       "detail": "« Saut fédéral » : majorité qualifiée sur droits fondamentaux, protection sociale, fiscalité et politique étrangère ; fin d'un commissaire par État.",
       "nature": "programme",
@@ -924,6 +995,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Refuser de ratifier les accords de libre-échange dont le Mercosur et le CETA",
       "detail": "Ainsi que les accords avec le Vietnam, Singapour, le Chili, le Mexique, l'Indonésie et le Japon ; clauses miroirs dans les futurs traités.",
       "nature": "programme",
@@ -932,6 +1004,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "budget_armees",
       "titre": "Préparer l'armée à la haute intensité et voter une nouvelle loi de programmation militaire",
       "detail": "Actualiser le livre blanc, soutenir la défense du flanc Est de l'UE face à la Russie, dans une logique de complémentarité européenne.",
       "nature": "programme",
@@ -940,6 +1013,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "defense_europeenne",
       "titre": "Créer un commandement militaire intégré européen",
       "detail": "Placé sous la tutelle du Conseil de l'UE, sans mobilisation directe des armées nationales.",
       "nature": "programme",
@@ -948,6 +1022,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Affecter les 140 milliards d'avoirs russes gelés aux réparations de guerre en Ukraine",
       "detail": "Et au remboursement du prêt européen.",
       "nature": "programme",
@@ -1100,6 +1175,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Inscrire dans la Constitution le droit à l'information et l'audiovisuel public",
       "detail": "Droit à une information intègre et pluraliste, garantie d'un service audiovisuel public au financement pérenne.",
       "nature": "programme",
@@ -1108,6 +1184,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "sport",
       "titre": "Renforcer le Pass Sport et subventionner les licences des ménages modestes",
       "detail": "Réintégration des 6-13 ans ; prise en charge de 10 à 100 % des licences selon les revenus.",
       "nature": "programme",
@@ -1116,6 +1193,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "fin_de_vie",
       "titre": "Légaliser l'aide active à mourir et garantir l'accès aux soins palliatifs",
       "detail": "Adoption des deux lois sur la fin de vie en conservant l'équilibre des textes votés en première lecture.",
       "nature": "programme",
@@ -1124,6 +1202,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Créer un service public laïc des obsèques",
       "detail": "Et développer des coopératives funéraires.",
       "nature": "programme",
@@ -1132,6 +1211,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Refonder l'Observatoire de la laïcité et former les fonctionnaires",
       "detail": "Formation de l'ensemble des fonctionnaires à la laïcité et à la loi de 1905.",
       "nature": "programme",
@@ -1140,6 +1220,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Lancer un plan d'éradication des violences contre les personnes LGBTQIA+",
       "detail": "Formation des agents accueillant du public, sanctions renforcées contre les propos haineux dans les médias.",
       "nature": "programme",
@@ -1148,6 +1229,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "discriminations",
       "titre": "Reconnaître officiellement les crimes de la colonisation française",
       "detail": "Ouverture des archives, restitution des biens culturels spoliés, création d'un Office franco-algérien pour la jeunesse.",
       "nature": "programme",

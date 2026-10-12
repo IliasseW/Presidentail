@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter le SMIC à 1 500 euros nets par mois",
       "detail": "Soit 1 923 euros brut ; aucun minimum de branche inférieur au SMIC, conférence tripartite pour une hausse générale des salaires (proposition 1).",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter de 30 % le point d'indice des fonctionnaires",
       "detail": "Pour rattraper onze ans de gel (proposition 28).",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Abaisser la TVA sur l'électricité et le gaz à 5,5 %",
       "detail": "Baisse immédiate des taxes sur l'énergie, suppression des « taxes sur les taxes » (proposition 58).",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Porter le chèque énergie à 700 euros minimum par an",
       "detail": "Avec interdiction des coupures d'énergie pour les ménages en précarité énergétique (proposition 58).",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Réduire la TVA et la taxe sur les carburants (TICPE)",
       "detail": "Impôts indirects jugés injustes car pesant sur la consommation populaire (proposition 125).",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "aides_menages",
       "titre": "Interdire expulsions et coupures d'eau ou d'énergie pour les ménages en difficulté",
       "detail": "Proposition 98.",
       "nature": "programme",
@@ -163,6 +169,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Nationaliser BNP Paribas, la Société générale et Axa",
       "detail": "Constitution d'un pôle financier public avec la Caisse des dépôts, la Banque postale et BPI France (proposition 116).",
       "nature": "programme",
@@ -171,6 +178,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Nationaliser des groupes stratégiques",
       "detail": "Pour disposer de pôles publics dans les grandes filières industrielles et de services (proposition 115).",
       "nature": "programme",
@@ -179,6 +187,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Renationaliser EDF et Engie dans un pôle public de l'énergie incluant TotalEnergies",
       "detail": "Pôle regroupant les grandes entreprises de l'énergie et le CEA (proposition 56).",
       "nature": "programme",
@@ -187,6 +196,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Engager la réappropriation publique de la SNCF, de La Poste et de France Télécom",
       "detail": "Avec EDF et Engie ; remise en cause des directives européennes de mise en concurrence (proposition 25).",
       "nature": "programme",
@@ -195,6 +205,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Nationaliser les autoroutes",
       "detail": "Prévu dans le plan d'investissement pour les transports (proposition 48).",
       "nature": "programme",
@@ -203,6 +214,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Créer un impôt sur les sociétés progressif et modulé",
       "detail": "Plus élevé pour les groupes qui délocalisent, suppriment des emplois ou polluent ; contribution exceptionnelle sur les profits des grands groupes (proposition 121).",
       "nature": "programme",
@@ -211,6 +223,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Supprimer le CICE et les exonérations sans effet sur l'emploi",
       "detail": "Remplacer le crédit d'impôt recherche par un crédit bonifié (proposition 122).",
       "nature": "programme",
@@ -219,6 +232,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Rétablir et tripler l'impôt sur la fortune",
       "detail": "Taux et progressivité accentués, suppression des niches, abolition du prélèvement forfaitaire unique (proposition 127).",
       "nature": "programme",
@@ -227,6 +241,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Porter l'impôt sur le revenu à 15 tranches",
       "detail": "Avec une disparition progressive de la CSG (proposition 126).",
       "nature": "programme",
@@ -235,6 +250,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Doubler le nombre de tranches des droits de succession",
       "detail": "Progressivité selon la valeur transmise et les ressources de l'héritier, franchise de 170 000 euros (proposition 128).",
       "nature": "programme",
@@ -243,6 +259,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Créer un impôt local sur le capital des entreprises",
       "detail": "Sorte de nouvelle taxe professionnelle à barème progressif sur les actifs (proposition 123).",
       "nature": "programme",
@@ -251,6 +268,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Moduler les cotisations patronales selon l'emploi et les salaires",
       "detail": "Retour au financement de la Sécurité sociale par la cotisation (proposition 124).",
       "nature": "programme",
@@ -259,6 +277,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "pme_simplification",
       "titre": "Créer des crédits bonifiés pour les PME qui embauchent et forment",
       "detail": "Dispositif doté de 20 milliards d'euros (proposition 118).",
       "nature": "programme",
@@ -267,6 +286,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Doter la Caisse des dépôts d'un fonds de 250 milliards pour les services publics",
       "detail": "Fonds de développement économique, social et écologique (proposition 120).",
       "nature": "programme",
@@ -275,6 +295,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Conditionner les aides publiques aux entreprises à l'embauche de jeunes en CDI",
       "detail": "10 % des nouvelles embauches réservées aux moins de 25 ans dans les moyennes et grandes entreprises (proposition 41).",
       "nature": "programme",
@@ -283,6 +304,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Adopter une loi de programmation pour la réindustrialisation",
       "detail": "Loi d'orientation et de programmation pour une nouvelle industrialisation (proposition 61).",
       "nature": "programme",
@@ -291,6 +313,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fraude_evasion",
       "titre": "Recruter massivement contre la fraude fiscale",
       "detail": "30 000 agents des impôts recrutés ; renforcement des Douanes et de la DGCCRF (proposition 129 et volet emplois publics).",
       "nature": "programme",
@@ -299,6 +322,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "regles_budgetaires",
       "titre": "Abandonner la règle des 3 % de déficit et le pacte de stabilité",
       "detail": "Et engager une rupture avec les traités européens actuels (proposition 154).",
       "nature": "programme",
@@ -307,6 +331,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Refuser de faire payer aux peuples la dette Covid",
       "detail": "Convocation d'une conférence européenne sur la dette (proposition 156).",
       "nature": "programme",
@@ -315,6 +340,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Mettre fin au recours aux cabinets de conseil privés",
       "detail": "Proposition 32.",
       "nature": "programme",
@@ -395,6 +421,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Recruter 90 000 enseignants",
       "detail": "Avec une formation renforcée (proposition 20).",
       "nature": "programme",
@@ -403,6 +430,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Plafonner les classes à 20 élèves en primaire et 25 dans le secondaire",
       "detail": "15 en toute petite section, 12 en éducation prioritaire (proposition 21).",
       "nature": "programme",
@@ -411,6 +439,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup et la sélection à l'université",
       "detail": "Abroger les réformes du lycée et du bac, rétablir des épreuves nationales (proposition 33).",
       "nature": "programme",
@@ -419,6 +448,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Verser un revenu étudiant de 850 euros par mois",
       "detail": "Financé pour moitié par une cotisation sociale et pour moitié par l'État (proposition 37).",
       "nature": "programme",
@@ -427,6 +457,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Ouvrir le RSA aux moins de 25 ans",
       "detail": "Proposition 42.",
       "nature": "programme",
@@ -435,6 +466,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Généraliser le repas à un euro dans les cantines scolaires",
       "detail": "Fonds alimentaire national de 10 milliards d'euros, produits bio et locaux (proposition 106).",
       "nature": "programme",
@@ -443,6 +475,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Rendre gratuits transports urbains, TER et permis pour les moins de 25 ans",
       "detail": "Proposition 44.",
       "nature": "programme",
@@ -451,6 +484,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rémunérer les alternants au minimum au SMIC",
       "detail": "Proposition 36.",
       "nature": "programme",
@@ -459,6 +493,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rétablir le bac professionnel en quatre ans",
       "detail": "Proposition 35.",
       "nature": "programme",
@@ -467,6 +502,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Faire du harcèlement scolaire une grande cause nationale",
       "detail": "Y compris le cyber-harcèlement (proposition 105).",
       "nature": "programme",
@@ -628,6 +664,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Créer un ministère des Droits des femmes doté d'un milliard d'euros",
       "detail": "Contre les violences faites aux femmes (proposition 75).",
       "nature": "programme",
@@ -636,6 +673,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Déconjugaliser l'AAH",
       "detail": "Et créer un revenu d'existence pour les personnes qui ne peuvent travailler (proposition 93).",
       "nature": "programme",
@@ -644,6 +682,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Rendre gratuites les protections hygiéniques",
       "detail": "Distributeurs dans tous les lieux publics (proposition 79).",
       "nature": "programme",
@@ -652,6 +691,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Interdire les sorties sèches de l'aide sociale à l'enfance",
       "detail": "Garantie jeune automatique jusqu'à 21 ans (proposition 101).",
       "nature": "programme",
@@ -660,6 +700,7 @@
     },
     {
       "theme": "social",
+      "sujet": "autre",
       "titre": "Créer 100 000 emplois associatifs d'utilité publique",
       "detail": "Et porter à 75 % le crédit d'impôt sur les dons (propositions 107 et 108).",
       "nature": "programme",
@@ -668,6 +709,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "ivg_droits_femmes",
       "titre": "Inscrire le droit à l'IVG dans la Constitution",
       "detail": "Contraception libre et gratuite (proposition 77).",
       "nature": "programme",
@@ -676,6 +718,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "ivg_droits_femmes",
       "titre": "Juger les crimes sexistes et sexuels en cour d'assises",
       "detail": "Proposition 84.",
       "nature": "programme",
@@ -684,6 +727,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Rembourser intégralement le parcours de transition des personnes trans",
       "detail": "Et mettre fin aux mutilations sur les personnes intersexes (proposition 92).",
       "nature": "programme",
@@ -692,6 +736,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Créer un Observatoire indépendant de la laïcité",
       "detail": "Réaffirmation de l'engagement laïque de la République (proposition 145).",
       "nature": "programme",
@@ -700,6 +745,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recruter 30 000 policiers de proximité",
       "detail": "Sous statut de fonctionnaire (objectif 2, emplois publics).",
       "nature": "programme",
@@ -708,6 +754,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Refonder l'organisation et les missions de la police",
       "detail": "Proposition 141.",
       "nature": "programme",
@@ -716,6 +763,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Instaurer un récépissé contre les contrôles au faciès",
       "detail": "Et sanctionner les violences racistes dans la police (proposition 88).",
       "nature": "programme",
@@ -724,6 +772,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Lancer un grand plan de sauvetage de la justice",
       "detail": "Proposition 142 ; 25 000 magistrats, éducateurs et éducatrices pour la justice et les mineurs.",
       "nature": "programme",
@@ -732,6 +781,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Abroger la loi « Sécurité globale »",
       "detail": "Et les autres lois jugées liberticides du quinquennat (proposition 140).",
       "nature": "programme",
@@ -740,6 +790,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs sans papiers",
       "detail": "Interdire les tests osseux pour les mineurs non accompagnés (proposition 89).",
       "nature": "programme",
@@ -748,6 +799,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Ouvrir des voies légales et sécurisées de migration",
       "detail": "Proposition 162.",
       "nature": "programme",
@@ -756,6 +808,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Supprimer l'élection du président de la République au suffrage universel",
       "detail": "Président limité à un rôle de représentation, gouvernement investi par l'Assemblée ; abrogation des articles 49.3 et 40 (proposition 132).",
       "nature": "programme",
@@ -764,6 +817,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Élire l'Assemblée nationale à la proportionnelle intégrale",
       "detail": "Parité dans toutes les institutions élues et statut de l'élu (proposition 133).",
       "nature": "programme",
@@ -772,6 +826,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Permettre un référendum d'initiative citoyenne à un million de signatures",
       "detail": "Et l'inscription d'une proposition de loi à l'ordre du jour par pétition de 500 000 citoyens (proposition 134).",
       "nature": "programme",
@@ -780,6 +835,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Rétablir la clause de compétence générale des départements et régions",
       "detail": "Abroger les lois NOTRe et MAPTAM et abandonner la loi 3DS (propositions 137 et 138).",
       "nature": "programme",
@@ -788,6 +844,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Placer la BCE sous contrôle démocratique",
       "detail": "Fin de l'indépendance de la Banque centrale européenne (proposition 157).",
       "nature": "programme",
@@ -796,6 +853,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Proposer un pacte européen de 900 milliards d'euros par an pour le climat",
       "detail": "6 % du PIB des pays européens (proposition 155).",
       "nature": "programme",
@@ -804,6 +862,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Dénoncer les traités de libre-échange",
       "detail": "Proposition 171.",
       "nature": "programme",
@@ -812,6 +871,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Porter l'aide publique au développement à 0,7 % du RNB",
       "detail": "Proposition 169.",
       "nature": "programme",
@@ -820,6 +880,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "autre",
       "titre": "Lever les brevets sur les vaccins",
       "detail": "Priorité dès les premières semaines du mandat (proposition 153).",
       "nature": "programme",
@@ -828,6 +889,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Quitter l'OTAN et demander sa dissolution",
       "detail": "Construire un cadre européen de sécurité collective (proposition 167).",
       "nature": "programme",
@@ -836,6 +898,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "dissuasion",
       "titre": "Signer le traité d'interdiction des armes nucléaires (TIAN)",
       "detail": "Tout en conservant la dissuasion jusqu'à un désarmement multilatéral (propositions 166 et 177).",
       "nature": "programme",
@@ -844,6 +907,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Retirer les forces armées françaises du Sahel",
       "detail": "Proposition 168.",
       "nature": "programme",
@@ -852,6 +916,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Créer un pôle public des industries d'armement",
       "detail": "Et stopper les exportations « toxiques » (proposition 178).",
       "nature": "programme",
@@ -860,6 +925,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Créer un ministère de la Culture, de l'Éducation populaire et des Médias",
       "detail": "Proposition 111.",
       "nature": "programme",
@@ -868,6 +934,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Adopter une loi contre la concentration des médias",
       "detail": "Et créer un Conseil national des médias (propositions 151 et 152).",
       "nature": "programme",

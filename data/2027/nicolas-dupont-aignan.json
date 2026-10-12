@@ -14,6 +14,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer un référendum d'initiative citoyenne (RIC) législatif et constituant",
       "detail": "Déclenché par une pétition d'un million d'électeurs inscrits, précédé d'un débat équitable de six mois ; référendum obligatoire pour toute révision constitutionnelle.",
       "nature": "programme",
@@ -22,6 +23,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Revenir au septennat avec un référendum révocatoire à mi-mandat",
       "detail": "Référendum révocatoire d'initiative citoyenne possible à mi-mandat.",
       "nature": "programme",
@@ -30,6 +32,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Prendre en compte le vote blanc dans les résultats des élections",
       "detail": "Si le vote blanc est majoritaire, le scrutin est reporté et les candidats battus ne peuvent se représenter.",
       "nature": "programme",
@@ -38,6 +41,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Conditionner l'activation de la carte Vitale à la participation au vote",
       "detail": "Mesure visant à favoriser la participation électorale.",
       "nature": "programme",
@@ -46,6 +50,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Exiger un casier judiciaire vierge pour tous les élus",
       "detail": "Volet « moraliser la vie publique », avec suppression des avantages des anciens présidents.",
       "nature": "programme",
@@ -54,6 +59,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Réduire le nombre de parlementaires et baisser leurs indemnités de 25 %",
       "detail": "Passer de 577 à 500 députés et de 348 à 300 sénateurs ; rémunération des élus selon leur présence effective.",
       "nature": "programme",
@@ -62,6 +68,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les régions et le CESE pour revenir au couple commune-département",
       "detail": "Projets structurants coordonnés par le préfet de région ; abrogation de la loi NOTRe pour rendre leur autonomie aux communes.",
       "nature": "programme",
@@ -70,6 +77,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Organiser un référendum sur l'appartenance de la France à l'Union européenne",
       "detail": "Objectif de sortie de l'UE après un moratoire d'un an de négociations (arrêt de la contribution, primauté du droit national), puis construction d'une « Europe des nations libres ».",
       "nature": "programme",
@@ -78,6 +86,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Sortir de l'espace Schengen et rétablir les frontières nationales",
       "detail": "Rétablissement des frontières nationales ; le volet immigration prévoit 10 000 agents supplémentaires et le recours à l'armée si nécessaire.",
       "nature": "programme",
@@ -86,6 +95,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Refuser l'accord UE-Mercosur et rompre le CETA et d'autres accords de libre-échange",
       "detail": "Rupture des accords avec le Canada (CETA), la Nouvelle-Zélande, le Kenya et le Chili ; clauses miroirs sur les importations.",
       "nature": "programme",
@@ -94,6 +104,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Rétablir un droit de veto français sur les accords commerciaux de l'UE",
       "detail": "Mesure du plan « Produire en France ».",
       "nature": "programme",
@@ -102,6 +113,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "libertes_publiques",
       "titre": "Constitutionnaliser l'argent liquide et refuser l'euro numérique",
       "detail": "Refus du portefeuille numérique, du carnet de santé et du permis de conduire numériques ; suppression du Digital Services Act.",
       "nature": "programme",
@@ -110,6 +122,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Réserver 75 % de la commande publique aux produits fabriqués en France",
       "detail": "50 % la première année puis 75 % en cinq ans (« Buy French Act »), en privilégiant les PME.",
       "nature": "programme",
@@ -118,6 +131,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Créer un fonds de relocalisation de 10 Md€ pour implanter des usines en zone rurale",
       "detail": "Aides à l'investissement en échange d'implantations industrielles en zone rurale.",
       "nature": "programme",
@@ -126,6 +140,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Supprimer la directive sur les travailleurs détachés",
       "detail": "Objectif annoncé de 500 000 emplois retrouvés.",
       "nature": "programme",
@@ -134,6 +149,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Rendre obligatoire l'étiquetage de la part « fabriqué en France » de chaque produit",
       "detail": "Label « Origine France garantie » étendu dès lors que plus de 75 % de la valeur ajoutée est réalisée en France.",
       "nature": "programme",
@@ -142,6 +158,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Diviser par deux l'impôt sur les sociétés pour les bénéfices réinvestis en France",
       "detail": "Crédit d'impôt production ; baisse de 1 point d'IS par 2 % d'actionnariat salarié (dans la limite de 10 points).",
       "nature": "programme",
@@ -150,6 +167,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Augmenter les salaires de 8 % jusqu'à 3 SMIC par une baisse des cotisations salariales",
       "detail": "Équivalent d'un 13e mois sans hausse du coût du travail pour les entreprises.",
       "nature": "programme",
@@ -158,6 +176,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l'inflation",
       "detail": "Mesure du volet pouvoir d'achat.",
       "nature": "programme",
@@ -166,6 +185,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Diviser par deux le prix de l'électricité dès la première année",
       "detail": "Sortie du marché européen de l'électricité, monopole de production et distribution d'EDF rétabli, tarif réglementé de 100 €/MWh.",
       "nature": "programme",
@@ -174,6 +194,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser de 40 centimes le prix des carburants",
       "detail": "Suppression des CEE (17 c), de la TVA sur la taxe (13 c) et plafonnement des marges de raffinage (10 c).",
       "nature": "programme",
@@ -182,6 +203,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Baisser de 20 % le prix du gaz et réautoriser les importations de gaz russe",
       "detail": "Monopole public de distribution rétabli et suppression des CEE.",
       "nature": "programme",
@@ -190,6 +212,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Supprimer la TVA sur 50 produits de première nécessité",
       "detail": "Et réduire les frais bancaires, notamment cachés.",
       "nature": "programme",
@@ -216,6 +239,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Doter chaque nouveau-né d'un capital retraite de 10 000 €",
       "detail": "Bloqué jusqu'à la retraite et géré par un fonds public de capitalisation ; complément estimé à 500 €/mois à 60 ans.",
       "nature": "programme",
@@ -224,6 +248,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Limiter l'ensemble des prestations d'un inactif à 70 % du SMIC net",
       "detail": "Mesure du volet pouvoir d'achat et valeur travail.",
       "nature": "programme",
@@ -232,6 +257,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Rétablir un impôt sur les très grandes fortunes hors résidence principale",
       "detail": "Avec déduction des investissements dans les entreprises produisant en France.",
       "nature": "programme",
@@ -240,6 +266,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "autre",
       "titre": "Garantir un taux du Livret A supérieur à l'inflation",
       "detail": "Protection des revenus de l'épargne populaire.",
       "nature": "programme",
@@ -248,6 +275,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Supprimer les droits de succession sur la résidence principale",
       "detail": "Ainsi que sur les 100 premiers hectares agricoles ; exonération de 90 % des titres d'entreprise transmis.",
       "nature": "programme",
@@ -256,6 +284,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "etat_fonction_publique",
       "titre": "Supprimer progressivement les agences d'État (ADEME, ARS, ANAH…)",
       "detail": "Missions reprises par les ministères de tutelle ; objectif de 15 Md€ d'économies par an au bout de 3 ans.",
       "nature": "programme",
@@ -264,6 +293,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "economies_depenses",
       "titre": "Mettre fin aux aides de l'État aux éoliennes et panneaux solaires",
       "detail": "12 Md€ d'économies annoncées.",
       "nature": "programme",
@@ -272,6 +302,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Permettre à l'État d'emprunter directement auprès de la Banque de France",
       "detail": "Rapatriement du pouvoir monétaire et refinancement à taux zéro pour les investissements ; grand emprunt national.",
       "nature": "programme",
@@ -280,6 +311,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "recettes_nouvelles",
       "titre": "Taxer les multinationales au prorata du chiffre d'affaires réalisé en France",
       "detail": "10 Md€ attendus à 5 ans, plus une taxe sur l'exploitation des données personnelles (5 Md€) et une taxe antidumping (3 Md€).",
       "nature": "programme",
@@ -288,6 +320,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "ukraine_russie",
       "titre": "Mettre fin aux aides à l'Ukraine",
       "detail": "Économie évaluée à 7 Md€ par an (aides françaises et quote-part européenne).",
       "nature": "programme",
@@ -296,6 +329,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recruter 10 000 policiers et gendarmes supplémentaires nets en cinq ans",
       "detail": "Plus 10 000 douaniers et policiers aux frontières, dans une loi d'orientation et de programmation.",
       "nature": "programme",
@@ -304,6 +338,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Instaurer une présomption de légitime défense pour les policiers",
       "detail": "Et faire foi des procès-verbaux des policiers jusqu'à preuve du contraire.",
       "nature": "programme",
@@ -312,6 +347,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Recréer un service de Renseignements généraux",
       "detail": "Ciblant réseaux de stupéfiants, séparatisme, radicalisation islamiste et cybercriminalité.",
       "nature": "programme",
@@ -320,6 +356,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Créer 40 000 places de prison et recruter 20 000 surveillants",
       "detail": "20 000 places par réhabilitation de casernes et 20 000 en structures adaptées ; pénitentiaire rattachée au ministère de l'Intérieur.",
       "nature": "programme",
@@ -328,6 +365,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Ouvrir une prison ultra-sécurisée de 600 places en Guyane",
       "detail": "Pour terroristes et barons du narcotrafic, isolement renforcé.",
       "nature": "programme",
@@ -336,6 +374,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "prisons",
       "titre": "Instaurer un « droit de timbre » de 150 à 500 € pour chaque condamnation",
       "detail": "Et prélever jusqu'à 25 % de la rémunération des détenus travaillant pour financer leur détention.",
       "nature": "programme",
@@ -344,6 +383,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Abroger la loi du 23 mars 2019 sur l'aménagement des courtes peines",
       "detail": "Principe « un délit = une condamnation = une peine exécutée », mandat de dépôt à l'audience.",
       "nature": "programme",
@@ -352,6 +392,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "peines_penal",
       "titre": "Instaurer la perpétuité réelle et un référendum sur la peine de mort pour meurtre d'enfant",
       "detail": "Mesure du volet « appliquer la loi ».",
       "nature": "programme",
@@ -360,6 +401,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "mineurs",
       "titre": "Abaisser la majorité pénale à 16 ans et abroger l'ordonnance de 1945",
       "detail": "Avec suspension des aides sociales des familles de mineurs délinquants.",
       "nature": "programme",
@@ -368,6 +410,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Rétablir le délit de séjour irrégulier puni de prison ferme",
       "detail": "Avec intégration de l'éloignement dans la procédure pénale.",
       "nature": "programme",
@@ -376,6 +419,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Supprimer l'AME et ouvrir un dispensaire d'urgence par département",
       "detail": "Pour les étrangers en situation irrégulière, avant leur expulsion.",
       "nature": "programme",
@@ -384,6 +428,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "prestations_etrangers",
       "titre": "Supprimer les aides sociales non contributives pour les étrangers",
       "detail": "RSA, allocations familiales, aides au logement.",
       "nature": "programme",
@@ -392,6 +437,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "expulsions",
       "titre": "Instaurer une double peine automatique",
       "detail": "Expulsion à la sortie de prison avec retrait définitif du titre de séjour ; courtes peines remplacées par une expulsion immédiate.",
       "nature": "programme",
@@ -400,6 +446,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Supprimer le droit du sol par référendum",
       "detail": "La naturalisation resterait possible.",
       "nature": "programme",
@@ -408,6 +455,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Exiger 10 ans de résidence pour la naturalisation et voter un plafond annuel",
       "detail": "Avec maîtrise de la langue, service civique obligatoire de 3 mois et refus pour toute personne condamnée.",
       "nature": "programme",
@@ -416,6 +464,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Limiter le droit d'asile aux demandes déposées aux frontières",
       "detail": "Assignation à résidence des demandeurs et aucune régularisation des déboutés.",
       "nature": "programme",
@@ -424,6 +473,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Interdire les signes religieux visibles dans tout le service public, université comprise",
       "detail": "Notamment dans les universités et les hôpitaux ; possibilité pour les entreprises d'interdire les signes religieux ostentatoires dans leur règlement intérieur.",
       "nature": "programme",
@@ -432,6 +482,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Conditionner l'ouverture d'une mosquée à un serment de fidélité à la République",
       "detail": "Signé par l'imam et le président de l'association cultuelle ; fermeture des lieux refusant la Charte de conformité.",
       "nature": "programme",
@@ -440,6 +491,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Sortir du commandement intégré de l'OTAN",
       "detail": "Pour regagner l'indépendance militaire et stratégique.",
       "nature": "programme",
@@ -448,6 +500,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Construire deux porte-avions et porter la flotte à 20 frégates de premier rang",
       "detail": "Remplacement du Charles-de-Gaulle accéléré pour une disponibilité permanente du groupe aéronaval.",
       "nature": "programme",
@@ -456,6 +509,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Porter la flotte de Rafale à 250 appareils en 2030",
       "detail": "Et augmenter le nombre de lanceurs et de satellites de renseignement.",
       "nature": "programme",
@@ -464,6 +518,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Transformer la réserve opérationnelle en garde nationale de 100 000 réservistes",
       "detail": "Et instaurer un service national obligatoire de trois mois avec option militaire d'un an.",
       "nature": "programme",
@@ -472,6 +527,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "industrie_defense",
       "titre": "Se retirer du SCAF et du drone MALE européen",
       "detail": "Au profit de programmes nationaux d'avion, de drone, de char et de missiles.",
       "nature": "programme",
@@ -507,6 +563,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Rendre l'uniforme obligatoire et interdire les objets connectés à l'école",
       "detail": "Avec vouvoiement, interdiction des signes religieux démonstratifs pour tous et suppression du programme EVARS.",
       "nature": "programme",
@@ -515,6 +572,7 @@
     },
     {
       "theme": "education",
+      "sujet": "autorite_ecole",
       "titre": "Conditionner les allocations familiales à l'assiduité scolaire",
       "detail": "Création d'établissements « d'apaisement civique » pour les élèves perturbateurs.",
       "nature": "programme",
@@ -523,6 +581,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Augmenter de 30 % les heures de français et de mathématiques au primaire",
       "detail": "Retour à la méthode syllabique et examen de type certificat d'études conditionnant l'entrée au collège.",
       "nature": "programme",
@@ -531,6 +590,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Revenir aux filières S, ES et L au lycée et réserver l'accès au lycée au brevet",
       "detail": "Classes de niveau au collège et retour du redoublement si nécessaire.",
       "nature": "programme",
@@ -584,6 +644,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Revaloriser l'AAH d'environ 300 € pour les personnes lourdement handicapées",
       "detail": "Pour l'aligner sur le seuil de pauvreté (environ 1 337 €).",
       "nature": "programme",
@@ -592,6 +653,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Accorder une part fiscale complète pour tout enfant handicapé à charge",
       "detail": "Dès la première personne à charge ; rétablissement du complément de ressources supprimé en 2019.",
       "nature": "programme",
@@ -600,6 +662,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Limiter la mutualisation des AESH à trois élèves par classe",
       "detail": "Et deux élèves en ULIS ; création de postes d'AESH et possibilité d'un temps plein.",
       "nature": "programme",

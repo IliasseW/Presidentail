@@ -16,6 +16,7 @@
   "propositions": [
     {
       "theme": "institutions",
+      "sujet": "regime_constitution",
       "titre": "Convoquer une Assemblée constituante pour passer à la 6e République",
       "detail": "Référendum (article 11) pour lancer le processus ; aucun parlementaire sortant ne pourra y siéger ; projet de Constitution soumis à référendum après deux ans de travaux.",
       "nature": "programme",
@@ -24,6 +25,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "parlement",
       "titre": "Instaurer un régime parlementaire et supprimer l'article 49.3",
       "detail": "Dans le cadre de la Constituante : régime parlementaire stable, gouvernement responsable devant le Parlement, abolition des « votes forcés » comme le 49.3.",
       "nature": "programme",
@@ -32,6 +34,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Élire l'Assemblée nationale à la proportionnelle départementale",
       "detail": "Mesure prévue par la loi, sans attendre la nouvelle Constitution (échelle de la collectivité unique en Outre-mer).",
       "nature": "programme",
@@ -40,6 +43,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
       "detail": "RIC révocatoire, législatif, abrogatoire et constituant, déclenché par un nombre suffisant de signatures.",
       "nature": "programme",
@@ -48,6 +52,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Abaisser le droit de vote à 16 ans",
       "detail": "Droit de vote accordé dès 16 ans.",
       "nature": "programme",
@@ -56,6 +61,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "mode_scrutin",
       "titre": "Reconnaître le vote blanc et rendre le vote obligatoire",
       "detail": "Avec un seuil minimal de votes exprimés pour valider une élection.",
       "nature": "programme",
@@ -64,6 +70,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "referendum_ric",
       "titre": "Imposer un référendum pour toute révision constitutionnelle ou tout traité européen",
       "detail": "Recours obligatoire au référendum dans ces deux cas.",
       "nature": "programme",
@@ -72,6 +79,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Rendre inéligible à vie toute personne condamnée pour corruption",
       "detail": "Avec un durcissement des règles contre les conflits d'intérêts et le pantouflage (démission et remboursement de la formation sans dix ans de service).",
       "nature": "programme",
@@ -80,6 +88,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "ethique_vie_publique",
       "titre": "Plafonner à 200 euros les dons individuels aux partis politiques",
       "detail": "Réforme du financement de la vie politique.",
       "nature": "programme",
@@ -88,6 +97,7 @@
     },
     {
       "theme": "institutions",
+      "sujet": "decentralisation",
       "titre": "Supprimer les métropoles et abroger la loi NOTRe",
       "detail": "Supprimer les mégarégions, mettre fin à l'obligation d'appartenance à une intercommunalité et redécouper les régions selon les bassins versants.",
       "nature": "programme",
@@ -96,6 +106,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Abroger le concordat d'Alsace-Moselle",
       "detail": "Ainsi que les statuts cultuels spécifiques des Outre-mer ; interdiction pour les élus d'assister ès qualités à des cérémonies religieuses.",
       "nature": "programme",
@@ -104,6 +115,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "drogues_legalisation",
       "titre": "Légaliser le cannabis récréatif sous monopole d'État",
       "detail": "Recettes affectées à la prévention des addictions ; pilotage de la politique des drogues confié au ministère de la Santé.",
       "nature": "programme",
@@ -112,6 +124,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "ivg_droits_femmes",
       "titre": "Constitutionnaliser l'IVG, la contraception et le droit de mourir dans la dignité",
       "detail": "Y compris l'aide active à mourir et l'accès garanti aux soins palliatifs.",
       "nature": "programme",
@@ -120,6 +133,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "ivg_droits_femmes",
       "titre": "Allonger le délai légal d'IVG à 14 semaines",
       "detail": "Et supprimer la double clause de conscience des médecins.",
       "nature": "programme",
@@ -128,6 +142,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Rembourser la PMA, l'ouvrir aux personnes trans et refuser la GPA",
       "detail": "Filiation par reconnaissance comme principe par défaut.",
       "nature": "programme",
@@ -136,6 +151,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "bioethique_lgbt",
       "titre": "Permettre le changement d'état civil libre et gratuit",
       "detail": "Devant un officier d'état civil.",
       "nature": "programme",
@@ -144,6 +160,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "laicite_religions",
       "titre": "Abroger la loi dite « séparatisme »",
       "detail": "Dans le cadre d'une « République universaliste » contre le racisme et les discriminations.",
       "nature": "programme",
@@ -152,6 +169,7 @@
     },
     {
       "theme": "societe",
+      "sujet": "condition_animale",
       "titre": "Interdire la chasse à courre et les spectacles cruels pour les animaux",
       "detail": "Déterrage, chasse à courre, combats de coqs, spectacles avec animaux sauvages.",
       "nature": "programme",
@@ -160,6 +178,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Rétablir la police de proximité et démanteler les BAC et les BRAV-M",
       "detail": "Intégration des polices municipales dans la nouvelle police de proximité.",
       "nature": "programme",
@@ -168,6 +187,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Remplacer l'IGPN et l'IGGN par une autorité indépendante",
       "detail": "Rattachée au Défenseur des droits, dotée d'un pouvoir de sanction disciplinaire.",
       "nature": "programme",
@@ -176,6 +196,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Interdire LBD, grenades de désencerclement, tasers et plaquage ventral",
       "detail": "Pour favoriser la désescalade ; interdiction aussi de la « nasse » en manifestation.",
       "nature": "programme",
@@ -184,6 +205,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Interdire la reconnaissance faciale dans l'espace public",
       "detail": "Interdiction légale de son usage et de son expérimentation.",
       "nature": "programme",
@@ -192,6 +214,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "police_moyens",
       "titre": "Instaurer un récépissé lors des contrôles d'identité",
       "detail": "Pour lutter contre le contrôle au faciès, avec formation et sanctions.",
       "nature": "programme",
@@ -200,6 +223,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "justice_moyens",
       "titre": "Augmenter l'aide juridictionnelle et rétablir les tribunaux de proximité",
       "detail": "Recrutement de magistrats, greffiers et agents de la PJJ.",
       "nature": "programme",
@@ -208,6 +232,7 @@
     },
     {
       "theme": "securite_justice",
+      "sujet": "autre",
       "titre": "Doubler les effectifs contre la délinquance financière",
       "detail": "Et supprimer réellement le « verrou de Bercy » et la convention judiciaire d'intérêt public.",
       "nature": "programme",
@@ -351,6 +376,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "smic_salaires",
       "titre": "Porter immédiatement le SMIC à 1 400 euros nets",
       "detail": "Hausse immédiate du SMIC mensuel et des minima sociaux.",
       "nature": "programme",
@@ -359,6 +385,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Bloquer les prix des produits de première nécessité",
       "detail": "Mesure de l'« état d'urgence sociale ».",
       "nature": "programme",
@@ -367,6 +394,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_energie",
       "titre": "Rendre gratuites les premières quantités d'énergie",
       "detail": "Tarification progressive de l'énergie ; annulation des hausses du tarif du gaz depuis 2017.",
       "nature": "programme",
@@ -375,6 +403,7 @@
     },
     {
       "theme": "pouvoir_achat",
+      "sujet": "prix_consommation",
       "titre": "Baisser la TVA sur les produits de première nécessité",
       "detail": "Financée par une « TVA grand luxe ».",
       "nature": "programme",
@@ -482,6 +511,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Lancer un plan d'investissement de 200 milliards d'euros",
       "detail": "Investissements écologiquement et socialement utiles, financés notamment par l'annulation des cadeaux fiscaux sans contrepartie.",
       "nature": "programme",
@@ -490,6 +520,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Rétablir l'ISF avec un volet climatique",
       "detail": "Rétablissement et renforcement de l'impôt de solidarité sur la fortune.",
       "nature": "programme",
@@ -498,6 +529,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Porter l'impôt sur le revenu à 14 tranches",
       "detail": "Contre 5 ; CSG rendue progressive avec 14 tranches.",
       "nature": "programme",
@@ -506,6 +538,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Supprimer la flat tax",
       "detail": "Imposer les revenus du capital comme ceux du travail.",
       "nature": "programme",
@@ -514,6 +547,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_menages",
       "titre": "Plafonner l'héritage à 12 millions d'euros",
       "detail": "Soit 100 fois le patrimoine net médian ; droits de succession calculés sur toute la vie.",
       "nature": "programme",
@@ -522,6 +556,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fraude_evasion",
       "titre": "Rétablir l'exit tax et créer un impôt universel",
       "detail": "Impôt universel sur les entreprises (taxées sur l'activité réalisée en France) et sur les revenus des particuliers, contre l'évasion fiscale.",
       "nature": "programme",
@@ -530,6 +565,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "role_etat",
       "titre": "Revenir sur les privatisations des autoroutes, aéroports et de la FDJ",
       "detail": "Rendre effectif le droit de réquisition des entreprises d'intérêt général.",
       "nature": "programme",
@@ -538,6 +574,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "finance_banques",
       "titre": "Créer un pôle public bancaire",
       "detail": "Socialisation de banques généralistes ; licence bancaire pour la BPI.",
       "nature": "programme",
@@ -546,6 +583,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "industrie",
       "titre": "Relocaliser les productions essentielles",
       "detail": "Mesures antidumping, droits de douane écologiques et taxe kilométrique aux frontières.",
       "nature": "programme",
@@ -554,6 +592,7 @@
     },
     {
       "theme": "economie",
+      "sujet": "fiscalite_entreprises",
       "titre": "Conditionner les aides publiques aux grandes entreprises",
       "detail": "Objectifs sociaux, écologiques et fiscaux contraignants, avec remboursement en cas de non-respect.",
       "nature": "programme",
@@ -562,6 +601,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Transformer la dette détenue par la BCE en dette perpétuelle à taux nul",
       "detail": "Exigence adressée à l'Union européenne.",
       "nature": "programme",
@@ -570,6 +610,7 @@
     },
     {
       "theme": "finances_publiques",
+      "sujet": "deficit_dette",
       "titre": "Réaliser un audit citoyen de la dette publique",
       "detail": "Pour en déterminer la part illégitime ; rétablir un circuit du Trésor.",
       "nature": "programme",
@@ -632,6 +673,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Assurer la gratuité réelle de l'école publique",
       "detail": "Cantine, transport, activités périscolaires, manuels et fournitures.",
       "nature": "programme",
@@ -640,6 +682,7 @@
     },
     {
       "theme": "education",
+      "sujet": "enseignants",
       "titre": "Réduire les effectifs sous 19 élèves par classe",
       "detail": "Moyenne européenne, en priorité en maternelle et en éducation prioritaire.",
       "nature": "programme",
@@ -648,6 +691,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Supprimer Parcoursup",
       "detail": "Accès sans sélection de tous les bacheliers à la formation de leur choix.",
       "nature": "programme",
@@ -656,6 +700,7 @@
     },
     {
       "theme": "education",
+      "sujet": "superieur_etudiants",
       "titre": "Instaurer la gratuité de l'enseignement supérieur",
       "detail": "De la licence au doctorat ; abrogation des lois LRU et Fioraso.",
       "nature": "programme",
@@ -664,6 +709,7 @@
     },
     {
       "theme": "education",
+      "sujet": "savoirs_programmes",
       "titre": "Étendre la scolarité obligatoire à 18 ans",
       "detail": "Avec, si nécessaire, une garantie d'autonomie dès 16 ans.",
       "nature": "programme",
@@ -672,6 +718,7 @@
     },
     {
       "theme": "education",
+      "sujet": "lycee_orientation",
       "titre": "Rétablir le bac national et abroger la réforme du lycée",
       "detail": "Abroger aussi les réformes de la voie professionnelle et du collège.",
       "nature": "programme",
@@ -680,6 +727,7 @@
     },
     {
       "theme": "education",
+      "sujet": "inclusion_inegalites",
       "titre": "Créer 500 000 places en crèche en cinq ans",
       "detail": "Service public de la petite enfance, crèches publiques gratuites.",
       "nature": "programme",
@@ -688,6 +736,7 @@
     },
     {
       "theme": "education",
+      "sujet": "jeunesse_service",
       "titre": "Verser aux jeunes une garantie d'autonomie de 1 063 euros",
       "detail": "Pour les jeunes détachés du foyer fiscal parental (seuil de pauvreté).",
       "nature": "programme",
@@ -696,6 +745,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Garantir à chacun un revenu au seuil de pauvreté",
       "detail": "Garantie d'autonomie portant le revenu mensuel à 1 063 euros pour une personne seule.",
       "nature": "programme",
@@ -704,6 +754,7 @@
     },
     {
       "theme": "social",
+      "sujet": "pauvrete_minima",
       "titre": "Atteindre zéro sans-abri",
       "detail": "Doublement des places d'accueil (estimées à 100 000).",
       "nature": "programme",
@@ -712,6 +763,7 @@
     },
     {
       "theme": "social",
+      "sujet": "handicap_aidants",
       "titre": "Verser l'AAH indépendamment des revenus du conjoint",
       "detail": "Revalorisation de l'allocation aux adultes handicapés.",
       "nature": "programme",
@@ -720,6 +772,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Allouer un milliard d'euros contre les violences faites aux femmes",
       "detail": "Loi de lutte contre le sexisme et les violences.",
       "nature": "programme",
@@ -728,6 +781,7 @@
     },
     {
       "theme": "social",
+      "sujet": "egalite_femmes_hommes",
       "titre": "Sanctionner l'inégalité salariale entre femmes et hommes",
       "detail": "Amendes, refus de marchés publics et commission salariée de contrôle dans l'entreprise.",
       "nature": "programme",
@@ -736,6 +790,7 @@
     },
     {
       "theme": "social",
+      "sujet": "famille_natalite",
       "titre": "Remplacer le quotient familial par un crédit d'impôt par enfant",
       "detail": "Et mettre fin au quotient conjugal.",
       "nature": "programme",
@@ -789,6 +844,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "travail_regularisation",
       "titre": "Régulariser les travailleurs, étudiants et parents d'enfants scolarisés",
       "detail": "Faciliter l'accès aux visas et faire de la carte de séjour de dix ans le titre de référence.",
       "nature": "programme",
@@ -797,6 +853,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "asile",
       "titre": "Abroger la loi asile et immigration",
       "detail": "Garantir pleinement le droit d'asile.",
       "nature": "programme",
@@ -805,6 +862,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "frontieres",
       "titre": "Suspendre le règlement de Dublin et renégocier les accords du Touquet",
       "detail": "Et sortir de « l'impasse » de Schengen et Frontex.",
       "nature": "programme",
@@ -813,6 +871,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "nationalite",
       "titre": "Garantir le droit du sol intégral",
       "detail": "Et faciliter l'accès à la nationalité française.",
       "nature": "programme",
@@ -821,6 +880,7 @@
     },
     {
       "theme": "immigration",
+      "sujet": "autre",
       "titre": "Accorder le droit de vote aux étrangers aux élections locales",
       "detail": "Droit de vote des résidents étrangers aux élections locales.",
       "nature": "programme",
@@ -829,6 +889,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "rapport_ue",
       "titre": "Désobéir aux règles européennes incompatibles avec le programme",
       "detail": "Détachement des travailleurs, règles budgétaires, concurrence, libre circulation des capitaux.",
       "nature": "programme",
@@ -837,6 +898,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "libre_echange",
       "titre": "Bloquer par veto tout nouvel accord de libre-échange",
       "detail": "Et tout nouvel élargissement sans harmonisation sociale, fiscale et environnementale.",
       "nature": "programme",
@@ -845,6 +907,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "budget_euro",
       "titre": "Conditionner la contribution française au budget européen",
       "detail": "Levier face aux institutions européennes.",
       "nature": "programme",
@@ -853,6 +916,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "afrique_developpement",
       "titre": "Consacrer 0,7 % du RNB à l'aide publique au développement",
       "detail": "Aide « débarrassée du carcan néolibéral ».",
       "nature": "programme",
@@ -861,6 +925,7 @@
     },
     {
       "theme": "europe_international",
+      "sujet": "autre",
       "titre": "Reconnaître le crime d'écocide",
       "detail": "Soutien à un tribunal international de justice climatique.",
       "nature": "programme",
@@ -869,6 +934,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "otan",
       "titre": "Quitter le commandement intégré de l'OTAN puis l'organisation",
       "detail": "Retrait immédiat du commandement intégré, puis de l'OTAN par étapes.",
       "nature": "programme",
@@ -877,6 +943,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "service_reserves",
       "titre": "Instaurer une conscription citoyenne de neuf mois",
       "detail": "Pour les moins de 25 ans, rémunérée au SMIC, avec formation militaire initiale ; création d'une garde nationale.",
       "nature": "programme",
@@ -885,6 +952,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Fixer un calendrier de retrait des opérations militaires au Sahel",
       "detail": "Après un débat et un vote au Parlement.",
       "nature": "programme",
@@ -893,6 +961,7 @@
     },
     {
       "theme": "defense",
+      "sujet": "autre",
       "titre": "Refuser toute intervention militaire sans mandat de l'ONU",
       "detail": "L'ONU comme seul organe légitime de sécurité collective.",
       "nature": "programme",
@@ -901,6 +970,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "culture_creation",
       "titre": "Porter le budget de la culture à 1 % du PIB",
       "detail": "Budget consacré à l'art, à la culture et à la création.",
       "nature": "programme",
@@ -909,6 +979,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "medias_presse",
       "titre": "Adopter une loi anti-concentration dans les médias",
       "detail": "Et donner un droit d'agrément aux rédactions face à un nouvel actionnaire.",
       "nature": "programme",
@@ -917,6 +988,7 @@
     },
     {
       "theme": "culture_medias",
+      "sujet": "audiovisuel_public",
       "titre": "Faire élire par le Parlement les présidents de France Télévisions et de Radio France",
       "detail": "Élection des dirigeants de l'audiovisuel public par le Parlement.",
       "nature": "programme",
