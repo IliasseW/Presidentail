@@ -1,0 +1,28 @@
+{
+  "slug": "francis-lalanne",
+  "nom": "Francis Lalanne",
+  "affaires": [
+    {
+      "intitule": "Comptes de campagne des élections européennes de 2024 (liste « France libre »)",
+      "qualification": "Inéligibilité pour absence de dépôt du compte de campagne",
+      "statut": "autre",
+      "resume": "Sanction électorale (non pénale) : le Conseil d'État, statuant en dernier ressort (décision n° 499660 du 17 avril 2025), l'a déclaré inéligible à toutes les élections pour 18 mois à compter de la décision, soit jusqu'au 17 octobre 2026, pour ne pas avoir déposé de compte de campagne. Sur ce fondement, le tribunal administratif de Lyon a rejeté le 26 février 2026 son recours contre le refus d'enregistrer sa liste aux municipales de Lyon.",
+      "date_derniere_etape": "2026-02-26",
+      "sources": [
+        {
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-04-17/499660",
+          "media": "Conseil d'État",
+          "date": "2025-04-17"
+        },
+        {
+          "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+          "media": "LyonMag",
+          "date": "2026-02-27"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Inéligibilité vérifiée sur le texte de la décision du Conseil d'État (nom anonymisé « M. A... B..., tête de liste France libre ») et dans la presse : 18 mois à compter du 17/04/2025, fin le 17/10/2026, donc encore en cours au 12/10/2026 ; statut « autre » car il s'agit d'une décision du juge électoral, définitive. Écartés faute de suite vérifiable : enquête préliminaire ouverte en 2021 pour « provocation à la commission d'atteintes aux intérêts fondamentaux de la Nation » après sa tribune appelant l'armée à agir contre le gouvernement (audition par la BRDP en février 2021 ; issue non trouvée) ; gardes à vue de février et mai 2023 à Marseille sur plainte de son ex-compagne (harcèlement, violences), une source people évoquant une composition pénale de 800 euros en février 2023 : non confirmé par une source fiable. Litige commercial avec la société de production de Quotidien (Bangumi), où il était demandeur : exclu.",
+  "verifie_le": "2026-10-12"
+}

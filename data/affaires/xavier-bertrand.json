@@ -1,0 +1,21 @@
+{
+  "slug": "xavier-bertrand",
+  "nom": "Xavier Bertrand",
+  "affaires": [
+    {
+      "intitule": "Propos sur Mediapart (« méthodes fascistes »)",
+      "qualification": "Diffamation publique",
+      "statut": "relaxe",
+      "resume": "Poursuivi sur plainte avec constitution de partie civile de Mediapart pour avoir qualifié en juillet 2010 le site de « site qui utilise des méthodes fascistes », il a été mis en examen le 30 juin 2011 (mise en examen automatique en matière de presse), jugé le 12 février 2013 par la 17e chambre du tribunal correctionnel de Paris et relaxé le 26 mars 2013. Aucun appel n'a été trouvé.",
+      "date_derniere_etape": "2013-03-26",
+      "sources": [
+        {"url": "https://www.cnews.fr/politique/2013-03-26/methodes-fascistes-chez-mediapart-bertrand-relaxe-430769", "media": "CNews (Direct Matin)", "date": "2013-03-26"},
+        {"url": "https://pneumologie.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/proces-xavier-bertrand-confronte-mediapart", "media": "Le Quotidien du Médecin", "date": "2013-02-12"},
+        {"url": "https://www.ozap.com/actu/xavier-bertrand-examen-diffamation/432912", "media": "Ozap", "date": "2011"}
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Le caractère définitif de la relaxe de 2013 n'a pas pu être vérifié (aucune trace d'appel trouvée). Aucune procédure le visant comme président de la région Hauts-de-France n'a été trouvée ; l'enquête de 2017 sur des emplois présumés fictifs au FN au conseil régional ne le visait pas. Recherches : nom + enquête, parquet, mis en examen, plainte, condamné, diffamation, relaxe, région.",
+  "verifie_le": "2026-10-12"
+}

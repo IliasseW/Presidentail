@@ -1,0 +1,28 @@
+{
+  "slug": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "affaires": [
+    {
+      "intitule": "Messages publiés le 7 octobre 2023 et après (attaque du Hamas contre Israël)",
+      "qualification": "Apologie du terrorisme",
+      "statut": "renvoi_proces",
+      "resume": "Poursuivi devant le tribunal correctionnel de Paris pour plusieurs messages publiés sur X à partir du 7 octobre 2023, à la suite d'une plainte de l'association Jeunesse française juive (janvier 2024). L'audience du 18 juin 2025 a été renvoyée ; le 25 juin 2026, le tribunal a transmis à la Cour de cassation une question prioritaire de constitutionnalité portant sur la place des parties civiles et renvoyé le procès à une date non connue. Il conteste les faits.",
+      "date_derniere_etape": "2026-06-25",
+      "sources": [
+        {
+          "url": "https://www.france24.com/fr/info-en-continu/20250618-conflit-isra%C3%A9lo-palestinien-le-proc%C3%A8s-du-militant-anasse-kazib-pour-apologie-du-terrorisme-report%C3%A9",
+          "media": "France 24 (AFP)",
+          "date": "2025-06-18"
+        },
+        {
+          "url": "https://www.lecourrierdelatlas.com/proces-anasse-kazib-apologie-terrorisme-renvoye/",
+          "media": "Le Courrier de l'Atlas",
+          "date": "2026-06-26"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Le renvoi du 25 juin 2026 et la transmission de la QPC sont confirmés par Le Courrier de l'Atlas et par Révolution permanente (média de son organisation, 25 juin 2026) ; aucune dépêche AFP retrouvée pour cette audience. Décision de la Cour de cassation sur la QPC et nouvelle date d'audience non trouvées. Recherches : nom + apologie du terrorisme, procès, relaxe, condamné, QPC.",
+  "verifie_le": "2026-10-12"
+}

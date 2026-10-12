@@ -1,0 +1,109 @@
+{
+  "slug": "jean-luc-melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "affaires": [
+    {
+      "intitule": "Perquisition au siège de La France insoumise (octobre 2018)",
+      "qualification": "Actes d'intimidation envers un magistrat et un dépositaire de l'autorité publique, rébellion, provocation",
+      "statut": "condamnation_definitive",
+      "resume": "Condamné le 9 décembre 2019 par le tribunal correctionnel de Bobigny à trois mois d'emprisonnement avec sursis et 8 000 euros d'amende pour des faits commis lors de la perquisition du 16 octobre 2018 au siège de LFI. Il a annoncé ne pas faire appel ; la décision est devenue définitive.",
+      "date_derniere_etape": "2019-12-09",
+      "sources": [
+        {
+          "url": "https://www.publicsenat.fr/actualites/politique/perquisition-a-lfi-jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-0",
+          "media": "Public Sénat (AFP)",
+          "date": "2019-12-09"
+        },
+        {
+          "url": "https://www.tendanceouest.com/actualite-344047-perquisition-a-lfi-jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis",
+          "media": "Tendance Ouest (AFP)",
+          "date": "2019-12-09"
+        }
+      ]
+    },
+    {
+      "intitule": "Diffamation envers Paulo Paranagua (billet de blog de novembre 2016)",
+      "qualification": "Diffamation publique",
+      "statut": "condamnation_non_definitive",
+      "resume": "Condamné le 24 septembre 2021 par le tribunal correctionnel de Paris à 500 euros d'amende avec sursis et 1 000 euros de dommages et intérêts pour avoir qualifié l'ancien journaliste du Monde d'« assassin repenti ». Il a fait appel ; l'issue de cet appel n'a pas été retrouvée dans les sources consultées.",
+      "date_derniere_etape": "2021-09-24",
+      "sources": [
+        {
+          "url": "https://www.dhnet.be/actu/monde/2021/09/24/jean-luc-melenchon-condamne-pour-diffamation-envers-un-ancien-journaliste-du-monde-BNX3AE4EABH2XOHW3SWAUN5EM4/",
+          "media": "DH (AFP)",
+          "date": "2021-09-24"
+        },
+        {
+          "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ex-journaliste-du-monde_5227360.html",
+          "media": "franceinfo",
+          "date": "2022-06-29"
+        }
+      ]
+    },
+    {
+      "intitule": "Diffamation envers Paulo Paranagua (message Facebook de février 2018)",
+      "qualification": "Diffamation publique",
+      "statut": "autre",
+      "resume": "Le tribunal correctionnel n'avait pas retenu le caractère diffamatoire du message. Le 29 juin 2022, la cour d'appel de Paris a jugé les propos diffamatoires et l'a condamné à verser un euro symbolique de dommages et intérêts et 2 000 euros de frais de justice (condamnation sur les intérêts civils ; aucun pourvoi connu).",
+      "date_derniere_etape": "2022-06-29",
+      "sources": [
+        {
+          "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ex-journaliste-du-monde_5227360.html",
+          "media": "franceinfo",
+          "date": "2022-06-29"
+        },
+        {
+          "url": "https://www.france24.com/fr/info-en-continu/20220629-jean-luc-m%C3%A9lenchon-condamn%C3%A9-en-appel-pour-diffamation-envers-un-ex-journaliste",
+          "media": "France 24 (AFP)",
+          "date": "2022-06-29"
+        }
+      ]
+    },
+    {
+      "intitule": "Propos visant les journalistes de franceinfo (octobre 2018), plainte de Radio France",
+      "qualification": "Injure publique et diffamation",
+      "statut": "condamnation_non_definitive",
+      "resume": "Condamné en janvier 2022 en première instance à 500 euros d'amende avec sursis et 3 000 euros de dommages et intérêts à Radio France pour avoir qualifié des journalistes de franceinfo d'« abrutis » et de « menteurs ». Il a annoncé faire appel ; l'issue de l'appel n'a pas été retrouvée dans les sources consultées.",
+      "date_derniere_etape": "2022-01-11",
+      "sources": [
+        {
+          "url": "https://www.europe1.fr/medias-tele/jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers-radio-france-4087389",
+          "media": "Europe 1",
+          "date": "2022-01-11"
+        },
+        {
+          "url": "https://www.ozap.com/actu/journalistes-traites-d-abrutis-et-de-menteurs-jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation/612438",
+          "media": "Ozap (AFP)",
+          "date": "2022-01-11"
+        }
+      ]
+    },
+    {
+      "intitule": "Assistants parlementaires européens (mandat 2009-2017)",
+      "qualification": "Détournement de fonds publics (enquête initialement ouverte pour abus de confiance)",
+      "statut": "enquete",
+      "resume": "L'enquête préliminaire du parquet de Paris sur des assistants d'eurodéputés a été élargie en 2017 à son activité d'ancien eurodéputé, puis confiée à des juges d'instruction en novembre 2018. Il n'a pas été mis en examen ; deux anciens assistants sont témoins assistés depuis 2022. Selon une source de juillet 2026, les juges ont clos l'instruction le 7 mai 2026 et les réquisitions du parquet sont attendues avant une décision sur un éventuel renvoi.",
+      "date_derniere_etape": "2026-05-07",
+      "sources": [
+        {
+          "url": "https://www.publicsenat.fr/actualites/politique/les-deux-enquetes-visant-melenchon-et-lfi-confiees-a-des-juges-d-instruction",
+          "media": "Public Sénat (AFP)",
+          "date": "2018-11"
+        },
+        {
+          "url": "https://www.france24.com/fr/info-en-continu/20221115-deux-ex-assistants-de-m%C3%A9lenchon-au-parlement-europ%C3%A9en-plac%C3%A9s-sous-le-statut-de-t%C3%A9moin-assist%C3%A9-1",
+          "media": "France 24 (AFP)",
+          "date": "2022-11-15"
+        },
+        {
+          "url": "https://www.parlons-politique.fr/union-europeenne/des-fonds-europeens-aux-usages-politiques-linstruction-se-referme-sur-le-dossier-melenchon-sans-mise-en-examen_23367/",
+          "media": "Parlons Politique",
+          "date": "2026-07-09"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Comptes de campagne 2017 : information judiciaire (abus de confiance, escroquerie, tenue non conforme du compte de campagne) ouverte en 2018 ; selon Le Monde/Europe 1 et La Gazette France (1er juin 2026), l'instruction est close depuis début mai 2026 avec quatre mises en examen (association L'Ère du peuple, mandataire financière, Bastien Lachaud, Sophia Chikirou), réquisitions attendues. LFI indique que J.-L. Mélenchon n'a été ni entendu ni mis en examen : non inscrit comme affaire le visant personnellement (source : https://www.lagazettefrance.fr/article/comptes-de-campagne-2017-de-lfi-fin-des-investigations-a-paris). Assistants européens : la clôture du 7 mai 2026 n'est confirmée que par une source secondaire (Parlons Politique, sans source citée) ; statut à revérifier. Appels non retrouvés : issue des appels des jugements du 24/09/2021 (Paranagua, « assassin repenti ») et de janvier 2022 (Radio France) non trouvée ; statuts à revérifier. Écartés faute de suite connue : enquête du parquet de Paris pour injure publique après ses propos sur la BRAV-M (2023, franceinfo) ; enquête pour injure publique après plainte du ministère de l'Enseignement supérieur (comparaison du président de l'université de Lille à Eichmann, avril 2024, convocation en septembre 2024) — issue inconnue, prescription courte en droit de la presse. Également écartés : condamnation civile du 10 juillet 2019 (1 euro symbolique, absence de mentions légales sur son blog, Le Figaro) ; relaxe définitive signalée (Cour de cassation, 28 février 2017) dans la procédure pour avoir qualifié Marine Le Pen de « fasciste » — source unique peu fiable, non vérifiée. Procédures où il est plaignant exclues (ex. diffamation contre le rapporteur de la CNCCFP, perdue en 2021).",
+  "verifie_le": "2026-10-12"
+}

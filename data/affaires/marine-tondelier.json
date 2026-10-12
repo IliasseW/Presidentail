@@ -1,0 +1,28 @@
+{
+  "slug": "marine-tondelier",
+  "nom": "Marine Tondelier",
+  "affaires": [
+    {
+      "intitule": "Livre « Nouvelles du Front » : poursuites en diffamation par Steeve Briois, Bruno Bilde et Laurent Morel",
+      "qualification": "Diffamation",
+      "statut": "relaxe",
+      "resume": "Poursuivie avec son éditeur (Les liens qui libèrent) par le maire RN d'Hénin-Beaumont Steeve Briois, Bruno Bilde et l'ancien DGS Laurent Morel pour son livre « Nouvelles du Front » (2017), Marine Tondelier a été relaxée le 6 novembre 2020 par la 17e chambre du tribunal correctionnel de Paris, qui a retenu le bénéfice de la bonne foi (débat d'intérêt général, enquête sérieuse), conformément aux réquisitions du parquet. Les plaignants avaient annoncé faire appel ; aucune décision d'appel n'a été trouvée (un appel des seules parties civiles ne porte que sur les intérêts civils).",
+      "date_derniere_etape": "2020-11-06",
+      "sources": [
+        {
+          "url": "https://www.ici.fr/infos/faits-divers-justice/henin-beaumont-relaxe-pour-marine-tondelier-poursuivie-en-diffamation-par-steeve-briois-1604687864",
+          "media": "France Bleu (ici)",
+          "date": "2020-11-06"
+        },
+        {
+          "url": "https://libertehebdo.fr/politique-et-citoyens/article/relaxe-pour-la-conseillere-municipale-ecologiste",
+          "media": "Liberté Hebdo",
+          "date": "2020-11-13"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Recherches : nom + diffamation, poursuivie, plainte contre elle, condamnée, relaxée, Briois. Issue de l'appel annoncé par les parties civiles dans l'affaire « Nouvelles du Front » non trouvée ; le parquet ayant requis la relaxe, aucun appel du ministère public n'est mentionné. Écartés : plainte annoncée en juillet 2023 par Christine Kelly et Marc Menant (CNews) après ses propos sur la chaîne (aucune suite judiciaire documentée : ni enquête, ni citation, ni jugement trouvés) ; affaires où elle est plaignante ou victime (plainte pour injures publiques contre Steeve Briois en février 2026 ; harcèlement ayant donné lieu à la condamnation d'une tierce personne par le tribunal de Béthune ; incident de faux taxi fin 2025).",
+  "verifie_le": "2026-10-12"
+}

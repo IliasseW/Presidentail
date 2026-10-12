@@ -25,7 +25,7 @@ const AFFAIRE = {
   non_lieu: ["Non-lieu", "clos"],
   classement: ["Classement sans suite", "clos"],
   prescription: ["Prescription", "clos"],
-  autre: ["Autre issue", "clos"],
+  autre: ["Autre décision ou sanction", "autre"],
 };
 const PRESOMPTION = "Toute personne est présumée innocente tant qu'une condamnation définitive n'a pas été prononcée. Seules les procédures judiciaires visant personnellement le candidat et rapportées par des sources fiables sont recensées.";
 const GROUPS = [
@@ -133,9 +133,9 @@ function statutLine(c) {
   return c.date_declaration && c.annee === 2027 ? `${s} (${fmtDate(c.date_declaration)})` : s;
 }
 
-function affaireBadge(statut) {
-  const [lib, fam] = AFFAIRE[statut] || [statut, "clos"];
-  return `<span class="badge st-${fam}">${esc(lib)}</span>`;
+function affaireBadge(statut, n = 1) {
+  const [lib, fam] = AFFAIRE[statut] || [statut, "autre"];
+  return `<span class="badge st-${fam}">${esc(lib)}${n > 1 ? ` ×${n}` : ""}</span>`;
 }
 
 // Résumé court : « 1 condamnation non définitive, 1 relaxe ».
@@ -145,20 +145,22 @@ function affairesSummary(c) {
   if (!a.affaires?.length) return `<span class="none">Aucune procédure recensée</span>`;
   const counts = {};
   a.affaires.forEach((af) => { counts[af.statut] = (counts[af.statut] || 0) + 1; });
-  return Object.entries(counts).map(([st, n]) => `${n > 1 ? `${n} × ` : ""}${affaireBadge(st)}`).join(" ");
+  return `<span class="affaires-sum">${Object.entries(counts).map(([st, n]) => affaireBadge(st, n)).join("")}</span>`;
 }
 
 function affairesDetail(c) {
   const a = DATA.affaires?.[c.slug];
-  if (!a?.affaires?.length) return affairesSummary(c);
-  return `<div class="affaires-sum">${affairesSummary(c)}</div>
+  if (!a?.affaires?.length) {
+    return affairesSummary(c) + (a?.notes ? `<details><summary>Précisions</summary><p>${esc(a.notes)}</p></details>` : "");
+  }
+  return `${affairesSummary(c)}
     <details><summary>Détail des ${a.affaires.length} procédure${a.affaires.length > 1 ? "s" : ""}</summary>
     <ul class="affaires">${a.affaires.map((af) => `<li>
       <div class="prop-title">${esc(af.intitule)}</div>
       <div class="prop-meta">${affaireBadge(af.statut)}${af.qualification ? `<span>${esc(af.qualification)}</span>` : ""}${af.date_derniere_etape ? `<span>${fmtDate(af.date_derniere_etape)}</span>` : ""}</div>
       ${af.resume ? `<p class="prop-detail">${esc(af.resume)}</p>` : ""}
       <div class="prop-meta">${(af.sources || []).map((src) => `<a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.media || "Source")}</a>`).join("")}</div>
-    </li>`).join("")}</ul></details>`;
+    </li>`).join("")}</ul>${a.notes ? `<p class="prop-detail">${esc(a.notes)}</p>` : ""}</details>`;
 }
 
 // Bandeau collant : un en-tête par candidat, aligné sur les colonnes du comparatif.

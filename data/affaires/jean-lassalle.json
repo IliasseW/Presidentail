@@ -1,0 +1,28 @@
+{
+  "slug": "jean-lassalle",
+  "nom": "Jean Lassalle",
+  "affaires": [
+    {
+      "intitule": "Plainte pour des faits présumés de 2010 à Bordeaux",
+      "qualification": "Viol et agression sexuelle (enquête préliminaire)",
+      "statut": "classement",
+      "resume": "Le parquet de Bordeaux a ouvert en 2023 une enquête préliminaire après la plainte d'une femme dénonçant des faits qu'elle situait en 2010 ; Jean Lassalle contestait les faits. Le parquet a classé l'enquête sans suite, estimant que « les investigations ne permettent pas d'établir l'existence d'une infraction pénale » (annonce du 29 mars 2024).",
+      "date_derniere_etape": "2024-03-29",
+      "sources": [
+        {
+          "url": "https://www.ici.fr/infos/faits-divers-justice/jean-lassalle-soupconne-de-viol-et-agression-sexuelle-le-parquet-annonce-un-classement-sans-suite-5996218",
+          "media": "France Bleu Béarn Bigorre (ici)",
+          "date": "2024-03-29"
+        },
+        {
+          "url": "https://www.ozap.com/actu/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viol-et-agressions-sexuelles/634885",
+          "media": "Ozap (d'après BFMTV)",
+          "date": "2023-07"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Recherches : Jean Lassalle + plainte, enquête, condamné, relaxé, classé sans suite. Classement sans suite confirmé par France Bleu (citation du parquet) et repris par d'autres médias. Écarté : plainte annoncée par le journaliste Renaud Dély après avoir été traité de « chien » par Jean Lassalle, sans procédure ni issue confirmées.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "francois-ruffin",
+  "nom": "François Ruffin",
+  "affaires": [
+    {
+      "intitule": "Livre « Quartier Nord » (2006)",
+      "qualification": "Diffamation",
+      "statut": "condamnation_definitive",
+      "resume": "Condamné pour diffamation le 23 avril 2008 par le tribunal d'Amiens, sur plainte d'un habitant des quartiers nord d'Amiens présenté sous un pseudonyme dans le livre. Le montant de la peine n'a pas été retrouvé ; aucun appel connu.",
+      "date_derniere_etape": "2008-04-23",
+      "sources": [
+        {
+          "url": "https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414",
+          "media": "Europe 1",
+          "date": "2017-03-07"
+        },
+        {
+          "url": "https://www.lemonde.fr/culture/article/2016/02/22/francois-ruffin-un-chevalier-sans-peur-et-sans-remords-a-l-assaut-de-lvmh_4869314_3246.html",
+          "media": "Le Monde",
+          "date": "2016-02-18"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Date (23/04/2008), juridiction et absence d'appel issues de Wikipédia et de ses références (franceinfo 2016, Le Monde 2016, Europe 1 2017) ; les articles n'ont pas pu être lus directement (accès bloqué), seul l'extrait Europe 1 confirmant la condamnation pour diffamation a été vu. Statut « définitive » présumé (décision de 2008, aucun recours connu). Exclus : procédure civile qu'il a engagée contre LVMH pour atteinte à la vie privée (validée en novembre 2025) et affaire Squarcini (condamné en 2025 pour surveillance de Ruffin/Fakir) — il y est demandeur ou victime. Recherches : nom + condamné, relaxé, mis en examen, poursuivi, diffamation.",
+  "verifie_le": "2026-10-12"
+}

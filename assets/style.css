@@ -133,6 +133,7 @@ input[type="search"] {
 .st-condamne { background: var(--danger-soft); color: var(--danger); }
 .st-encours { background: var(--warn-soft); color: var(--warn); }
 .st-clos { background: var(--ok-soft); color: var(--ok); }
+.st-autre { background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
 .affaires { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 10px; }
 .affaires-sum { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
 .presomption { color: var(--muted); font-size: .8rem; margin: 10px 0 0; }

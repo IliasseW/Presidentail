@@ -1,0 +1,110 @@
+{
+  "slug": "juan-branco",
+  "nom": "Juan Branco",
+  "affaires": [
+    {
+      "intitule": "Information judiciaire pour viol et agression sexuelle (Paris)",
+      "qualification": "Viol ; agression sexuelle",
+      "statut": "mise_en_examen",
+      "resume": "Placé en garde à vue le 1er juin 2021 après une plainte pour viol déposée en avril 2021, Juan Branco a été mis en examen pour viol et placé sous contrôle judiciaire en novembre 2021, puis mis en examen en 2023 pour des faits d'agression sexuelle et de viol dénoncés par deux autres femmes ; il conteste les faits. Dans son réquisitoire définitif du 6 août 2026, le parquet de Paris a requis son renvoi devant la cour criminelle départementale pour le viol d'une jeune femme au printemps 2021 et un non-lieu pour les deux autres plaignantes ; le juge d'instruction ne s'était pas encore prononcé sur un éventuel procès à la date des dernières informations publiées.",
+      "date_derniere_etape": "2026-08-06",
+      "sources": [
+        {
+          "url": "https://www.justiceinfo.net/fr/164381-france-le-parquet-veut-que-lavocat-franco-espagnol-juan-branco-soit-juge-pour-viol.html",
+          "media": "Justice Info (AFP)",
+          "date": "2026-09-01"
+        },
+        {
+          "url": "https://www.sudradio.fr/societe/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-lavocat-juan-branco",
+          "media": "Sud Radio (AFP)",
+          "date": "2026-09-01"
+        },
+        {
+          "url": "https://www.lefigaro.fr/faits-divers/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco-20260901",
+          "media": "Le Figaro",
+          "date": "2026-09-01"
+        },
+        {
+          "url": "https://www.francetvinfo.fr/societe/harcelement-sexuel/l-avocat-juan-branco-mis-en-examen-pour-viol-et-place-sous-controle-judiciaire_4857119.html",
+          "media": "franceinfo",
+          "date": "2021-11-24"
+        },
+        {
+          "url": "https://www.rtbf.be/article/juan-branco-sorti-de-garde-a-vue-pour-une-accusation-de-viol-mais-l-enquete-se-poursuit-10774472",
+          "media": "RTBF",
+          "date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "intitule": "Poursuites disciplinaires pour violation du secret de l'enquête (Ordre des avocats de Paris)",
+      "qualification": "Manquements déontologiques (publication de pièces d'une procédure pénale en cours, dénigrement des plaignantes, des magistrats et des enquêteurs)",
+      "statut": "autre",
+      "resume": "Procédure disciplinaire (non pénale) : le conseil de discipline de l'Ordre des avocats de Paris l'a sanctionné le 8 octobre 2024 pour avoir publié en juin 2023, sur X et sur son site, des extraits de l'information judiciaire le visant ; la sanction comporte neuf mois d'interdiction d'exercice effective. La cour d'appel de Paris a confirmé cette décision en toutes ses dispositions par arrêt du 16 octobre 2025 (RG 24/18012) ; l'arrêt publié par le barreau de Paris porte la mention « frappé de pourvoi », un pourvoi en cassation étant donc pendant.",
+      "date_derniere_etape": "2025-10-16",
+      "sources": [
+        {
+          "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/CA_Paris_251016_24-18012_branco_0.pdf",
+          "media": "Cour d'appel de Paris (arrêt publié par l'Ordre des avocats de Paris)",
+          "date": "2025-10-16"
+        },
+        {
+          "url": "https://seneweb.com/fr/news/39/france-mauvaise-nouvelle-pour-juan-branco_n_472171.html",
+          "media": "Seneweb (AFP)",
+          "date": "2025-10-24"
+        },
+        {
+          "url": "https://www.liberation.fr/societe/police-justice/lavocat-juan-branco-suspendu-neuf-mois-pour-avoir-viole-le-secret-de-lenquete-le-visant-pour-viol-20251024_E7USACHNWBGJDHUGQZ7UCHYIGQ/",
+          "media": "Libération",
+          "date": "2025-10-24"
+        }
+      ]
+    },
+    {
+      "intitule": "Inculpation au Sénégal (2023)",
+      "qualification": "Complot, diffusion de fausses nouvelles, actes de nature à compromettre la sécurité publique, outrage à magistrat (justice sénégalaise)",
+      "statut": "autre",
+      "resume": "Visé par un mandat d'arrêt international émis par la justice sénégalaise le 14 juillet 2023, il a été interpellé le 5 août 2023 près de la frontière mauritanienne, inculpé à Dakar le 6 août 2023 notamment pour complot et diffusion de fausses nouvelles, puis placé sous contrôle judiciaire le 7 août 2023 et expulsé vers la France. Aucune suite publique de cette procédure n'a été trouvée.",
+      "date_derniere_etape": "2023-08-07",
+      "sources": [
+        {
+          "url": "https://www.justiceinfo.net/en?p=120304",
+          "media": "Justice Info (AFP)",
+          "date": "2023-08-07"
+        },
+        {
+          "url": "https://www.francetvinfo.fr/societe/justice/senegal-l-avocat-franco-espagnol-juan-branco-ecroue-a-dakar_5992736.html",
+          "media": "franceinfo",
+          "date": "2023-08-06"
+        },
+        {
+          "url": "https://www.lemonde.fr/afrique/article/2023/07/14/le-senegal-lance-un-mandat-d-arret-international-contre-l-avocat-francais-juan-branco-pour-des-crimes-et-delits_6182023_3212.html",
+          "media": "Le Monde",
+          "date": "2023-07-14"
+        }
+      ]
+    },
+    {
+      "intitule": "Signalement du ministère des Affaires étrangères (révélation de l'identité de fonctionnaires)",
+      "qualification": "Révélation de l'identité d'agents publics (signalement au parquet)",
+      "statut": "classement",
+      "resume": "Le ministère des Affaires étrangères a saisi la justice en juillet 2023 après la publication par Juan Branco de l'identité de deux agents français au Sénégal ; le signalement a été classé sans suite par le parquet début août 2023.",
+      "date_derniere_etape": "2023-08-02",
+      "sources": [
+        {
+          "url": "https://www.lemonde.fr/afrique/article/2023/08/02/senegal-le-signalement-du-quai-d-orsay-contre-juan-branco-concernant-la-revelation-de-l-identite-de-fonctionnaires-classe-sans-suite_6184226_3212.html",
+          "media": "Le Monde",
+          "date": "2023-08-02"
+        },
+        {
+          "url": "https://www.europe1.fr/politique/info-europe-1-le-ministere-des-affaires-etrangeres-porte-plainte-contre-juan-branco-4193848",
+          "media": "Europe 1",
+          "date": "2023-07-12"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Identité : avocat et essayiste, candidat déclaré le 19 décembre 2025 (Sud Radio). Affaire de viol : aucune ordonnance du juge d'instruction (renvoi ou non-lieu) trouvée après le réquisitoire du 6 août 2026 ; à revérifier. Dates de 2021 (garde à vue, mise en examen en novembre 2021) et des mises en examen de 2023 recoupées via des reprises et Wikipédia, articles de franceinfo, du Figaro, de Libération et du Monde non consultables directement (accès bloqué), leurs titres concordent. Sanction disciplinaire : l'AFP parle de « suspension de neuf mois » ; d'autres mentions évoquent une interdiction de trois ans dont neuf mois ferme, durée totale non vérifiée ; pourvoi en cassation signalé par la mention « frappé de pourvoi » sur l'arrêt, issue inconnue. Sénégal : une loi d'amnistie a été adoptée au Sénégal en 2024 pour des faits liés aux troubles politiques de 2021-2024, son application à ce dossier n'est pas vérifiée. Écartés ou non retenus faute de procédure ou d'issue vérifiée : blâme disciplinaire de septembre 2021 (affaire Griveaux) annulé par la cour d'appel de Paris le 9 juin 2023 (AFP via L'Alsace, https://www.lalsace.fr/faits-divers-justice/2023/06/09/la-cour-d-appel-de-paris-annule-un-blame-inflige-a-l-avocat-juan-branco) ; seconde procédure disciplinaire jugée en première instance le 15 octobre 2025 (18 mois de suspension requis selon l'AFP), décision non trouvée ; litige prud'homal avec une ancienne collaboratrice (2023), issue inconnue ; signalement au parquet par Aurore Bergé en 2019 après Crépuscule, aucune suite connue. Aucune condamnation pour diffamation ou injure trouvée. Affaires où il est plaignant (CIA, Macky Sall, policier sénégalais) exclues.",
+  "verifie_le": "2026-10-12"
+}

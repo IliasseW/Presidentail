@@ -1,0 +1,33 @@
+{
+  "slug": "edouard-philippe",
+  "nom": "Édouard Philippe",
+  "affaires": [
+    {
+      "intitule": "Gestion de l'épidémie de Covid-19 (Cour de justice de la République)",
+      "qualification": "Abstention volontaire de combattre un sinistre ; mise en danger de la vie d'autrui",
+      "statut": "non_lieu",
+      "resume": "Visé, en tant que Premier ministre, par l'information judiciaire ouverte en juillet 2020 devant la commission d'instruction de la Cour de justice de la République sur la gestion de la crise du Covid-19, il a été placé sous le statut de témoin assisté en octobre 2022, sans mise en examen. Sur réquisitions du procureur général près la Cour de cassation du 21 mai 2025, la commission d'instruction a prononcé un non-lieu le 7 juillet 2025 en sa faveur ainsi qu'en faveur d'Agnès Buzyn et d'Olivier Véran.",
+      "date_derniere_etape": "2025-07-07",
+      "sources": [
+        {"url": "https://www.leclubdesjuristes.com/en-bref/gestion-du-covid-19-la-cjr-prononce-un-non-lieu-a-lencontre-de-edouard-philippe-agnes-buzyn-et-olivier-veran-11443/", "media": "Le Club des juristes", "date": "2025-07-07"},
+        {"url": "https://h24info.ma/monde/france-edouard-philippe-covid-19/", "media": "H24Info (dépêche AFP)", "date": "2025-07-07"},
+        {"url": "https://www.lalibre.be/international/europe/2022/10/22/france-edouard-philippe-sous-statut-de-temoin-assiste-pour-sa-gestion-de-la-crise-covid-XODNMFIN7VCMNAX5ETZR3A4TBY/", "media": "La Libre Belgique (AFP)", "date": "2022-10-22"}
+      ]
+    },
+    {
+      "intitule": "Cité numérique du Havre (convention avec l'association LH French Tech)",
+      "qualification": "Détournement de fonds publics, favoritisme, prise illégale d'intérêts, concussion",
+      "statut": "enquete",
+      "resume": "Après un signalement d'une ancienne directrice générale adjointe de la communauté urbaine en septembre 2023, le Parquet national financier a ouvert une enquête préliminaire et fait procéder à des perquisitions à la mairie du Havre en avril 2024 ; la plaignante s'est constituée partie civile en juin 2025. Le PNF a pris un réquisitoire introductif le 7 mai 2026, ouvrant une information judiciaire confiée à un juge d'instruction, rendue publique le 19 mai 2026. Aucune mise en examen n'est connue à ce jour ; Édouard Philippe conteste les faits.",
+      "date_derniere_etape": "2026-05-07",
+      "sources": [
+        {"url": "https://lcp.fr/actualites/edouard-philippe-vise-par-une-enquete-pour-des-soupcons-de-detournement-de-fonds-publics", "media": "LCP", "date": "2026-05-20"},
+        {"url": "https://www.europe1.fr/police-justice/soupcon-de-detournement-de-fonds-publics-edouard-philippe-vise-par-une-enquete-936395", "media": "Europe 1 (AFP)", "date": "2026-05-19"},
+        {"url": "https://www.lalibre.be/international/europe/2024/04/03/lancien-premier-ministre-francais-edouard-philippe-fait-lobjet-dune-perquisition-au-havre-5QL7AHHFPVBMZIMRR7R7MQ3HDU/", "media": "La Libre Belgique (AFP)", "date": "2024-04-03"}
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Covid/CJR : aucun pourvoi contre le non-lieu du 7 juillet 2025 n'a été trouvé ; une procédure distincte contre X reste ouverte au pôle santé publique du tribunal judiciaire de Paris (ne le vise pas nommément). Le Havre : aucune mise en examen ni statut de témoin assisté trouvé à la date du 12 octobre 2026 ; la date d'annonce (19 mai 2026) et celle du réquisitoire introductif (7 mai 2026) proviennent de l'AFP via LCP/Europe 1/Brut. Écarté : l'enquête du parquet de Paris ouverte en août 2026 sur des soupçons d'ingérence russe le visant comme victime. Recherches : nom + CJR, témoin assisté, non-lieu, PNF, Le Havre, perquisition, mis en examen.",
+  "verifie_le": "2026-10-12"
+}

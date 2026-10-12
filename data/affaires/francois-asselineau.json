@@ -1,0 +1,33 @@
+{
+  "slug": "francois-asselineau",
+  "nom": "François Asselineau",
+  "affaires": [
+    {
+      "intitule": "Plaintes de deux anciens collaborateurs de l'UPR",
+      "qualification": "Harcèlement sexuel, agression sexuelle et tentative d'agression sexuelle par personne abusant de l'autorité conférée par ses fonctions",
+      "statut": "renvoi_proces",
+      "resume": "Placé en garde à vue en février 2021 puis mis en examen (notamment pour harcèlement sexuel et agressions sexuelles) et placé sous contrôle judiciaire ; il conteste les faits. Après un non-lieu du juge d'instruction le 6 décembre 2024, frappé d'appel par le parquet, la chambre de l'instruction de la cour d'appel de Paris a ordonné le 7 avril 2026 son renvoi devant le tribunal correctionnel de Paris. Aucune date de procès n'était fixée en mai 2026 ; il reste présumé innocent.",
+      "date_derniere_etape": "2026-04-07",
+      "sources": [
+        {
+          "url": "https://www.franceinfo.fr/politique/francois-asselineau/info-franceinfo-francois-asselineau-finalement-renvoye-devant-le-tribunal-correctionnel-notamment-pour-harcelement-sexuel-et-agressions-sexuelles-sur-deux-collaborateurs_8002061.html",
+          "media": "franceinfo",
+          "date": "2026-05-13"
+        },
+        {
+          "url": "https://www.brut.media/fr/articles/agression-et-harcelement-sexuels-francois-asselineau-renvoye-en-proces",
+          "media": "Brut (AFP)",
+          "date": "2026-05-19"
+        },
+        {
+          "url": "https://www.lemonde.fr/politique/article/2026/05/19/francois-asselineau-renvoye-en-proces-pour-agression-et-harcelement-sexuels_6691492_823448.html",
+          "media": "Le Monde",
+          "date": "2026-05-19"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Renvoi vérifié : franceinfo (13/05/2026, confirmation du parquet de Paris) et AFP via Brut (19/05/2026) ; l'article du Monde est cité par des agrégateurs mais n'a pas pu être consulté directement. Répartition exacte des qualifications selon les plaignants : franceinfo (harcèlement sexuel sur le premier, agressions sexuelles et tentative sur le second) et l'AFP (harcèlement et agression sexuels sur l'un, tentative sur l'autre) diffèrent ; formulation globale retenue. Les qualifications de harcèlement moral et d'intimidation visées par le réquisitoire de 2023 ne semblent pas figurer dans le renvoi. Aucun pourvoi en cassation contre l'arrêt de renvoi ni date d'audience trouvés à la date du 12/10/2026 (dernière information datée de mai 2026).",
+  "verifie_le": "2026-10-12"
+}

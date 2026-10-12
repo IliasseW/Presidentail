@@ -1,0 +1,28 @@
+{
+  "slug": "fabien-roussel",
+  "nom": "Fabien Roussel",
+  "affaires": [
+    {
+      "intitule": "Emploi d'assistant parlementaire de Jean-Jacques Candelier (2009-2014)",
+      "qualification": "Détournement de fonds publics et recel",
+      "statut": "enquete",
+      "resume": "Le Parquet national financier a ouvert en mars 2022 une enquête préliminaire, confiée à l'OCLCIFF, après des révélations de Mediapart sur son emploi d'assistant parlementaire du député Jean-Jacques Candelier de 2009 à 2014. Il a été entendu en audition libre fin août 2022 et conteste les faits. Aucune décision (classement, poursuites) n'a été rendue publique à la date de vérification.",
+      "date_derniere_etape": "2022-08",
+      "sources": [
+        {
+          "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/fabien-roussel-soupconne-d-emploi-fictif-le-candidat-communiste-vise-par-une-enquete_5004872.html",
+          "media": "franceinfo",
+          "date": "2022-03-11"
+        },
+        {
+          "url": "https://www.france24.com/fr/france/20220311-pr%C3%A9sidentielle-fabien-roussel-vis%C3%A9-par-une-enqu%C3%AAte-sur-des-soup%C3%A7ons-d-emploi-fictif",
+          "media": "France 24 (AFP)",
+          "date": "2022-03-11"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "L'emploi en cause est celui d'assistant de J.-J. Candelier (et non d'Alain Bocquet). L'audition libre de fin août 2022 est rapportée par une dépêche AFP reprise par Europe 1 (vue seulement en extrait). Trois recherches ciblées (classement sans suite, renvoi, procès) n'ont trouvé aucune suite publique après 2022 : statut « enquete » = dernier état connu, à revérifier. Recherches : nom + emploi fictif, PNF, classement, renvoi, condamné, diffamation.",
+  "verifie_le": "2026-10-12"
+}

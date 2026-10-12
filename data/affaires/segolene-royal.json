@@ -1,0 +1,42 @@
+{
+  "slug": "segolene-royal",
+  "nom": "Ségolène Royal",
+  "affaires": [
+    {
+      "intitule": "Enquête sur l'usage des moyens d'ambassadrice des pôles",
+      "qualification": "Enquête préliminaire du PNF sur l'emploi des moyens et fonds publics (ambassadrice des pôles, ministre de l'Environnement)",
+      "statut": "classement",
+      "resume": "Le parquet national financier a ouvert en novembre 2019 une enquête préliminaire, confiée à la BRDE, sur l'emploi par Ségolène Royal des moyens et fonds publics mis à sa disposition comme ambassadrice des pôles et comme ministre de l'Environnement, après des révélations de la cellule d'investigation de Radio France. Le 28 juin 2021, le PNF a classé l'affaire sans suite, les investigations n'ayant « permis de démontrer la commission d'aucune infraction ».",
+      "date_derniere_etape": "2021-06-28",
+      "sources": [
+        {
+          "url": "https://www.tribunal-de-paris.justice.fr/sites/default/files/2021-07/2021_06_28%20-%20CP%20S%C3%A9gol%C3%A8ne%20ROYAL%20ambassadrice%20des%20p%C3%B4les.pdf",
+          "media": "Communiqué du parquet national financier",
+          "date": "2021-06-28"
+        },
+        {
+          "url": "https://www.publicsenat.fr/actualites/politique/frais-d-ambassadrice-des-poles-segolene-royal-visee-par-une-enquete-du-parquet",
+          "media": "Public Sénat (AFP)",
+          "date": "2020-01-15"
+        }
+      ]
+    },
+    {
+      "intitule": "Diffamation envers le journaliste Sylvain Tronchet (Radio France)",
+      "qualification": "Diffamation",
+      "statut": "condamnation_non_definitive",
+      "resume": "Poursuivie par Sylvain Tronchet, journaliste de la cellule d'investigation de Radio France, pour des propos tenus en novembre 2019 dans « Les Grosses Têtes » (RTL) et sur France Inter, Ségolène Royal a été condamnée le 20 avril 2023 par le tribunal correctionnel de Paris à 500 euros d'amende avec sursis et à verser 1 000 euros au plaignant ; un tweet n'a pas été retenu comme diffamatoire. Son avocat a indiqué avoir fait appel ; l'issue de l'appel n'a pas été trouvée.",
+      "date_derniere_etape": "2023-04-20",
+      "sources": [
+        {
+          "url": "https://www.ozap.com/actu/-journalisme-de-caniveau-segolene-royal-condamnee-pour-avoir-diffame-un-journaliste-de-radio-france/631199",
+          "media": "Puremédias / Ozap",
+          "date": "2023-04-27"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Recherches : nom + enquête PNF, condamnée, diffamation, appel, Tronchet. (1) Affaire Tronchet : une seule source de presse détaillée trouvée (Puremédias, s'appuyant sur un document judiciaire et sur Le Canard enchaîné) ; appel annoncé par son avocat Me Jean Ennochi, mais aucune décision de la cour d'appel de Paris n'a été trouvée malgré plusieurs recherches : le statut « condamnation_non_definitive » est à re-vérifier (un arrêt d'appel a pu être rendu en 2024-2025). (2) Écarté : litige prud'homal ancien (années 1990-2000) avec deux anciennes assistantes parlementaires réclamant des salaires impayés, tranché en leur faveur par la cour d'appel de Rennes (vers 2007) : contentieux civil du travail, hors périmètre de la spec, date exacte non vérifiée. (3) Écartées : procédures en diffamation où elle était plaignante (livre « La Femme fatale », déboutée en 2015 ; plainte contre les éditeurs de « La Défaite en chantant »).",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "dominique-de-villepin",
+  "nom": "Dominique de Villepin",
+  "affaires": [
+    {
+      "intitule": "Affaire Clearstream",
+      "qualification": "Complicité de dénonciation calomnieuse, complicité d'usage de faux, recel d'abus de confiance et de vol",
+      "statut": "relaxe",
+      "resume": "Mis en examen en 2007 et renvoyé devant le tribunal correctionnel de Paris, il a été relaxé en première instance le 28 janvier 2010 ; le parquet ayant fait appel, la cour d'appel de Paris a confirmé sa relaxe le 14 septembre 2011. Le parquet général a annoncé le 19 septembre 2011 renoncer à se pourvoir en cassation : la relaxe est définitive.",
+      "date_derniere_etape": "2011-09-19",
+      "sources": [
+        {"url": "https://www.slate.fr/story/43691/clearstream-villepin-relaxe-en-appel", "media": "Slate", "date": "2011-09-14"},
+        {"url": "https://www.slate.fr/story/43743/affaire-clearstream-villepin-djouhri-chirac-sarkozy", "media": "Slate", "date": "2011-09"},
+        {"url": "https://www.slate.fr/story/16545/deuxieme-proces-clearstream-villepin-sarkozy-appel-procureur", "media": "Slate", "date": "2010-01-29"}
+      ]
+    },
+    {
+      "intitule": "Affaire des statuettes de Napoléon reçues comme ministre des Affaires étrangères",
+      "qualification": "Recel de détournement de fonds publics et toutes infractions connexes",
+      "statut": "enquete",
+      "resume": "Le Parquet national financier a ouvert le 19 mai 2026 une enquête préliminaire sur les conditions dans lesquelles une statuette et un buste auraient été offerts à Dominique de Villepin lorsqu'il était ministre des Affaires étrangères (2002-2004), puis conservés. Il a été entendu en audition libre par le PNF mi-juillet 2026 ; il a reconnu une « erreur », restitué les objets au ministère et conteste les valorisations avancées. Aucune poursuite n'est connue à ce jour.",
+      "date_derniere_etape": "2026-07-27",
+      "sources": [
+        {"url": "https://www.tribunal-de-paris.justice.fr/sites/default/files/2026-06/20260520-CP%20PNF%20du%2020%20mai%202026.pdf", "media": "Communiqué du Parquet national financier", "date": "2026-05-20"},
+        {"url": "https://www.arabnews.com/node/2644334", "media": "Arab News (AFP)", "date": "2026-05"},
+        {"url": "https://brusselssignal.eu/2026/07/villepin-faces-financial-prosecutors-over-napoleon-gifts/", "media": "Brussels Signal", "date": "2026-07"}
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Clearstream : sources principales Slate (Le Monde/AFP non consultables dans le budget) ; la qualification complète (recel, usage de faux) est reprise de la prévention de première instance, en appel le parquet ne requérait plus que pour complicité de dénonciation calomnieuse par abstention. Statuettes : l'audition libre de mi-juillet 2026 et la confirmation d'actes d'enquête le 27 juillet 2026 proviennent d'une seule source (Brussels Signal, citant le parquet) ; aucune évolution trouvée en septembre-octobre 2026. Écarté : affaire Relais & Châteaux (son nom cité dans la presse, aucune procédure le visant trouvée). Recherches : nom + Clearstream relaxe pourvoi, PNF, enquête, mis en examen, témoin assisté, condamné.",
+  "verifie_le": "2026-10-12"
+}

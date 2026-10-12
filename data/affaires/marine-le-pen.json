@@ -1,0 +1,95 @@
+{
+  "slug": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "affaires": [
+    {
+      "intitule": "Affaire des assistants parlementaires européens du FN",
+      "qualification": "Détournement de fonds publics et complicité de détournement de fonds publics",
+      "statut": "condamnation_non_definitive",
+      "resume": "Condamnée le 31 mars 2025 par le tribunal correctionnel de Paris à 4 ans d'emprisonnement dont 2 ferme sous bracelet électronique, 100 000 euros d'amende et 5 ans d'inéligibilité avec exécution provisoire. Le 7 juillet 2026, la cour d'appel de Paris l'a condamnée à 3 ans d'emprisonnement dont 2 avec sursis (partie ferme d'un an aménagée sous surveillance électronique), 100 000 euros d'amende et 45 mois d'inéligibilité dont 30 avec sursis, sans exécution provisoire ; la période d'inéligibilité déjà exécutée depuis mars 2025 conduit les commentateurs à la considérer éligible en 2027. Elle a formé un pourvoi en cassation, suspensif ; la Cour de cassation a indiqué pouvoir statuer au plus tard début avril 2027.",
+      "date_derniere_etape": "2026-07-07",
+      "sources": [
+        {
+          "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-07/20260707%20-%20CA%20Paris%20-%20Tableau.pdf",
+          "media": "Cour d'appel de Paris (tableau des peines)",
+          "date": "2026-07-07"
+        },
+        {
+          "url": "https://lcp.fr/actualites/pourvoi-en-cassation-de-marine-le-pen-les-cles-pour-comprendre-les-consequences-de-cette",
+          "media": "LCP",
+          "date": "2026-07-08"
+        },
+        {
+          "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-du-fn-les-multiples-pourvois-vont-ils-ralentir-la-procedure-17134/",
+          "media": "Le Club des juristes",
+          "date": "2026-07"
+        },
+        {
+          "url": "https://fr.euronews.com/my-europe/2026/07/07/marine-le-pen-condamnee-a-45-mois-dineligibilite-dont-30-mois-assortis-de-sursis",
+          "media": "Euronews",
+          "date": "2026-07-07"
+        }
+      ]
+    },
+    {
+      "intitule": "Propos sur La Cimade (Mayotte)",
+      "qualification": "Diffamation publique envers un particulier",
+      "statut": "condamnation_definitive",
+      "resume": "Poursuivie par l'association La Cimade pour des propos tenus en janvier 2022. Condamnée en première instance (octobre 2023) puis par la cour d'appel de Paris le 11 septembre 2024 à 500 euros d'amende avec sursis ; la Cour de cassation a rejeté son pourvoi le 16 décembre 2025, rendant la condamnation définitive.",
+      "date_derniere_etape": "2025-12-16",
+      "sources": [
+        {
+          "url": "https://www.leclubdesjuristes.com/en-bref/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-13397/",
+          "media": "Le Club des juristes",
+          "date": "2025-12-17"
+        },
+        {
+          "url": "https://www.europe1.fr/politique/marine-le-pen-de-nouveau-condamnee-en-appel-pour-diffamation-envers-la-cimade-4266896",
+          "media": "Europe 1",
+          "date": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "intitule": "Diffusion de photos d'exactions de l'État islamique sur Twitter (2015)",
+      "qualification": "Diffusion de messages violents",
+      "statut": "relaxe",
+      "resume": "Mise en examen en 2018 puis renvoyée devant le tribunal correctionnel pour avoir publié en décembre 2015 trois photos d'exactions de l'organisation État islamique. Relaxée le 4 mai 2021 par le tribunal correctionnel de Nanterre, qui a reconnu une vocation informative à la publication ; aucun appel n'a été relevé dans les sources consultées.",
+      "date_derniere_etape": "2021-05-04",
+      "sources": [
+        {
+          "url": "https://www.franceinfo.fr/politique/front-national/photos-de-l-ei-publiees-par-marine-le-pen/",
+          "media": "franceinfo",
+          "date": "2021-05-04"
+        },
+        {
+          "url": "https://www.publicsenat.fr/article/politique/photos-d-exactions-de-l-ei-sur-twitter-marine-le-pen-renvoyee-devant-la-justice",
+          "media": "Public Sénat",
+          "date": "2018"
+        }
+      ]
+    },
+    {
+      "intitule": "Propos visant une ancienne étudiante voilée de Sciences Po Bordeaux",
+      "qualification": "Injure publique à raison de la religion",
+      "statut": "relaxe",
+      "resume": "Poursuivie sur citation de la plaignante pour l'avoir associée à l'« islam radical ». Relaxée le 20 janvier 2026 par la 17e chambre du tribunal correctionnel de Paris ; la partie civile pouvait faire appel, suite non connue.",
+      "date_derniere_etape": "2026-01-20",
+      "sources": [
+        {
+          "url": "https://www.blick.ch/fr/monde/france/marine-le-pen-relaxee-pour-diffamation-contre-une-musulmane-id21615457.html",
+          "media": "Blick (dépêche AFP)",
+          "date": "2026-01-20"
+        },
+        {
+          "url": "https://www.brut.media/fr/articles/marine-le-pen-relaxee-dans-une-affaire-dinjure-publique-envers-une-femme-voilee-associee-a-l-islam-radical",
+          "media": "Brut (AFP)",
+          "date": "2026-01-20"
+        }
+      ]
+    }
+  ],
+  "aucune_affaire_trouvee": false,
+  "notes": "Recherches : arrêt d'appel du 7/07/2026 (tableau officiel des peines de la cour d'appel de Paris consulté), pourvoi et calendrier de cassation, autres procédures. Assistants parlementaires : les peines de 1re instance (4 ans dont 2 ferme, 100 000 euros, 5 ans d'inéligibilité avec exécution provisoire) sont rappelées de mémoire et par plusieurs articles ; le Parlement européen et le RN (personne morale) se sont aussi pourvus. Aucune date d'audience de cassation officielle trouvée (un avocat évoque fin février-début mars 2027). Financement de campagne : une information judiciaire a été ouverte le 2 juillet 2024 par le parquet de Paris (détournement, faux, escroquerie, acceptation de prêt par un candidat) sur le financement de la campagne présidentielle 2022, à la suite d'un signalement de la CNCCFP (Al Jazeera, The Local, 9/07/2024) ; aucune mise en cause nominative ni mise en examen de Marine Le Pen trouvée : non incluse. Rapport OLAF (environ 600 000 euros de dépenses contestées au Parlement européen) transmis au parquet de Paris en 2024 : aucune procédure ouverte la visant trouvée. Kits de campagne (Jeanne) : à notre connaissance, Marine Le Pen n'a pas été poursuivie personnellement (le FN, personne morale, et des proches ont été jugés) : non incluse. Prêts russes : aucune procédure judiciaire la visant trouvée. Enquête de 2016 sur la sous-évaluation de patrimoine : non vérifiée faute de budget, non incluse.",
+  "verifie_le": "2026-10-12"
+}
