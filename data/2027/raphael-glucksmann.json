@@ -1,0 +1,577 @@
+{
+  "slug": "raphael-glucksmann",
+  "nom": "Raphaël Glucksmann",
+  "parti": "Place publique",
+  "bord": "gauche",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-08-23",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Projet de Place publique « Acte I – Notre vision pour la France » (programme présidentiel en préparation)",
+    "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+    "date_publication": "2025-06"
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter le salaire net en baissant la CSG et les prélèvements sur les salaires",
+      "detail": "Objectif de « rapprocher le salaire net du salaire brut », financé par une taxation accrue des très grands héritages.",
+      "nature": "declaration",
+      "source_url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+      "source_date": "2026-08-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer les « méga-héritages » au-delà de 2 millions d'euros",
+      "detail": "Viser le 1 % des plus grosses successions et réformer le pacte Dutreil pour environ 15 milliards d'euros, reversés sur les fiches de paie.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+      "source_date": "2026-09-21"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Tripler le chèque carburant à 500 euros et l'étendre aux classes moyennes",
+      "detail": "Versement automatique aux bénéficiaires du chèque énergie, ciblé sur ceux qui ont besoin de leur voiture pour travailler.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+      "source_date": "2026-09-21"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer les superprofits des multinationales des énergies fossiles",
+      "detail": "Taxe idéalement européenne, visant notamment TotalEnergies, pour financer les aides aux « grands rouleurs ».",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+      "source_date": "2026-09-21"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Lancer un leasing social d'un million de voitures électriques à 100 euros par mois",
+      "detail": "Destiné aux ménages modestes, pour un coût estimé à 6 milliards d'euros (annonce à l'usine Renault de Cléon).",
+      "nature": "declaration",
+      "source_url": "https://www.france24.com/fr/info-en-continu/20261002-en-seine-maritime-glucksmann-d%C3%A9fend-les-voitures-%C3%A9lectriques-et-la-transition-%C3%A9cologique",
+      "source_date": "2026-10-02"
+    },
+    {
+      "theme": "education",
+      "titre": "Voter une loi de programmation sur cinq ans pour sauver l'école publique",
+      "detail": "Présentée comme son « premier acte » : hausse de la rémunération des enseignants, baisse des effectifs par classe en primaire, rénovation du bâti scolaire, lycées.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "education",
+      "titre": "Garantir à chaque enfant un séjour collectif (relance des colonies de vacances)",
+      "detail": "« Passeport pour l'émancipation » : séjour collectif dans ou hors du cadre scolaire pour chaque enfant.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+      "source_date": "2026-08-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer un service civique obligatoire de dix mois",
+      "detail": "Tous les jeunes consacreraient dix mois à la nation (EHPAD, écoles, services publics, associations), après quelques semaines de regroupement hors de leur quartier.",
+      "nature": "livre",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+      "source_date": "2026-08-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Organiser une convention citoyenne sur l'immigration",
+      "detail": "Citoyens tirés au sort confrontés aux données démographiques, économiques et sécuritaires ; propositions soumises au débat et au vote du Parlement.",
+      "nature": "declaration",
+      "source_url": "https://www.lejdd.fr/politique/immigration-raphael-glucksmann-plaide-pour-une-convention-citoyenne-174735",
+      "source_date": "2026-05-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs sans papiers",
+      "detail": "Position défendue lors du dernier débat de la primaire ; le projet de Place publique prévoit aussi de faciliter ces régularisations.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger la réforme des retraites de 2023 et revenir à 62 ans, sans retour à 60 ans",
+      "detail": "Retour à l'âge légal de 62 ans, et non 60 ans, défendu lors des débats de la primaire.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Moduler l'âge de départ selon la pénibilité et l'espérance de vie en bonne santé",
+      "detail": "Départ plus tôt pour les carrières hachées et métiers pénibles, plus tard pour ceux ayant une espérance de vie en bonne santé plus longue.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+      "source_date": "2026-08-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un statut de parent isolé",
+      "detail": "Proposition avancée lors du débat BFMTV du 4 octobre 2026.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "defense",
+      "titre": "Saisir les avoirs publics russes pour financer l'aide à l'Ukraine",
+      "detail": "Renforcer l'aide militaire et la protection du ciel ukrainien, financées notamment par les avoirs publics russes.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Soutenir le jugement de Benyamin Netanyahou par la justice internationale",
+      "detail": "Position exprimée lors des débats ; il refuse en revanche d'employer le terme de « génocide » pour Gaza.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Lancer un grand plan d'adaptation de l'agriculture",
+      "detail": "Annoncé à la foire de Châlons-en-Champagne ; mener la « révolution écologique » avec les agriculteurs.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/grand-est/marne-51/chalons-en-champagne/a-la-foire-de-chalons-raphael-glucksmann-place-les-agriculteurs-au-coeur-de-son-programme-politique-7377398",
+      "source_date": "2026-09-05"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer la lutte contre le blanchiment et encadrer les cryptomonnaies",
+      "detail": "Cibler les profits des narcotrafiquants, les cryptomonnaies étant décrites comme un outil de blanchiment.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+      "source_date": "2025-11-19"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Laisser aux maires le choix d'armer leur police municipale et d'installer des caméras",
+      "detail": "« Faire confiance aux maires » sur la sécurité locale, dans un cadre fixé par la loi.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+      "source_date": "2025-11-19"
+    },
+    {
+      "theme": "economie",
+      "titre": "Protéger les productions françaises et réimplanter des usines dans les territoires",
+      "detail": "Dans le cadre d'un « nouveau contrat patriotique » et d'une industrialisation fondée sur la transition écologique.",
+      "nature": "declaration",
+      "source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "source_date": "2026-08-25"
+    },
+    {
+      "theme": "social",
+      "titre": "Sortir les EHPAD et les crèches de la logique marchande",
+      "detail": "Engagement de la lettre aux Français publiée à l'entrée en campagne.",
+      "nature": "declaration",
+      "source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "source_date": "2026-08-25"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire dette et déficits tout en investissant dans l'école, la défense et l'industrie",
+      "detail": "Investissements massifs dans l'école, la défense, la réindustrialisation et la transition écologique, sans chiffrage annoncé à ce stade.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+      "source_date": "2026-08-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Créer un fonds européen de défense de 500 milliards d'euros par emprunt commun",
+      "detail": "Investissements réservés aux productions européennes (EDIP).",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "defense",
+      "titre": "Proposer d'étendre la dissuasion nucléaire française aux partenaires de l'UE",
+      "detail": "La France conserverait la souveraineté sur la décision d'emploi, pilier d'un pacte de sécurité européen.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "defense",
+      "titre": "Augmenter fortement la réserve opérationnelle et produire massivement des drones",
+      "detail": "Contrats de long terme avec les industriels, programmes drones et spatial, programme « cyber sentinelle » et renforcement de l'ANSSI.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Passer à une Europe fédérale avec un traité de refondation d'ici 2030",
+      "detail": "Majorité qualifiée au Conseil européen, initiative législative au Parlement européen, hausse massive du budget et nouvelles ressources propres.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Porter un « Buy European Act » et un indice d'achat local dans la commande publique",
+      "detail": "Prioriser les productions européennes dans les marchés publics ; renforcer les mesures miroirs et la défense commerciale.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un label européen de l'épargne pour financer les entreprises européennes",
+      "detail": "Également : fonds régionaux pour permettre aux Régions d'entrer au capital d'entreprises clés.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Conforter le nucléaire et construire de nouveaux réacteurs",
+      "detail": "Assurer la sûreté du parc existant et la construction à temps de nouvelles unités, avec un plan pluriannuel d'investissement dans les renouvelables.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer une partie de la facture d'électricité sur les coûts de production",
+      "detail": "Sortir en partie du prix de marché ; annuler la hausse de taxe sur l'électricité de 2024 ; relancer MaPrimeRénov'.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Interdire immédiatement les importations de gaz russe",
+      "detail": "Y compris le gaz naturel liquéfié.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Adopter une grande loi Climat visant -90 % d'émissions en 2040",
+      "detail": "Neutralité climatique en 2050 ; loi de sobriété : fast-fashion, score carbone obligatoire, fin des plastiques à usage unique d'ici 2030.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer un « Ticket climat », titre de transport national à tarif fixe",
+      "detail": "D'abord réservé aux jeunes et aux publics précaires ; plan Rail national, relance des trains de nuit et du fret ferroviaire.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Taxer le kérosène, les jets privés, les yachts et les SUV",
+      "detail": "Fin des exonérations de TVA et de taxe sur le kérosène, extension de l'interdiction des vols intérieurs avec alternative ferroviaire.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 600 euros net dans les deux ans",
+      "detail": "Mesure du projet de Place publique (2025), avec des conférences salariales par branche ; non chiffrée de nouveau par le candidat en 2026.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Généraliser Territoires zéro chômeur et abroger la réforme de l'assurance chômage",
+      "detail": "Garantie à l'emploi, CDI d'insertion harmonisé, guichet unique territorial piloté par France Travail.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un Haut Conseil du pilotage des retraites dominé par les partenaires sociaux",
+      "detail": "Instance chargée de concevoir et d'ajuster le système de retraites.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Intégrer des administrateurs salariés dès 100 salariés et créer un « chèque syndical »",
+      "detail": "Redonner la priorité aux accords de branche sur les accords d'entreprise ; stratégie « Zéro mort au travail ».",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Interdire les réseaux sociaux aux moins de 15 ans et bannir TikTok",
+      "detail": "Créer une autorité indépendante de protection des mineurs en ligne (vérification de l'âge, classification des contenus).",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer une Agence industrielle du numérique et de l'IA",
+      "detail": "Financée par France 2030, la BPI et une hausse ciblée de la taxe GAFAM ; objectif de sortir de la dépendance aux GAFAM en 5 ans.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Plafonner le crédit d'impôt recherche pour les grands groupes",
+      "detail": "Le recentrer sur les PME, ETI industrielles et jeunes entreprises innovantes ; doubler le budget d'Horizon Europe.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "education",
+      "titre": "Intégrer les établissements privés sous contrat à la carte scolaire",
+      "detail": "Mixité sociale exigée de tous les établissements financés par le contribuable.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "education",
+      "titre": "Repenser Parcoursup et créer un capital formation universel",
+      "detail": "Concertation sur Parcoursup ; aide nationale compensant l'éloignement géographique des étudiants.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Instaurer des prix planchers rémunérateurs pour les agriculteurs",
+      "detail": "Mettre fin aux contournements de la loi EGALIM ; plafonner les aides PAC pour les réorienter vers les petites fermes.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "S'opposer à l'accord UE-Mercosur et imposer des mesures miroirs",
+      "detail": "Contre le dumping social, sanitaire et environnemental dans les importations agricoles.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire glyphosate, néonicotinoïdes et PFAS dans les objets du quotidien",
+      "detail": "Créer des zones sans pesticides autour des captages d'eau et des écoles ; refuser les méga-bassines.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Investir le Premier ministre par un vote de confiance et instaurer la censure constructive",
+      "detail": "Ce qui permettrait de mettre fin au 49.3 ; suppression de l'article 16 et de l'article 40.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer immédiatement la proportionnelle",
+      "detail": "De préférence par circonscriptions régionales avec fléchage départemental des candidats.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer un droit d'initiative citoyenne pour déclencher des référendums",
+      "detail": "À l'échelle locale et nationale ; généraliser les conventions citoyennes et lancer une convention préparant une constituante.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Ouvrir le vote à 16 ans et aux étrangers extracommunautaires aux élections locales",
+      "detail": "Avec inscription automatique sur les listes électorales.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "sante",
+      "titre": "Mettre fin à la tarification à l'acte à l'hôpital",
+      "detail": "Financement global, territorial et pluriannuel ; projet territorial de santé co-construit localement.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Aller vers une Sécurité sociale unique fusionnant tous les régimes",
+      "detail": "Dossier social unique et minimum social unique accessible dès 18 ans, y compris aux moins de 25 ans.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recréer une police de proximité et généraliser les récépissés de contrôle d'identité",
+      "detail": "Police centrée sur la prévention et la médiation ; office national de lutte contre le blanchiment.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Organiser une convention citoyenne sur les drogues et le cannabis",
+      "detail": "Incluant la question de la légalisation du cannabis.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "logement",
+      "titre": "Encadrer les loyers en zones tendues et abroger la loi Kasbarian",
+      "detail": "Remplacée par un dispositif combinant indemnisation rapide des bailleurs et accompagnement des locataires.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "logement",
+      "titre": "Faire du bail réel solidaire une offre de masse et lancer un plan « Logement d'abord »",
+      "detail": "Fonds national d'aide au foncier, régulation des meublés touristiques, taxation progressive de la vacance.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Consacrer un milliard d'euros à un plan contre les violences sexistes et sexuelles",
+      "detail": "Inspiré du modèle espagnol ; inscrire dans la loi une définition du viol fondée sur le consentement.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Rendre la contraception gratuite et créer un droit opposable à la garde d'enfant",
+      "detail": "Remboursement des protections périodiques, congé menstruel, réforme du congé parental.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Abroger la loi immigration de 2024",
+      "detail": "Ouvrir le droit au travail dès l'enregistrement de la demande d'asile ; carte de séjour pluriannuelle comme titre de référence.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Remplacer le système de Dublin par un mécanisme européen de répartition",
+      "detail": "Harmoniser les procédures d'asile et refuser l'externalisation ; force européenne de sauvetage en mer.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "societe",
+      "titre": "Abolir progressivement les régimes dérogatoires à la loi de 1905",
+      "detail": "Renforcer la MIVILUDES et la prévention des pratiques sectaires.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "societe",
+      "titre": "Aligner les droits à la filiation des couples LGBTQIA+ sur ceux des couples hétérosexuels",
+      "detail": "Garantir le droit à l'autodétermination de genre.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer un service public de transport rural",
+      "detail": "Unifier les offres existantes et les rendre accessibles aux personnes âgées ou handicapées.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Plafonner les prix des produits de première nécessité en outre-mer",
+      "detail": "Démanteler les monopoles et flécher une part de l'octroi de mer vers l'investissement local.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Financer la presse par une taxe sur les géants du numérique",
+      "detail": "Créer un délit de désinformation organisée dans la loi de 1881 et limiter la concentration des médias.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Supprimer la part individuelle du pass Culture",
+      "detail": "Au profit du financement d'artistes intervenant en milieu scolaire ; Pacte d'aménagement culturel du territoire.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Taxer automatiquement les superprofits des multinationales et des profiteurs de guerre",
+      "detail": "Supprimer les niches fiscales inefficaces et rééquilibrer la fiscalité entre travail, capital et héritage.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Porter l'aide publique au développement à 0,7 % du RNB",
+      "detail": "Via une programmation budgétaire annuelle dans la loi de développement solidaire.",
+      "nature": "programme",
+      "source_url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+      "source_date": "2025-06-23"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-raphael-glucksmann-vainqueur-de-la-primaire-du-ps-desormais-face-a-la-difficile-question-du-rassemblement-a-gauche",
+    "https://www.publicsenat.fr/actualites/politique/ce-soir-la-bataille-de-france-commence-apres-sa-victoire-a-la-primaire-de-la-gauche-raphael-glucksmann-assure-que-rien-ne-le-fera-l",
+    "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+    "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet",
+    "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+    "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+    "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+    "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+    "https://lcp.fr/actualites/primaire-de-gauche-sur-les-accords-avec-lfi-la-fracture-eclate-entre-les-candidats",
+    "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+    "https://www.franceinfo.fr/elections/presidentielle/lors-du-premier-debat-de-la-primaire-socialiste-segolene-royal-mise-en-difficulte-sur-l-ukraine-et-israel_8207075.html",
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+    "https://parti-socialiste.fr/actualite-en-avant/choisir-2027_les-electeurs-pourront-voter-jusqua-dimanche-18h/",
+    "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+    "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+    "https://www.france24.com/fr/info-en-continu/20261002-en-seine-maritime-glucksmann-d%C3%A9fend-les-voitures-%C3%A9lectriques-et-la-transition-%C3%A9cologique",
+    "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+    "https://www.lejdd.fr/politique/immigration-raphael-glucksmann-plaide-pour-une-convention-citoyenne-174735",
+    "https://www.ici.fr/grand-est/marne-51/chalons-en-champagne/a-la-foire-de-chalons-raphael-glucksmann-place-les-agriculteurs-au-coeur-de-son-programme-politique-7377398",
+    "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite"
+  ],
+  "notes": "Désigné candidat commun PS / Place publique / GRS : vainqueur dès le premier tour de la primaire le 11 octobre 2026 (66,13 %). Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Candidature annoncée le 23 août 2026 sur TF1. Programme présidentiel non encore publié (élaboration coordonnée par Marguerite Cazeneuve selon franceinfo). Profession de foi de primaire « Refonder la gauche, réveiller la France ! » (https://choisir2027.fr/wp-content/uploads/2026/09/Profession-de-foi-RG.pdf) inaccessible le 12/10/2026 (HTTP 503). Les propositions marquées « programme » proviennent du projet de Place publique « Acte I » (parti qu'il copréside, document daté de juin 2025 d'après le nom de fichier du PDF, mis en ligne en 2026) : elles n'ont pas toutes été reprises explicitement par le candidat en 2026 (ex. SMIC à 1 600 € net). Livre « Nous avons encore envie » (Allary, mai 2026) non consulté directement. Sur les retraites, il refuse le retour à 60 ans mais soutient le retour à 62 ans (abrogation de la réforme 2023).",
+  "verifie_le": "2026-10-12"
+}

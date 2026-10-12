@@ -1,0 +1,279 @@
+{
+  "slug": "olivier-faure",
+  "nom": "Olivier Faure",
+  "parti": "Parti socialiste",
+  "bord": "gauche",
+  "statut_candidature": "retire",
+  "date_declaration": "2026-08-30",
+  "programme": {
+    "statut": "partiel",
+    "titre": "« Pour une France + juste » – Mes propositions (site de campagne de primaire)",
+    "url": "https://avecfaure2027.fr/mes-propositions",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 700 euros net",
+      "detail": "Avec une conférence salariale tripartite (État, syndicats, patronat) réunie après l'élection.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer les salaires sur l'inflation",
+      "detail": "Engagement listé dans son message de candidature, aux côtés du SMIC à 1 700 € et de la taxe Zucman.",
+      "nature": "declaration",
+      "source_url": "https://x.com/faureolivier/status/2107073735685509372",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer la taxe Zucman sur les très hauts patrimoines",
+      "detail": "Impôt plancher de 2 % par an sur les patrimoines de plus de 100 millions d'euros, destiné à financer la transition écologique.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Plafonner les écarts de rémunération dans les entreprises",
+      "detail": "Seuil non précisé.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Verser 1 euro aux salariés pour chaque euro de dividende versé aux actionnaires",
+      "detail": "Via la participation, l'intéressement ou les salaires.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Conditionner les aides publiques aux entreprises à leur politique salariale",
+      "detail": "Remise à plat des aides lors d'une grande conférence salariale après la présidentielle.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Relocaliser la production des biens essentiels et des médicaments",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Faire de la transition écologique un grand chantier de réindustrialisation",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Plafonner les marges de TotalEnergies et taxer ses superprofits",
+      "detail": "Aides carburant « ciblées » plutôt que générales.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abroger immédiatement la réforme des retraites de 2023 (retour à 62 ans)",
+      "detail": "Rétablir aussi les critères de pénibilité réduisant la durée de cotisation pour les métiers pénibles.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abaisser l'âge du taux plein de 67 à 65 ou 66 ans",
+      "detail": "Proposition avancée lors du dernier débat de la primaire.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Reconnaître le burn-out comme maladie professionnelle",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Fixer un objectif de zéro décès au travail",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Appliquer la convention collective du donneur d'ordre aux salariés sous-traitants",
+      "detail": "Et encadrer les horaires de travail imprévisibles.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer un bouclier logement limitant le loyer à 30 % des revenus",
+      "detail": "Au-delà, la CAF et l'État compenseraient (son message parle d'« un tiers » des revenus).",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "logement",
+      "titre": "Généraliser l'encadrement des loyers et faciliter la réquisition des logements vacants",
+      "detail": "Réquisition ciblée sur les zones tendues.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Financer massivement la rénovation énergétique des logements",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Instaurer une sécurité sociale de l'alimentation",
+      "detail": "Accès à une alimentation de qualité, en privilégiant circuits courts et bio.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Développer fortement l'aide et les soins à domicile",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter les classes à 19 élèves maximum",
+      "detail": "Avec une mixité sociale réelle et de meilleures conditions de travail pour les AESH.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Conditionner le financement des écoles privées à la mixité sociale",
+      "detail": "Appliquer la carte scolaire du public aux établissements privés sous contrat.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "education",
+      "titre": "Organiser des états généraux de l'éducation par académie",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "education",
+      "titre": "Renforcer les aides au logement, au transport et à l'alimentation des étudiants",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Atteindre la souveraineté énergétique",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Mettre en œuvre une préférence européenne pour l'agriculture",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Restaurer les cycles de l'eau et défendre l'agroécologie",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Renforcer le financement public de la culture et de la création",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://avecfaure2027.fr/mes-propositions",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire la dette par de nouvelles recettes fiscales, sans annulation",
+      "detail": "Privilégier les recettes fiscales (hauts patrimoines, grandes entreprises) plutôt qu'une annulation, même partielle, de la dette.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "defense",
+      "titre": "Utiliser les avoirs publics russes pour financer l'aide à l'Ukraine",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs sans papiers sur le modèle espagnol",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Qualifier de génocide la situation à Gaza",
+      "detail": "Position défendue lors des trois débats, en citant la Convention de 1948.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-raphael-glucksmann-vainqueur-de-la-primaire-du-ps-desormais-face-a-la-difficile-question-du-rassemblement-a-gauche",
+    "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+    "https://avecfaure2027.fr/",
+    "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+    "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+    "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+    "https://parti-socialiste.fr/actualite-en-avant/choisir-2027_les-electeurs-pourront-voter-jusqua-dimanche-18h/",
+    "https://avecfaure2027.fr/mes-propositions",
+    "https://x.com/faureolivier/status/2107073735685509372"
+  ],
+  "notes": "Premier secrétaire du PS, candidat à la primaire annoncé le 30 août 2026 sur TF1. Battu au premier tour le 11 octobre 2026 (2e, 14,48 %) ; tous les candidats s'étaient engagés à soutenir le vainqueur, Raphaël Glucksmann : candidature à la présidentielle de facto close (statut « retire »). Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Profession de foi de primaire (https://choisir2027.fr/wp-content/uploads/2026/09/Prof.foi_A4_OF-1.pdf) inaccessible (HTTP 503). Les propositions du site avecfaure2027.fr ne sont pas datées (campagne de septembre-octobre 2026) ; le site renvoie au projet du PS pour le détail. Non retenues faute de vérification hors agrégateur (objectif2027.fr, d'après les vidéos des débats) : « capital républicain » versé à chaque enfant à la naissance, conférence de paix israélo-palestinienne à Paris, suspension de l'accord d'association UE-Israël.",
+  "verifie_le": "2026-10-12"
+}

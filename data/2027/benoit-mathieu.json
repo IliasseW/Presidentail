@@ -1,0 +1,66 @@
+{
+  "slug": "benoit-mathieu",
+  "nom": "Benoît Mathieu",
+  "parti": "Sans étiquette",
+  "bord": "divers",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-03-30",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Programme 2027 (programme « uniquement démocratique »)",
+    "url": "https://benoitmathieu2027.fr/index.php/Programme",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Premier « pivot » du programme : un article de loi prêt à l'emploi, inspiré de Votation France et de Solution démocratique, est en cours de rédaction ; en interview, le candidat inclut le RIC constituant.",
+      "nature": "programme",
+      "source_url": "https://benoitmathieu2027.fr/index.php/Programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Faire réécrire la Constitution par 500 citoyens tirés au sort",
+      "detail": "Assemblée constituante citoyenne de 500 personnes tirées au sort ; le texte serait soumis à référendum, avec démission du président.",
+      "nature": "programme",
+      "source_url": "https://benoitmathieu2027.fr/index.php/Programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Désigner les représentants par tirage au sort plutôt que par l'élection",
+      "detail": "Tirage au sort avec quotas de lieu de vie, de revenus, d'âge et de genre.",
+      "nature": "programme",
+      "source_url": "https://benoitmathieu2027.fr/index.php/Programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Multiplier les assemblées citoyennes de 150 personnes tirées au sort",
+      "detail": "Assemblées de 150 citoyens tirés au sort décidant pour tous, appelées à se substituer au format parlementaire actuel.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-un-professeur-sillonne-la-france-a-velo-en-quete-des-500-parrainages",
+      "source_date": "2026-05-06"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Organiser une « méta-convention » pour définir les futures conventions citoyennes",
+      "detail": "Proposition exposée en interview ; calendrier envisagé : référendums en début de mandat sur le RIC constituant et sur la convocation d'une constituante.",
+      "nature": "declaration",
+      "source_url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+      "source_date": "2026-04-27"
+    }
+  ],
+  "sources_consultees": [
+    "https://benoitmathieu2027.fr/index.php/Programme",
+    "https://benoitmathieu2027.fr/index.php/le-candidat",
+    "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+    "https://www.sudradio.fr/sud-radio/presidentielle-2027-un-professeur-sillonne-la-france-a-velo-en-quete-des-500-parrainages",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+    "https://www.placegrenet.fr/2026/07/06/benoit-mathieu-prof-de-maths-qui-veut-se-presenter-a-lelection-presidentielle-2027-a-fait-etape-a-grenoble-a-velo/684876"
+  ],
+  "notes": "Ingénieur agroalimentaire devenu professeur de mathématiques (27 ans), candidat indépendant « apartisan ». Tour de France à vélo (~12 000 km) commencé le 30/03/2026 à Chauffailles (Saône-et-Loire) pour recueillir 500 parrainages auprès de maires sans étiquette ; date de déclaration formelle non trouvée, le début de campagne est retenu. Le candidat revendique un programme « uniquement démocratique » : aucune position sectorielle (économie, immigration, etc.) publiée. Programme collaboratif (wiki, ancien domaine benoit.mathieu.wiki redirigé vers benoitmathieu2027.fr) encore en rédaction, sans date. Un référendum sur un service civique obligatoire a été évoqué en interview comme simple possibilité (non retenu). Article Place Gre'net vu uniquement par extrait de recherche. Parrainages non acquis.",
+  "verifie_le": "2026-10-12"
+}

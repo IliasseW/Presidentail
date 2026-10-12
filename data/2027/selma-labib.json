@@ -1,0 +1,73 @@
+{
+  "slug": "selma-labib",
+  "nom": "Selma Labib",
+  "parti": "NPA-Révolutionnaires",
+  "bord": "extreme-gauche",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-06-17",
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter les salaires et pensions de 400 € par mois, sans revenu sous 2 000 € net",
+      "detail": "« Il ne faut pas un seul revenu sous les 2000 euros net », avec une hausse du brut et du super-brut en conséquence.",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026/",
+      "source_date": "2026-09-15"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer les salaires au moins sur l'inflation",
+      "detail": "« Pour que nos salaires suivent au moins l'inflation galopante, c'est maintenant. »",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026/",
+      "source_date": "2026-09-15"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements",
+      "detail": "Présenté comme un objectif à « imposer par la lutte ».",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/dans-le-lyon-bondy-blog-selma-labib-cest-nous-qui-produisons-tout-donc-cest-a-nous-de-decider-de-tout-dans-cette-societe/",
+      "source_date": "2026-07-14"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Partager le temps de travail entre tous sans perte de salaire",
+      "detail": "« Pour en finir avec le chômage ».",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026/",
+      "source_date": "2026-09-15"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser tous les sans-papiers et ouvrir les frontières",
+      "detail": "Liberté de circulation et d'installation.",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/dans-le-lyon-bondy-blog-selma-labib-cest-nous-qui-produisons-tout-donc-cest-a-nous-de-decider-de-tout-dans-cette-societe/",
+      "source_date": "2026-07-14"
+    },
+    {
+      "theme": "defense",
+      "titre": "Refuser tout financement des « guerres impérialistes »",
+      "detail": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes ».",
+      "nature": "declaration",
+      "source_url": "https://npa-revolutionnaires.org/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026/",
+      "source_date": "2026-09-15"
+    }
+  ],
+  "sources_consultees": [
+    "https://npa-revolutionnaires.org/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026/",
+    "https://npa-revolutionnaires.org/dans-le-lyon-bondy-blog-selma-labib-cest-nous-qui-produisons-tout-donc-cest-a-nous-de-decider-de-tout-dans-cette-societe/",
+    "https://npa-revolutionnaires.org/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante/",
+    "https://npa-revolutionnaires.org/dossier-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante-paru-dans-revolutionnaires-n-60/",
+    "https://npa-revolutionnaires.org/meeting-rer-2026-intervention-de-selma-labib-conductrice-de-bus-et-candidate-a-la-presidentielle/"
+  ],
+  "notes": "Candidature décidée par le comité politique national du NPA-Révolutionnaires les 6 et 7 juin 2026 et annoncée par communiqué le 17 juin 2026, avec le soutien de Gaël Quirante. Il n'y a pas de programme publié : le parti dit ne pas venir « avec des promesses » mais avec des « objectifs pour les luttes ». Les propositions viennent des interventions publiées sur le site du parti (fête de l'Humanité, septembre 2026 ; entretien au Lyon Bondy Blog, juillet 2026). La campagne en est à la collecte des 500 parrainages.",
+  "verifie_le": "2026-10-12"
+}

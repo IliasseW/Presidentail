@@ -1,0 +1,66 @@
+{
+  "slug": "delphine-batho",
+  "nom": "Delphine Batho",
+  "parti": "Génération écologie",
+  "bord": "ecologiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2025-11-25",
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "economie",
+      "titre": "Rompre avec l'objectif de croissance du PIB au profit de la décroissance",
+      "detail": "Batho juge « vouloir sauver la croissance du PIB » incompatible avec la sécurité climatique, hydrique et alimentaire ; Génération Écologie fait de la décroissance son projet politique.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/",
+      "source_date": "2025-11-26"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Inscrire le principe d'habitabilité à l'article 1er de la Constitution",
+      "detail": "Pour faire primer le respect des limites planétaires et la préservation des biens communs dans la hiérarchie des normes (« République écologique ») ; position du parti après la validation de la loi Duplomb 2.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/08/15/reaction-de-generation-ecologie-a-la-decision-du-conseil-constitutionnel-sur-la-loi-duplomb-2/",
+      "source_date": "2026-08-15"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Réorienter les fonds publics agricoles vers l'agriculture biologique",
+      "detail": "Changer de modèle agricole « sans argent public supplémentaire », en réorientant radicalement les fonds publics, avec un revenu digne pour les agriculteurs.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/07/21/loi-duplomb-2-on-sen-souviendra-en-2027/",
+      "source_date": "2026-07-21"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "S'opposer à la réintroduction des néonicotinoïdes",
+      "detail": "Génération Écologie annonce soutenir tous les recours contre les autorisations de néonicotinoïdes (acétamipride, flupyradifurone) permises par la loi Duplomb 2.",
+      "nature": "declaration",
+      "source_url": "https://www.generationecologie.fr/2026/08/15/reaction-de-generation-ecologie-a-la-decision-du-conseil-constitutionnel-sur-la-loi-duplomb-2/",
+      "source_date": "2026-08-15"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.delphinebatho.fr/",
+    "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/",
+    "https://www.generationecologie.fr/publication/investiture-de-delphine-batho-a-lelection-presidentielle/",
+    "https://www.generationecologie.fr/app/uploads/2026/06/Resolution-investiture-Delphine-Batho.pdf",
+    "https://www.generationecologie.fr/publication/non-a-leffacement-de-lecologie-en-2027/",
+    "https://www.generationecologie.fr/2026/08/20/reponse-de-generation-ecologie-a-marine-tondelier/",
+    "https://www.generationecologie.fr/2026/09/08/agir-pour-notre-securite-climatique/",
+    "https://www.generationecologie.fr/2026/10/06/les-lycees-mobilises-ecoutons-la-jeunesse/",
+    "https://www.generationecologie.fr/2026/07/21/loi-duplomb-2-on-sen-souviendra-en-2027/",
+    "https://www.generationecologie.fr/2026/08/15/reaction-de-generation-ecologie-a-la-decision-du-conseil-constitutionnel-sur-la-loi-duplomb-2/",
+    "https://www.generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
+    "https://www.nouvelobs.com/politique/20251125.OBS110076/delphine-batho-je-suis-candidate-a-l-election-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner.html",
+    "https://quivoter2027.com/candidats/batho",
+    "https://www.candidatspresidentielles2027.fr/candidats/delphine-batho"
+  ],
+  "notes": "Candidature annoncée dans L'Obs le 25/11/2025 (relayée par Génération Écologie le 26/11), investiture officielle par la 15e convention nationale de GE le 6/06/2026. Refuse la primaire et la candidature commune de la gauche (lettre à Marine Tondelier, 20/08/2026). Aucun programme publié au 12/10/2026 : son site (delphinebatho.fr) annonce 'un nouveau programme politique' à élaborer avec les citoyens ; elle a publié le livre 'La politique de la beauté. Une nouvelle écologie' (non consulté). Les quelques propositions retenues proviennent de prises de position officielles de Génération Écologie (2025-2026), pas d'un programme présidentiel. Des sites agrégateurs (quivoter2027.com) lui prêtent d'autres positions (division par deux de la consommation d'énergie, arrêt du programme de 6 EPR, interdiction du glyphosate, abrogation de la réforme des retraites 2023, recours contre le Mercosur, soutien à l'Ukraine) sans source primaire vérifiable : non retenues. Ses interventions sur RMC (20/08/2026) et Sud Radio (24/08/2026) sont des vidéos non consultées. Recherche web interrompue (quota atteint).",
+  "verifie_le": "2026-10-12"
+}

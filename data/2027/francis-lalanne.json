@@ -1,0 +1,228 @@
+{
+  "slug": "francis-lalanne",
+  "nom": "Francis Lalanne",
+  "parti": "France Libre",
+  "bord": "souverainiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-08-19",
+  "programme": {
+    "statut": "complet",
+    "titre": "Le projet — « Pour une France libre, souveraine, juste et solaire »",
+    "url": "https://dieudolalanne2027.com/programme",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'Union européenne par un « Frexit organisé »",
+      "detail": "Première mesure du volet « Souveraineté » du programme.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Revenir au franc et reprendre en main la Banque de France",
+      "detail": "Mesure du volet « Souveraineté ».",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Restaurer l'amitié franco-russe via les BRICS et relancer la francophonie",
+      "detail": "Volet « International » du programme.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refonder la relation avec l'Afrique sur une base partenariale",
+      "detail": "Rupture avec une politique africaine qualifiée de coloniale, au profit d'une politique « partenariale et fraternelle ».",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir de l'OTAN",
+      "detail": "Mesure répétée dans les volets « Souveraineté » et « Paix ».",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Retirer les troupes françaises engagées dans des territoires en guerre",
+      "detail": "Volet « Paix » : retrait des troupes déployées dans des zones de conflit à l'étranger.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Mettre fin aux subventions versées à des pays en guerre",
+      "detail": "Volet « Paix » du programme.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Inscrire le RIC en toutes matières dans la Constitution",
+      "detail": "Référendum d'initiative citoyenne constitutionnalisé, avec convocation d'une assemblée constituante.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Filmer le Conseil des ministres",
+      "detail": "Transparence gouvernementale par des caméras au Conseil des ministres.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Bloquer l'influence des lobbys et des puissances étrangères",
+      "detail": "Volet « Démocratie » : blocage des lobbys et des influences étrangères ou multinationales.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Aligner le salaire des élus sur le salaire moyen",
+      "detail": "Avec une baisse de la rémunération des hauts fonctionnaires (volet « Business d'État »).",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger les lois Pleven, Gayssot et Avia",
+      "detail": "Au nom d'une « liberté d'expression totale » ; les lois visées (1972, 1990, 2020) répriment notamment le racisme, le négationnisme et la haine en ligne.",
+      "nature": "programme",
+      "source_url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+      "source_date": "2026-08-20"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire constitutionnellement toute discrimination fondée sur le statut médical",
+      "detail": "Fin du pass sanitaire et refus des obligations médicales (volet « Liberté »).",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Refuser la facturation électronique et la surveillance systématique",
+      "detail": "Volet « Liberté » : refus du « contrôle social » et limitation de l'intrusion de l'État dans la sphère privée.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Reconnaître que l'éducation relève d'abord de la famille",
+      "detail": "Volet « Liberté » : limitation de l'intervention de l'État dans l'éducation.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser les impôts, en priorité les taxes sur les carburants",
+      "detail": "Volet « Impôts » du programme, sans chiffrage.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rendre les transports publics gratuits",
+      "detail": "Volet « Impôts » du programme, sans chiffrage.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Baisser les charges des TPE, PME et artisans",
+      "detail": "Avec la fin de la « concurrence déloyale » (volet « Impôts »).",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser des entreprises à vocation sociale et récupérer le patrimoine privatisé",
+      "detail": "Volet « Business d'État » : nationalisations rentables pour l'État et restauration du service public.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Refondre la justice sur l'indépendance et la séparation des pouvoirs",
+      "detail": "« Réforme profonde de la justice » annoncée au lancement de la campagne.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer les effectifs contre la pédocriminalité et les trafics",
+      "detail": "Volet « Sécurité » du programme, sans chiffrage.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Installer des caméras dans les tribunaux et sur les policiers en intervention",
+      "detail": "Enregistrements des audiences, des dépositions et des interventions policières, consultables par des huissiers.",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Sortir de la politique agricole commune (PAC)",
+      "detail": "Mesure rapportée par la presse à partir du programme de campagne.",
+      "nature": "programme",
+      "source_url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+      "source_date": "2026-08-20"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Refonder l'agriculture à partir des revendications des petits exploitants",
+      "detail": "Volet « Terroir » : « souveraineté alimentaire » et « liberté agricole » (droit de cultiver et d'élever pour se nourrir).",
+      "nature": "programme",
+      "source_url": "https://dieudolalanne2027.com/programme",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Promouvoir une approche « holistique » de la santé",
+      "detail": "Thème cité par la presse parmi les principales propositions, sans détail.",
+      "nature": "programme",
+      "source_url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+      "source_date": "2026-08-20"
+    }
+  ],
+  "sources_consultees": [
+    "https://dieudolalanne2027.com/",
+    "https://dieudolalanne2027.com/programme",
+    "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+    "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+    "https://www.demotivateur.fr/societe/francis-lalanne-officiellement-candidat-a-l-election-presidentielle-de-2027-49762",
+    "https://www.sudradio.fr/politique/francis-lalanne-du-chanteur-engage-des-annees-1980-aux-spheres-complotistes",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+  ],
+  "notes": "Candidature annoncée par communiqué le 19/08/2026 (relayé par Le Parisien), meeting de lancement au théâtre Galabru (Paris 18e) le 21 ou 22/08/2026 selon les sources. Site de campagne commun avec Dieudonné (dieudolalanne2027.com), présenté comme son futur Premier ministre ; Dieudonné n'est pas candidat. Programme en 9 rubriques (Souveraineté, Paix, Liberté, Démocratie, Impôts, Business d'État, Sécurité, Terroir, International), sans aucun chiffrage ni date de publication. Abrogation des lois Pleven/Gayssot/Avia, sortie de la PAC et « santé holistique » sont rapportées par la presse (Brussels Signal, Sud Radio) et non retrouvées mot pour mot sur la page programme consultée. Inéligibilité (comptes de campagne non déposés) prononcée par le Conseil d'État, censée prendre fin en octobre 2026 selon Sud Radio. 500 parrainages non acquis.",
+  "verifie_le": "2026-10-12"
+}

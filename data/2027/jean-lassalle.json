@@ -1,0 +1,24 @@
+{
+  "slug": "jean-lassalle",
+  "nom": "Jean Lassalle",
+  "parti": "Résistons !",
+  "bord": "divers",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [],
+  "sources_consultees": [
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://en.wikipedia.org/wiki/2027_French_presidential_election",
+    "https://www.resistons-france.fr/",
+    "https://www.elyseescope.com/candidat/jean-lassalle",
+    "https://lcp.fr/motcle/jean-lassalle-349"
+  ],
+  "notes": "Aucune proposition formulée pour 2027 n'a pu être vérifiée. Statut incertain : un résultat de recherche indiquait que Jean Lassalle avait lancé une cagnotte en ligne pour financer une troisième candidature, présentée comme « contre le système », et évoquait une interview à Ici Béarn. Ni l'article ni sa date n'ont pu être consultés (budget de recherche épuisé, Europe 1 en 403). Il ne figure ni dans la liste des candidats déclarés ou prétendants de LCP (octobre 2026), ni sur la page Wikipédia de l'élection de 2027. Le site de Résistons ! présente encore le programme de 2022 (SMIC à 1 400 € net, RIC, rétablissement de l'ISF, 3 Md€/an pour la ruralité…), sans mise à jour pour 2027 (dernière modification : 23/03/2025). Ce programme n'a pas été retenu, faute de reprise explicite depuis 2025. ElyseeScope le donne candidat déclaré, sans source et avec des erreurs manifestes (il y est présenté comme député) : cette indication n'est pas retenue. Scores passés : 1,21 % en 2017, 3,13 % en 2022. À revérifier.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,225 @@
+{
+  "slug": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "parti": "Révolution permanente",
+  "bord": "extreme-gauche",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-06-01",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Premier « 4 pages » de campagne (programme 2027 en cours d'élaboration)",
+    "url": "https://anasse2027.fr/programme",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 2 000 euros net",
+      "detail": "Avec une revalorisation de toutes les allocations.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter tous les salaires de 500 € et les indexer sur l'inflation",
+      "detail": "Mesure de l'axe « Vivre, et plus survivre ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Créer un revenu étudiant au niveau du SMIC financé par le patronat",
+      "detail": "Mesure du premier 4 pages de campagne.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir la retraite à 60 ans, à 55 ans pour les métiers pénibles",
+      "detail": "Sans condition d'annuités.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Réduire la semaine de travail à 28 heures sans baisse de salaire",
+      "detail": "Par la répartition du travail entre tous ; revendication réaffirmée au lancement de la campagne à Toulouse.",
+      "nature": "programme",
+      "source_url": "https://www.revolutionpermanente.fr/S-affronter-au-patronat-radicalise-a-Toulouse-Revolution-Permanente-lance-la-campagne-d-Anasse",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements",
+      "detail": "Axe « Confisquer le pouvoir aux patrons ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Mettre fin à la sous-traitance et généraliser le CDI",
+      "detail": "« Même travail, même salaire ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Investir massivement dans les services publics placés sous contrôle des salariés",
+      "detail": "Mesure du premier 4 pages de campagne.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Exproprier les logements vides, plafonner et geler les loyers",
+      "detail": "Mesure du premier 4 pages de campagne.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Exproprier les groupes bancaires",
+      "detail": "Avec des prêts à taux zéro et la fin des agios.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer les aides publiques aux grandes entreprises",
+      "detail": "Mesure du premier 4 pages de campagne.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Exproprier les secteurs stratégiques sous contrôle des travailleurs",
+      "detail": "Énergie, transports, banques, santé…",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser tous les sans-papiers",
+      "detail": "Avec la liberté de circulation et d'installation.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer des commissions contre les violences sexistes et sexuelles au travail et à l'école",
+      "detail": "Indépendantes des directions, sur les lieux de travail et d'études.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Rendre l'avortement, la PMA et les transitions libres et gratuits",
+      "detail": "Mesure de l'axe « Unifier la nouvelle classe ouvrière ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Socialiser intégralement le travail domestique",
+      "detail": "Mesure de l'axe « Unifier la nouvelle classe ouvrière ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger les lois sécuritaires et « islamophobes », dont la loi de 2004",
+      "detail": "Abrogation de « toutes les lois sécuritaires, racistes et islamophobes », à commencer par la loi de 2004.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Amnistier les manifestants et syndicalistes poursuivis",
+      "detail": "Ainsi que les jeunes des quartiers populaires réprimés.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Dissoudre les corps spéciaux de police",
+      "detail": "Axe « Affronter l'autoritarisme et le racisme d'État ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abolir la Ve République, le Sénat et la fonction présidentielle",
+      "detail": "Mesure du premier 4 pages de campagne.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Refuser toute dépense de guerre et démanteler l'industrie d'armement",
+      "detail": "« Pas un euro pour la guerre » ; démantèlement de la « machine de guerre française ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Supprimer le SNU et refuser la militarisation des écoles et des universités",
+      "detail": "Mesure de l'axe « Contre la militarisation et l'impérialisme ».",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Retirer les troupes françaises déployées à l'étranger",
+      "detail": "« À bas le colonialisme et l'impérialisme français ! »",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Soutenir la libération de la Palestine et de la Kanaky",
+      "detail": "Et l'autodétermination de tous les peuples opprimés.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Confier la dépollution des sols et de l'eau à des comités locaux",
+      "detail": "Comités de travailleurs, scientifiques et riverains ; production planifiée démocratiquement.",
+      "nature": "programme",
+      "source_url": "https://anasse2027.fr/programme",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://anasse2027.fr/programme",
+    "https://www.revolutionpermanente.fr/S-affronter-au-patronat-radicalise-a-Toulouse-Revolution-Permanente-lance-la-campagne-d-Anasse",
+    "https://anasse2027.fr/",
+    "https://anasse2027.fr/programme/depliant-anasse-2027.pdf",
+    "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle"
+  ],
+  "notes": "Candidature annoncée le 1er juin 2026 au nom de Révolution permanente. Le site de campagne indique que « le programme 2027 est en cours d'élaboration » : seules les « premières mesures » de six axes ont été publiées (premier 4 pages de campagne, non daté). Le programme de 2022 publié sur le même site n'a pas été repris. La campagne en est à la collecte des 500 parrainages.",
+  "verifie_le": "2026-10-12"
+}

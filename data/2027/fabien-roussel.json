@@ -1,0 +1,60 @@
+{
+  "slug": "fabien-roussel",
+  "nom": "Fabien Roussel",
+  "parti": "Parti communiste français (PCF)",
+  "bord": "gauche-radicale",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-09-06",
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "economie",
+      "titre": "Doubler la part de l'industrie dans le PIB",
+      "detail": "Annoncé au JT de TF1 le jour de sa déclaration de candidature ; sans échéance précisée.",
+      "nature": "declaration",
+      "source_url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+      "source_date": "2026-09-06"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Doubler la production d'électricité nucléaire, renouvelable et hydraulique",
+      "detail": "Annoncé au JT de TF1 le 6 septembre 2026 ; sans cible chiffrée ni calendrier.",
+      "nature": "declaration",
+      "source_url": "https://www.lejdd.fr/politique/presidentielle-fabien-roussel-officialise-sa-candidature-avec-lappui-des-militants-communistes-182805",
+      "source_date": "2026-09-07"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter les salaires et les indexer sur les prix",
+      "detail": "Présenté comme une proposition à venir par Ian Brossat, directeur de campagne, sur le modèle belge.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-07-septembre-2026_8167895.html",
+      "source_date": "2026-09-07"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Faire de la lutte contre la fraude fiscale un engagement majeur",
+      "detail": "La campagne chiffre la fraude fiscale à 100 milliards d'euros par an (Ian Brossat).",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-07-septembre-2026_8167895.html",
+      "source_date": "2026-09-07"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+    "https://www.lejdd.fr/politique/presidentielle-fabien-roussel-officialise-sa-candidature-avec-lappui-des-militants-communistes-182805",
+    "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-07-septembre-2026_8167895.html",
+    "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
+    "https://lcp.fr/actualites/presidentielle-fabien-roussel-bientot-candidat-malgre-les-attaques-de-lfi-440943",
+    "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+    "https://www.lejdd.fr/politique/roussel-ruffin-polony-la-gauche-du-travail-veut-faire-entendre-sa-voix-en-2027-183015",
+    "https://votons-2027.fr/candidats/roussel/programme"
+  ],
+  "notes": "Candidature annoncée au JT de TF1 le 6 septembre 2026, après un vote des adhérents du PCF (72 %). Aucun programme 2027 publié au 12 octobre 2026 : selon la campagne, les propositions seront dévoilées au fil de la campagne, et selon LCP (16-23 septembre 2026) il n'a pas encore présenté de programme sur les retraites. Les mesures de 2022 (« La France des jours heureux » : SMIC à 1 500 € net, retraite à 60 ans, 32 heures, 100 000 soignants), reprises par des agrégateurs, n'ont pas été retenues faute de réaffirmation explicite depuis 2025 trouvée dans une source fiable. Le site pcf.fr bloque l'accès automatisé (403) et n'a pas pu être consulté. La recherche a été interrompue par l'épuisement du quota de recherches web : d'autres déclarations de 2026 existent peut-être.",
+  "verifie_le": "2026-10-12"
+}

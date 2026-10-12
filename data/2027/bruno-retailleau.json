@@ -1,0 +1,577 @@
+{
+  "slug": "bruno-retailleau",
+  "nom": "Bruno Retailleau",
+  "parti": "Les Républicains",
+  "bord": "droite",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-02-12",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Nos propositions (série de livrets thématiques Les Républicains, 2026)",
+    "url": "https://republicains.fr/nos-propositions/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Soumettre une réforme constitutionnelle à référendum dès l'automne 2027",
+      "detail": "« Pacte constitutionnel » en deux textes (loi de révision + « Charte de l'ordre républicain » intégrée au bloc de constitutionnalité), présenté au Parlement en début de mandat puis soumis à référendum à la rentrée 2027.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Élargir le référendum de l'article 11 à l'ensemble du domaine de la loi",
+      "detail": "Permettre des référendums législatifs notamment sur l'immigration, la sécurité, la justice, l'éducation et certaines questions de société.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abaisser le seuil du référendum d'initiative partagée à environ 2,5 millions de signatures",
+      "detail": "Contre près de 5 millions de soutiens d'électeurs nécessaires aujourd'hui.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Permettre au peuple ou au Congrès de passer outre une censure du Conseil constitutionnel",
+      "detail": "Après censure d'une loi votée, le président pourrait soumettre la question au référendum ou réunir le Parlement en Congrès (« censurer la censure »).",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Instaurer un « bouclier constitutionnel » face au droit européen et international",
+      "detail": "Faire prévaloir dans certaines situations la loi française sur le droit européen et la protéger des interprétations des cours européennes et internationales, surtout en matière d'immigration et de sécurité.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Inscrire des peines minimales pour certains crimes et délits graves",
+      "detail": "Mesure prévue dans la « Charte de l'ordre républicain », avec un renforcement de la sécurité dans les prisons.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Étendre la rétention de sûreté aux personnes jugées dangereuses après leur peine",
+      "detail": "Disposition annoncée dans le volet justice de la « Charte de l'ordre républicain ».",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer un « état d'urgence anti-trafics » pour les quartiers gangrenés par la drogue",
+      "detail": "Régime d'exception nécessitant une révision constitutionnelle, avec bouclage 24h/24 de certains quartiers (50 à 60 selon lui) et contrôle des entrées et sorties.",
+      "nature": "declaration",
+      "source_url": "https://www.defense-92.fr/politique/presidentielle-2027-bruno-retailleau-presente-a-nanterre-son-plan-durgence-contre-les-trafics-87292",
+      "source_date": "2026-04-23"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Allonger la durée de la détention provisoire contre le narcotrafic",
+      "detail": "Volet judiciaire du plan anti-trafics présenté à Nanterre, complété par des mesures pour frapper financièrement les trafiquants.",
+      "nature": "declaration",
+      "source_url": "https://www.defense-92.fr/politique/presidentielle-2027-bruno-retailleau-presente-a-nanterre-son-plan-durgence-contre-les-trafics-87292",
+      "source_date": "2026-04-23"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Appliquer aux mineurs des peines courtes et exécutées dès les premiers délits",
+      "detail": "Sanctions « courtes, systématiques et effectivement exécutées » pour les mineurs délinquants.",
+      "nature": "declaration",
+      "source_url": "https://www.defense-92.fr/politique/presidentielle-2027-bruno-retailleau-presente-a-nanterre-son-plan-durgence-contre-les-trafics-87292",
+      "source_date": "2026-04-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le droit du sol par référendum",
+      "detail": "Fin de l'acquisition de la nationalité par le droit du sol, tranchée par référendum après révision constitutionnelle.",
+      "nature": "declaration",
+      "source_url": "https://www.leclubdesjuristes.com/en-bref/presidentielle-2027-bruno-retailleau-veut-supprimer-le-droit-du-sol-par-referendum-17273/",
+      "source_date": "2026-09-08"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Instaurer des plafonds migratoires",
+      "detail": "Prévu dans la « Charte de l'ordre républicain » soumise à référendum.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Faciliter l'expulsion des étrangers condamnés ou représentant une menace grave",
+      "detail": "Mesure du volet immigration de la réforme constitutionnelle.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Renforcer l'exigence d'assimilation pour obtenir la nationalité française",
+      "detail": "Volet nationalité de la « Charte de l'ordre républicain ».",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conditionner le Revenu familial à 5 ans de résidence régulière et d'activité",
+      "detail": "Le Revenu familial serait réservé aux parents en situation régulière exerçant une activité professionnelle depuis au moins cinq ans, avec suspension possible par décision de justice.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Fixer un âge minimal de départ à la retraite à 63 ans avec décote",
+      "detail": "Départ possible dès 63 ans avec une décote de 7 % par année manquante ; âge non indexé sur l'espérance de vie. Économies annoncées : 40 Md€ cumulés sur cinq ans.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65",
+      "source_date": "2026-09-22"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Accorder le taux plein automatique à 65 ans, même sans tous les trimestres",
+      "detail": "Contre 67 ans aujourd'hui ; l'âge du taux plein évoluerait ensuite avec l'espérance de vie. Carrières longues : taux plein à 63 ans, avec incitation à rester jusqu'à 65 ans.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65",
+      "source_date": "2026-09-22"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Introduire une part de retraite par capitalisation pour les jeunes actifs",
+      "detail": "Rendement visé d'au moins 4 %, représentant 25 à 30 % des pensions des nouveaux entrants ; piste de financement : cotisation de 1 % du salaire brut partagée salarié/employeur.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65",
+      "source_date": "2026-09-22"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Annualiser le temps de travail et porter le seuil légal à 1 623 heures par an",
+      "detail": "Fin des 35 heures hebdomadaires : passage de 1 607 à 1 623 heures annuelles (soit environ deux jours de plus, rémunérés).",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Exonérer d'impôt et de cotisations les heures travaillées au-delà du seuil légal",
+      "detail": "Seuil « zéro cotisation » : ni impôt ni cotisations salariales et patronales (hors CSG-CRDS) au-delà de 1 607 h ; gain estimé à environ 2 800 € net/an pour un salaire de 2 115 € net.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "social",
+      "titre": "Remplacer RSA, prime d'activité et ASS par un revenu d'incitation à l'activité",
+      "detail": "Le RIA serait conditionné à 15 heures d'activité hebdomadaire et cumulable avec un salaire.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "social",
+      "titre": "Plafonner le total des aides sociales d'un foyer à 70 % du SMIC",
+      "detail": "Via un « compte social unique » retraçant l'ensemble des aides perçues ; économies estimées à environ 10 Md€.",
+      "nature": "declaration",
+      "source_url": "https://fr.finance.yahoo.com/actualites/travail-gagnant-propositions-chocs-bruno-182132757.html",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Supprimer l'indemnisation chômage après le troisième refus d'offre d'emploi",
+      "detail": "Réforme de l'assurance chômage reprenant le projet Attal, avec règles revues pour les frontaliers.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Restreindre fortement les ruptures conventionnelles",
+      "detail": "Limitation de la durée et plafonnement de l'indemnisation chômage après rupture conventionnelle (coût évalué à 9 Md€/an).",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Exonérer de cotisations les seniors en cumul emploi-retraite",
+      "detail": "Exonération des cotisations chômage et retraite pour les seniors ayant tous leurs trimestres qui continuent à travailler.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "source_date": "2026-01-07"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer dès l'élection les 50 règles les plus pénalisantes pour les entreprises",
+      "detail": "Exemples : seuil de 50 salariés relevé à 100, CSE à partir de 50 salariés, principe de précaution remplacé par un principe de responsabilité.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Refonder le code du travail sur 50 principes et renvoyer le reste à la négociation",
+      "detail": "Hors socle de 50 principes indérogeables, l'accord d'entreprise (ou de branche) primerait ; accords possibles par référendum à l'initiative de l'employeur.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Appliquer la règle du « un pour un » et créer une autorité de contrôle des normes",
+      "detail": "Tout euro de coût réglementaire nouveau compensé par la suppression d'un euro existant ; autorité indépendante dotée d'un droit de veto sur les règles excessives.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Interdire toute surtransposition des règles européennes",
+      "detail": "« La France n'imposera jamais plus que ce que l'Europe exige » ; création d'une cellule de veille réglementaire à Bruxelles.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Baisser de plus de 25 Md€ le coût du travail pour les entreprises",
+      "detail": "Via le seuil « zéro cotisation » et une baisse des cotisations patronales non contributives ; handicap fiscal réduit de 40 Md€ sur 67 Md€, avec stabilité fiscale garantie pendant 5 ans.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la C3S et la CVAE et exonérer la part industrielle de la CFE",
+      "detail": "Allègement d'environ 15 Md€ des impôts de production (C3S 5,3 Md€, CVAE 4,3 Md€, CFE industrielle 1,9 Md€) et réforme du forfait social.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Garantir aux industriels un contrat d'électricité nucléaire de long terme",
+      "detail": "Remplacer le Versement nucléaire universel par un contrat de type Exeltium sur 15 ans (jusqu'à 30 TWh/an) ; objectif de baisse jusqu'à 10 % du prix de fourniture pour l'industrie.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Imposer des clauses de réciprocité dans tous les accords commerciaux européens",
+      "detail": "Au moins 50 % des contrôles administratifs consacrés aux produits importés et extension du mécanisme d'ajustement carbone aux frontières aux produits transformés.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un Fonds France Production de 600 M€ par an piloté par les régions",
+      "detail": "Dédié à la modernisation de l'outil industriel (robotisation, automatisation), complété par un sur-amortissement fiscal et la mobilisation des friches industrielles.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Confier l'orientation et les lycées professionnels aux régions et aux entreprises",
+      "detail": "Les lycées professionnels convergeraient vers le modèle des CFA ; aides à l'apprentissage recentrées sur les niveaux bac+2 et infra et sur les jeunes NEET (aide à l'embauche de 6 000 €).",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Concentrer les financements publics de recherche sur sept secteurs stratégiques",
+      "detail": "Nucléaire nouvelle génération, IA, biotechnologies, batteries, microélectronique, cybersécurité, quantique ; jusqu'à 2 000 postes de chercheurs redéployés ; crédit d'impôt recherche sanctuarisé.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Différer les droits de succession sur le capital productif tant qu'il n'est pas cédé",
+      "detail": "Droits calculés à la transmission mais exigibles seulement en cas de cession, pour les entreprises exerçant une activité productive réelle.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Ouvrir un compte d'épargne retraite individuel pour chaque actif",
+      "detail": "Étage de retraite par épargne individuelle complémentaire, alimenté notamment par l'intéressement et la participation, visant à terme environ 1 000 Md€ investis dans l'économie.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Inscrire le parc nucléaire existant dans une trajectoire d'exploitation de 80 ans",
+      "detail": "Prolongation des réacteurs lorsque la sûreté le permet et production portée vers 400 TWh/an ; maîtrise des coûts et délais des EPR2.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Abroger le volet électricité de la PPE 3 et cesser de subventionner éolien et solaire",
+      "detail": "Appels d'offres non attribués déclarés infructueux ; suppression des avantages fiscaux et tarifaires des nouvelles installations photovoltaïques et éoliennes.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relancer un prototype de réacteur à neutrons rapides de 4e génération",
+      "detail": "Reprise immédiate des études et de la recherche expérimentale sur un démonstrateur.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Porter les stocks stratégiques d'uranium naturel à cinq ans de consommation",
+      "detail": "Volet souveraineté des chaînes de valeur énergétiques.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relancer l'hydroélectricité et les stations de pompage (STEP)",
+      "detail": "Modernisation des installations, remise à l'étude de la STEP de Redenat (1 100 MW) et déploiement de micro-STEP.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Élargir les heures creuses et sortir l'électricité des certificats d'économies d'énergie",
+      "detail": "Plages d'heures creuses élargies notamment en été, écart de prix heures pleines/creuses plus incitatif ; coefficient de conversion de l'électricité abaissé de 1,9 à 1,2.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Constituer une coalition d'États pro-nucléaires au sein de l'UE",
+      "detail": "Pour imposer la neutralité technologique dans les politiques énergétiques européennes et faire respecter la souveraineté française sur le mix énergétique.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire par une loi organique toute surtransposition des directives européennes",
+      "detail": "Y compris dans le domaine agricole ; délais d'instruction stricts et opposables sous l'autorité du préfet.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Augmenter de 30 % les effectifs de l'enseignement technique agricole d'ici 2030",
+      "detail": "Mise en œuvre amplifiée de la loi d'orientation agricole de mars 2025, de la 4e au BTSA.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Renforcer l'étiquetage de l'origine des produits agricoles, y compris transformés",
+      "detail": "Protection des dénominations alimentaires et information « loyale » du consommateur.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Faire de l'eau une ressource agricole stratégique et refonder la PAC",
+      "detail": "PAC conçue comme outil de souveraineté et de sécurisation du revenu agricole, avec rééquilibrage de la chaîne de valeur et réciprocité commerciale.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/nos-propositions/",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un Revenu familial de 240 € par mois dès le premier enfant",
+      "detail": "Fusion de 12 dispositifs en une allocation versée de la naissance à 18 ans, doublée pour le troisième enfant mineur à charge.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Développer des solutions privées de garde pour chaque enfant de moins de trois ans",
+      "detail": "Avec un accompagnement des six premiers mois de l'enfant pour préparer le retour au travail.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/nos-propositions/",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer l'objectif de zéro artificialisation nette (ZAN)",
+      "detail": "Mesure du « choc d'offre » logement, avec reversement de TVA aux communes pour chaque logement neuf.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Mettre fin aux interdictions de louer liées au DPE",
+      "detail": "Près de 450 000 logements préservés selon LR ; le DPE deviendrait un outil d'information et d'incitation.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer l'encadrement des loyers et créer un statut du bailleur privé",
+      "detail": "Avec une « tolérance zéro » contre le squat et les impayés.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Rendre déductibles les intérêts d'emprunt des familles pour la résidence principale",
+      "detail": "Déduction de 50 % avec un enfant, 75 % avec deux, 100 % à partir de trois ; PTZ simplifié et ouvert partout.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Instaurer un moratoire normatif de dix ans sur la construction de logements",
+      "detail": "Accompagné d'une « loi d'urgence Notre-Dame » pour construire et de la levée des freins à la construction hors site.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Vendre 10 % du parc social, soit environ 86 000 logements",
+      "detail": "Logement social recentré sur ceux qui travaillent et les familles ; extinction progressive du DALO ; quotas SRU remplacés par des contrats territoriaux.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer l'équivalent de 250 000 postes publics grâce à l'IA d'ici 2032",
+      "detail": "125 000 départs à la retraite non remplacés (économie nette d'environ 7,5 Md€) et 125 000 agents redéployés vers le terrain (police, école, hôpital, justice, guichets).",
+      "nature": "declaration",
+      "source_url": "https://acteurspublics.fr/articles/presidentielle-bruno-retailleau-souhaite-redeployer-125-000-fonctionnaires-sur-le-terrain-grace-a-lia/",
+      "source_date": "2026-07-07"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer un ministère de l'Intelligence artificielle de plein exercice",
+      "detail": "Avec un directeur technologique de l'État, un budget unique de transformation numérique et un assistant administratif « Marianne » pour les citoyens ; plan chiffré à 5 Md€ sur le quinquennat.",
+      "nature": "declaration",
+      "source_url": "https://acteurspublics.fr/articles/presidentielle-bruno-retailleau-souhaite-redeployer-125-000-fonctionnaires-sur-le-terrain-grace-a-lia/",
+      "source_date": "2026-07-07"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Équiper les PME en IA avec un sur-amortissement de 100 % sur trois ans",
+      "detail": "« Starter Pack IA » pour PME et ETI ; trajectoire d'environ 4 GW de capacités électriques dédiées à l'IA à l'horizon 2035-2038.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Aligner le salaire des enseignants débutants sur la moyenne européenne",
+      "detail": "Environ +135 € net par mois en début de carrière et +300 € net environ en milieu de carrière, avec une vraie gestion des ressources humaines.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer un examen d'entrée en sixième et des groupes de niveau au collège",
+      "detail": "Fin du « collège unique » ; redoublement et orientation rendus aux conseils de classe ; note chiffrée rétablie et brevet qui oriente.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Créer 1 000 établissements publics innovants dotés d'une autonomie totale",
+      "detail": "Établissements « libres » fondés sur le volontariat, pouvant adapter programmes, rythmes et calendrier.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Ramener la durée des vacances scolaires à la moyenne européenne",
+      "detail": "Davantage d'heures consacrées aux savoirs fondamentaux.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Ouvrir au moins un établissement disciplinaire par académie",
+      "detail": "Pour les élèves exclus à répétition, encadrés par des professeurs volontaires mieux rémunérés.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter les écrans et exclure toute exposition directe des élèves à l'IA avant le lycée",
+      "detail": "L'IA serait mise au service des professeurs, jamais à leur place.",
+      "nature": "programme",
+      "source_url": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer un contrat d'engagement des parents",
+      "detail": "Rappelant les règles de l'école et les droits et devoirs des familles, avec des prérogatives renforcées pour les chefs d'établissement.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "source_date": "2026-08-31"
+    }
+  ],
+  "sources_consultees": [
+    "https://acteurspublics.fr/articles/presidentielle-bruno-retailleau-souhaite-redeployer-125-000-fonctionnaires-sur-le-terrain-grace-a-lia/",
+    "https://fr.finance.yahoo.com/actualites/travail-gagnant-propositions-chocs-bruno-182132757.html",
+    "https://lcp.fr/actualites/retraites-bruno-retailleau-veut-un-age-minimal-de-depart-a-63-ans-et-un-taux-plein-a-65",
+    "https://republicains.fr/nos-propositions/",
+    "https://republicains.fr/qrtravail/",
+    "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+    "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+    "https://votons-2027.fr/candidats/retailleau/programme",
+    "https://www.defense-92.fr/politique/presidentielle-2027-bruno-retailleau-presente-a-nanterre-son-plan-durgence-contre-les-trafics-87292",
+    "https://www.franceinfo.fr/politique/les-republicains/presidentielle-2027-bruno-retailleau-largement-designe-candidat-par-les-adherents-du-parti-les-republicains_7949957.html",
+    "https://www.leclubdesjuristes.com/en-bref/presidentielle-2027-bruno-retailleau-veut-supprimer-le-droit-du-sol-par-referendum-17273/",
+    "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+    "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable"
+  ],
+  "notes": "Candidature annoncée le 12 février 2026 (Public Sénat), confirmée par les adhérents LR le 19 avril 2026 (73,4 % pour la désignation directe, franceinfo). Pas de programme unique publié : LR publie depuis janvier 2026 une série de livrets thématiques (travail/pouvoir d'achat janv., Produire plus fév., agriculture mars, électricité/famille/logement mai-juin, IA juil., école sept.) sur republicains.fr/nos-propositions ; dates exactes de mise en ligne non indiquées (source_date null). Les livrets sont présentés comme propositions du parti présidé par B. Retailleau. Thèmes encore peu documentés par des sources fiables : santé, défense, Europe hors commerce/énergie, finances publiques globales (chiffrages de 50 ou 100 Md€ d'économies vus uniquement sur des agrégateurs, non retenus). Le plan anti-trafics (Nanterre, 23/04/2026) est sourcé par un média local (defense-92.fr). Recherche web interrompue par l'épuisement du quota de recherches : certaines propositions récentes peuvent manquer.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,271 @@
+{
+  "slug": "jerome-guedj",
+  "nom": "Jérôme Guedj",
+  "parti": "Parti socialiste",
+  "bord": "gauche",
+  "statut_candidature": "retire",
+  "date_declaration": "2026-02-05",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Engagements et documents thématiques du site jeromeguedj2027.fr (« La République, c'est nous ! »)",
+    "url": "https://www.jeromeguedj2027.fr/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "sante",
+      "titre": "Créer une « Sécurité sociale intégrale » remboursant à 100 % les soins essentiels",
+      "detail": "La Sécu reprendrait progressivement ticket modérateur, forfait hospitalier et panier 100 % Santé ; jusqu'à 5,4 Md€/an d'économies de gestion et 500 à 1 000 €/an pour certains ménages.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/securite-sociale-integrale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Recentrer les mutuelles sur la prévoyance et une assurance dépendance obligatoire",
+      "detail": "Prévoyance rendue progressivement quasi obligatoire ; mutuelles chargées de la perte d'autonomie.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/securite-sociale-integrale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Renforcer l'hôpital public et attirer les soignants dans les territoires délaissés",
+      "detail": "« République du soin » : prévention, soins de proximité, accompagnement des aînés.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Imposer un ratio d'au moins 8 salariés pour 10 résidents en EHPAD",
+      "detail": "Avec revalorisation salariale immédiate des aides à domicile et personnels d'EHPAD.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-5-mesures-maladies-neurodegeneratives.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Rembourser à 100 % les thérapies non médicamenteuses des maladies neurodégénératives",
+      "detail": "Renforcer l'ALD 15 (orthophonie, psychomotricité…), reste à charge zéro pour l'adaptation du domicile, gestionnaire de cas dès le diagnostic.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-5-mesures-maladies-neurodegeneratives.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Déployer le label « Ville aidante Alzheimer » et sanctuariser la recherche",
+      "detail": "Formation des agents publics, commerçants et forces de l'ordre ; budget de recherche biomédicale et en sciences sociales sanctuarisé.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-5-mesures-maladies-neurodegeneratives.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un droit au répit opposable et un véritable statut de l'aidant",
+      "detail": "Meilleure indemnisation et revalorisation du congé de proche aidant, bilan de santé annuel, prise en compte de l'aidance pour la retraite.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Faire de la prestation de compensation du handicap un droit national",
+      "detail": "Mêmes critères sur tout le territoire, suppression des barrières d'âge, aides techniques essentielles intégralement prises en charge.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Rendre tous les établissements publics accessibles d'ici 2032",
+      "detail": "Calendrier public, responsable identifié par établissement, pouvoirs de contrôle et de sanction renforcés pour les préfets.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un service public national unique de la compensation du handicap",
+      "detail": "Ne jamais redemander une information déjà transmise ; PCH provisoire accordée sous 72 heures en cas d'urgence.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Supprimer les effets de seuil qui pénalisent les bénéficiaires de l'AAH qui travaillent",
+      "detail": "Supprimer aussi la liste des emplois à « conditions d'aptitude particulière » quand elle fait obstacle à l'emploi.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Confier à l'Éducation nationale la scolarisation de tous les enfants handicapés",
+      "detail": "Former massivement les enseignants aux handicaps ; interlocuteur unique pour le parcours de l'enfant.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Conditionner le label « France Santé » à l'accessibilité physique et numérique",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Créer un Défenseur de la laïcité, autorité indépendante",
+      "detail": "Compétent dans les services publics et dans les entreprises.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Généraliser le CV anonyme et judiciariser les testings contre les discriminations",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Planifier l'immigration par une loi votée au Parlement avec une « préférence travail »",
+      "detail": "Selon les besoins de l'économie et par secteur, en refusant le principe des quotas.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Créer une carte de séjour permanente",
+      "detail": "Avec inversion de la charge de la preuve lors des renouvellements.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conditionner l'intégration à la langue et faciliter la naturalisation des travailleurs",
+      "detail": "Intégration conditionnée à l'apprentissage du français et au respect des principes communs.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Réduire les effectifs par classe et mieux payer les enseignants",
+      "detail": "Priorité aux territoires en difficulté, rénovation des bâtiments, « empêcher que la carte scolaire devienne une carte sociale ».",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Moduler le nombre de trimestres requis selon la pénibilité de chaque métier",
+      "detail": "Pas d'âge pivot ; nouvelle réforme fondée sur la pénibilité, avec un âge du taux plein abaissé à 65 ou 66 ans.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un statut de parent isolé et verser les allocations familiales dès le premier enfant",
+      "detail": "Statut couvrant logement et garde d'enfants.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rendre accessible une voiture électrique à 10 000-15 000 euros",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Plafonner les marges des raffineurs et des distributeurs de carburant",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Limiter les aides aux entreprises qui maintiennent leurs salariés au SMIC trop longtemps",
+      "detail": "Soutien prioritaire aux entreprises qui augmentent les rémunérations.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter réellement les bas salaires et renforcer la participation aux profits",
+      "detail": "Maîtriser les prix de l'énergie et encadrer les mutations du travail liées à l'IA.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/lettre",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Faire contribuer grands patrimoines et hauts revenus sans alourdir les classes moyennes",
+      "detail": "Lutte contre la fraude et l'évasion fiscales et les rentes, pour restaurer les comptes publics.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/lettre",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rénover massivement les logements et développer les transports du quotidien",
+      "detail": "« Écologie du concret » : effort porté d'abord par les plus gros pollueurs, relocalisation d'une industrie verte.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Réindustrialiser les secteurs stratégiques et investir dans l'IA",
+      "detail": "Faire de l'éducation, de la recherche et de l'université la priorité du quinquennat.",
+      "nature": "programme",
+      "source_url": "https://www.jeromeguedj2027.fr/",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer les moyens de la police et de la justice contre les grands trafics",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://jeromeguedj2027.fr/lettre",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Bâtir une Europe capable de se défendre et tenir une ligne ferme face à la Russie",
+      "detail": "Met en garde contre une « paix munichoise » en Ukraine.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.jeromeguedj2027.fr/",
+    "https://jeromeguedj2027.fr/lettre",
+    "https://jeromeguedj2027.fr/actualites",
+    "https://jeromeguedj2027.fr/docs/securite-sociale-integrale.pdf",
+    "https://jeromeguedj2027.fr/docs/mes-10-engagements-handicap.pdf",
+    "https://jeromeguedj2027.fr/docs/mes-5-mesures-maladies-neurodegeneratives.pdf",
+    "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+    "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+    "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+    "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
+  ],
+  "notes": "Député PS de l'Essonne, candidat déclaré à la présidentielle le 5 février 2026 (France Inter), hors primaire de la gauche unitaire ; a rejoint la primaire PS / Place publique / GRS le 23 août 2026. Dernier du premier tour le 11 octobre 2026 (5,83 %) ; aurait appelé à soutenir Raphaël Glucksmann (selon CNews, article non consulté directement) et s'était engagé, comme tous les candidats, à soutenir le vainqueur : statut « retire ». Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Le site jeromeguedj2027.fr est édité par l'« Association de Jérôme Guedj 2027 » (« site de soutien à la candidature ») ; ses propositions et PDF ne sont pas datés. Livre « La République, c'est nous ! » (août 2026) non consulté. Sources de presse sur les retraites contradictoires (certains agrégateurs lui prêtent un retour à 62 ans ; LCP rapporte l'absence d'âge pivot et une modulation par la pénibilité).",
+  "verifie_le": "2026-10-12"
+}

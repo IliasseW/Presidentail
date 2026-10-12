@@ -1,0 +1,160 @@
+{
+  "slug": "eric-zemmour",
+  "nom": "Éric Zemmour",
+  "parti": "Reconquête",
+  "bord": "extreme-droite",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-09-17",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Pas de programme 2027 publié ; consultation « Le programme pour la France » (Sarah Knafo) en cours",
+    "url": "https://leprogrammepourlafrance.fr/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "immigration",
+      "titre": "Passer de l'« immigration zéro » à l'« immigration négative » (remigration)",
+      "detail": "Objectif de départs supérieurs aux arrivées, défini comme le renvoi des criminels, des clandestins et de ceux qui vivent de l'assistanat ; réaffirmé à Port-Marly le 13 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.lejdd.fr/politique/ce-nest-pas-un-fantasme-eric-zemmour-plaide-pour-la-remigration-183399",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser tous les étrangers détenus dans les prisons françaises",
+      "detail": "Ils représentent selon lui 25 % des détenus.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+      "source_date": "2026-09-18"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser les étrangers condamnés qui purgent leur peine hors de prison",
+      "detail": "Sont visés les condamnés sous bracelet électronique ou soumis à des travaux d'intérêt général.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+      "source_date": "2026-09-18"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Renvoyer les étrangers en situation irrégulière",
+      "detail": "Annoncé sur BFMTV le 17 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+      "source_date": "2026-09-18"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser les étrangers au chômage depuis plus d'un an, même en situation régulière",
+      "detail": "Seuil d'un an retenu après une hésitation avec six mois ; aucune exception précisée (résidents de longue durée, parents d'enfants français, réfugiés…).",
+      "nature": "declaration",
+      "source_url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+      "source_date": "2026-09-22"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Expulser les étrangers vivant uniquement des aides sociales",
+      "detail": "Il invoque un article du droit des étrangers de 1945 selon lequel un étranger à la charge des finances publiques doit être expulsé.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+      "source_date": "2026-09-18"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Appliquer la « préférence nationale »",
+      "detail": "L'une des cinq priorités du tract national de Reconquête diffusé en octobre 2026, sans détail de mise en œuvre.",
+      "nature": "programme",
+      "source_url": "https://presseagence.fr/paris-reconquete-le-parti-deric-zemmour-lance-une-campagne-de-tractage-nationale",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "economie",
+      "titre": "Remplacer la main-d'œuvre immigrée par la robotisation",
+      "detail": "Accélérer la robotisation de l'économie pour réduire le recours à la main-d'œuvre étrangère ; il salue les progrès de l'intelligence artificielle.",
+      "nature": "declaration",
+      "source_url": "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+      "source_date": "2026-09-18"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Baisser massivement les dépenses publiques pour baisser tous les impôts",
+      "detail": "« Baisser massivement les dépenses pour pouvoir baisser massivement les impôts » ; projet préparé avec Sarah Knafo ne comportant « que des baisses ». Formule du tract 2026 : « Dépenser moins pour taxer moins ».",
+      "nature": "declaration",
+      "source_url": "https://fr.finance.yahoo.com/actualites/baisser-d%C3%A9penses-baisser-imp%C3%B4ts-eric-190503666.html",
+      "source_date": "2025-10-29"
+    },
+    {
+      "theme": "economie",
+      "titre": "Promouvoir le travail, la propriété et la transmission du patrimoine",
+      "detail": "Priorité du tract national de Reconquête d'octobre 2026, sans mesures détaillées.",
+      "nature": "programme",
+      "source_url": "https://presseagence.fr/paris-reconquete-le-parti-deric-zemmour-lance-une-campagne-de-tractage-nationale",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir une école exigeante centrée sur les savoirs fondamentaux",
+      "detail": "Grammaire, dictée, calcul mental, langues anciennes et grands textes ; « réformer l'école pour relever son niveau » figure parmi les cinq priorités du tract.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Relancer massivement le nucléaire",
+      "detail": "L'une des quatre priorités sur l'intelligence artificielle annoncées à Port-Marly.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Réserver le surplus d'électricité nucléaire aux infrastructures d'IA",
+      "detail": "Priorité annoncée lors du discours de clôture de l'université d'été de Reconquête.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Renforcer la formation à l'intelligence artificielle",
+      "detail": "Priorité annoncée à Port-Marly le 13 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Faciliter la création d'entreprises françaises d'IA",
+      "detail": "Priorité annoncée à Port-Marly le 13 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "societe",
+      "titre": "S'opposer aux restrictions des réseaux sociaux et au règlement européen DSA",
+      "detail": "Présenté comme une défense de la liberté d'expression face à la régulation d'internet.",
+      "nature": "declaration",
+      "source_url": "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/",
+      "source_date": "2026-09-13"
+    }
+  ],
+  "sources_consultees": [
+    "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-eric-zemmour-confirme-qu-il-sera-candidat-durcit-encore-son-discours-sur-l-immigration-20260918",
+    "https://leprogrammepourlafrance.fr/",
+    "https://www.parti-reconquete.fr/",
+    "https://www.ifrap.org/comparateurs/presidentielles-2027",
+    "https://www.lejdd.fr/politique/ce-nest-pas-un-fantasme-eric-zemmour-plaide-pour-la-remigration-183399",
+    "https://www.ici.fr/infos/politique/election-presidentielle-eric-zemmour-confirme-qu-il-sera-candidat-6722190",
+    "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+    "https://presseagence.fr/paris-reconquete-le-parti-deric-zemmour-lance-une-campagne-de-tractage-nationale",
+    "https://fr.finance.yahoo.com/actualites/baisser-d%C3%A9penses-baisser-imp%C3%B4ts-eric-190503666.html",
+    "https://www.bvoltaire.fr/nous-sommes-en-train-de-manquer-notre-siecle-zemmour-lance-reconquete-vers-2027/"
+  ],
+  "notes": "Candidature annoncée le jeudi 17 septembre 2026 sur BFMTV (« Je serai candidat à l'élection présidentielle ») ; LCP parle d'officialisation, mais Europe 1 et l'AFP la décrivent comme non formelle, une déclaration officielle étant attendue à l'automne. Aucun programme 2027 publié au 12/10/2026. Le site leprogrammepourlafrance.fr, plateforme participative lancée par Sarah Knafo, présente les contributions comme « la matière première du programme de 2027 » ; aucune proposition validée n'y est encore affichée. Le tract national d'octobre 2026 liste cinq priorités : immigration négative, préférence nationale, baisse des dépenses pour baisser les impôts, travail, propriété et transmission, réforme de l'école. Les propositions de septembre 2026 sur l'immigration viennent d'interviews ; aucun texte écrit ni proposition de loi ne les précise. Le comparateur iFRAP attribue à Zemmour environ 70 mesures (immigration, justice, emploi, énergie, référendums…). Elles correspondent largement au programme de 2022 (ministère de la Remigration, 10 000 places de prison, IS à 15 % pour les PME, etc.) et n'ont pas été retenues faute de reprise explicite depuis 2025. Non retenues non plus : une proposition sur les lycéens bloqueurs (« faire payer » les parents), connue seulement par des titres d'agrégateurs, et les positions sur les retraites et la fin de vie relevées sur des agrégateurs non fiables. Boulevard Voltaire, source de plusieurs items du discours de Port-Marly, est un média engagé : les propositions y sont rapportées, pas commentées. Europe 1, CNews et Midi Libre étaient inaccessibles (403).",
+  "verifie_le": "2026-10-12"
+}

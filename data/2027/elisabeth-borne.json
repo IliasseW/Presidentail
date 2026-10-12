@@ -1,0 +1,35 @@
+{
+  "slug": "elisabeth-borne",
+  "nom": "Élisabeth Borne",
+  "parti": "Renaissance (simple adhérente) ; mouvement « Bâtissons ensemble »",
+  "bord": "centre",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {"theme": "institutions", "titre": "Instaurer un septennat présidentiel unique non renouvelable", "detail": "Proposition de son livre « Réveillons-nous ! » (Robert Laffont, 7 mai 2026).", "nature": "livre", "source_url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne", "source_date": "2026-05-06"},
+    {"theme": "institutions", "titre": "Faire présider le Conseil des ministres par le Premier ministre", "detail": "Premier ministre responsable devant le Parlement.", "nature": "livre", "source_url": "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays", "source_date": "2026-05-19"},
+    {"theme": "institutions", "titre": "Introduire une dose de proportionnelle aux élections législatives", "detail": "Proportion non précisée.", "nature": "livre", "source_url": "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays", "source_date": "2026-05-19"},
+    {"theme": "institutions", "titre": "Revoir la procédure de dissolution de l'Assemblée", "detail": "Décision jugée « trop importante pour dépendre de la seule intuition d'un président ».", "nature": "declaration", "source_url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne", "source_date": "2026-05-06"},
+    {"theme": "institutions", "titre": "Légiférer moins et mieux appliquer les lois existantes", "detail": "Moins de nouvelles lois, plus d'effort de mise en œuvre.", "nature": "declaration", "source_url": "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays", "source_date": "2026-05-19"},
+    {"theme": "territoires", "titre": "Renforcer l'autonomie fiscale des collectivités locales", "detail": "Sans plan précis de rétablissement de la taxe d'habitation.", "nature": "declaration", "source_url": "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays", "source_date": "2026-05-19"},
+    {"theme": "travail_retraites", "titre": "Faire travailler plus longtemps ceux qui le peuvent", "detail": "Sans chiffrage ni détail de réforme.", "nature": "declaration", "source_url": "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays", "source_date": "2026-05-19"},
+    {"theme": "economie", "titre": "Créer un impôt minimal de 15 % pour les plus aisés", "detail": "Proposition du livre « Réveillons-nous ! ».", "nature": "livre", "source_url": "https://info.fr/borne-demission-renaissance-attal-presidentielle/", "source_date": "2026-05-06"},
+    {"theme": "immigration", "titre": "Créer un ministère de l'Immigration et de l'Intégration", "detail": "Proposition du livre « Réveillons-nous ! ».", "nature": "livre", "source_url": "https://info.fr/borne-demission-renaissance-attal-presidentielle/", "source_date": "2026-05-06"}
+  ],
+  "sources_consultees": [
+    "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+    "https://www.sudradio.fr/linvite-politique/elisabeth-borne-une-femme-presidente-ce-serait-une-bonne-chose-pour-notre-pays",
+    "https://info.fr/borne-demission-renaissance-attal-presidentielle/",
+    "https://lcp.fr/actualites/presidentielle-en-cas-de-duel-rn-lfi-elisabeth-borne-ne-votera-ni-pour-l-un-ni-pour-l",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://lcp.fr/index%2Ephp/actualites/elisabeth-borne-sur-lcp-pour-2027-je-souhaite-que-soit-portee-la-voix-du-bloc-central"
+  ],
+  "notes": "Non candidate déclarée au 12 octobre 2026 ; pas de programme. Le 6 mai 2026, elle quitte la direction de Renaissance (reste simple adhérente), critique la ligne de Gabriel Attal et dit que la présidentielle n'est « pas du tout le sens de [sa] démarche » ; le 19 mai sur Sud Radio, elle dit se projeter dans les législatives sans exclure la présidentielle. Le 10 juin 2026, elle appelle au rassemblement de la « gauche réformiste » et de la « droite modérée ». Les propositions viennent de son livre « Réveillons-nous ! » (Robert Laffont, 7 mai 2026), connu par des comptes rendus de presse, non consulté directement. Impôt minimal de 15 % et ministère de l'Immigration : source unique (info.fr), à confirmer. Mesures de 2025 sur la formation des enseignants (alors ministre de l'Éducation) exclues car relevant de l'action gouvernementale.",
+  "verifie_le": "2026-10-12"
+}

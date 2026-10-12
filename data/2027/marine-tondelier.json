@@ -1,0 +1,546 @@
+{
+  "slug": "marine-tondelier",
+  "nom": "Marine Tondelier",
+  "parti": "Les Écologistes",
+  "bord": "ecologiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2025-12-08",
+  "programme": {
+    "statut": "complet",
+    "titre": "Pour une prospérité écologique — le nouveau programme des Écologistes (557 mesures)",
+    "url": "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet",
+    "date_publication": "2026-07-13"
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter le SMIC et indexer les bas salaires sur l'inflation",
+      "detail": "Priorité n°1 du socle proposé à la gauche ; montant non précisé dans ce texte (la presse cite des chiffres divergents).",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Investir massivement dans les renouvelables et l'isolation thermique",
+      "detail": "Pour sortir des dépendances aux énergies fossiles.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Financer les services publics par une réforme fiscale visant les ultra-riches",
+      "detail": "Santé et éducation notamment.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "logement",
+      "titre": "Garantir le droit au logement pour toutes et tous",
+      "detail": "Orientation générale du socle commun.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Instaurer une sécurité sociale écologique, dont une sécurité sociale de l'alimentation",
+      "detail": "Mesure reprise dans son discours des Journées d'été 2026.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Développer les trains du quotidien et créer un « ticket climat »",
+      "detail": "Développement des transports en commun et accessibilité financière via un ticket climat.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Faire du soin et de l'enfance des secteurs non lucratifs",
+      "detail": "Sortie du secteur lucratif pour le soin et l'enfance.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Augmenter de 15 % le salaire des enseignants sur le quinquennat",
+      "detail": "Avec un investissement dans la recherche publique.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Planifier la renaissance industrielle en priorisant les secteurs stratégiques",
+      "detail": "Sans détail sectoriel dans ce texte.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Réinstaurer une police de proximité",
+      "detail": "« Au service de la population ».",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Consacrer 3 Md€ à la lutte contre les violences faites aux femmes et aux enfants",
+      "detail": "Périodicité (annuelle ou sur le quinquennat) non précisée.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Étendre la gratuité des musées nationaux et améliorer le régime des intermittents",
+      "detail": "Sans chiffrage.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Reconnaître les aidants familiaux et bâtir une société inclusive du handicap",
+      "detail": "Orientation générale.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs sans papiers",
+      "detail": "Et accorder des titres de séjour pluriannuels automatiquement renouvelables.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Fonder une 6e République écologique, parlementaire et décentralisée",
+      "detail": "Redonner le pouvoir aux citoyens et aux territoires.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Empêcher la concentration des médias entre les mains de milliardaires",
+      "detail": "Le programme culture prévoit aussi une loi anti-concentration des industries culturelles.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Relancer le Pacte vert européen pour l'autonomie stratégique de l'UE",
+      "detail": "Autonomie énergétique, alimentaire, industrielle et technologique.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+      "source_date": "2026-04-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Revenir immédiatement à un âge minimum de départ à 62 ans",
+      "detail": "Objectif de 60 ans pour les carrières longues et les métiers pénibles (abrogation de la réforme de 2023).",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Planifier la sortie du nucléaire en une vingtaine d'années",
+      "detail": "Fermeture progressive du parc, avec prolongations possibles sous strictes conditions de sûreté.",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer une taxe de 2 % sur les patrimoines de plus de 100 millions d'euros",
+      "detail": "Impôt plancher de type « taxe Zucman ».",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un « ISF climatique »",
+      "detail": "Impôt sur la fortune tenant compte de l'empreinte carbone des patrimoines ; taux non précisé dans les sources consultées.",
+      "nature": "programme",
+      "source_url": "https://www.aefinfo.fr/depeche/754375-les-ecologistes-presentent-leur-programme-pour-une-republique-ecologique-et-citoyenne",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Bloquer les prix en cas d'inflation anormale",
+      "detail": "Blocage ciblé plutôt que gel général ; incitation à hausser les bas salaires via la réduction des exonérations de cotisations.",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Reconnaître l'État de Palestine et interdire les produits des colonies",
+      "detail": "Interdiction à l'échelle de l'UE des produits issus des colonies israéliennes et retrait israélien complet de Gaza.",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "defense",
+      "titre": "Poursuivre le soutien militaire à l'Ukraine",
+      "detail": "Soutien à Kyiv inscrit au programme.",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Retirer les LBD et dissoudre la BRAV-M",
+      "detail": "Mesures de maintien de l'ordre inscrites au programme.",
+      "nature": "programme",
+      "source_url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+      "source_date": "2026-07-13"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Créer une assurance-chômage pour les artistes-auteurs",
+      "detail": "Financée par une hausse de 5 % de la cotisation des diffuseurs.",
+      "nature": "programme",
+      "source_url": "https://actualitte.com/article/132683/politique-publique/presidentielle-que-proposent-les-ecologistes-pour-la-culture-et-le-livre",
+      "source_date": "2026-07-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Rémunérer les œuvres utilisées pour entraîner les IA",
+      "detail": "Avec un droit d'opposition des artistes à tout usage commercial ou numérique de leurs créations.",
+      "nature": "programme",
+      "source_url": "https://actualitte.com/article/132683/politique-publique/presidentielle-que-proposent-les-ecologistes-pour-la-culture-et-le-livre",
+      "source_date": "2026-07-15"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Réviser le Pass Culture et préserver le prix unique du livre",
+      "detail": "Révision « en profondeur » du Pass Culture, garantie du maillage des bibliothèques, loi anti-concentration des industries culturelles.",
+      "nature": "programme",
+      "source_url": "https://actualitte.com/article/132683/politique-publique/presidentielle-que-proposent-les-ecologistes-pour-la-culture-et-le-livre",
+      "source_date": "2026-07-15"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Adopter une loi sanctionnant le mensonge en politique",
+      "detail": "Sur le modèle gallois : sanctions graduées de la rectification publique jusqu'à l'inéligibilité et la révocation pour mensonge factuel délibéré.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/il-faut-interdire-le-mensonge-en-politique",
+      "source_date": "2026-09-04"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un congé climatique pour les travailleurs",
+      "detail": "Sur le modèle espagnol, pour protéger les salariés lors de fortes chaleurs et catastrophes climatiques.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/vague-chaleur-conge-climatique-yolanda-diaz",
+      "source_date": "2026-05-23"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Instaurer des prix planchers garantissant un revenu digne aux agriculteurs",
+      "detail": "Soutien à la proposition de loi écologiste (revenu minimum équivalent à 2 SMIC) et renforcement des services de remplacement.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/pour-nouveau-pacte-agricole",
+      "source_date": "2026-06-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Créer une Dotation Nouvel Agriculteur sans critère d'âge",
+      "detail": "En complément de la Dotation Jeune Agriculteur, pour faciliter les installations.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/pour-nouveau-pacte-agricole",
+      "source_date": "2026-06-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Instaurer une « exception agricole » face aux traités de libre-échange",
+      "detail": "Sur le modèle de l'exception culturelle ; transition agroécologique conditionnée à une garantie de revenus sur 3 ans.",
+      "nature": "declaration",
+      "source_url": "https://marinetondelier.fr/blog/pour-nouveau-pacte-agricole",
+      "source_date": "2026-06-08"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rendre imprescriptibles tous les crimes commis contre des mineurs",
+      "detail": "Mesure clé du livret « Pour un pays à hauteur d'enfants ».",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer des centres d'urgence pour victimes de violences sexuelles (modèle belge)",
+      "detail": "Gratuits, ouverts 24h/24, guichet unique : soins, constat médico-légal, soutien psychologique, dépôt de plainte.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Interdire le secteur lucratif dans la protection de l'enfance et la petite enfance",
+      "detail": "Avec un plan d'investissement pluriannuel dans la protection de l'enfance.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Accompagner les jeunes sortant de l'ASE jusqu'à 25 ans",
+      "detail": "Accompagnement financier spécifique pour les jeunes sans soutien familial ; minimum social accessible dès 18 ans aux personnes fiscalement indépendantes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "logement",
+      "titre": "Interdire les remises à la rue des familles avec enfants",
+      "detail": "Principe de protection inconditionnelle inscrit dans la loi et création immédiate de 10 000 places d'hébergement d'urgence.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer un ministère de l'Enfance et une Assemblée nationale des enfants",
+      "detail": "Ministère englobant l'Éducation nationale et la politique familiale.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Instaurer un statut de famille monoparentale",
+      "detail": "Droits spécifiques d'accès aux modes de garde, défiscalisation plafonnée des pensions alimentaires perçues.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recruter 9 000 magistrats, 10 000 greffiers et 7 000 attachés de justice en 10 ans",
+      "detail": "Avec des juridictions et magistrats spécialisés sur les violences sexistes et sexuelles dans chaque tribunal (modèle espagnol).",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Lancer un plan d'urgence pour la santé scolaire",
+      "detail": "Pourvoir 800 postes de médecins et 1 000 de psychologues vacants, recruter 7 500 infirmiers scolaires, +500 € en début de carrière.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Porter l'EPS à 4 heures par semaine au collège et 3 heures au lycée",
+      "detail": "Avec apprentissage de la nage pour tous et plan de rénovation des équipements sportifs.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer un fonds vert pour l'école de 2 milliards d'euros par an",
+      "detail": "Rénovation des 130 millions de m² de bâtiments scolaires ; objectif 100 % de cours d'école végétalisées et débitumées en 2035.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Interdire les produits ultra-transformés dans les cantines scolaires",
+      "detail": "Et la publicité télévisée pour les produits trop sucrés ou salés avant 21 h ; plafond national de sucres ajoutés.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Interdire le design addictif pour les mineurs et les écrans à l'école avant 6 ans",
+      "detail": "Paramètres de limitation par défaut pour les comptes des jeunes, interdiction de la publicité visant les enfants y compris via les influenceurs.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer les tests osseux pour les mineurs non accompagnés",
+      "detail": "Présomption de minorité, évaluation refondue nationalement et fin du placement d'enfants en centres de rétention à Mayotte.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer une filière de catégorie B pour les AESH",
+      "detail": "Déprécarisation des accompagnants d'élèves en situation de handicap.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+      "source_date": "2026-09-17"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Sortir des pesticides de synthèse et des engrais azotés d'ici 2050",
+      "detail": "Dans le cadre d'un nouveau pacte agricole État-paysans pour une transition accompagnée vers l'agroécologie.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Interdire les perturbateurs endocriniens dans les produits du quotidien",
+      "detail": "Notamment contenants alimentaires, textiles, protections hygiéniques et cosmétiques.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Appliquer la règle « 300/30/3 » d'accès à la nature",
+      "detail": "Espace vert à moins de 300 m, 30 % de couvert végétal par quartier, trois arbres visibles depuis chaque logement.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Élargir systématiquement le principe pollueur-payeur",
+      "detail": "Faire contribuer les industriels à la dépollution des nappes et des sols et à la recherche d'alternatives.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer 500 nouvelles Maisons France Services",
+      "detail": "Objectif : personne à plus de 15 minutes d'un accueil physique ; droit à la non-connexion administrative.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Augmenter la Tascom pour préserver cafés et commerces de proximité",
+      "detail": "Hausse de la taxe sur les surfaces commerciales des grandes enseignes pour aider les communes.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Développer la prescription sociale contre la solitude",
+      "detail": "Orientation des patients par les soignants vers des activités collectives ; mesure clé d'un livret de 30 propositions.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Autoriser le diagnostic préimplantatoire des aneuploïdies (DPI-A)",
+      "detail": "Dans des indications médicales ciblées et un cadre éthique défini, pour les parcours de FIV.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre effective l'éducation à la vie affective et sexuelle (EVARS)",
+      "detail": "Heures banalisées, budget dédié et cadre national commun à tous les établissements.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un droit à l'adaptation du travail à la santé reproductive",
+      "detail": "Aménagements en cas de règles incapacitantes, pathologies gynécologiques, AMP, grossesse, post-partum, ménopause.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recruter 40 000 nouveaux sapeurs-pompiers d'ici 2040",
+      "detail": "Et atteindre 10 000 camions-citernes feux de forêts d'ici 2030, nouveaux bombardiers d'eau.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Doter les glaciers d'une personnalité juridique",
+      "detail": "Avec un « plan de sauvegarde des glaciers » obligatoire dans les zones concernées.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Limiter à 90 jours par an la location touristique en zones littorales tendues",
+      "detail": "Et un seul meublé de courte durée par propriétaire, sauf compensation par un logement loué à l'année.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer un Fonds national d'adaptation du littoral",
+      "detail": "Pour financer renaturation, acquisitions foncières, recomposition spatiale et relocalisation.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les importations de produits de la pêche hors normes européennes",
+      "detail": "Réduire la consommation de produits de la mer importés issus de modèles destructeurs.",
+      "nature": "programme",
+      "source_url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://marinetondelier.fr/",
+    "https://marinetondelier.fr/livrets-thematiques",
+    "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain",
+    "https://marinetondelier.fr/blog/il-faut-interdire-le-mensonge-en-politique",
+    "https://marinetondelier.fr/blog/vague-chaleur-conge-climatique-yolanda-diaz",
+    "https://marinetondelier.fr/blog/pour-nouveau-pacte-agricole",
+    "https://marinetondelier.fr/blog/discours-jde",
+    "https://marinetondelier.fr/blog/abolition-privilege-climatique-nuit-4-aout-2027",
+    "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+    "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+    "https://marinetondelier.fr/s/Livret-solitude.pdf",
+    "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+    "https://marinetondelier.fr/s/Livret-montagne.pdf",
+    "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+    "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+    "https://www.aefinfo.fr/depeche/754375-les-ecologistes-presentent-leur-programme-pour-une-republique-ecologique-et-citoyenne",
+    "https://actualitte.com/article/132683/politique-publique/presidentielle-que-proposent-les-ecologistes-pour-la-culture-et-le-livre",
+    "https://www.enfancejeunesseinfos.fr/presidentielle-2027-marine-tondelier-presente-son-programme-sur-la-protection-de-lenfance/",
+    "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture",
+    "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
+    "https://lesecologistes.fr/posts/4DGpyusxBAU4xQPexfncsx/marine-tondelier-designee-pour-representer-les-ecologistes-a-l-election-presidentielle",
+    "https://en.wikipedia.org/wiki/2026_United_Left_primary"
+  ],
+  "notes": "Désignée candidate des Écologistes le 8/12/2025 (86 % des voix, vote interne du 5 au 8 décembre) ; une candidature avait été évoquée dès octobre 2025 (non vérifié). La primaire unitaire de la gauche prévue le 11/10/2026 a échoué après le choix du PS d'une primaire fermée (juillet 2026). Le 21/09/2026 le Conseil fédéral a adopté (69,44 %) une motion actant cet échec : elle reste officiellement candidate, mais un référendum interne (10-13 décembre 2026) tranchera entre sa candidature et le ralliement à un autre candidat de gauche ; candidature donc susceptible d'être retirée. Programme : 'Pour une prospérité écologique' (557 mesures, ~208 p.), adopté à 95 % par le Conseil fédéral et présenté le 13/07/2026 ; c'est un programme de parti, lié depuis marinetondelier.fr/le-programme. Le site lesecologistes.fr (dont le PDF du programme) est protégé par un challenge Cloudflare et n'a pas pu être lu : les mesures du programme sont reprises de la presse (Parlons Politique, AEF, ActuaLitté) et des livrets thématiques officiels lisibles sur marinetondelier.fr (enfance 17/09/2026 ; santé environnementale, solitude, santé reproductive, montagne, littoraux : dates de publication non affichées, source_date null). Les '21 priorités' (17/04/2026) sont un socle proposé aux partenaires de gauche. Montant du SMIC incertain (2 000 € brut ou 1 600 € net selon des sites non vérifiés ; Parlons Politique indique que le programme ne fixerait pas de hausse directe) : non retenu. Échéance de sortie du nucléaire : ~20 ans selon Parlons Politique, non vérifiée dans le texte officiel. Recherche web interrompue (quota atteint) : liste non exhaustive des 557 mesures.",
+  "verifie_le": "2026-10-12"
+}

@@ -1,0 +1,567 @@
+{
+  "slug": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "parti": "Rassemblement national",
+  "bord": "extreme-droite",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-07-07",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Contre-budget 2027 du RN et trajectoire 2027-2032, présentés le 6 octobre 2026 (pas encore de programme présidentiel complet)",
+    "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+    "date_publication": "2026-10-06"
+  },
+  "propositions": [
+    {
+      "theme": "finances_publiques",
+      "titre": "Réaliser 140 milliards d'euros d'économies nettes d'ici 2032",
+      "detail": "Objectif du contre-budget 2027 du RN : 140 Md€ nets d'économies en 2032 par rapport à 2026 (125 Md€ annoncés fin août devant le Medef).",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ramener le déficit public sous 3 % du PIB dès 2030",
+      "detail": "Le RN vise un déficit sous 3 % du PIB en 2030 et une dette ramenée à 112 % du PIB en 2032 ; retour à l'équilibre du solde primaire visé 18 mois après l'arrivée à l'Élysée.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Inscrire une règle d'or budgétaire dans la Constitution par référendum",
+      "detail": "Plafond de déficit fixé au niveau qui stabilise la dette, imposant une baisse annuelle de la dette ; référendum envisagé dans les douze mois suivant l'élection.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Baisser les impôts d'au moins 30 milliards d'euros nets sur le quinquennat",
+      "detail": "Baisse nette d'impôts annoncée dans le contre-budget 2027 présenté le 6 octobre 2026.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer plus de 120 taxes",
+      "detail": "Mesure du contre-budget 2027, sans chiffrage détaillé selon la presse.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Centraliser les recettes de TVA et les répartir chaque année",
+      "detail": "Recettes de TVA centralisées puis transférées aux collectivités et à la Sécurité sociale selon les besoins estimés par le Parlement ; fin des reconductions automatiques de dépenses sans visa du ministre des Comptes publics.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer la quasi-totalité des agences et organismes de l'État jugés inutiles",
+      "detail": "Économie affichée de 3,4 Md€ en 2027 sur les agences et opérateurs ; la réorganisation de l'État doit rapporter 20,7 Md€ dès 2027.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ne pas remplacer 201 000 départs dans les agences et collectivités d'ici 2032",
+      "detail": "85 000 postes non remplacés dans les agences et 116 000 dans les collectivités d'ici 2032 (départs non remplacés, pas de licenciements).",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Baisser la dotation globale de fonctionnement des régions et des EPCI",
+      "detail": "Baisse de 5 Md€ de la DGF des régions et des EPCI inscrite au contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire les subventions aux associations ne relevant pas de l'intérêt général",
+      "detail": "Économie attendue de 3,7 Md€ à partir de 2028 selon le contre-budget 2027.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire le train de vie de l'État (Élysée, Assemblée, Sénat, CESE)",
+      "detail": "Économie chiffrée à 0,513 Md€ dans le contre-budget 2026 du RN.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Renforcer la lutte contre les fraudes fiscale et sociale",
+      "detail": "Plan de lutte contre les fraudes chiffré à 3,5 Md€ de recettes dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire fortement l'aide publique au développement",
+      "detail": "« Forte baisse » de l'aide publique au développement inscrite au contre-budget 2027, sans chiffrage publié.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer trois impôts de production : CFE, CVAE et C3S",
+      "detail": "Suppression de la CFE (8,8 Md€), de la CVAE (2,6 Md€) et de la C3S (4,8 Md€), soit 16,2 Md€.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Remplacer l'IFI par un impôt sur la fortune financière (IFF)",
+      "detail": "L'IFF remplacerait l'IFI et la taxe sur les holdings ; recette estimée à 4 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer une taxe sur les rachats d'actions",
+      "detail": "Recette estimée à 8,4 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer les superdividendes et les transactions financières intra-journalières",
+      "detail": "Taxe sur les superdividendes (0,75 Md€ dans le tableau, 1,3 Md€ dans la synthèse) et taxe sur les transactions intra-journalières (3 Md€).",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Prendre une « golden share » de l'État dans Atos, Arcelor et Opella",
+      "detail": "Mesure de « souveraineté économique » chiffrée à 0,496 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Assouplir le pacte Dutreil contre une détention de 10 ans",
+      "detail": "Annulation de la taxation en cas de détention de 10 ans ; coût estimé à 0,5 Md€.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "economie",
+      "titre": "Exempter les ETI de la surtaxe d'impôt sur les sociétés (« super-IS »)",
+      "detail": "Coût estimé à 0,5 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser la TVA sur l'énergie de 20 % à 5,5 %",
+      "detail": "Gaz, électricité, carburants, bois et fioul ; coût estimé à 10,96 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Supprimer la TVA sur 100 produits de première nécessité",
+      "detail": "Coût estimé à 3,5 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer le barème de l'impôt sur le revenu et la CSG sur l'inflation",
+      "detail": "Coût estimé à 1,9 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Accorder une part fiscale pleine dès le deuxième enfant",
+      "detail": "Coût estimé à 2,86 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Généraliser la demi-part fiscale pour les veufs et veuves",
+      "detail": "Coût estimé à 1 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer une allocation sociale unique",
+      "detail": "Mesure citée dans le contre-budget 2027, sans détail de périmètre.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Ramener l'âge légal de départ à 62 ans, 60 ans pour les carrières longues",
+      "detail": "Départ à 62 ans, et à 60 ans pour ceux qui ont commencé avant 20 ans et cotisé 40 ans ; le RN chiffre la mesure à 9 Md€.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/societe/marine-le-pen-et-la-delicate-operation-seduction-du-monde-economique",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un pilier de retraite par capitalisation",
+      "detail": "Annonce d'une « grande réforme » de la capitalisation, contenu non détaillé ; 15 à 20 Md€ d'économies attendues à terme sur les retraites par « correction de mesures injustes ».",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Maintenir l'indexation des pensions sur l'inflation",
+      "detail": "Maintien de l'indexation des pensions sur l'inflation inscrit au contre-budget 2027.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Supprimer les cotisations retraite et chômage des seniors qui continuent à travailler",
+      "detail": "Incitation à travailler après l'âge de la retraite, présentée devant le Medef le 27 août 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/societe/marine-le-pen-et-la-delicate-operation-seduction-du-monde-economique",
+      "source_date": "2026-08-28"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Organiser dès l'élection un référendum constitutionnel sur l'immigration",
+      "detail": "Selon Jordan Bardella : expulsion des étrangers condamnés, fin du droit du sol et du regroupement familial, priorité nationale pour les prestations, asile durci, fin de la primauté du droit européen dans plusieurs domaines (article 11).",
+      "nature": "declaration",
+      "source_url": "https://www.epochtimes.fr/elue-presidente-marine-le-pen-convoquerait-demblee-un-referendum-pour-reviser-largement-la-constitution-3341213.html",
+      "source_date": "2026-09-05"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Réserver les prestations de solidarité aux étrangers ayant 5 ans de travail",
+      "detail": "Prestations de solidarité réservées aux étrangers ayant travaillé au moins 5 ans à temps plein en France ; économie estimée à 6,1 Md€.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Remplacer l'AME par une aide médicale d'urgence (AMU)",
+      "detail": "Économie estimée à 1,3 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le visa pour soins",
+      "detail": "Économie estimée à 1 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Mettre fin à l'accord franco-algérien de 1968",
+      "detail": "Économie estimée à 1,3 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Renvoyer les étrangers sans emploi depuis un an ne pouvant subvenir à leurs besoins",
+      "detail": "Économie estimée à 1,11 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Augmenter les frais de scolarité des étudiants étrangers",
+      "detail": "Hors conventions interétatiques ; recette estimée à 1,1 Md€.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Instaurer un timbre sur les visas touristiques",
+      "detail": "Recette estimée à 0,8 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "logement",
+      "titre": "Appliquer la priorité nationale au logement social et réserver les APL aux Français",
+      "detail": "Annoncé comme l'un des « grands chantiers » du quinquennat lors de la rentrée à Hénin-Beaumont.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abroger la loi SRU",
+      "detail": "Fin de l'obligation faite aux communes de disposer d'une part de logements sociaux.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Permettre la vente d'un certain nombre de HLM à des Français",
+      "detail": "Annonce du discours de rentrée du 13 septembre 2026, sans chiffre.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Expulser les familles délinquantes des logements sociaux",
+      "detail": "Annonce du discours de rentrée du 13 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Céder gratuitement des terrains publics aux constructeurs contre des loyers modérés",
+      "detail": "Terrains publics mis à disposition en échange de « milliers d'appartements » à loyer modéré ; transformation de bureaux vacants en logements.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Remplacer MaPrimeRénov' par un prêt à taux zéro « 100 % Rénov »",
+      "detail": "Dispositif « 100 % rénov' » pour l'isolation et la climatisation reposant sur un prêt à taux zéro.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Mettre fin aux diagnostics de performance énergétique (DPE)",
+      "detail": "Qualifiés de « politique absurde » lors du discours de rentrée.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer l'objectif de zéro artificialisation nette (ZAN)",
+      "detail": "Objectif fixé à 2050, qualifié de « norme idéologique ».",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+      "source_date": "2026-09-13"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Supprimer les subventions au solaire et à l'éolien et geler les nouveaux projets",
+      "detail": "Fin des tarifs de rachat des énergies intermittentes (plus de 5 Md€ attendus la première année) et moratoire sur les nouveaux projets renouvelables.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Supprimer la plupart des agences environnementales",
+      "detail": "L'OFB, l'Anses, les agences de l'eau et l'Ademe sont citées parmi les agences visées.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Transformer le Fonds vert en fonds contre les risques climatiques",
+      "detail": "Fonds abondé de 100 M€ supplémentaires.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Réorienter le malus automobile en faveur des véhicules fabriqués en France",
+      "detail": "Malus maintenu mais pénalisant les voitures produites dans des conditions polluantes.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Viser la neutralité carbone avant 2050",
+      "detail": "Objectif annoncé pour un « nouveau programme écologique » à venir, dans le respect de l'accord de Paris ; nucléaire, hydraulique et géothermie à la place du solaire et de l'éolien.",
+      "nature": "declaration",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Plafonner la contribution nette de la France au budget de l'UE à 5 milliards d'euros",
+      "detail": "Contre près de 29 Md€ en 2026 selon la presse ; 9 Md€ d'économies attendues sur la contribution française.",
+      "nature": "programme",
+      "source_url": "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Faire payer aux États de l'UE trop polluants une contribution carbone",
+      "detail": "Prélèvement fondé sur l'intensité carbone de leur économie.",
+      "nature": "programme",
+      "source_url": "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "defense",
+      "titre": "Quitter le commandement intégré de l'OTAN, mais pas pendant la guerre en Ukraine",
+      "detail": "Marine Le Pen maintient la volonté de sortir du commandement intégré, en la conditionnant à la fin de la guerre.",
+      "nature": "declaration",
+      "source_url": "https://kyivpost.com/post/85353",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Arrêter l'aide financière à l'Ukraine tout en maintenant formation et aide militaire",
+      "detail": "Fin de l'aide financière française à Kyiv, mais formation des soldats et de l'encadrement ukrainiens et aide militaire possibles.",
+      "nature": "declaration",
+      "source_url": "https://kyivpost.com/post/85353",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire le voile islamique dans l'espace public par référendum",
+      "detail": "Interdiction par étapes (bâtiments publics, universités, fonction publique d'abord), sanction par amende évoquée ; inscrite au programme 2027 selon le RN.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+      "source_date": "2026-08-31"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les EPCI et les métropoles",
+      "detail": "Économie estimée à environ 250 M€ ; simplification des compétences pour mettre fin au « millefeuille » territorial.",
+      "nature": "programme",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+      "source_date": "2026-10-06"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les conseils économiques, sociaux et environnementaux régionaux",
+      "detail": "Suppression des CESER, économie estimée à 40 M€.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Augmenter le budget de la mission Outre-mer de 700 millions d'euros",
+      "detail": "Pour renforcer les infrastructures et la compétitivité des entreprises ultramarines.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Réformer l'octroi de mer",
+      "detail": "Coût estimé à 0,5 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Baisser la dotation à l'audiovisuel public",
+      "detail": "Économie de 0,154 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Supprimer les aides à la presse, hors avantage postal",
+      "detail": "Économie de 0,177 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "sante",
+      "titre": "Délivrer les médicaments à l'unité",
+      "detail": "Économie estimée à 0,55 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "sante",
+      "titre": "Contrôler systématiquement l'éligibilité aux affections de longue durée (ALD)",
+      "detail": "Économie estimée à 0,45 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Taxer l'utilisation du réseau par les géants du numérique",
+      "detail": "Recette estimée à 0,55 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    },
+    {
+      "theme": "education",
+      "titre": "Réserver les aides à l'apprentissage aux étudiants avant la licence",
+      "detail": "Économie estimée à 1,6 Md€ dans le contre-budget 2026.",
+      "nature": "programme",
+      "source_url": "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "source_date": "2025-10-23"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/politique/marine-le-pen/je-suis-candidate-a-l-election-presidentielle-marine-le-pen-annonce-son-pourvoi-en-cassation-apres-sa-condamnation-allegee-en-appel_8098361.html",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+    "https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html",
+    "https://www.publicsenat.fr/actualites/politique/condamnation-de-marine-le-pen-malgre-son-pourvoi-en-cassation-est-elle-toujours-ineligible-comme-laffirment-plusieurs-juristes",
+    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-a-2032_8224807.html",
+    "https://atlantico.fr/article/decryptage/retraite-62-ans-marine-le-pen-bertrand-martinot-cout-reforme",
+    "https://www.sudradio.fr/societe/interdiction-du-voile-le-referendum-du-rn-peut-il-vraiment-aboutir",
+    "https://www.ifrap.org/comparateurs/presidentielles-2027",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://www.rassemblementnational.fr/",
+    "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+    "https://www.planetegrandesecoles.com/budget-marine-le-pen-2027-mesures-contre-budget-rn",
+    "https://www.rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+    "https://vert.eco/chaleurs-actuelles/marine-le-pen-presente-le-contre-budget-du-rn-pour-2027-une-attaque-contre-les-renouvelables-et-les-agences-environnementales/",
+    "https://www.sudradio.fr/societe/marine-le-pen-et-la-delicate-operation-seduction-du-monde-economique",
+    "https://www.epochtimes.fr/elue-presidente-marine-le-pen-convoquerait-demblee-un-referendum-pour-reviser-largement-la-constitution-3341213.html",
+    "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/lens/marine-le-pen-fait-sa-rentree-politique-a-henin-beaumont-et-met-la-priorite-nationale-au-c-ur-de-son-programme-pour-la-presidentielle-de-2027-3416348.html",
+    "https://kyivpost.com/post/85353",
+    "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle"
+  ],
+  "notes": "Candidature annoncée le 7 juillet 2026 au 20h de TF1, quelques heures après l'arrêt de la cour d'appel de Paris (affaire des assistants parlementaires du FN). La cour a confirmé la culpabilité mais allégé les peines : 3 ans d'emprisonnement dont 2 avec sursis (1 an ferme sous bracelet électronique), 100 000 € d'amende et 45 mois d'inéligibilité dont 30 avec sursis, sans exécution provisoire. Les 15 mois fermes, courant depuis le 31 mars 2025, sont considérés comme purgés avant le scrutin. Marine Le Pen a annoncé un pourvoi en cassation, qui selon elle suspend la peine, dont le bracelet. Des juristes divergent : certains estiment que le pourvoi ferait revivre l'inéligibilité de première instance assortie de l'exécution provisoire, d'autres le contestent. L'éligibilité relèvera in fine du Conseil constitutionnel. La Cour de cassation a indiqué pouvoir statuer « au plus tard début avril 2027 ». Jordan Bardella, président du RN, devait être candidat si elle avait été empêchée. Il n'est pas candidat déclaré ; elle le présente comme son futur Premier ministre. Programme : aucun programme présidentiel complet publié au 12/10/2026. Le contre-budget 2027 (140 Md€ d'économies d'ici 2032) a été présenté le 6/10/2026, mais son document n'a pas été trouvé en ligne : les mesures 2027 viennent de la presse (Public Sénat, Planète Grandes Écoles, Vert). Les mesures chiffrées détaillées viennent du contre-budget 2026 officiel du RN (PDF, conférence du 23/10/2025), reprises ici comme propositions réaffirmées depuis 2025. Une réforme des retraites avec pilier de capitalisation et un programme écologique ont été annoncés pour plus tard. Le comparateur iFRAP liste d'autres mesures (santé, agriculture, éducation, numérique, sécurité), sans date ni source, et dont beaucoup semblent reprises du programme 2022. Elles n'ont pas été retenues faute de confirmation depuis 2025. Sources non consultables : Europe 1 (403) et document du contre-budget 2027 (404).",
+  "verifie_le": "2026-10-12"
+}

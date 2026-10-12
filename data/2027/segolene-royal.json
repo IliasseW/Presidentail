@@ -1,0 +1,126 @@
+{
+  "slug": "segolene-royal",
+  "nom": "Ségolène Royal",
+  "parti": "Parti socialiste",
+  "bord": "gauche",
+  "statut_candidature": "retire",
+  "date_declaration": "2026-07-10",
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Plafonner le prix de l'essence à 1,70 euro le litre jusqu'au 31 décembre",
+      "detail": "En s'inspirant de l'Espagne ; mesure générale plutôt que ciblée.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Organiser une conférence salariale après la présidentielle",
+      "detail": "Avec négociations de branche et aides aux entreprises conditionnées.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Rétablir l'impôt de solidarité sur la fortune (ISF)",
+      "detail": "Seul impôt nouveau envisagé ; elle en fait un préalable à tout débat sur les retraites.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+      "source_date": "2026-08-31"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer les aides injustifiées aux entreprises et réformer le train de vie de l'État",
+      "detail": "Exclut tout effacement, même partiel, de la dette.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "social",
+      "titre": "Refuser le transfert des cotisations sociales vers le budget de l'État",
+      "detail": "Opposition à la baisse de CSG compensée par l'État proposée par Raphaël Glucksmann, jugée « dangereuse ».",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Revenir à l'âge légal de départ à 62 ans",
+      "detail": "Abrogation de la réforme de 2023.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Appliquer la tolérance zéro envers les agresseurs et les violences faites aux enfants",
+      "detail": "Dans le cadre d'un « ordre juste » pour l'éducation, la santé et la sécurité du quotidien.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+      "source_date": "2026-07-10"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Appliquer les décisions de la COP21 face à l'urgence climatique",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+      "source_date": "2026-07-10"
+    },
+    {
+      "theme": "economie",
+      "titre": "Décréter une « urgence énergétique » pour les PME",
+      "detail": "Contenu non détaillé.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+      "source_date": "2026-07-10"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Faire de la France une « puissance médiatrice »",
+      "detail": "Redonner à la France une stature diplomatique.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+      "source_date": "2026-07-10"
+    },
+    {
+      "theme": "defense",
+      "titre": "Combiner soutien à l'Ukraine et négociation avec la Russie",
+      "detail": "Diplomatie en priorité pour « une paix juste et durable », sans exclure de négocier avec Moscou.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Reconnaître un génocide à Gaza",
+      "detail": "Position exprimée lors du premier débat (23 septembre 2026).",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+      "source_date": "2026-10-09"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/elections/presidentielle/segolene-royal-annonce-qu-elle-participera-a-la-primaire-socialiste-en-vue-de-l-election-presidentielle_8102696.html",
+    "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste",
+    "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+    "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+    "https://lcp.fr/actualites/primaire-de-gauche-sur-les-accords-avec-lfi-la-fracture-eclate-entre-les-candidats",
+    "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+    "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+    "https://www.franceinfo.fr/elections/presidentielle/lors-du-premier-debat-de-la-primaire-socialiste-segolene-royal-mise-en-difficulte-sur-l-ukraine-et-israel_8207075.html",
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+    "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
+  ],
+  "notes": "Candidate à la primaire annoncée le 10 juillet 2026 (slogan « L'ordre juste – La France tranquille »). 3e au premier tour le 11 octobre 2026 (7,62 %) ; engagée à soutenir le vainqueur Raphaël Glucksmann : statut « retire ». Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Aucun programme écrit trouvé : seulement cinq priorités annoncées (ordre juste, urgence climatique, urgence énergétique, protection des enfants, France médiatrice) et des positions de débat. Son éventuelle profession de foi de primaire n'a pas pu être consultée (choisir2027.fr en erreur 503). Pistes relevées uniquement sur un agrégateur (objectif2027.fr, d'après les vidéos des débats) et non retenues : blocage des prix d'un panier de produits de première nécessité, baisse de la TVA sur les carburants de 20 % à 10 %, réduction des strates administratives, IA contre la fraude fiscale, commission permanente de négociation sur l'Ukraine.",
+  "verifie_le": "2026-10-12"
+}

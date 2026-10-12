@@ -1,0 +1,304 @@
+{
+  "slug": "francois-hollande",
+  "nom": "François Hollande",
+  "parti": "Parti socialiste",
+  "bord": "gauche",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "Unir. Nouveau monde, nouvelle gauche (livre-programme, Robert Laffont)",
+    "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+    "date_publication": "2026-09-03"
+  },
+  "propositions": [
+    {
+      "theme": "travail_retraites",
+      "titre": "Fixer l'âge de départ à la retraite à 63 ans",
+      "detail": "Âge pivot à 63 ans (contre un retour à 62 ans défendu par le PS), tenant compte de l'allongement de l'espérance de vie.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Allonger progressivement la durée de cotisation selon l'espérance de vie",
+      "detail": "Allongement indexé sur l'évolution de l'espérance de vie et l'équilibre démographique.",
+      "nature": "livre",
+      "source_url": "https://lesinguliersete.fr/francois-hollande-se-remet-en-marche-avec-un-livre-qui-decoiffe-son-camp-et-vise-le-centre/",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Limiter à 1 % par an pendant cinq ans la revalorisation des pensions",
+      "detail": "Selon l'auteur, la mesure rapporterait autant qu'un report d'un an de l'âge de départ.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Introduire une part de capitalisation dans les retraites",
+      "detail": "Part de capitalisation encadrée/contrôlée par les partenaires sociaux.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser les cotisations salariales pour augmenter le salaire net d'environ 10 %",
+      "detail": "Hausse du salaire net estimée par l'auteur à « à peu près 10 % » pour tous les salariés, compensée par la TVA et une taxation des revenus financiers.",
+      "nature": "livre",
+      "source_url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "economie",
+      "titre": "Relever progressivement le taux normal de TVA de 20 % à 24 %",
+      "detail": "Hausse de 4 points destinée à compenser pour la Sécurité sociale la baisse des cotisations salariales (logique de « TVA sociale »).",
+      "nature": "livre",
+      "source_url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Ramener de 5,5 % à 0 % la TVA sur l'alimentation et les travaux énergétiques",
+      "detail": "Taux zéro sur les produits alimentaires et les travaux énergétiques selon Public Sénat ; Sud Radio/AFP évoque une suppression du taux réduit et un traitement ponctuel similaire pour les carburants.",
+      "nature": "livre",
+      "source_url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer davantage les revenus financiers",
+      "detail": "Prélèvement accru sur les revenus du capital pour financer, avec la TVA, la baisse des cotisations salariales.",
+      "nature": "livre",
+      "source_url": "https://lesinguliersete.fr/francois-hollande-se-remet-en-marche-avec-un-livre-qui-decoiffe-son-camp-et-vise-le-centre/",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "economie",
+      "titre": "Faire contribuer les patrimoines de plus de 10 millions d'euros et les gros héritages",
+      "detail": "Contribution des patrimoines supérieurs à 10 M€ bruts et des grosses successions ; pas de taux précisé dans la presse.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rejeter la taxe Zucman sur les ultra-riches",
+      "detail": "Hollande juge la taxe Zucman « un slogan. Pas une réponse ».",
+      "nature": "declaration",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "economie",
+      "titre": "Réduire les impôts de production en diminuant les aides aux entreprises",
+      "detail": "Baisse financée par la réduction des aides publiques aux entreprises.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "economie",
+      "titre": "Porter à 30 % la part des salariés dans les conseils d'administration",
+      "detail": "Renforcement de la représentation des salariés dans la gouvernance des entreprises.",
+      "nature": "livre",
+      "source_url": "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+      "source_date": "2026-09-03"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Écarter une hausse significative du SMIC",
+      "detail": "Le livre privilégie la baisse des cotisations salariales plutôt qu'un relèvement important du salaire minimum.",
+      "nature": "livre",
+      "source_url": "https://www.politis.fr/articles/2026/08/la-droite-a-un-nouveau-candidat-il-sappelle-francois-hollande/",
+      "source_date": "2026-08-31"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Négocier avec les partenaires sociaux sur les effets de l'IA sur l'emploi",
+      "detail": "Négociation globale proposée, sans détail chiffré.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "education",
+      "titre": "Instaurer des quotas sociaux dans les écoles privées",
+      "detail": "Objectif de mixité sociale dans l'enseignement privé ; quotas non chiffrés dans la presse.",
+      "nature": "livre",
+      "source_url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+      "source_date": "2026-08-27"
+    },
+    {
+      "theme": "education",
+      "titre": "Réduire les effectifs par classe",
+      "detail": "Baisse du nombre d'élèves par classe (un seuil de 19 élèves est cité par certains comptes rendus, non vérifié dans une source de référence).",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer des classes de remise à niveau en fin de primaire et avant l'université",
+      "detail": "Dispositifs de rattrapage aux deux transitions scolaires.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Doter chaque élève d'un répétiteur d'intelligence artificielle",
+      "detail": "Sous la supervision des enseignants.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer un programme Erasmus pour l'enseignement secondaire",
+      "detail": "Mobilité européenne étendue aux collégiens/lycéens.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "education",
+      "titre": "Ouvrir à tous les élèves un enseignement du travail manuel",
+      "detail": "Sans précision sur le volume horaire.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "social",
+      "titre": "Étendre le service civique à 300 000 jeunes avec un chèque de 10 000 €",
+      "detail": "Service civique pour environ la moitié d'une classe d'âge, assorti d'une bourse de 10 000 € (chèque « entrée dans la vie » selon Sud Radio/AFP) et du permis de conduire gratuit.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "social",
+      "titre": "Verser les allocations familiales dès le premier enfant",
+      "detail": "Aujourd'hui versées à partir du deuxième enfant.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "social",
+      "titre": "Rendre obligatoire un congé parental pour les pères",
+      "detail": "Sans précision sur la durée.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer un compte carbone individuel",
+      "detail": "Dans le cadre d'une planification écologique fondée sur l'investissement dans la décarbonation.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Lancer une voiture électrique populaire avec l'appui de l'État",
+      "detail": "Associée à une « réindustrialisation verte ».",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Ramener le déficit public à 3 % du PIB en fin de mandat",
+      "detail": "Objectif de trajectoire budgétaire sur le quinquennat.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Fixer chaque année un quota d'immigration de travail",
+      "detail": "Politique migratoire « plus ferme, fondée sur le travail », avec des volumes annuels.",
+      "nature": "livre",
+      "source_url": "https://www.politis.fr/articles/2026/08/la-droite-a-un-nouveau-candidat-il-sappelle-francois-hollande/",
+      "source_date": "2026-08-31"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Durcir les règles du regroupement familial",
+      "detail": "Resserrement des conditions, non chiffré dans la presse.",
+      "nature": "livre",
+      "source_url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+      "source_date": "2026-08-27"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Faire exécuter les OQTF et réduire les délais d'asile",
+      "detail": "Exécution des obligations de quitter le territoire, expulsion des étrangers délinquants, raccourcissement de l'instruction des demandes d'asile.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Imposer l'apprentissage du français et des valeurs civiques aux étrangers",
+      "detail": "Avec un contrôle accru du nombre d'étudiants étrangers.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Accroître les places de prison et prioriser la lutte contre le narcotrafic",
+      "detail": "Équilibre prévention/sanction et meilleure coordination entre polices municipales et nationale.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Adopter une loi sur le pluralisme de la presse et de l'édition",
+      "detail": "Avec maintien du budget de la culture.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Organiser un référendum sur un acte majeur de décentralisation",
+      "detail": "Transfert aux collectivités de nombreuses politiques (écologie, logement, action économique) et révision de la taille et des compétences des échelons territoriaux.",
+      "nature": "livre",
+      "source_url": "https://contrepoints.org/francois-hollande-veut-encore-parachever-la-decentralisation/",
+      "source_date": "2026-09-27"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Donner la priorité à l'Europe et à une défense européenne commune",
+      "detail": "Orientation générale ; pas de mesure détaillée dans les sources consultées.",
+      "nature": "livre",
+      "source_url": "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+      "source_date": "2026-09-02"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+    "https://www.sudradio.fr/societe/presidentielle-hollande-fait-ses-propositions-pour-seduire-jusquau-centre",
+    "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+    "https://lesinguliersete.fr/francois-hollande-se-remet-en-marche-avec-un-livre-qui-decoiffe-son-camp-et-vise-le-centre/",
+    "https://www.politis.fr/articles/2026/08/la-droite-a-un-nouveau-candidat-il-sappelle-francois-hollande/",
+    "https://librejournal.fr/article/la-nouvelle-gauche-francois-hollande/",
+    "https://contrepoints.org/francois-hollande-veut-encore-parachever-la-decentralisation/",
+    "https://www.reference-entreprise.com/le-nouveau-livre-de-hollande-un-manifeste-programmatique-pour-la-presidentielle/",
+    "https://actu.orange.fr/politique/retraite-a-63-ans-hausse-de-la-tva-immigration-francois-hollande-trace-sa-feuille-de-route-en-vue-de-la-presidentielle-magic-CNT000002rGYQq.html",
+    "https://www.titrespresse.com/20039922603/francois-hollande-unir",
+    "https://www.contexte.com/fr/actualite/pouvoirs/comment-francois-hollande-veut-revoir-le-fonctionnement-des-institutions-francaises_276591",
+    "https://www.usnews.com/news/world/articles/2026-09-28/frances-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says"
+  ],
+  "notes": "Député PS de Corrèze, non candidat officiel : il ne participe pas à la primaire du PS (remportée par Raphaël Glucksmann selon des titres de presse d'octobre 2026, non vérifié en détail) et annoncera sa décision en décembre 2026 ; le 28/09/2026 (Reuters/la Repubblica) il dit qu'il ne se présentera que s'il voit une réelle chance de gagner. Le livre 'Unir. Nouveau monde, nouvelle gauche' (Robert Laffont, 3/09/2026, 304 p.) contiendrait 80 à près de 100 propositions selon les médias (88 selon Politis) ; le texte du livre n'a pas été consulté, les propositions sont reprises de la presse. Divergence sur la TVA réduite : Public Sénat parle d'un passage de 5,5 % à 0 % sur alimentation et travaux énergétiques, Sud Radio/AFP d'une 'suppression du taux réduit'. Plusieurs mesures (école, famille, compte carbone, immigration détaillée, déficit 3 %) ne sont attestées que par un article de Libre Journal (commentaire), à recouper. Aucune source consultée ne détaille ses positions sur le nucléaire, l'Ukraine ou les institutions nationales (Contexte annonce un volet institutionnel, réservé aux abonnés). Pas de page officielle de programme trouvée ; l'URL de programme renvoie à l'article franceinfo.",
+  "verifie_le": "2026-10-12"
+}

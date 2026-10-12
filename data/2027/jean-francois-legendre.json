@@ -1,0 +1,223 @@
+{
+  "slug": "jean-francois-legendre",
+  "nom": "Jean-François Legendre",
+  "parti": "À nous maintenant",
+  "bord": "divers",
+  "statut_candidature": "declare",
+  "date_declaration": null,
+  "programme": {
+    "statut": "complet",
+    "titre": "Manifeste « 64 % : vers une alternative citoyenne en France »",
+    "url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le RIC et le référendum d'initiative gouvernementale (RIG)",
+      "detail": "RIC sur des textes proposés par le peuple et validés par signatures ; RIG à l'initiative du président, sans limite annuelle ; le résultat ferait loi, mis en œuvre par l'Assemblée.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Consulter les citoyens par échantillons tirés au sort à trois niveaux",
+      "detail": "Consultations en ligne d'un million puis de dix millions de personnes tirées au sort, puis référendum général, avec information préalable.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer l'article 49.3",
+      "detail": "Dans le cadre d'une révision de la Constitution redéfinissant le rôle des assemblées.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer une assemblée citoyenne hors partis chargée des efforts budgétaires",
+      "detail": "L'assemblée proposerait les économies budgétaires, ensuite soumises à référendum ; le manifeste souhaite à terme la disparition des partis politiques.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Revenir à l'équilibre budgétaire de l'État, de la Sécurité sociale et des retraites",
+      "detail": "Ne plus financer le fonctionnement par la dette (déficit d'environ 150 Md€ par an, dette de 3 500 Md€, 80 Md€ d'intérêts), l'emprunt restant admis pour l'investissement.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire les dépenses sans créer de nouvelles taxes",
+      "detail": "Efforts portant sur les remboursements, le chômage, les prestations, les niches fiscales et les aides aux entreprises, avec études d'impact des aides.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Limiter les hausses d'impôt aux hauts revenus et lutter contre l'optimisation fiscale",
+      "detail": "Contrôles renforcés, taxation de la finance internationale et limitation des flux vers les paradis fiscaux.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Prendre en compte les heures de bénévolat dans le calcul de l'impôt",
+      "detail": "Mesure du volet fiscal du manifeste.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Exonérer d'impôts les entreprises pendant leurs trois premières années",
+      "detail": "Aucun impôt et charges sociales symboliques pendant trois ans ; procédures d'alerte et intervention de l'État pour sauver les entreprises « méritantes ».",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Relocaliser la production des biens stratégiques",
+      "detail": "Médicaments, masques, vaccins, poudre militaire, engrais, semences ; transformer le bois en France plutôt qu'exporter les grumes.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Imposer des durées de garantie contre l'obsolescence programmée",
+      "detail": "Avec généralisation de la consigne des bouteilles en verre et suppression progressive des emballages non essentiels.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Simplifier l'achat de bons du Trésor par les particuliers",
+      "detail": "Mesure du volet économique du manifeste.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Faire de l'agriculture biologique la priorité économique",
+      "detail": "Augmentation de la production nationale et réduction des produits phytosanitaires.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Créer un numéro d'urgence pour les agriculteurs et un revenu minimum",
+      "detail": "Visites et solutions en priorité absolue via les chambres d'agriculture ; idée d'un salaire minimum pour les petits agriculteurs.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer un ministère de la Relocalisation verte en lien avec les maires",
+      "detail": "Encourager l'installation dans les campagnes et villes moyennes et relancer fermes, commerces et sites industriels ruraux.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir de l'ARENH et du marché EPEX de l'électricité",
+      "detail": "Le manifeste évoque une perte annuelle de 50 Md€ pour EDF ; opposition à la privatisation des barrages hydroélectriques.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Soutenir le nucléaire et la recherche sur la fusion",
+      "detail": "Avec reboisement, « dé-bétonnage », décarbonation et application des « 5R » (refuser, réduire, réparer, réutiliser, recycler).",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "S'opposer à l'accord UE-Mercosur et renégocier certaines directives",
+      "detail": "Renégociation des directives jugées pénalisantes ; réforme de l'unanimité dans l'UE et du droit de veto à l'ONU.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Maintenir une armée de 250 000 militaires et développer les drones",
+      "detail": "Budget annuel de 50 Md€ et refus d'une « économie de guerre ».",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer de nouvelles unités du RAID et du GIGN",
+      "detail": "Ouverture de commissariats là où c'est nécessaire, peines alourdies et effectivement appliquées, moyens accrus pour la justice.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Exiger une demande préalable en ambassade pour l'immigration économique",
+      "detail": "Les migrants clandestins ne recevraient aucune aide et seraient renvoyés vers leur pays d'origine.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Limiter l'accueil humanitaire à un séjour temporaire sans naturalisation",
+      "detail": "Retour prévu, travaux bénévoles ; accueil conditionné à la garantie financière d'un contribuable français.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Revoir le regroupement familial et réduire l'aide médicale d'État",
+      "detail": "L'AME est jugée « incohérente » par le manifeste.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Ramener la scolarité primaire et secondaire à 12 ans au lieu de 15",
+      "detail": "Avec davantage de stages et des journées thématiques ; réflexion sur la pertinence du baccalauréat.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Encadrer l'intelligence artificielle par la loi",
+      "detail": "L'IA est jugée à risque pour l'esprit critique ; enseignement d'un usage positif des réseaux sociaux.",
+      "nature": "programme",
+      "source_url": "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://www.anousmaintenant.fr/",
+    "https://docs.google.com/document/d/1G4dUZaI20umZghEgSgRGCQeiWDJ2fiwhLZvtUK7hofc/edit?usp=sharing",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html"
+  ],
+  "notes": "Ancien chef d'entreprise de 70 ans (Alpes-de-Haute-Provence), présenté comme candidat du mouvement citoyen « À nous maintenant » (site anousmaintenant.fr, quatre piliers : démocratie par RIC/RIG, sortie de la spirale de la dette, revitalisation des territoires, respect de l'environnement). Recensé comme candidat déclaré par franceinfo (03/10/2026). Date de déclaration non trouvée. Programme détaillé contenu dans un manifeste Google Docs signé J.-F. Legendre, lié depuis le site officiel, non daté (données citées de 2025) et modifiable à tout moment. Plusieurs points du manifeste sont des constats ou pistes de réflexion (baccalauréat, disparition des partis) plutôt que des engagements fermes. Seules sources : documents du mouvement et franceinfo ; aucune couverture médiatique nationale du programme. Parrainages non acquis.",
+  "verifie_le": "2026-10-12"
+}

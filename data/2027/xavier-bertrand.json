@@ -1,0 +1,129 @@
+{
+  "slug": "xavier-bertrand",
+  "nom": "Xavier Bertrand",
+  "parti": "Nous France (candidature annoncée comme indépendante ; membre de LR)",
+  "bord": "droite",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "aucun",
+    "titre": null,
+    "url": null,
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Effectuer un seul mandat présidentiel de cinq ans",
+      "detail": "« Si je suis candidat, ce sera pour un seul mandat de cinq ans » pour être « débarrassé de l'obsession de la réélection ».",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+      "source_date": "2026-08-02"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Bâtir une « République des territoires » en desserrant la tutelle de Paris",
+      "detail": "Projet défendu avec Jean-Louis Borloo : l'État se concentrerait sur ses missions essentielles et laisserait davantage d'initiative aux collectivités.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+      "source_date": "2026-08-02"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Ne pas faire de la culture une variable d'ajustement budgétaire",
+      "detail": "Engagement exprimé dans l'entretien à Ouest-France.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+      "source_date": "2026-08-02"
+    },
+    {
+      "theme": "social",
+      "titre": "Faire des classes moyennes la priorité du projet présidentiel",
+      "detail": "Grande ligne annoncée dans Le Figaro ; aucune mesure chiffrée à ce stade.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+      "source_date": "2026-08-03"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire les dépenses sociales",
+      "detail": "Grande ligne annoncée dans Le Figaro, sans montant ni cible précisés.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+      "source_date": "2026-08-03"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Défendre une retraite par capitalisation",
+      "detail": "Grande ligne annoncée dans Le Figaro, sans modalités détaillées.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+      "source_date": "2026-08-03"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Soumettre à référendum le projet d'autonomie de la Corse",
+      "detail": "« On ne peut pas faire tout ça sans référendum » ; propose un nouveau pacte entre l'État et la Corse, avec une loi organique encadrant le pouvoir législatif.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/l-etat-regarde-la-corse-avec-suffisance-les-propositions-de-xavier-bertrand-a-l-aube-de-l-election-presidentielle-3399214.html",
+      "source_date": "2026-08-12"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Réduire le coût des transports entre la Corse et le continent",
+      "detail": "Avec un allongement de la saison touristique et un meilleur accès au logement pour les jeunes et les classes moyennes.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/l-etat-regarde-la-corse-avec-suffisance-les-propositions-de-xavier-bertrand-a-l-aube-de-l-election-presidentielle-3399214.html",
+      "source_date": "2026-08-12"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer les moyens des sapeurs-pompiers et punir plus sévèrement les incendiaires",
+      "detail": "Effectifs, matériel et formation renforcés, débroussaillage développé et application plus stricte du code pénal aux incendiaires volontaires.",
+      "nature": "declaration",
+      "source_url": "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/l-etat-regarde-la-corse-avec-suffisance-les-propositions-de-xavier-bertrand-a-l-aube-de-l-election-presidentielle-3399214.html",
+      "source_date": "2026-08-12"
+    },
+    {
+      "theme": "sante",
+      "titre": "Adopter une grande loi pluriannuelle de santé coconstruite avec les soignants",
+      "detail": "Proposée avec Yannick Neuder ; refus de modifier le système de négociation conventionnelle entre médecins et Assurance maladie.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Revenir sur les surtranspositions françaises des normes européennes agricoles",
+      "detail": "Faire de la stratégie agricole une priorité nationale « avec les agriculteurs et non contre eux », l'alimentation relevant selon lui du régalien.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refuser l'application en l'état de l'accord UE-Mercosur",
+      "detail": "Saisir la Cour de justice de l'UE si le Parlement européen ne s'y oppose pas.",
+      "nature": "declaration",
+      "source_url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://france3-regions.franceinfo.fr/corse/corse-du-sud/ajaccio/l-etat-regarde-la-corse-avec-suffisance-les-propositions-de-xavier-bertrand-a-l-aube-de-l-election-presidentielle-3399214.html",
+    "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+    "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+    "https://www.nousfrance.fr/",
+    "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+    "https://www.nousfrance.fr/2026/08/xavier-bertrand-fait-un-pas-de-plus-vers-une-candidature-a-la-presidentielle-le-monde/",
+    "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+    "https://www.nousfrance.fr/2026/09/je-tiens-a-ma-liberte-a-la-braderie-de-saint-quentin-la-campagne-prudente-de-xavier-bertrand-figaro/",
+    "https://www.nousfrance.fr/2026/09/presidentielle-2027-xavier-bertrand-candidat-en-embuscade/",
+    "https://www.nousfrance.fr/programme/europe/",
+    "https://www.nousfrance.fr/programme/immigration/",
+    "https://www.nousfrance.fr/programme/pouvoir-achat/",
+    "https://www.nousfrance.fr/programme/travail/"
+  ],
+  "notes": "Le 27 août 2026 (université d'été du Medef), X. Bertrand a confirmé qu'il serait candidat (« Je le serai ») mais a précisé que « le moment n'est pas venu » de se déclarer officiellement (LCP, Le Monde). Il annonce une déclaration officielle en candidat indépendant entre mi-octobre et la fin 2026 (Ouest-France ; article « candidat en embuscade » repris sur nousfrance.fr le 29/09/2026) ; Le Figaro (07/09/2026) le qualifie de « candidat non déclaré ». Statut codé « pressenti » pour cette raison, à requalifier en « declare » lors de l'annonce officielle. Aucun programme publié : il dit « tester ses idées » et préparer un projet global. Les pages « programme » de nousfrance.fr datent de 2021-2024 (primaire LR 2021) et ne sont pas retenues faute de reprise explicite depuis 2025. Les propositions issues de l'entretien au Parisien (janv. 2026) relèvent en partie du débat budgétaire 2026. Propositions immigration/sécurité vues sur Europe 1 non retenues (dates non vérifiables, probablement 2021). Recherche web interrompue par l'épuisement du quota de recherches.",
+  "verifie_le": "2026-10-12"
+}

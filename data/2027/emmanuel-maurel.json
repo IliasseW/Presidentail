@@ -1,0 +1,365 @@
+{
+  "slug": "emmanuel-maurel",
+  "nom": "Emmanuel Maurel",
+  "parti": "Gauche républicaine et socialiste",
+  "bord": "gauche",
+  "statut_candidature": "retire",
+  "date_declaration": "2026-09-04",
+  "programme": {
+    "statut": "complet",
+    "titre": "Programme – Emmanuel Maurel 2027 (« Démondialiser, démarchandiser, démocratiser »)",
+    "url": "https://emmanuel-maurel.fr/programme/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "economie",
+      "titre": "Lancer un grand emprunt national de 300 milliards d'euros dès 2027",
+      "detail": "Pour financer l'investissement, la transition écologique et la réindustrialisation ; objectif de croissance d'au moins 2 % par an.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un ministère de l'Industrie doté d'un fonds souverain",
+      "detail": "Indépendant de Bercy, avec possibilité de nationaliser des secteurs stratégiques.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Imposer un contenu local dans les 170 milliards d'euros de commande publique annuelle",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Porter la dépense publique de recherche à 1 % du PIB",
+      "detail": "Et augmenter de 30 % la dépense par étudiant à l'université.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Ramener la TVA sur l'électricité à 5,5 %",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du marché européen de l'électricité",
+      "detail": "Gouvernance publique intégrée du secteur ; mix nucléaire, hydraulique et renouvelables.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 700 euros net et indexer les salaires sur l'inflation",
+      "detail": "Aides aux entreprises conditionnées à la négociation salariale ; interdiction des minima de branche inférieurs au SMIC.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter le point d'indice des fonctionnaires d'au moins 10 % sur le quinquennat",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un « dividende salarié » au-delà de 50 % des bénéfices distribués",
+      "detail": "Lorsque l'entreprise distribue plus de la moitié de son bénéfice net en dividendes ou rachats d'actions.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Rétablir l'ISF et taxer les fortunes de plus de 100 millions d'euros",
+      "detail": "Relever le prélèvement forfaitaire unique à 40 %.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Revoir les 465 niches fiscales (environ 90 milliards d'euros par an)",
+      "detail": "Dont le crédit d'impôt recherche et le pacte Dutreil ; recruter des inspecteurs des impôts.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Maintenir la retraite à 62 ans et rétablir les critères de pénibilité",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Proposer un contrat d'alternance de 3 ans payé au SMIC à 250 000 jeunes chômeurs",
+      "detail": "Financé à 80 % par l'État.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Interdire les licenciements économiques fondés sur la seule baisse du chiffre d'affaires",
+      "detail": "Déplafonner les indemnités prud'homales ; bonus-malus d'assurance chômage selon le recours aux contrats précaires.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Réserver au moins 30 % des sièges des conseils d'administration aux salariés",
+      "detail": "Dans les entreprises de plus de 50 salariés ; fonds public pour les coopératives et les reprises par les salariés.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rétablir un service public ferroviaire sans mise en concurrence",
+      "detail": "Les lignes rentables financeraient les petites lignes.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Reprendre les concessions autoroutières à leur échéance",
+      "detail": "Profits réaffectés aux transports collectifs.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer la T2A et augmenter le budget hospitalier d'au moins 4 % par an",
+      "detail": "Reprise par l'État de la dette hospitalière liée au Ségur et aux surcoûts énergétiques.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Confier crèches et EHPAD à des opérateurs publics ou non lucratifs",
+      "detail": "Avec des normes d'encadrement renforcées.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Allonger la garantie des gros électroménagers de 2 à 5 ans",
+      "detail": "Lutte contre la fast-fashion ; prime « économie durable » de 300 € pour les achats locaux, d'occasion ou en circuits courts.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Appliquer la règle « 5-10-15 » sur les écrans",
+      "detail": "Pas d'écran avant 5 ans, une heure par jour de 5 à 10 ans, pas de smartphone avant 15 ans ; réguler les algorithmes addictifs.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Organiser une convention citoyenne sur l'intelligence artificielle",
+      "detail": "Modèles ouverts, calcul souverain, traité international et rémunération des œuvres utilisées pour l'entraînement des IA.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Plafonner l'agrandissement des exploitations à 1,5 fois la surface moyenne régionale",
+      "detail": "Freiner la financiarisation et réduire les importations de fruits, légumes et viandes.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Construire 750 000 logements sociaux en cinq ans",
+      "detail": "Supprimer le prélèvement sur les bailleurs HLM et appliquer une TVA à 5,5 % au logement social.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Généraliser l'encadrement des loyers et des prix du foncier",
+      "detail": "Loi de programmation pluriannuelle du logement.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Protéger 30 % des eaux territoriales de la pêche industrielle et de l'extraction",
+      "detail": "Renforcer l'ONF et limiter les coupes rases.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer une journée annuelle de référendum",
+      "detail": "Une partie des questions issue de l'initiative citoyenne.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Limiter voire supprimer le droit de dissolution du président",
+      "detail": "Réduire aussi son pouvoir de nomination.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Réserver à terme le financement public aux seules écoles publiques",
+      "detail": "Réduction progressive du financement des écoles privées.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup et la réforme du lycée de 2019",
+      "detail": "Proposition énoncée sans détail ni chiffrage dans la source.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Inscrire l'audiovisuel public dans la Constitution",
+      "detail": "Défendre l'exception culturelle, le régime des intermittents et le prix unique du livre.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Créer un réseau de 40 universités francophones à l'étranger",
+      "detail": "« Réseau Descartes », objectif de 200 000 étudiants par an d'ici 2045.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une police républicaine de proximité",
+      "detail": "Renforcer la police judiciaire contre le narcotrafic ; « tolérance zéro » sur la violence et les armes blanches chez les jeunes.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Augmenter le budget de la Justice et le nombre de procureurs",
+      "detail": "Budget actuel de 12 milliards d'euros ; loi-cadre contre les violences sexuelles.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser les travailleurs sans papiers et maintenir le droit du sol",
+      "detail": "Concentrer les éloignements sur les étrangers sous OQTF pour infractions graves.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Créer un service public de l'intégration",
+      "detail": "Cours de français financés pour tout arrivant, délais d'instruction réduits pour l'asile et les titres de séjour.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Renégocier la contribution française au budget de l'UE pour obtenir un rabais",
+      "detail": "Contribution passée de 23 à 28 milliards d'euros ; opposition au « 28e régime » et au fédéralisme.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Exclure les investissements écologiques et numériques du calcul du déficit",
+      "detail": "Comme pour la défense.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter le budget de la défense à 3 % du PIB",
+      "detail": "Enveloppe de 100 milliards d'euros ; renforcer la loi de programmation militaire, la cyberdéfense et les drones.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Suspendre l'accord commercial UE-Israël",
+      "detail": "Soutien à la reconnaissance de la Palestine et à une initiative méditerranéenne.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Lutter contre la vie chère en outre-mer en réformant fret et octroi de mer",
+      "detail": "Encadrer les rentes ; garantir l'accès à l'eau potable.",
+      "nature": "programme",
+      "source_url": "https://emmanuel-maurel.fr/programme/",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Défiscaliser les pensions alimentaires et revaloriser l'allocation de soutien familial",
+      "detail": "Faire des familles monoparentales une priorité nationale.",
+      "nature": "declaration",
+      "source_url": "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+      "source_date": "2026-10-05"
+    }
+  ],
+  "sources_consultees": [
+    "https://emmanuel-maurel.fr/",
+    "https://emmanuel-maurel.fr/programme/",
+    "https://g-r-s.fr/passionnement-republicain-resolument-socialiste/",
+    "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+    "https://lcp.fr/actualites/glucksmann-faure-royal-maurel-guedj-quelles-differences-entre-les-candidats-a-la",
+    "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+    "https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat",
+    "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-remporte-des-le-premier-tour-la-primaire-a-gauche_8232967.html",
+    "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
+  ],
+  "notes": "Député du Val-d'Oise, animateur de la GRS ; candidature à la primaire annoncée le 4 septembre 2026 sur franceinfo. 4e au premier tour le 11 octobre 2026 (5,92 %) ; engagé à soutenir le vainqueur Raphaël Glucksmann : statut « retire ». Primaire « Choisir 2027 » de la gauche socialiste et démocrate (PS, Place publique, Gauche républicaine et socialiste), vote en ligne du 9 au 11 octobre 2026 (clôture prolongée au dimanche 11 octobre 18h après une cyberattaque). Résultat vérifié (franceinfo, Public Sénat, Wikipédia) : Raphaël Glucksmann l'emporte dès le premier tour le 11 octobre 2026 avec 66,13 % (79 613 voix), devant Olivier Faure 14,48 % (17 398), Ségolène Royal 7,62 % (9 165), Emmanuel Maurel 5,92 % (7 119) et Jérôme Guedj 5,83 % (7 012) ; 120 587 votants pour 140 282 inscrits (85,96 %). Le second tour prévu les 16-17 octobre n'a pas lieu. Légères divergences de décimales selon les sources (Public Sénat/CNews : 66,17 % pour Glucksmann et 14,46 % pour Faure). À ne pas confondre avec la primaire de la « gauche unitaire » (Les Écologistes, L'Après, Debout!) organisée le même 11 octobre. Les professions de foi de la primaire sont hébergées sur choisir2027.fr, mais le site renvoyait une erreur HTTP 503 le 12/10/2026 : leur contenu n'a pas pu être lu. Le programme publié sur emmanuel-maurel.fr n'est pas daté (campagne de septembre 2026) ; il a été lu via un outil de synthèse, les formulations sont donc paraphrasées. Le programme GRS de 2022 n'a pas été utilisé.",
+  "verifie_le": "2026-10-12"
+}

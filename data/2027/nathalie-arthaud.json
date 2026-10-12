@@ -1,0 +1,111 @@
+{
+  "slug": "nathalie-arthaud",
+  "nom": "Nathalie Arthaud",
+  "parti": "Lutte ouvrière",
+  "bord": "extreme-gauche",
+  "statut_candidature": "declare",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "Brochure « Nathalie Arthaud – Présidentielle 2027 » (texte de la fête de Lutte ouvrière, mai 2026)",
+    "url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter massivement salaires, pensions et allocations (2 200 € net minimum)",
+      "detail": "« Il faut gagner au moins 2 200 euros net par mois pour s'en sortir » ; augmentations de 300 à 500 € évoquées.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer salaires, pensions et allocations sur la hausse réelle des prix",
+      "detail": "Indexation sur la hausse constatée par les travailleurs, et non sur l'inflation officielle.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Répartir le travail entre tous et réduire sa durée sans perte de salaire",
+      "detail": "Pour que personne ne soit au chômage : baisse du temps et de la charge de travail sans perte de salaire.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Embaucher massivement dans les hôpitaux, Ehpad, écoles et transports publics",
+      "detail": "Embauches fixées à partir des besoins recensés par les salariés eux-mêmes.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Rendre publics les comptes des grandes entreprises",
+      "detail": "Levée du secret commercial et du secret des affaires, transparence des circuits financiers.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Confisquer les bénéfices des « profiteurs de guerre »",
+      "detail": "Bénéfices des groupes pétroliers et de l'armement affectés aux hôpitaux et aux écoles.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Exproprier sans indemnité les actionnaires du pétrole et de l'armement",
+      "detail": "« Expropriation sans indemnité ni rachat », en commençant par l'industrie pétrolière et les industries de guerre.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Régulariser tous les sans-papiers",
+      "detail": "Avec la liberté de circulation et d'installation pour tous.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Mettre fin aux expulsions et à l'« Europe-forteresse »",
+      "detail": "« À bas les barbelés, les traques, les expulsions ! »",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Rejeter le protectionnisme et le « produire français »",
+      "detail": "Présentés comme une arme des capitalistes dans leur guerre économique.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "S'opposer à la hausse des crédits militaires et à l'« unité nationale »",
+      "detail": "Critique de la rallonge de 36 Md€ pour l'armée et des 10 Md€ du nouveau porte-avions.",
+      "nature": "programme",
+      "source_url": "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://www.nathalie-arthaud.info/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "https://www.nathalie-arthaud.info/",
+    "https://www.lutte-ouvriere.org/portail/multimedia/meeting-26-septembre-paris-discours-nathalie-arthaud-197419.html"
+  ],
+  "notes": "Candidate de Lutte ouvrière pour 2027 (« c'est pourquoi je suis candidate » dans la brochure tirée de la fête de LO de mai 2026). La date exacte de la déclaration n'a pas été établie. LO ne publie pas de programme de gouvernement : elle présente un « programme que les travailleurs devront imposer » par leurs luttes, et affirme qu'« aucune élection ne permettra cela ». Les mesures viennent de la brochure de campagne mise en ligne en juin 2026 (date précise inconnue, d'où source_date null). La vidéo du meeting du 26 septembre 2026 à Paris n'a pas été transcrite.",
+  "verifie_le": "2026-10-12"
+}

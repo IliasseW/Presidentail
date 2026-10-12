@@ -1,0 +1,207 @@
+{
+  "slug": "francois-asselineau",
+  "nom": "François Asselineau",
+  "parti": "Union populaire républicaine (UPR)",
+  "bord": "souverainiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-09-30",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Programme 2027 « en cours d'élaboration » (lancement de campagne « la Libération nationale » le 30/09/2026)",
+    "url": "https://www.upr.fr/notre-programme",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "europe_international",
+      "titre": "Activer l'article 50 du TUE dès la première semaine du mandat",
+      "detail": "Sortie de l'UE sous deux ans, sans référendum préalable : l'élection vaudrait mandat.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'euro et revenir au franc à parité 1 pour 1",
+      "detail": "Conversion à raison d'un nouveau franc pour un euro ; il estime à environ 15 % la dépréciation face au dollar, favorable aux exportations.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-01-10-2026",
+      "source_date": "2026-10-01"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Se retirer des organisations mondiales jugées menaçantes pour la France",
+      "detail": "Un des « fondamentaux » de l'UPR, avec l'incessibilité de l'arme nucléaire et du siège permanent à l'ONU.",
+      "nature": "programme",
+      "source_url": "https://www.upr.fr/nos-fondamentaux",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir de l'OTAN sous un an",
+      "detail": "Notification immédiate au département d'État américain au titre de l'article 13 du traité de l'Atlantique Nord.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "defense",
+      "titre": "Arrêter immédiatement toute aide financière et militaire à l'Ukraine",
+      "detail": "Dès la prise de fonction.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "defense",
+      "titre": "Revenir à une dissuasion nucléaire strictement nationale",
+      "detail": "Retour à la doctrine gaullienne et coopération avec l'ensemble du monde.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-01-10-2026",
+      "source_date": "2026-10-01"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir le contrôle des frontières pour les personnes, marchandises et capitaux",
+      "detail": "Pour lutter contre les délocalisations et l'évasion fiscale des grands groupes ; contrôle des mouvements de capitaux supprimé en 1986.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Lancer un grand emprunt national pour racheter la dette détenue à l'étranger",
+      "detail": "Emprunt réservé aux Français ; il écarte les suppressions massives de postes de fonctionnaires et mise sur la croissance.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Diviser par deux le budget de la présidence de la République",
+      "detail": "Revente de la majeure partie des avions présidentiels et fin du statut non officiel de Première dame.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réduire le nombre de députés et ramener les sénateurs de 348 à 100",
+      "detail": "Proposition rappelée lors des sénatoriales, sur le modèle des États-Unis.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/medias/francois-asselineau-invite-de-richard-de-seze-sur-radio-courtoisie-28-09-2026",
+      "source_date": "2026-09-28"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les régions et la moitié des conseillers départementaux",
+      "detail": "Économie estimée à 6 Md€.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Annoncé lors du lancement de campagne du 30 septembre 2026.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Reconnaître le vote blanc",
+      "detail": "Un des « fondamentaux » affichés par l'UPR.",
+      "nature": "programme",
+      "source_url": "https://www.upr.fr/nos-fondamentaux",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Organiser de grands référendums sur l'immigration, la dette et le nucléaire",
+      "detail": "Un des « fondamentaux » affichés par l'UPR.",
+      "nature": "programme",
+      "source_url": "https://www.upr.fr/nos-fondamentaux",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Affirmer la primauté du peuple sur le Conseil constitutionnel",
+      "detail": "Mesure de « démocratie directe » annoncée lors du discours de rentrée.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Imposer un questionnaire de transparence aux candidats à la présidentielle",
+      "detail": "Autres nationalités, liens avec la French American Foundation ou le Bilderberg, appartenance à des loges, financement et dettes des partis.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "societe",
+      "titre": "Inscrire la liberté d'expression dans la Constitution, comme le 1er amendement américain",
+      "detail": "Sanctuarisation constitutionnelle de la liberté d'expression.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "societe",
+      "titre": "Constitutionnaliser une « République laïque de tradition chrétienne » par référendum",
+      "detail": "Proposition à soumettre aux Français par référendum.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/medias/francois-asselineau-invite-delise-blaise-sur-tvl-26-09-2026",
+      "source_date": "2026-09-26"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Aider les Comores en échange d'un contrôle des départs d'Anjouan vers Mayotte",
+      "detail": "Aide au développement du tourisme ou à la construction d'une maternité ; urgences citées : Guyane, Mayotte, Nouvelle-Calédonie.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/actualites/quel-avenir-pour-nos-outre-mer-entretien-avec-babette-de-rozieres",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Indemniser le chlordécone et lutter contre les sargasses aux Antilles",
+      "detail": "Réduire aussi le coût de la vie (octroi de mer) et rapprocher le niveau de vie ultramarin de celui de l'Hexagone.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/actualites/quel-avenir-pour-nos-outre-mer-entretien-avec-babette-de-rozieres",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Terminer chaque JT et bulletin météo du service public par l'outre-mer",
+      "detail": "Pour lutter contre la méconnaissance des outre-mer.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/actualites/quel-avenir-pour-nos-outre-mer-entretien-avec-babette-de-rozieres",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer des échanges scolaires d'environ six semaines entre métropole et outre-mer",
+      "detail": "Échanges d'environ un mois et demi entre élèves de l'Hexagone et des territoires ultramarins.",
+      "nature": "declaration",
+      "source_url": "https://upr.fr/actualites/quel-avenir-pour-nos-outre-mer-entretien-avec-babette-de-rozieres",
+      "source_date": "2026-10-09"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.sudradio.fr/sud-radio/asselineau-nous-ne-sommes-pas-des-souverainistes",
+    "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://x-pression.media/francois-asselineau-le-leader-de-lupr-part-en-quete-de-parrainages-pour-2027",
+    "https://upr.fr/actualites/entretien-entre-francois-asselineau-et-xavier-moreau-sur-divergence-politique-08-10-2026",
+    "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+    "https://upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-01-10-2026",
+    "https://www.upr.fr/nos-fondamentaux",
+    "https://upr.fr/medias/francois-asselineau-invite-de-richard-de-seze-sur-radio-courtoisie-28-09-2026",
+    "https://upr.fr/medias/francois-asselineau-invite-delise-blaise-sur-tvl-26-09-2026",
+    "https://upr.fr/actualites/quel-avenir-pour-nos-outre-mer-entretien-avec-babette-de-rozieres"
+  ],
+  "notes": "Président de l'UPR, candidat en 2017 et non qualifié en 2022 faute de parrainages. Il est présenté comme futur candidat dès l'été 2026 (Sud Radio du 20/07, x-pression du 29/06) et figure parmi les candidats déclarés selon LCP. Il a officiellement lancé sa campagne lors de son discours de rentrée, à l'université d'automne de l'UPR (date de publication sur upr.fr : 30/09/2026). La page programme d'upr.fr indique que le programme 2027 est « en cours d'élaboration » et « sera publié prochainement » ; les programmes 2012, 2017 et 2022 restent en ligne mais n'ont pas été repris. Les propositions viennent surtout des comptes rendus publiés sur le site de l'UPR (source partisane) du discours de rentrée et d'interviews (GP-TV, Radio Courtoisie, TV Libertés, outre-mer). La « réduction du nombre de députés » n'est pas chiffrée. Enjeu principal : réunir les 500 parrainages. Un résultat de recherche (Sud Radio) évoquait un renvoi en correctionnelle pour des faits de harcèlement et d'agression sexuels. La page était introuvable (404) et l'information n'a pas pu être vérifiée ni datée ; il s'agirait en tout état de cause d'un renvoi, pas d'une condamnation.",
+  "verifie_le": "2026-10-12"
+}

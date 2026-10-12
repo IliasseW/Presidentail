@@ -1,0 +1,127 @@
+{
+  "slug": "antoine-mikolajczak",
+  "nom": "Antoine Mikolajczak",
+  "parti": "Équinoxe",
+  "bord": "ecologiste",
+  "statut_candidature": "declare",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "« Renouer avec notre avenir » (tract de campagne) — programme complet annoncé",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Donner plus de pouvoirs et de moyens aux territoires",
+      "detail": "Priorité « Décider collectivement » du tract de campagne ; le candidat défend la subsidiarité et la stabilité des compétences des élus locaux.",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Simplifier le droit et réduire le nombre de normes",
+      "detail": "Engagement du tract de campagne « Renouer avec notre avenir ».",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Développer la démocratie directe et les conventions citoyennes",
+      "detail": "Engagement du tract de campagne, pour que les citoyens soient « acteurs » des décisions.",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Adopter le jugement majoritaire pour les élections qui s'y prêtent",
+      "detail": "Position du parti Équinoxe, qui évoque aussi tirage au sort, proportionnelle et sortie du présidentialisme.",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/en-finir-avec-le-vote-utile-le-jugement-majoritaire/",
+      "source_date": "2026-09-25"
+    },
+    {
+      "theme": "economie",
+      "titre": "Relocaliser les productions agricoles et industrielles",
+      "detail": "Priorité « Produire en France » : reprendre la main sur la souveraineté, notamment numérique et sanitaire, « dans le respect des limites planétaires ».",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Garantir l'accès aux soins et à une alimentation de qualité partout",
+      "detail": "Priorité « Vivre en bonne santé » : accès aux soins et à une alimentation de qualité sur l'ensemble du territoire.",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Améliorer la qualité de l'air, de vie et de travail",
+      "detail": "Volet de la priorité « Vivre en bonne santé » du tract de campagne.",
+      "nature": "programme",
+      "source_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Mettre en œuvre les mesures de la Convention citoyenne pour le climat",
+      "detail": "Position du candidat rapportée par sa page de présentation sur le site du parti (publication Instagram).",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer une instance citoyenne tirée au sort sur l'éthique de l'IA et de la bioéthique",
+      "detail": "Instance de citoyens tirés au sort appuyés par des experts, dont les conclusions seraient intégrées aux programmes politiques.",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/une-initiative-pour-repenser-la-democratie/",
+      "source_date": "2026-09-22"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Orienter les aides de la PAC selon une logique de main-d'œuvre",
+      "detail": "Rendre le métier d'éleveur plus attractif, garantir des prix rémunérateurs et supprimer les normes à visée commerciale (ex. calibrage des œufs).",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Faire respecter les clauses miroirs et instaurer un protectionnisme stratégique",
+      "detail": "Clauses miroirs dans les accords de libre-échange, protectionnisme sur certaines filières, formation agroécologique à chaque reprise de ferme.",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Développer la sécurité sociale de l'alimentation",
+      "detail": "Avec un repas végétarien supplémentaire par semaine en restauration scolaire et un bonus-malus renforcé sur les produits très transformés.",
+      "nature": "declaration",
+      "source_url": "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+      "source_date": "2026-10-08"
+    }
+  ],
+  "sources_consultees": [
+    "https://parti-equinoxe.fr",
+    "https://parti-equinoxe.fr/presidentielle-2027/",
+    "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/",
+    "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+    "https://parti-equinoxe.fr/wp-content/uploads/2026/08/Manifeste-du-parti-Equinoxe-Pour-en-finir-avec-la-demesure.pdf",
+    "https://parti-equinoxe.fr/proteger-les-animaux-lenvironnement-et-nos-eleveurs/",
+    "https://parti-equinoxe.fr/en-finir-avec-le-vote-utile-le-jugement-majoritaire/",
+    "https://parti-equinoxe.fr/une-initiative-pour-repenser-la-democratie/",
+    "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/",
+    "https://www.placegrenet.fr/2026/09/14/presidentielle-2027-antoine-mikolajczak-candidat-dequinoxe-a-la-recherche-de-parrainages-en-isere/689123",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+  ],
+  "notes": "Candidat désigné par les adhérents d'Équinoxe au jugement majoritaire, en avril 2026 selon Place Gre'net (date exacte non trouvée ; article non lisible, 403). Ingénieur de 27-28 ans selon les sources. Le programme officiel est annoncé « très prochainement » sur la page Présidentielle 2027 : seules trois priorités (Décider collectivement, Produire en France, Vivre en bonne santé) sont publiées via le tract de campagne (PDF mis en ligne en juillet 2026 d'après son URL ; source_date laissé à null). Les propositions agricoles, le jugement majoritaire et l'instance citoyenne sur l'IA sont des positions publiées par le parti pendant la campagne (sept.-oct. 2026) sans être signées du candidat : nature « declaration », à confirmer quand le programme paraîtra. Dates des pages du parti tirées de la liste des actualités du site. Manifeste du parti (août 2026) non lisible par l'outil, non exploité. Absent du recensement franceinfo du 03/10/2026, mais cité par LCP. Parrainages en cours de collecte.",
+  "verifie_le": "2026-10-12"
+}

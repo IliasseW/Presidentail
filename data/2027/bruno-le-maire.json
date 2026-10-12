@@ -1,0 +1,35 @@
+{
+  "slug": "bruno-le-maire",
+  "nom": "Bruno Le Maire",
+  "parti": "Sans étiquette (ancien ministre de l'Économie, ex-Renaissance)",
+  "bord": "centre",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "Manifeste pour une autre France (« L'An I »), texte d'une soixantaine de pages",
+    "url": "https://www.leparisien.fr/politique/bruno-le-maire-je-propose-une-autre-france-22-08-2026-MLIY2RQJR5AZVES4YVLRTUNZOY.php",
+    "date_publication": "2026-08-22"
+  },
+  "propositions": [
+    {"theme": "institutions", "titre": "Recentrer l'État sur la sécurité, la protection des personnes, l'éducation et la santé", "detail": "« Tout le reste doit être délégué » ; axe « autorité » du manifeste.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "travail_retraites", "titre": "Porter l'âge légal de départ à la retraite à 65 ans", "detail": "Complété par une part de retraite par capitalisation.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "finances_publiques", "titre": "Désindexer les pensions, les prestations sociales et le barème de l'impôt sur le revenu", "detail": "Mesure d'assainissement des comptes publics, la dette étant évaluée à environ 1 300 Md€ selon le texte.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "finances_publiques", "titre": "Inscrire dans la Constitution une règle de bonne gestion des comptes publics", "detail": "Règle constitutionnelle d'équilibre.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "economie", "titre": "Relever la TVA de 2 à 3 points en baissant les cotisations salariales", "detail": "Basculer le financement du modèle social du travail vers la consommation pour augmenter le salaire net.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "pouvoir_achat", "titre": "Augmenter immédiatement le Smic", "detail": "Montant non précisé.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "finances_publiques", "titre": "Assouplir le recrutement des fonctionnaires", "detail": "Plus de flexibilité dans la fonction publique.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "europe_international", "titre": "Créer une fédération de six États-nations européens", "detail": "France, Allemagne, Italie, Espagne, Pologne et Pays-Bas, mettant en commun un nombre restreint de politiques au sein de l'UE à 27.", "nature": "declaration", "source_url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france", "source_date": "2026-08-23"},
+    {"theme": "europe_international", "titre": "Taxer à 30 % les produits technologiques importés sans quota de composants européens", "detail": "Droits de douane sur les produits ne respectant pas une part minimale de composants fabriqués en Europe.", "nature": "declaration", "source_url": "https://www.75secondes.fr/actualites/bruno-le-maire-veut-creer-un-super-etat-europeen", "source_date": "2026-08-26"}
+  ],
+  "sources_consultees": [
+    "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+    "https://www.letribunaldunet.fr/politique/bruno-le-maire-manifeste-candidat-2027.html",
+    "https://www.75secondes.fr/actualites/bruno-le-maire-veut-creer-un-super-etat-europeen",
+    "https://www.leparisien.fr/politique/bruno-le-maire-je-propose-une-autre-france-22-08-2026-MLIY2RQJR5AZVES4YVLRTUNZOY.php"
+  ],
+  "notes": "Non déclaré au 12 octobre 2026. Le 22 juin 2026 sur BFMTV, il a dit que sa « réponse sera donnée en octobre » ; aucune annonce trouvée à ce jour (dernières sources consultées : fin août 2026 ; la recherche d'actualités d'octobre n'a rien donné, et le quota de recherche est épuisé : à revérifier). Ses « trois priorités absolues » : travail, autorité de l'État, « Europe à 6 ». Le manifeste (publié dans Le Parisien le 22 août 2026, page non consultable directement) affirme qu'il n'est « pas candidat » ; les mesures sont tirées de comptes rendus de presse (dépêche relayée par La Gazette France, 75secondes) et classées « declaration » faute de candidature. Titre incertain : « Manifeste pour une autre France », « L'An I » ou « Tout commence » selon les sources. Le livre « Le temps d'une décision » (Gallimard, 23 avril 2026) est un récit sans propositions programmatiques identifiées. La taxe de 30 % n'est attestée que par 75secondes.",
+  "verifie_le": "2026-10-12"
+}

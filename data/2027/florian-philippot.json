@@ -1,0 +1,573 @@
+{
+  "slug": "florian-philippot",
+  "nom": "Florian Philippot",
+  "parti": "Les Patriotes",
+  "bord": "souverainiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-05-09",
+  "programme": {
+    "statut": "complet",
+    "titre": "Grandes orientations pour un projet patriote + Le Frexit en 10 questions (édition 2026-2027)",
+    "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+    "date_publication": "2026-09-24"
+  },
+  "propositions": [
+    {
+      "theme": "europe_international",
+      "titre": "Faire sortir la France de l'Union européenne (Frexit)",
+      "detail": "Cœur de la candidature annoncée sur France 2 le 9 mai 2026, avec la sortie de l'OTAN.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+      "source_date": "2026-05-09"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Activer l'article 50 du TUE dès l'élection d'un président pro-Frexit",
+      "detail": "Suppression du titre XV de la Constitution par le Congrès, par référendum constitutionnel ou par une nouvelle Constitution ; sortie en « quelques mois à quelques années ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'euro et créer un nouveau franc à parité 1 pour 1",
+      "detail": "Conversion selon le principe de la lex monetae (dette comprise), contrôle temporaire des capitaux et flottement contrôlé du franc.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Quitter l'espace Schengen et rétablir les frontières nationales",
+      "detail": "Fin de la libre circulation sans contrôle des personnes, présentée comme condition de la maîtrise migratoire.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Dénoncer la Convention européenne des droits de l'homme",
+      "detail": "Sortie de la CEDH pour pouvoir notamment remettre en cause le regroupement familial.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'OMS et dénoncer le traité mondial sur les pandémies",
+      "detail": "Pour « redonner au peuple français la main sur la politique de santé ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Mettre fin aux accords de libre-échange signés par l'UE",
+      "detail": "Notamment pour protéger les agriculteurs d'une concurrence jugée déloyale ; promotion d'un « protectionnisme intelligent ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refuser l'euro numérique et l'identité numérique européenne",
+      "detail": "Sanctuariser l'argent liquide, interdire toute monnaie numérique de banque centrale et soutenir les crypto-monnaies.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Quitter l'OTAN",
+      "detail": "Sortie de l'organisation, présentée comme condition de l'indépendance internationale de la France.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+      "source_date": "2026-05-09"
+    },
+    {
+      "theme": "defense",
+      "titre": "Rejeter la création d'une armée européenne",
+      "detail": "Opposition aux nouvelles compétences de l'UE en défense, dont le fonds européen de 100 Md€ pour l'achat d'armements.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Conserver une dissuasion nucléaire strictement nationale",
+      "detail": "Refus de tout partage de la dissuasion française avec l'Europe.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "defense",
+      "titre": "Cesser de financer la guerre en Ukraine et lancer une initiative de paix",
+      "detail": "Couper les financements européens à l'Ukraine (dont 10 Md€ supportés par la France selon le document) et privilégier la diplomatie.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Économiser environ 20 milliards d'euros par an grâce au Frexit",
+      "detail": "Fin de la contribution nette au budget de l'UE (environ 15 Md€/an actuellement, 20 Md€ attendus après 2028 selon le document).",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Réduire le train de vie de l'État et supprimer des structures jugées inutiles",
+      "detail": "Cibler les ministères « non régaliens » et les régimes spéciaux des élus ; l'Arcom est citée en exemple ; pas de hausse d'impôts.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Permettre à l'État d'emprunter directement auprès de la Banque de France",
+      "detail": "Abrogation de la « loi de 1973 » et création d'une Caisse nationale pour l'équipement et la réindustrialisation.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Instaurer des droits de douane supplémentaires de 10 % (Chine, Mercosur…)",
+      "detail": "Recettes douanières estimées à 7 Md€/an pour la Chine dans le tableau de chiffrage du projet.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Soutenir artisans et TPE-PME par une fiscalité avantageuse et une simplification",
+      "detail": "Incitations au maintien et au retour en France et simplification « drastique » des procédures administratives.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Renationaliser les autoroutes",
+      "detail": "Retour au public des concessions autoroutières privatisées.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir des monopoles publics dans le rail et l'énergie",
+      "detail": "Retour sur les réformes de libéralisation imposées par les directives européennes.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Quitter le marché européen de l'électricité",
+      "detail": "Retour à des règles nationales de prix fondées sur le coût de production ; le document affirme que le prix pourrait être divisé par trois.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rétablir le monopole public national d'EDF",
+      "detail": "Fin du découpage d'EDF et de l'obligation de vendre de l'électricité à ses concurrents.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Investir massivement dans le nucléaire et l'hydroélectricité",
+      "detail": "Plan d'investissement dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Décréter un moratoire définitif sur l'éolien et démanteler les éoliennes",
+      "detail": "Moratoire total sur l'éolien terrestre et en mer, avec un plan de démantèlement et de recyclage.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Empêcher l'ouverture à la concurrence des barrages hydroélectriques",
+      "detail": "Refus de la mise en concurrence des concessions d'EDF demandée par la Commission européenne.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Préserver la vente de voitures thermiques au-delà de 2035",
+      "detail": "Opposition à l'interdiction européenne des voitures thermiques neuves en 2035.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Lancer un grand plan national de protection de la faune et de la flore",
+      "detail": "Sanctuariser des espaces naturels, replanter les haies bocagères et renforcer les réserves écologiques.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Remplacer la PAC par une politique agricole française (PAF)",
+      "detail": "Fondée sur les circuits courts, la qualité, « au maximum le bio et la permaculture » ; la France financerait elle-même les 9 Md€ annuels de la PAC.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Rétablir des prix planchers pour garantir le revenu agricole",
+      "detail": "Possible selon le projet seulement hors de l'UE, avec des droits de douane sur les productions extérieures.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Pouvoir imposer quotas ou barrières tarifaires aux pays européens",
+      "detail": "Contre la concurrence intra-européenne jugée déloyale (fruits, légumes, porc, lait, céréales, volaille).",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les insectes et larves dans l'alimentation",
+      "detail": "Retour sur les autorisations européennes de 2021 et 2023.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Baisser l'âge de départ à la retraite",
+      "detail": "Âge déterminé « souverainement » après le Frexit, sans âge cible chiffré.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Mettre fin à l'immigration de travail et au statut de travailleur détaché",
+      "detail": "Sortie de la directive européenne sur les travailleurs détachés.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Renvoyer les clandestins et exécuter les OQTF",
+      "detail": "Sortie de la directive « retour » pour permettre un renvoi immédiat ; flux migratoires « extrêmement limités ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Dissoudre Frontex et échapper au pacte européen sur la migration",
+      "detail": "Refus de la répartition des migrants assortie de 20 000 € d'amende par migrant refusé.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conditionner la nationalité à la maîtrise du français et à l'adhésion aux valeurs",
+      "detail": "Faire de l'assimilation une « exigence nationale » pour la nationalité ou les droits civiques.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recréer une police de proximité visible et permanente",
+      "detail": "Unités implantées dans les quartiers sensibles, avec l'appui du RAID et des CRS.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Réformer la justice des mineurs et limiter l'excuse de minorité",
+      "detail": "Jugement et sanction concomitants ; excuse de minorité seulement sur motivation spéciale du juge.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir les peines planchers et supprimer les réductions automatiques de peine",
+      "detail": "Sanction dès la première infraction.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Construire des dizaines de milliers de places de prison et expulser les détenus étrangers",
+      "detail": "Les détenus étrangers représentent 25 % des prisonniers selon le document.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Suspendre les prestations sociales des parents de mineurs récidivistes",
+      "detail": "Révision du droit au logement social, voire expulsion de la famille du territoire dans les cas les plus graves.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rendre automatique la castration chimique des pédocriminels récidivistes",
+      "detail": "Alourdir les peines, faire de la lutte contre la pédocriminalité une grande cause nationale et renforcer les moyens spécialisés de police et de justice.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une commission d'enquête parlementaire sur le volet français de l'affaire Epstein",
+      "detail": "Établir les faits commis en France ou impliquant des ressortissants français.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC) sur tout sujet",
+      "detail": "RIC inscrit dans la Constitution.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réviser la Constitution uniquement par référendum",
+      "detail": "Suppression de la procédure de révision par le Congrès.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rendre inéligibles à vie les élus condamnés définitivement pour corruption",
+      "detail": "Avec interdiction de toute charge publique.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Recentraliser l'Aide sociale à l'enfance auprès de l'État",
+      "detail": "Compétence retirée aux départements, inspections inopinées et suivi individuel de chaque enfant.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Accompagner vers l'autonomie les jeunes sortant de l'ASE à 18 ans",
+      "detail": "Solution de logement, suivi éducatif et sanitaire, parcours de formation ou d'insertion.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Contrôler les antécédents judiciaires des adultes travaillant avec des enfants",
+      "detail": "Contrôle préalable et périodique pour les professionnels et bénévoles au contact de mineurs.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Revaloriser les métiers d'accompagnement du handicap, dont les AESH",
+      "detail": "Mieux rémunérer, former et soutenir ces professionnels.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer des unités en maison de retraite pour handicapés vieillissants dès 55 ans",
+      "detail": "Pour éviter les placements en Belgique, faute de places en France.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les agences régionales de santé (ARS)",
+      "detail": "Simplifier la gestion hospitalière et réduire la bureaucratie.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer le Conseil de l'Ordre des médecins",
+      "detail": "Pour « garantir l'indépendance » des soignants.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Garantir la liberté vaccinale des citoyens et des soignants",
+      "detail": "Aucun soignant ne doit perdre son emploi pour avoir refusé un vaccin ; ne plus jamais instaurer de « pass sanitaire ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Investir massivement dans des centres de santé de proximité",
+      "detail": "Pour désengorger l'hôpital, recentré sur les pathologies lourdes.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "sante",
+      "titre": "Stocker les données de santé de façon décentralisée, par exemple sur la carte Vitale",
+      "detail": "Consultation uniquement avec l'accord explicite du patient.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Refuser toute incitation à l'euthanasie des personnes handicapées",
+      "detail": "« Promouvoir le soin et la vie ».",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire l'abattage rituel sans étourdissement",
+      "detail": "Et mettre fin aux abattages massifs d'animaux sains pour raisons sanitaires (dermatose nodulaire).",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "societe",
+      "titre": "Abroger les lois restreignant la liberté d'expression",
+      "detail": "Opposition au règlement européen DSA.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Sortir des GAFAM en 3 ans pour les données sensibles de l'État",
+      "detail": "Données stratégiques hébergées sur des serveurs publics ou contrôlés par l'ANSSI.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Adopter une loi de souveraineté numérique et créer un commissariat dédié",
+      "detail": "Code source des outils publics libre et auditable.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Faire de la France une grande puissance de l'intelligence artificielle",
+      "detail": "Soutien de l'État à la recherche, aux entreprises françaises d'IA et aux capacités de calcul.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Consacrer la moitié du temps scolaire du primaire au français",
+      "detail": "Recentrer le primaire sur le français, le calcul, l'histoire-géographie et les sciences.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer le collège unique et ouvrir des parcours différenciés dès 14 ans",
+      "detail": "Revaloriser la voie professionnelle et l'apprentissage.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Faire de l'école un sanctuaire sans intelligence artificielle",
+      "detail": "Pour protéger les capacités cognitives des enfants.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "education",
+      "titre": "Revenir sur les restrictions de l'instruction en famille",
+      "detail": "Assouplir les règles de « l'école à la maison » instaurées sous Emmanuel Macron.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Proposer la départementalisation aux territoires d'outre-mer volontaires",
+      "detail": "Refus de la création d'un État de Nouvelle-Calédonie.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Lutter contre la vie chère en outre-mer par l'encadrement des prix",
+      "detail": "Circuits courts, production locale, soutien au fret maritime, encadrement des prix de première nécessité et lutte contre les monopoles.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Prioriser la restauration du patrimoine et simplifier le mécénat",
+      "detail": "Rééquilibrer les budgets culturels au profit du bâti menacé.",
+      "nature": "programme",
+      "source_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "source_date": "2026-09-24"
+    }
+  ],
+  "sources_consultees": [
+    "https://les-patriotes.fr/projetpourlafrance/",
+    "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+    "https://www.lejdd.fr/politique/florian-philippot-la-question-du-frexit-sera-au-coeur-de-la-presidentielle-168537",
+    "https://info.fr/philippot-candidat-presidentielle-2027-parrainages-villiers/",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+    "https://votons-2027.fr/candidats/philippot/programme",
+    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+    "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf"
+  ],
+  "notes": "Candidature annoncée le 9 mai 2026 sur France 2. Elle est conditionnelle : Florian Philippot dit qu'il se rangera derrière Philippe de Villiers si celui-ci se présente. Au 12/10/2026, aucune candidature de Villiers n'a été trouvée. En 2022, il n'avait obtenu qu'un parrainage ; il n'a plus de mandat électif depuis 2021. Programme : livret PDF « Grandes orientations pour un projet patriote, édition 2026-2027 » (19 pages), mis en ligne en septembre 2026 sur la page « Projet pour la France » (fichier v2 créé le 3/09 et modifié le 24/09/2026). Il est peu chiffré et chaque orientation est présentée comme liée au Frexit. Le chiffrage interne (75 Md€ de recettes et 60 Md€ d'économies par an) est partiellement illisible à l'extraction et n'a pas été repris en détail. Tribune au JDD du 12/03/2026 : opposition à RED3, à la PPE3 et au Mercosur.",
+  "verifie_le": "2026-10-12"
+}

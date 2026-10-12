@@ -1,0 +1,479 @@
+{
+  "slug": "bernard-cazeneuve",
+  "nom": "Bernard Cazeneuve",
+  "parti": "La Convention",
+  "bord": "gauche",
+  "statut_candidature": "pressenti",
+  "date_declaration": null,
+  "programme": {
+    "statut": "partiel",
+    "titre": "Lettre aux Françaises et aux Français « Tenir la promesse de la France » (86 pages, 30 propositions)",
+    "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+    "date_publication": "2026-07-17"
+  },
+  "propositions": [
+    {
+      "theme": "social",
+      "titre": "Créer un cadre national unifié pour la petite enfance",
+      "detail": "Compétences vérifiées pour toute personne au contact d'enfants, formation, effectifs suffisants et rémunérations revalorisées, inspections régulières selon des critères publics, dispositif national de signalement à réponse obligatoire sous délai fixe.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Garantir une réponse à toute plainte pour violences faites à un enfant",
+      "detail": "Rappel, autant que nécessaire, de magistrats retraités volontaires pour reprendre les dossiers en souffrance ; restauration des capacités d'investigation (spécialisation, temps long).",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Faire du féminisme l'inspiration des grandes politiques publiques",
+      "detail": "Lutte contre les violences et les féminicides, résorption des écarts de salaire, correction des retraites pénalisées par les carrières interrompues.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Ériger la santé mentale des jeunes en grande cause nationale",
+      "detail": "Avec formation des personnels de santé et de l'éducation ; la lettre relève que plus d'un jeune sur cinq déclare des symptômes dépressifs.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Revaloriser les métiers du soin dans tous les territoires",
+      "detail": "Restauration du « sens des métiers du soin » et reconnaissance de la Nation aux soignants ; aucune mesure chiffrée.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "sante",
+      "titre": "Organiser la prise en charge du grand âge, de la dépendance et des aidants",
+      "detail": "Chantier présenté comme considérable, dont la soutenabilité financière serait garantie aux familles les plus modestes.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Rétablir une police de proximité dotée d'effectifs dédiés et formés",
+      "detail": "Associée à un investissement dans la prévention (école, structures de prévention, seconde chance).",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer la lutte contre le narcotrafic et la criminalité organisée",
+      "detail": "Unités spécialisées, peines réellement exécutées, coopération européenne renforcée, Parquet européen aux compétences élargies, gel des avoirs et traque des financements.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Garantir à l'outre-mer les mêmes investissements que dans l'Hexagone",
+      "detail": "« Même attention, mêmes investissements, même exigence » ; la lettre cite l'eau potable à Mayotte, l'insécurité en Guyane et la crise néo-calédonienne.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "logement",
+      "titre": "Lancer un grand plan social et écologique de construction et de rénovation",
+      "detail": "Objectif affiché : faire baisser les prix du logement, avec des mécanismes innovants d'accession à la propriété.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Simplifier, unifier et automatiser les aides sociales fondamentales",
+      "detail": "Mesure de lutte contre la précarité et le non-recours ; pas de chiffrage.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Allonger la durée de cotisation plutôt que reculer l'âge légal de la retraite",
+      "detail": "Reprise, « sur des bases nouvelles et négociées », de la trajectoire d'allongement de la durée de cotisation engagée en 2014 ; maintien de la répartition.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir les critères de pénibilité ouvrant droit à un départ anticipé",
+      "detail": "Postures contraignantes, port de charges lourdes, vibrations mécaniques, risques chimiques.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rendre sa cohérence au dispositif de départ anticipé pour carrières longues",
+      "detail": "Le dispositif aurait été « durci sans nécessité » par les réformes récentes.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Favoriser l'emploi des seniors et la liberté de travailler plus longtemps",
+      "detail": "Aménagement des postes, retraites progressives, sanctions contre les discriminations à l'embauche ; atteindre le taux d'emploi allemand des 55-64 ans représenterait 800 000 emplois selon la lettre.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Instaurer une « règle d'or sociale » : compenser chaque exonération de cotisations",
+      "detail": "Rétablissement plein de la loi Veil : toute exonération (part salariale et patronale, heures supplémentaires, primes) compensée à l'euro près à la Sécurité sociale, indexée sur les salaires, avec effet rétroactif depuis 2019.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Équilibrer les comptes sociaux sur un cycle de cinq ans",
+      "detail": "Retour à l'équilibre sous dix ans au plus en cas de crise majeure ; périmètre limité aux branches maladie, vieillesse et autonomie ; avis du HCFP et loi annuelle d'approbation des comptes sociaux distincte du budget de l'État.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Rétablir le septennat présidentiel",
+      "detail": "Le quinquennat est jugé avoir transformé le Président en chef de majorité.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Obliger le Premier ministre à engager sa responsabilité devant le Parlement",
+      "detail": "Engagement systématique de la responsabilité du gouvernement lorsque les circonstances l'exigent, d'abord à l'entrée en fonction du Premier ministre.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Encadrer le recours au 49.3, aux ordonnances et aux procédures accélérées",
+      "detail": "« Discipline » sur ces outils, dont la lettre dénonce l'« abus ».",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Introduire une dose de proportionnelle aux élections législatives",
+      "detail": "Sans précision sur la part de proportionnelle.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Simplifier la fabrique de la loi et l'ouvrir à la participation citoyenne",
+      "detail": "À commencer par les textes budgétaires.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Sortir du « tout-comparution immédiate » et de la prison par défaut",
+      "detail": "Avec des moyens accrus, une indépendance reconnue et des magistrats protégés contre les intimidations ; la lettre cite près de 50 000 comparutions immédiates en 2021 contre 31 000 en 2001.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Limiter par la loi la concentration capitalistique des médias",
+      "detail": "Pas de seuil précisé.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réformer la haute fonction publique",
+      "detail": "Restaurer la vocation de service et organiser des passerelles régulées avec le privé, les collectivités, le monde associatif et la recherche.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Refonder la décentralisation en clarifiant « qui fait quoi »",
+      "detail": "Refonte de la territorialité de la République et confiance accrue aux territoires, citoyens et associations.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer deux normes pour toute norme créée",
+      "detail": "Revue systématique des normes avec obligation de compensation.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer davantage les très grandes fortunes, hauts revenus du capital et rentes",
+      "detail": "Rééquilibrage de la taxation entre travail et capital ; simplification de l'impôt avec moins de niches et de dérogations ; pas de taux précisé.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Baisser les impôts de production en réduisant les aides fiscales",
+      "detail": "Au bénéfice de toute la chaîne productive (ETI, PME, TPE).",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Assurer la vérité budgétaire et la maîtrise de la dette",
+      "detail": "La lettre rappelle une dette à 117,5 % du PIB au premier trimestre 2026 ; méthode « le politique d'abord, l'expert ensuite » avec plus de 150 experts mobilisés.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "economie",
+      "titre": "Lancer un plan de réindustrialisation sur dix ans",
+      "detail": "Filières stratégiques sécurisées par l'État, règles stables, incitations fiscales ciblées sur la recherche et l'investissement productif, écoles de métiers et zones d'activité décarbonées.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Assumer le nucléaire et planifier le renouvellement du parc",
+      "detail": "Rationalisation des investissements dans les renouvelables, électrification des usages et sortie des énergies fossiles.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Défendre la souveraineté alimentaire et des prix dignes pour les producteurs",
+      "detail": "Préservation du foncier nourricier, accès garanti à ceux qui veulent en vivre, accompagnement vers des exploitations plus sobres.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Lancer un plan École-Climat-Solidarité sur dix ans",
+      "detail": "Rénovation écologique des établissements scolaires, cours désimperméabilisées et plantées ouvertes au quartier ; présenté comme les « grands travaux » de la prochaine majorité.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer une « DATAR du climat » rattachée au Premier ministre",
+      "detail": "Chargée de cartographier les vulnérabilités de chaque région et de planifier l'effort public d'adaptation.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Rénover massivement les logements et développer les transports collectifs",
+      "detail": "Dans le cadre d'une « écologie populaire et planifiée » ; transports collectifs dans les territoires qui en manquent et commande publique durable.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Mieux former et mieux payer les enseignants",
+      "detail": "Montant de revalorisation non précisé.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Enseigner l'esprit critique dès le collège et la philosophie dès la Seconde",
+      "detail": "Retour aux humanités et effort égal pour les sciences et les mathématiques, éthique des données.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer un service public de l'intelligence artificielle éducative",
+      "detail": "Avec formation massive des enseignants au numérique et égalité d'accès aux formations numériques.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Lutter contre la ségrégation scolaire et l'« évitement organisé »",
+      "detail": "Le problème désigné n'est pas la coexistence public/privé mais l'évitement ; pas de mécanisme précisé.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Verser au moins 2 000 € d'aide supplémentaire aux étudiants boursiers",
+      "detail": "Pendant leurs deux premières années d'études.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer une « avance jeunesse » de 3 000 € pour les 18-24 ans sans diplôme ni emploi",
+      "detail": "Sous conditions de ressources, complétable par les collectivités territoriales.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Protéger les transitions professionnelles « à la scandinave »",
+      "detail": "Formation tout au long de la vie, apprentissage généralisé dès le premier cycle universitaire, encadrement des stages abusifs, CDI redevenu la norme pour les jeunes.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Refonder la politique familiale avec une prise en charge ambitieuse de la petite enfance",
+      "detail": "Sans chiffrage.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "defense",
+      "titre": "Réarmer « à proportion de la menace » et consolider l'industrie de défense",
+      "detail": "Coopérations européennes planifiées, préférence aux productions nationales et européennes.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "defense",
+      "titre": "Rester dans l'OTAN et ouvrir une réflexion européenne sur la dissuasion",
+      "detail": "Contribuer à l'Europe de la défense sans s'y substituer ; réflexion sur l'apport de la dissuasion française, y compris avec le Royaume-Uni ; protection antimissile coordonnée du continent.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "defense",
+      "titre": "Élargir la réserve citoyenne",
+      "detail": "Réserve « plus ambitieuse, ouverte à davantage de Français ».",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Réformer le Conseil de sécurité de l'ONU",
+      "detail": "Défense de l'ordre international fondé sur le droit et nouveau partenariat, « débarrassé du paternalisme », avec le Sud global.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Défendre la sécurité d'Israël et un État pour les Palestiniens",
+      "detail": "La lettre condamne la politique du gouvernement Netanyahou, qui « ruine la perspective d'une paix à deux États ».",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Supprimer la règle de l'unanimité au sein de l'UE",
+      "detail": "Décisions à la majorité, réforme budgétaire, politique industrielle commune, doctrine de la concurrence moins dogmatique et politique commerciale moins naïve.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Fonder la politique migratoire sur « humanité, intégration, fermeté »",
+      "detail": "Droit d'asile maintenu, apprentissage du français et respect de l'égalité femmes-hommes, lutte contre l'immigration irrégulière et démantèlement des filières ; politique migratoire pensée à l'échelle européenne.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Mobiliser l'épargne européenne pour la puissance de calcul en IA",
+      "detail": "Priorité aux usages publics (hôpital, école, État) et stockage des données des Français en Europe ; financement non étatique.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer un droit de recours à un agent humain face aux décisions automatisées",
+      "detail": "Aucun refus d'aide, de place ou de titre sans examen et explication par un agent, dans un délai opposable.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Transformer l'INESIA en autorité indépendante de l'IA",
+      "detail": "Statut, moyens et pouvoir contraignant d'évaluation des systèmes les plus puissants avant et après déploiement.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Améliorer le pouvoir d'achat par une politique d'ensemble, sans mesure dédiée",
+      "detail": "Refus de toute « formule magique » : travail qui paie, loyers et énergie maîtrisés, services publics, fiscalité rééquilibrée, relance via le plan École-Climat-Solidarité.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "societe",
+      "titre": "Défendre la laïcité comme principe de liberté et de séparation",
+      "detail": "Laïcité présentée comme « un joyau à protéger des manipulations », non comme une religion civile.",
+      "nature": "programme",
+      "source_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+      "source_date": "2026-07-17"
+    }
+  ],
+  "sources_consultees": [
+    "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398=",
+    "https://www.revuepolitique.fr/wp-content/uploads/2026/07/Lettre-aux-Francaises-et-aux-Francais-de-Bernard-Cazeneuve-17-juillet-2017.pdf",
+    "https://www.la-convention.fr/lettre",
+    "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres",
+    "https://www.franceinfo.fr/elections/presidentielle/si-je-peux-etre-utile-je-le-serai-bernard-cazeneuve-s-adresse-aux-francais-mais-maintient-le-suspense-sur-une-candidature-a-la-presidentielle-2027_8110241.html",
+    "https://lcp.fr/actualites/presidentielle-2027-bernard-cazeneuve-fait-part-de-sa-volonte-pleine-et-entiere-d-etre",
+    "https://lcp.fr/actualites/presidentielle-2027-pret-a-se-lancer-dans-la-course-a-l-elysee-bernard-cazeneuve-decline",
+    "https://lcp.fr/actualites/presidentielle-2027-l-objectif-de-bernard-cazeneuve-est-de-devenir-president-de-la",
+    "https://www.timefrance.fr/politique/les-visages-des-presidentielles-2027-bernard-cazeneuve-le-candidat-qui-ne-dit-pas-encore-son-nom/",
+    "https://www.partiradicaldegauche.fr/tenir-la-promesse-de-la-france-la-lettre-aux-francais-de-bernard-cazeneuve/",
+    "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339"
+  ],
+  "notes": "Statut ambigu, classé 'pressenti' : Europe 1 (28/04/2026, d'après un entretien au Figaro) titre qu'il 'annonce sa candidature' ; sur France Inter (19/05/2026, LCP) il évoque une 'volonté pleine et entière' ; dans Le Parisien (16/07/2026) il dit 'présenter sa candidature' par un 'contrat' avec les Français, mais sa lettre affirme 'je n'écris pas pour ajouter mon nom à la liste des prétendants' ; le 30/07/2026 (LCP) ses démarches 'préfigurent une candidature, si toutefois le projet rencontre les circonstances' ; TIME France (11/09/2026) indique qu'il collecte des parrainages depuis le 15 juin sans déclaration officielle. Aucune déclaration formelle trouvée au 12/10/2026. Il refuse la primaire PS-Place publique (jugée 'mortifère'). Programme : la 'Lettre aux Françaises et aux Français' datée du 15/07/2026 (86 p.), rendue publique le 16-17/07/2026 ; propositions reprises de la synthèse officielle de La Convention (30 propositions numérotées), recoupées avec le PDF intégral. Le site la-convention.fr renvoie un 403 aux robots ; le décompte des propositions varie selon les médias (30, 42). Mesures peu chiffrées (hors 2 000 € boursiers, 3 000 € avance jeunesse).",
+  "verifie_le": "2026-10-12"
+}

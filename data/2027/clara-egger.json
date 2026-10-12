@@ -1,0 +1,79 @@
+{
+  "slug": "clara-egger",
+  "nom": "Clara Egger",
+  "parti": "Solution démocratique",
+  "bord": "divers",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-04-19",
+  "programme": {
+    "statut": "complet",
+    "titre": "Calendrier présidentiel : RIC constituant et démocratie directe communale",
+    "url": "https://solutiondemocratique.fr/calendrier-president/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un référendum d'initiative citoyenne constituant (RIC)",
+      "detail": "Révision de l'article 89 : une révision de la Constitution pourrait être proposée par 700 000 électeurs, avec 18 mois pour recueillir les signatures, puis soumise directement à référendum sans passage par le Parlement.",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Soumettre obligatoirement toute révision constitutionnelle à référendum",
+      "detail": "Le dispositif combine initiative citoyenne et référendum obligatoire pour toute révision de la Constitution (seules 2 des 25 révisions depuis 1958 sont passées par référendum).",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/notre-solution/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Permettre aux communes d'instaurer la démocratie directe par simple délibération",
+      "detail": "Réforme du Code général des collectivités territoriales ; selon le calendrier proposé, la démocratie directe communale serait possible au plus tard le 17 octobre 2028.",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/calendrier-president/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Organiser les référendums sur le RIC constituant dès octobre 2027",
+      "detail": "Nomination le 16 mai 2027 d'un gouvernement de transition chargé de lancer le référendum, débats au Parlement sans engagement de responsabilité, organisation des référendums le 9 octobre 2027.",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/calendrier-president/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Exercer la présidence comme un « président arbitre »",
+      "detail": "La candidate s'engage à un rôle neutre, au-dessus des partis, sans programme de gouvernement au-delà de la réforme démocratique.",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/calendrier-president/",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "S'engager devant notaire, sur ses biens, à appliquer le calendrier",
+      "detail": "Engagement personnel notarié de la candidate ; les autres candidats sont invités à faire de même ou, à défaut, à léguer leurs biens à une association caritative.",
+      "nature": "programme",
+      "source_url": "https://solutiondemocratique.fr/calendrier-president/",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://solutiondemocratique.fr",
+    "https://solutiondemocratique.fr/calendrier-president/",
+    "https://solutiondemocratique.fr/notre-solution/",
+    "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/",
+    "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+    "https://solutiondemocratique.substack.com/p/premieres-retombees-medias-pour-notre",
+    "https://solutiondemocratique.substack.com/p/president-arbitre-ce-quil-nous-faut",
+    "https://solutiondemocratique.substack.com/p/1er-objectif-parrainages-atteint",
+    "https://solutiondemocratique.substack.com/p/notre-tribune-dans-le-monde",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+    "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373"
+  ],
+  "notes": "Programme volontairement limité à « une seule et unique mesure » : la démocratie directe (RIC constituant + démocratie directe communale), avec un président « arbitre » ; le statut « complet » reflète ce choix assumé. Le site renvoie toutes les autres questions (retraites, migrations, énergie, Europe, sécurité, éducation) à des décisions par référendum, sans position propre : non comptées comme propositions. Communiqué de candidature daté du 19/04/2026 (officialisation relayée la semaine du 26/04/2026). Déjà candidate en 2022 (36 parrainages). L'objectif intermédiaire de 40 intentions de parrainage de maires avant le 30/09/2026 (condition posée au maintien de la candidature) a été annoncé comme dépassé le 30/08/2026 ; parrainages officiels non acquis. Tribune co-signée dans Le Monde le 14/09/2026 (non consultée, payante). Pages du site sans date de publication.",
+  "verifie_le": "2026-10-12"
+}

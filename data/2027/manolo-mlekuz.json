@@ -1,0 +1,66 @@
+{
+  "slug": "manolo-mlekuz",
+  "nom": "Manolo Mlekuz",
+  "parti": "Trajectoire",
+  "bord": "divers",
+  "statut_candidature": "declare",
+  "date_declaration": null,
+  "programme": {
+    "statut": "complet",
+    "titre": "Programme Trajectoire : l'assemblée constituante",
+    "url": "https://trajectoire2027.fr/programme",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Réunir un collège de constitutionnalistes pour définir la constituante",
+      "detail": "Première étape : des constitutionnalistes rédigent les modalités de convocation d'une assemblée constituante.",
+      "nature": "programme",
+      "source_url": "https://trajectoire2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Soumettre les modalités de la constituante à un référendum (article 11)",
+      "detail": "En cas de refus, le collège se réunit à nouveau jusqu'à trouver des modalités approuvées par une majorité de Français.",
+      "nature": "programme",
+      "source_url": "https://trajectoire2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Faire rédiger une nouvelle Constitution par une assemblée tirée au sort",
+      "detail": "Assemblée constituante composée d'un échantillon représentatif de la population, tiré au sort.",
+      "nature": "programme",
+      "source_url": "https://trajectoire2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Soumettre la nouvelle Constitution à référendum",
+      "detail": "Si elle est adoptée, elle remplace la Constitution de 1958 ; sinon celle-ci est maintenue.",
+      "nature": "programme",
+      "source_url": "https://trajectoire2027.fr/programme",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Quitter la présidence à l'issue du processus constituant",
+      "detail": "Pendant environ deux ans, de nouvelles législatives sont organisées et le chef du parti arrivé en tête gouverne ; le président se met en retrait puis quitte ses fonctions quel que soit le résultat.",
+      "nature": "programme",
+      "source_url": "https://trajectoire2027.fr/programme",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://trajectoire2027.fr",
+    "https://trajectoire2027.fr/programme",
+    "https://trajectoire2027.fr/faq",
+    "https://www.radioslibresenperigord.com/audio/une-constituante-pour-2027-avec-manolo-mlekuz/",
+    "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html"
+  ],
+  "notes": "Candidat de 20 ans, ancien adhérent PS puis militant LFI, fondateur du mouvement citoyen non partisan Trajectoire ; tour de France en camion aménagé pour les parrainages (3 signatures certaines et 13-15 probables selon Journal-Info au 27/05/2026). Médiatisé depuis un article de Sud Ouest du 25/01/2026 ; date de déclaration exacte non trouvée. Programme volontairement limité au processus constituant (statut « complet » au sens de ce choix) ; aucune position sectorielle publiée. Le site trajectoire2027.fr ne nomme pas le candidat dans les pages consultées (« 1 candidat à temps plein »), l'attribution repose sur la presse et Radios Libres en Périgord. Taille de l'assemblée constituante non précisée. Articles CNews (27/05 et 04/10/2026) non lisibles (403). Parrainages non acquis.",
+  "verifie_le": "2026-10-12"
+}

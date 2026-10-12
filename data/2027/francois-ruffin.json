@@ -1,0 +1,646 @@
+{
+  "slug": "francois-ruffin",
+  "nom": "François Ruffin",
+  "parti": "Debout !",
+  "bord": "gauche",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-01-26",
+  "programme": {
+    "statut": "partiel",
+    "titre": "« Nous Président ! » : cahiers de campagne (6 publiés) et plans de bataille",
+    "url": "https://nouspresident.fr/cahiers-de-campagne/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 600 euros net par mois",
+      "detail": "Mesure du cahier « statut des travailleurs essentiels ». Certains médias citent 1 700 € net.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Indexer les salaires sur l'inflation",
+      "detail": "Comme jusqu'en 1982 ; mise en conformité des minima de branche avec le SMIC.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Abaisser l'âge de départ à la retraite à 60 ans",
+      "detail": "Avec une retraite avancée pour les travailleurs essentiels.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un statut des travailleuses et travailleurs essentiels",
+      "detail": "Pour environ 7 millions de salariés (aides à domicile, agents d'entretien, caristes…) : salaires, carrières, horaires, retraite.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Payer double les heures travaillées avant 8 h et après 18 h",
+      "detail": "Nouvelle catégorie d'horaires atypiques dans le Code du travail ; forfait pour les coupures de plus de 2 h.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Faire respecter la durée minimale de 24 heures pour le temps partiel",
+      "detail": "Limiter les dérogations ; rappel de salaire jusqu'à 24 h en cas de non-respect ; fin du temps partiel subi.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Compter le temps de trajet entre deux interventions comme du travail",
+      "detail": "Temps de transport entre deux interventions reconnu comme temps de travail effectif.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Accorder un trimestre de retraite en plus pour 4 trimestres en métier pénible",
+      "detail": "Pour les métiers exposés à la pénibilité.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Créer un droit opposable à la formation avec maintien du salaire",
+      "detail": "Pour atteindre le niveau bac après 5 ans ; fonds des OPCO orientés en priorité vers les salariés essentiels.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Recruter des inspecteurs du travail et sanctionner les abus d'intérim",
+      "detail": "Pénalités pour les entreprises qui renouvellent les contrats d'intérim de 3 × 6 mois.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "source_date": "2026-04-13"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Généraliser « Territoires zéro chômeur de longue durée »",
+      "detail": "Extension à tous les territoires, avec une priorité aux travaux écologiques.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Adopter une loi d'adaptation du travail aux vagues de chaleur avant l'été 2027",
+      "detail": "Seuils de température imposant l'arrêt du travail et chômage technique canicule étendu au-delà du BTP.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir les CHSCT",
+      "detail": "Avec une commission environnement dans tous les CSE et un statut renforcé des lanceurs d'alerte.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "economie",
+      "titre": "Faire siéger les salariés en nombre aux conseils d'administration",
+      "detail": "Mesure du cahier « travaillisme écologique ».",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "economie",
+      "titre": "Taxer de 4 % les dividendes des entreprises qui versent plus de 10 M€",
+      "detail": "Taux de 2 % en dessous de ce seuil.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Aligner le salaire du Président de la République sur le SMIC",
+      "detail": "« Un Smic me suffira », contre environ 16 000 € par mois aujourd'hui ; même cohérence demandée pour les ministres.",
+      "nature": "declaration",
+      "source_url": "https://nouspresident.fr/president-au-smic/",
+      "source_date": "2026-01-29"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les avantages à vie des anciens présidents et Premiers ministres",
+      "detail": "Fin de la rente post-mandat et des avantages matériels ; protection policière maintenue si nécessaire.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Économiser 20 millions d'euros sur le budget de l'Élysée",
+      "detail": "Présenté comme l'équivalent de 400 postes d'infirmières.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Convoquer des états généraux de la fiscalité",
+      "detail": "Avec des sièges pour les artisans, les retraités et les salariés.",
+      "nature": "declaration",
+      "source_url": "https://nouspresident.fr/president-au-smic/",
+      "source_date": "2026-01-29"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Créer une Haute Autorité à la probité",
+      "detail": "Fusion de la HATVP, de la Commission des comptes de campagne et de l'AFA, avec pouvoirs d'enquête et de sanction.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Interdire le pantouflage des ministres pendant 10 ans",
+      "detail": "Période de refroidissement de 10 ans pour les ministres sortants et leurs équipes ; rétro-pantouflage interdit.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Imposer la démission de tout ministre mis en examen",
+      "detail": "Départ immédiat du Gouvernement en cas de mise en examen.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Exiger un casier judiciaire vierge des candidats à un mandat",
+      "detail": "Bulletin n° 2 vierge de certaines condamnations ; candidats à l'Élysée à jour de leurs impôts et sans conflit d'intérêts.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Supprimer la Cour de justice de la République",
+      "detail": "Fin de l'inviolabilité pénale et civile du Président et du privilège de juridiction des ministres.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Retirer au Gouvernement la nomination des magistrats du parquet",
+      "detail": "Abrogation de ce pouvoir de nomination ; nominations collégiales selon une procédure publique.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Supprimer la convention judiciaire d'intérêt public (CJIP)",
+      "detail": "Sauf pour la corruption transnationale entre entreprises.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Encadrer le lobbying et interdire tout cadeau aux décideurs publics",
+      "detail": "Plafond de dépenses des lobbies, origine des amendements rendue publique, cahier des « visiteurs du soir ».",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Limiter le recours aux cabinets de conseil et publier leurs missions",
+      "detail": "Publication de chaque mission (objet, montant, livrables) et plan de réinternalisation des compétences publiques.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "economie",
+      "titre": "Soumettre au Parlement les rachats de fleurons industriels par l'étranger",
+      "detail": "Avis de la commission des affaires économiques de l'Assemblée ; nationalisation d'entreprises stratégiques si nécessaire.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/separation-argent-etat/",
+      "source_date": "2026-07-02"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Lancer un plan « Salles des fêtes et maisons du peuple » d'1 Md€ par an",
+      "detail": "Pendant cinq ans : rénovation et création d'équipements, ouverture des bâtiments publics hors temps scolaire.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Adopter une loi-cadre garantissant un droit aux vacances",
+      "detail": "Premier séjour collectif financé pour chaque enfant pendant la scolarité obligatoire ; guichet unique des aides vacances.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer un billet TER illimité à 29 € pour l'été",
+      "detail": "Valable du 1er juillet au 31 août.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Plafonner le prix des billets d'avion entre l'Hexagone et l'Outre-mer",
+      "detail": "Mesure du cahier « temps des loisirs ».",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Reprendre les autoroutes en main et baisser les péages",
+      "detail": "Fin des concessions et tarification publique.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre le BAFA gratuit",
+      "detail": "Avec le financement de l'embauche d'animateurs pour les accueils de loisirs.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Rétablir la part collective du Pass Culture et l'ouvrir aux adultes précaires",
+      "detail": "Avec une prise en charge de la moitié des licences sportives pour les familles modestes.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un statut du bénévole avec un congé d'une demi-journée par mois",
+      "detail": "Congé sans perte de revenu, droit à la formation, prise en compte pour la retraite.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "social",
+      "titre": "Rétablir 60 000 contrats aidés associatifs et doubler les postes FONJEP",
+      "detail": "Aide FONJEP portée à 15 000 € par poste ; subventions pluriannuelles de 3 à 5 ans.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/temps-loisirs/",
+      "source_date": "2026-07-17"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Instaurer des prix minimums garantis aux agriculteurs",
+      "detail": "Calculés sur les coûts de production, modulés pour les produits sous label, dont le bio.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire les importations vendues sous les prix planchers français",
+      "detail": "Clauses de sauvegarde sanitaires contre les produits contenant des substances interdites en France.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Sortir des traités de libre-échange, dont le CETA et le Mercosur",
+      "detail": "Avec une « exception agricole » : quotas d'importation et barrières douanières.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Porter le bio à 30 % en 2030 et 50 % en 2035 en restauration collective",
+      "detail": "Produits locaux et durables favorisés dans la commande publique.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Payer les services environnementaux 100 à 150 € par hectare",
+      "detail": "Généralisation des paiements pour services environnementaux.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Verser les aides de la PAC selon le travail et plafonner les grandes exploitations",
+      "detail": "Refonte d'une partie du premier pilier selon les unités de travail agricole et les premiers hectares.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Créer un statut de paysan avec retraite et congés",
+      "detail": "Droits équivalents aux autres travailleurs ; installer plus de paysans qu'il n'en part chaque année.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Rendre systématique l'étiquetage de l'origine des aliments",
+      "detail": "Mesure du cahier « exception agriculturelle ».",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Soutenir des expérimentations de sécurité sociale de l'alimentation",
+      "detail": "Dans tous les territoires.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "source_date": "2026-10-07"
+    },
+    {
+      "theme": "logement",
+      "titre": "Généraliser l'encadrement des loyers",
+      "detail": "D'abord à toutes les agglomérations tendues puis à tout le territoire ; compléments de loyer plafonnés.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Produire 200 000 logements à loyer abordable par an",
+      "detail": "Avec un effort particulier pour les jeunes ; 150 000 logements en accession par an en plus.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Doubler le prêt à taux zéro",
+      "detail": "D'environ 60 000 à 120 000 € en moyenne ; prêt public « en second ressort » après un refus bancaire.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Supprimer l'abattement sur les plus-values immobilières hors résidence principale",
+      "detail": "Au moins 3 Md€ de recettes par an ; fin des avantages fiscaux des multipropriétaires.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Taxer les meublés touristiques à 40-70 % contre 10-30 % pour les locations durables",
+      "detail": "Avec les mêmes obligations que les locations ordinaires (interdiction de louer des passoires).",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abroger la loi Kasbarian-Bergé",
+      "detail": "Avec 8 000 places d'hébergement d'urgence en plus par an en zones tendues et un plan contre le sans-abrisme.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer 200 000 logements pour étudiants et jeunes actifs d'ici 2032",
+      "detail": "Dont 150 000 étudiants, avec construction hors-site ; 8 à 12 Md€ d'investissement sur 5 ans.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Doubler le soutien public aux bailleurs sociaux",
+      "detail": "Retour à la situation d'avant 2018, soit 2 à 3 Md€ de plus par an.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Porter à 15 Md€ par an les moyens de la rénovation des logements",
+      "detail": "600 000 rénovations d'ampleur par an en moyenne et fin des passoires thermiques d'ici 2032.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Prolonger le nucléaire existant et construire six EPR2",
+      "detail": "Décision sur huit réacteurs supplémentaires selon le devis d'EDF ; annulation de la fusion ASN-IRSN.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Revenir à un modèle public de l'électricité autour d'EDF",
+      "detail": "Fin de la concurrence sur la vente d'électricité aux consommateurs.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Interdire les vols intérieurs quand le train fait le trajet en moins de 4 h",
+      "detail": "Mesure du cahier « travaillisme écologique ».",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Proposer un leasing social de petites voitures électriques françaises",
+      "detail": "Pour 3 millions d'automobilistes sur le quinquennat ; soutien au rétrofit.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Tripler la part du fret ferroviaire",
+      "detail": "Plus de trains sur le réseau existant, trains de nuit et liaisons européennes pour réduire de moitié le trafic aérien.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Interdire la publicité pour les produits les plus polluants",
+      "detail": "Voitures thermiques, billets d'avion.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "Et organiser des référendums sur les mesures écologiques.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Créer un Commissariat général à la planification",
+      "detail": "Fusion du SGPE et du Haut-commissariat au plan, rattaché au Premier ministre.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer un délit pénal de manquement au devoir de vigilance",
+      "detail": "Et un délit de faute systémique pour les dirigeants en matière environnementale.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Ouvrir une Maison de la réparation et du réemploi par canton",
+      "detail": "Environ 50 000 emplois ; retour de la consigne du verre ; taxe « balai » sur les produits hors filières REP.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "economie",
+      "titre": "Relocaliser 100 produits essentiels à la transition écologique",
+      "detail": "Batteries, véhicules électriques, pompes à chaleur, isolants, turbines, matériel ferroviaire.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Renforcer les moyens des SDIS et mieux indemniser les pompiers volontaires",
+      "detail": "Formation accrue aux feux de forêt et équipements renforcés.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/travaillisme-ecologique/",
+      "source_date": "2026-09-09"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Instaurer un moratoire de cinq ans sur les data centers non souverains",
+      "detail": "Plan « data centers » ; débats publics sur les projets existants.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/plan-data-centers/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Donner aux communes un veto suspensif sur les grands data centers",
+      "detail": "Fin du statut de projet d'intérêt national majeur ; règles pour les projets de plus de 50 ha ou 100 MW.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/plan-data-centers/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Exiger la qualification SecNumCloud pour les données de l'État",
+      "detail": "Également pour les secteurs vitaux et les opérateurs de services essentiels.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/plan-data-centers/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Supprimer le tarif réduit de taxe sur l'électricité des data centers",
+      "detail": "Pour les projets non stratégiques : 12 €/MWh au lieu de 26 € pour les autres consommateurs.",
+      "nature": "programme",
+      "source_url": "https://nouspresident.fr/plan-data-centers/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup",
+      "detail": "Proposition commune avec Dominique de Villepin le 5 octobre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/dominique-de-villepin-et-francois-ruffin-critiquent-la-politique-de-maintien-de-l-ordre-vis-a-vis-des-mobilisations-lyceennes_8224030.html",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abaisser l'âge du droit de vote à 16 ans",
+      "detail": "Défendu avec Dominique de Villepin le 5 octobre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/dominique-de-villepin-et-francois-ruffin-critiquent-la-politique-de-maintien-de-l-ordre-vis-a-vis-des-mobilisations-lyceennes_8224030.html",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "education",
+      "titre": "Sanctuariser la part de l'Éducation nationale dans le budget de l'État",
+      "detail": "Même si le nombre d'élèves baisse ; plan d'urgence de rénovation des bâtiments scolaires.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/dominique-de-villepin-et-francois-ruffin-critiquent-la-politique-de-maintien-de-l-ordre-vis-a-vis-des-mobilisations-lyceennes_8224030.html",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Contrôler les prix et les marges en Outre-mer",
+      "detail": "« Marge raisonnable » pour les entreprises, sans blocage des prix, et indexation des salaires sur l'inflation.",
+      "nature": "declaration",
+      "source_url": "https://la1ere.franceinfo.fr/les-questions-d-independance-ne-doivent-pas-masquer-la-question-de-l-egalite-francois-ruffin-detaille-sa-vision-des-territoires-d-outre-mer-1740986.html",
+      "source_date": "2026-09-22"
+    }
+  ],
+  "sources_consultees": [
+    "https://nouspresident.fr/statut-travailleurs-essentiels/",
+    "https://nouspresident.fr/travaillisme-ecologique/",
+    "https://nouspresident.fr/president-au-smic/",
+    "https://nouspresident.fr/separation-argent-etat/",
+    "https://nouspresident.fr/temps-loisirs/",
+    "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+    "https://nouspresident.fr/face-a-la-crise-du-logement/",
+    "https://nouspresident.fr/plan-data-centers/",
+    "https://www.franceinfo.fr/societe/education/blocage-des-lycees/dominique-de-villepin-et-francois-ruffin-critiquent-la-politique-de-maintien-de-l-ordre-vis-a-vis-des-mobilisations-lyceennes_8224030.html",
+    "https://la1ere.franceinfo.fr/les-questions-d-independance-ne-doivent-pas-masquer-la-question-de-l-egalite-francois-ruffin-detaille-sa-vision-des-territoires-d-outre-mer-1740986.html",
+    "https://nouspresident.fr/",
+    "https://nouspresident.fr/cahiers-de-campagne/",
+    "https://nouspresident.fr/nos-plans-de-batailles/",
+    "https://nouspresident.fr/ruffin-20h-tf1/",
+    "https://francoisruffin.fr/",
+    "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026",
+    "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/francois-ruffin-paye-au-smic-une-fois-president-c-est-un-symbole-il-nous-faut-une-grande-loi-de-separation-de-l-argent-et-de-l-etat-explique-le-candidat-a-la-primaire-de-la-gauche_7774160.html",
+    "https://www.franceinfo.fr/economie/sommet-choose-france-la-priorite-ne-doit-pas-etre-de-faire-la-danse-du-ventre-devant-les-capitaux-etrangers-plaide-francois-ruffin_8040773.html"
+  ],
+  "notes": "Candidature annoncée au 20 h de TF1 le 26 janvier 2026, d'abord dans le cadre de la primaire de la gauche unitaire. Il avait déjà dit être candidat le 1er avril 2025 (meeting de Montreuil), en vue d'une candidature unique à gauche. La primaire est de fait abandonnée depuis juillet 2026. Le 12 mai 2026, sur LCP, il a dit : « s'il n'y a pas de primaire, moi j'y vais ». Fin septembre 2026, il revendiquait environ 150 des 500 parrainages nécessaires. Le programme sort par cahiers thématiques sur nouspresident.fr (travailleurs essentiels, séparation de l'argent et de l'État, loisirs, agriculture, travaillisme écologique, logement) et par « plans de bataille » (data centers). Ces cahiers comptent beaucoup plus de mesures : on a retenu ici les principales. Il n'y a pas encore de programme consolidé, et les thèmes immigration, défense et santé ne sont pas couverts. Incertitude : le cahier officiel dit SMIC à 1 600 € net, certains médias disent 1 700 € net.",
+  "verifie_le": "2026-10-12"
+}

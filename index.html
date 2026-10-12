@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Comparateur présidentielle 2027</title>
+  <meta name="description" content="Comparez, thème par thème, les propositions des candidats à l'élection présidentielle française de 2027, et leurs programmes de 2022.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Présidentielle 2027 — comparateur des programmes</h1>
+      <p class="lede">Choisissez deux candidats ou plus, puis les thèmes qui vous intéressent. Chaque proposition renvoie à sa source.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filtres">
+      <div class="control-block">
+        <div class="control-head">
+          <h2>Candidats</h2>
+          <button type="button" id="open-picker" class="btn">Ajouter un candidat</button>
+        </div>
+        <ul id="selection" class="selection" aria-live="polite"></ul>
+        <div id="picker" class="picker" hidden>
+          <input type="search" id="picker-search" placeholder="Rechercher un candidat ou un parti" aria-label="Rechercher un candidat">
+          <div id="picker-list"></div>
+        </div>
+      </div>
+
+      <div class="control-block">
+        <div class="control-head">
+          <h2>Thèmes</h2>
+          <button type="button" id="all-themes" class="btn btn-ghost">Tous les thèmes</button>
+        </div>
+        <div id="themes" class="chips" role="group" aria-label="Thèmes"></div>
+      </div>
+
+      <div class="control-block">
+        <label for="search" class="h2-like">Rechercher dans les propositions</label>
+        <input type="search" id="search" placeholder="ex. retraite, SMIC, nucléaire…">
+      </div>
+    </section>
+
+    <section id="cards" class="cards" aria-label="Candidats sélectionnés"></section>
+    <section id="results" aria-label="Comparatif"></section>
+    <section id="overview" aria-label="Vue d'ensemble"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p id="data-date"></p>
+      <p>Aucune candidature n'est officielle avant la publication de la liste par le Conseil constitutionnel (500 parrainages). Les programmes évoluent : beaucoup de fiches reposent encore sur des déclarations ou des documents partiels, signalés par une étiquette. Méthodologie : <a href="docs/METHODOLOGIE.md">docs/METHODOLOGIE.md</a>.</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

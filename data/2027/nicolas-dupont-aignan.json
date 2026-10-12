@@ -1,0 +1,661 @@
+{
+  "slug": "nicolas-dupont-aignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "parti": "Debout la France",
+  "bord": "souverainiste",
+  "statut_candidature": "declare",
+  "date_declaration": "2025-03-08",
+  "programme": {
+    "statut": "partiel",
+    "titre": "Le Projet de Debout la France (en cours d'actualisation pour 2027)",
+    "url": "https://www.debout-la-france.fr/notre-projet/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un référendum d'initiative citoyenne (RIC) législatif et constituant",
+      "detail": "Déclenché par une pétition d'un million d'électeurs inscrits, précédé d'un débat équitable de six mois ; référendum obligatoire pour toute révision constitutionnelle.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Revenir au septennat avec un référendum révocatoire à mi-mandat",
+      "detail": "Référendum révocatoire d'initiative citoyenne possible à mi-mandat.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Prendre en compte le vote blanc dans les résultats des élections",
+      "detail": "Si le vote blanc est majoritaire, le scrutin est reporté et les candidats battus ne peuvent se représenter.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Conditionner l'activation de la carte Vitale à la participation au vote",
+      "detail": "Mesure visant à favoriser la participation électorale.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Exiger un casier judiciaire vierge pour tous les élus",
+      "detail": "Volet « moraliser la vie publique », avec suppression des avantages des anciens présidents.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Réduire le nombre de parlementaires et baisser leurs indemnités de 25 %",
+      "detail": "Passer de 577 à 500 députés et de 348 à 300 sénateurs ; rémunération des élus selon leur présence effective.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les régions et le CESE pour revenir au couple commune-département",
+      "detail": "Projets structurants coordonnés par le préfet de région ; abrogation de la loi NOTRe pour rendre leur autonomie aux communes.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "source_date": "2026-06-09"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Organiser un référendum sur l'appartenance de la France à l'Union européenne",
+      "detail": "Objectif de sortie de l'UE après un moratoire d'un an de négociations (arrêt de la contribution, primauté du droit national), puis construction d'une « Europe des nations libres ».",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Sortir de l'espace Schengen et rétablir les frontières nationales",
+      "detail": "Rétablissement des frontières nationales ; le volet immigration prévoit 10 000 agents supplémentaires et le recours à l'armée si nécessaire.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Refuser l'accord UE-Mercosur et rompre le CETA et d'autres accords de libre-échange",
+      "detail": "Rupture des accords avec le Canada (CETA), la Nouvelle-Zélande, le Kenya et le Chili ; clauses miroirs sur les importations.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Rétablir un droit de veto français sur les accords commerciaux de l'UE",
+      "detail": "Mesure du plan « Produire en France ».",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "source_date": "2026-04-28"
+    },
+    {
+      "theme": "societe",
+      "titre": "Constitutionnaliser l'argent liquide et refuser l'euro numérique",
+      "detail": "Refus du portefeuille numérique, du carnet de santé et du permis de conduire numériques ; suppression du Digital Services Act.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+      "source_date": "2026-10-05"
+    },
+    {
+      "theme": "economie",
+      "titre": "Réserver 75 % de la commande publique aux produits fabriqués en France",
+      "detail": "50 % la première année puis 75 % en cinq ans (« Buy French Act »), en privilégiant les PME.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "source_date": "2026-04-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Créer un fonds de relocalisation de 10 Md€ pour implanter des usines en zone rurale",
+      "detail": "Aides à l'investissement en échange d'implantations industrielles en zone rurale.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "source_date": "2026-04-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer la directive sur les travailleurs détachés",
+      "detail": "Objectif annoncé de 500 000 emplois retrouvés.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "source_date": "2026-04-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rendre obligatoire l'étiquetage de la part « fabriqué en France » de chaque produit",
+      "detail": "Label « Origine France garantie » étendu dès lors que plus de 75 % de la valeur ajoutée est réalisée en France.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+      "source_date": "2026-04-28"
+    },
+    {
+      "theme": "economie",
+      "titre": "Diviser par deux l'impôt sur les sociétés pour les bénéfices réinvestis en France",
+      "detail": "Crédit d'impôt production ; baisse de 1 point d'IS par 2 % d'actionnariat salarié (dans la limite de 10 points).",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Augmenter les salaires de 8 % jusqu'à 3 SMIC par une baisse des cotisations salariales",
+      "detail": "Équivalent d'un 13e mois sans hausse du coût du travail pour les entreprises.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l'inflation",
+      "detail": "Mesure du volet pouvoir d'achat.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Diviser par deux le prix de l'électricité dès la première année",
+      "detail": "Sortie du marché européen de l'électricité, monopole de production et distribution d'EDF rétabli, tarif réglementé de 100 €/MWh.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser de 40 centimes le prix des carburants",
+      "detail": "Suppression des CEE (17 c), de la TVA sur la taxe (13 c) et plafonnement des marges de raffinage (10 c).",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Baisser de 20 % le prix du gaz et réautoriser les importations de gaz russe",
+      "detail": "Monopole public de distribution rétabli et suppression des CEE.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Supprimer la TVA sur 50 produits de première nécessité",
+      "detail": "Et réduire les frais bancaires, notamment cachés.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Exonérer de charges patronales pendant 5 ans le CDI d'un chômeur de longue durée",
+      "detail": "Pour les chômeurs de plus de 3 ans en fin de droits.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Défiscaliser les heures supplémentaires au-delà de 1 607 heures par an",
+      "detail": "Dans la limite de 100 heures par an, le net étant égal au brut.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "social",
+      "titre": "Doter chaque nouveau-né d'un capital retraite de 10 000 €",
+      "detail": "Bloqué jusqu'à la retraite et géré par un fonds public de capitalisation ; complément estimé à 500 €/mois à 60 ans.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "social",
+      "titre": "Limiter l'ensemble des prestations d'un inactif à 70 % du SMIC net",
+      "detail": "Mesure du volet pouvoir d'achat et valeur travail.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir un impôt sur les très grandes fortunes hors résidence principale",
+      "detail": "Avec déduction des investissements dans les entreprises produisant en France.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Garantir un taux du Livret A supérieur à l'inflation",
+      "detail": "Protection des revenus de l'épargne populaire.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer les droits de succession sur la résidence principale",
+      "detail": "Ainsi que sur les 100 premiers hectares agricoles ; exonération de 90 % des titres d'entreprise transmis.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Supprimer progressivement les agences d'État (ADEME, ARS, ANAH…)",
+      "detail": "Missions reprises par les ministères de tutelle ; objectif de 15 Md€ d'économies par an au bout de 3 ans.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Mettre fin aux aides de l'État aux éoliennes et panneaux solaires",
+      "detail": "12 Md€ d'économies annoncées.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Permettre à l'État d'emprunter directement auprès de la Banque de France",
+      "detail": "Rapatriement du pouvoir monétaire et refinancement à taux zéro pour les investissements ; grand emprunt national.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Taxer les multinationales au prorata du chiffre d'affaires réalisé en France",
+      "detail": "10 Md€ attendus à 5 ans, plus une taxe sur l'exploitation des données personnelles (5 Md€) et une taxe antidumping (3 Md€).",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "defense",
+      "titre": "Mettre fin aux aides à l'Ukraine",
+      "detail": "Économie évaluée à 7 Md€ par an (aides françaises et quote-part européenne).",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recruter 10 000 policiers et gendarmes supplémentaires nets en cinq ans",
+      "detail": "Plus 10 000 douaniers et policiers aux frontières, dans une loi d'orientation et de programmation.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer une présomption de légitime défense pour les policiers",
+      "detail": "Et faire foi des procès-verbaux des policiers jusqu'à preuve du contraire.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Recréer un service de Renseignements généraux",
+      "detail": "Ciblant réseaux de stupéfiants, séparatisme, radicalisation islamiste et cybercriminalité.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer 40 000 places de prison et recruter 20 000 surveillants",
+      "detail": "20 000 places par réhabilitation de casernes et 20 000 en structures adaptées ; pénitentiaire rattachée au ministère de l'Intérieur.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Ouvrir une prison ultra-sécurisée de 600 places en Guyane",
+      "detail": "Pour terroristes et barons du narcotrafic, isolement renforcé.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer un « droit de timbre » de 150 à 500 € pour chaque condamnation",
+      "detail": "Et prélever jusqu'à 25 % de la rémunération des détenus travaillant pour financer leur détention.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/securite/",
+      "source_date": "2025-11-01"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abroger la loi du 23 mars 2019 sur l'aménagement des courtes peines",
+      "detail": "Principe « un délit = une condamnation = une peine exécutée », mandat de dépôt à l'audience.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/justice/",
+      "source_date": "2026-06-10"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Instaurer la perpétuité réelle et un référendum sur la peine de mort pour meurtre d'enfant",
+      "detail": "Mesure du volet « appliquer la loi ».",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/justice/",
+      "source_date": "2026-06-10"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Abaisser la majorité pénale à 16 ans et abroger l'ordonnance de 1945",
+      "detail": "Avec suspension des aides sociales des familles de mineurs délinquants.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/justice/",
+      "source_date": "2026-06-10"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Rétablir le délit de séjour irrégulier puni de prison ferme",
+      "detail": "Avec intégration de l'éloignement dans la procédure pénale.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer l'AME et ouvrir un dispensaire d'urgence par département",
+      "detail": "Pour les étrangers en situation irrégulière, avant leur expulsion.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer les aides sociales non contributives pour les étrangers",
+      "detail": "RSA, allocations familiales, aides au logement.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Instaurer une double peine automatique",
+      "detail": "Expulsion à la sortie de prison avec retrait définitif du titre de séjour ; courtes peines remplacées par une expulsion immédiate.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Supprimer le droit du sol par référendum",
+      "detail": "La naturalisation resterait possible.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Exiger 10 ans de résidence pour la naturalisation et voter un plafond annuel",
+      "detail": "Avec maîtrise de la langue, service civique obligatoire de 3 mois et refus pour toute personne condamnée.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "immigration",
+      "titre": "Limiter le droit d'asile aux demandes déposées aux frontières",
+      "detail": "Assignation à résidence des demandeurs et aucune régularisation des déboutés.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "societe",
+      "titre": "Interdire les signes religieux visibles dans tout le service public, université comprise",
+      "detail": "Notamment dans les universités et les hôpitaux ; possibilité pour les entreprises d'interdire les signes religieux ostentatoires dans leur règlement intérieur.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "societe",
+      "titre": "Conditionner l'ouverture d'une mosquée à un serment de fidélité à la République",
+      "detail": "Signé par l'imam et le président de l'association cultuelle ; fermeture des lieux refusant la Charte de conformité.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "source_date": "2026-03-03"
+    },
+    {
+      "theme": "defense",
+      "titre": "Sortir du commandement intégré de l'OTAN",
+      "detail": "Pour regagner l'indépendance militaire et stratégique.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/defense/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "defense",
+      "titre": "Construire deux porte-avions et porter la flotte à 20 frégates de premier rang",
+      "detail": "Remplacement du Charles-de-Gaulle accéléré pour une disponibilité permanente du groupe aéronaval.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/defense/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "defense",
+      "titre": "Porter la flotte de Rafale à 250 appareils en 2030",
+      "detail": "Et augmenter le nombre de lanceurs et de satellites de renseignement.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/defense/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "defense",
+      "titre": "Transformer la réserve opérationnelle en garde nationale de 100 000 réservistes",
+      "detail": "Et instaurer un service national obligatoire de trois mois avec option militaire d'un an.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/defense/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "defense",
+      "titre": "Se retirer du SCAF et du drone MALE européen",
+      "detail": "Au profit de programmes nationaux d'avion, de drone, de char et de missiles.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/defense/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer un fonds souverain IA doté de plusieurs milliards d'euros",
+      "detail": "Financé par l'État, la BPI et des investisseurs privés, avec un cloud souverain indépendant des solutions américaines.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+      "source_date": "2025-06-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Appliquer une préférence nationale dans les marchés publics d'IA, cloud et cybersécurité",
+      "detail": "Label « IA Made in France » et critères de souveraineté obligatoires dans les appels d'offres.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+      "source_date": "2025-06-13"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Créer une Agence nationale de l'éthique et de la sécurité des IA",
+      "detail": "Audit systématique des modèles et statut juridique de « personne numérique » pour l'IA.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+      "source_date": "2025-06-13"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre l'uniforme obligatoire et interdire les objets connectés à l'école",
+      "detail": "Avec vouvoiement, interdiction des signes religieux démonstratifs pour tous et suppression du programme EVARS.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Conditionner les allocations familiales à l'assiduité scolaire",
+      "detail": "Création d'établissements « d'apaisement civique » pour les élèves perturbateurs.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Augmenter de 30 % les heures de français et de mathématiques au primaire",
+      "detail": "Retour à la méthode syllabique et examen de type certificat d'études conditionnant l'entrée au collège.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Revenir aux filières S, ES et L au lycée et réserver l'accès au lycée au brevet",
+      "detail": "Classes de niveau au collège et retour du redoublement si nécessaire.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "logement",
+      "titre": "Relever de 100 000 € le plafond du prêt à taux zéro",
+      "detail": "Augmentation de la part du PTZ dans l'emprunt et allongement du différé ; objectif de 3 Français sur 4 propriétaires.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/logement/",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "logement",
+      "titre": "Abandonner l'interdiction de louer les logements selon le DPE",
+      "detail": "Pour remettre sur le marché les petits logements.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/logement/",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer une garantie universelle des loyers impayés financée à 1 % du loyer",
+      "detail": "Financée par les locataires pour sécuriser les propriétaires.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/logement/",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "logement",
+      "titre": "Mettre fin à l'objectif de zéro artificialisation nette (ZAN)",
+      "detail": "Réforme intégrale de la loi Climat et résilience ; objectif de 400 000 logements construits par an.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/logement/",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer un dispositif « Maison à 1 euro » pour les biens abandonnés en zone rurale",
+      "detail": "Attribuée sur dossier par le maire à des non-propriétaires s'engageant à rénover et habiter le bien.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/logement/",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "social",
+      "titre": "Revaloriser l'AAH d'environ 300 € pour les personnes lourdement handicapées",
+      "detail": "Pour l'aligner sur le seuil de pauvreté (environ 1 337 €).",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/handicap/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "social",
+      "titre": "Accorder une part fiscale complète pour tout enfant handicapé à charge",
+      "detail": "Dès la première personne à charge ; rétablissement du complément de ressources supprimé en 2019.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/handicap/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter la mutualisation des AESH à trois élèves par classe",
+      "detail": "Et deux élèves en ULIS ; création de postes d'AESH et possibilité d'un temps plein.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/handicap/",
+      "source_date": "2026-10-08"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Diviser par deux le prix des billets d'avion entre l'outre-mer et l'Hexagone",
+      "detail": "Extension du dispositif de continuité territoriale appliqué à la Corse.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+      "source_date": "2026-10-01"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Réformer l'octroi de mer pour faire baisser les prix en outre-mer",
+      "detail": "Maintenu sur les productions locales, remplacé par une TVA reversée aux collectivités sur les autres importations.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+      "source_date": "2026-10-01"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Dégeler le corps électoral en Nouvelle-Calédonie",
+      "detail": "Mesure présentée comme mettant fin à une « ségrégation démocratique ».",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/outre-mer/",
+      "source_date": "2026-10-01"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Supprimer les zones à faibles émissions (ZFE)",
+      "detail": "Dans le cadre de la division par deux des normes pesant sur entreprises et particuliers.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Accélérer les EPR2 et petits réacteurs modulaires et relancer les neutrons rapides",
+      "detail": "Barrages hydroélectriques maintenus dans le giron d'EDF ; trains diesel remplacés par des trains à hydrogène.",
+      "nature": "programme",
+      "source_url": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "source_date": "2026-10-10"
+    }
+  ],
+  "sources_consultees": [
+    "https://info.fr/yerres-dupont-aignan-candidature-presidentielle-2027-sursaut-gaulliste/",
+    "https://votons-2027.fr/candidats/dupont-aignan/programme",
+    "https://www.debout-la-france.fr/notre-projet/",
+    "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "https://www.debout-la-france.fr/projet/defense/",
+    "https://www.debout-la-france.fr/projet/economie-travail/",
+    "https://www.debout-la-france.fr/projet/handicap/",
+    "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+    "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+    "https://www.debout-la-france.fr/projet/justice/",
+    "https://www.debout-la-france.fr/projet/logement/",
+    "https://www.debout-la-france.fr/projet/outre-mer/",
+    "https://www.debout-la-france.fr/projet/produire-en-france/",
+    "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+    "https://www.debout-la-france.fr/projet/securite/",
+    "https://www.slate.fr/politique/election-presidentielle-2027-liste-candidats-declares-interesses-primaire-gauche-droite-extreme-lfi-rn-lr-ps-macron"
+  ],
+  "notes": "Candidature annoncée le 8 mars 2025 à Yerres (4e candidature ; Slate, info.fr). Livre-programme « 2027 La liberté ou la mort » (Fayard, 22 avril 2026) signalé par info.fr, non consulté et non vérifié auprès de l'éditeur. Le site de DLF indique que le programme est « en cours d'actualisation pour l'élection présidentielle de 2027 » (badge « Projet 2027 » non repérable dans le HTML). Seules les rubriques publiées ou mises à jour depuis 2025 ont été retenues (sécurité nov. 2025, IA juin 2025, Produire en France màj avril 2026, démocratie, économie, logement, handicap, outre-mer, immigration, défense, Europe, éducation, justice : màj 2026, contenu citant des données 2025-2026). source_date = date de publication ou de dernière modification de la page (métadonnées du site). Les rubriques non mises à jour depuis début 2024 (santé, retraites, culture, sport, tourisme, etc.) ont été exclues car issues du programme 2022. Quelques divergences internes au site (ex. fonds de relocalisation 10 Md€ vs 4 ou 5 Md€/an selon les pages).",
+  "verifie_le": "2026-10-12"
+}

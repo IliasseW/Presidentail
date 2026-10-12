@@ -1,0 +1,519 @@
+{
+  "slug": "jean-luc-melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parti": "La France insoumise",
+  "bord": "gauche-radicale",
+  "statut_candidature": "declare",
+  "date_declaration": "2026-05-03",
+  "programme": {
+    "statut": "partiel",
+    "titre": "L'Avenir en commun, programme de la « Nouvelle France » (5e édition, à paraître le 6 novembre 2026)",
+    "url": "https://melenchon2027.fr/programme/decouvrir/",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à 1 700 euros",
+      "detail": "Annoncé au premier meeting de campagne à Saint-Denis le 7 juin 2026 ; la source ne précise pas s'il s'agit du brut ou du net.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-primaire-est-finie-lance-jean-luc-melenchon-au-reste-de-la-gauche-pour-son-premier-meeting-de-campagne-a-saint-denis_8049131.html",
+      "source_date": "2026-06-07"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Rétablir la retraite à 60 ans avec 40 annuités",
+      "detail": "Retour d'abord à 62 ans puis « le plus vite possible » à 60 ans pour 40 annuités ; départ à 60 ans possible sans tous les trimestres, avec pension au prorata.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+      "source_date": "2026-09-30"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer une « Sécurité sociale intégrale » gérée par ses cotisants",
+      "detail": "Engagement énoncé lors du meeting de lancement de campagne à Saint-Denis (7 juin 2026).",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-jean-luc-melenchon-lance-sa-campagne-a-saint-denis_8049941.html",
+      "source_date": "2026-06-08"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Démanteler les groupes médiatico-culturels par une loi dès le début du mandat",
+      "detail": "Présentée comme « notre première tâche législative » : démanteler les « trusts » médiatiques et culturels.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-primaire-est-finie-lance-jean-luc-melenchon-au-reste-de-la-gauche-pour-son-premier-meeting-de-campagne-a-saint-denis_8049131.html",
+      "source_date": "2026-06-07"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Accompagner la Nouvelle-Calédonie vers l'indépendance",
+      "detail": "L'archipel « ira vers l'indépendance », sans calendrier précisé.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-primaire-est-finie-lance-jean-luc-melenchon-au-reste-de-la-gauche-pour-son-premier-meeting-de-campagne-a-saint-denis_8049131.html",
+      "source_date": "2026-06-07"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Accompagner la Corse vers une autonomie étendue",
+      "detail": "Annoncé au meeting de Saint-Denis du 7 juin 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-primaire-est-finie-lance-jean-luc-melenchon-au-reste-de-la-gauche-pour-son-premier-meeting-de-campagne-a-saint-denis_8049131.html",
+      "source_date": "2026-06-07"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Passer à la VIe République",
+      "detail": "Appel à une « révolution citoyenne » et au passage à une Sixième République (Lettre au peuple de France, mai 2026).",
+      "nature": "declaration",
+      "source_url": "https://melenchon2027.fr/lettre-au-peuple-de-france/",
+      "source_date": "2026-05-05"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC)",
+      "detail": "« Donnons le pouvoir au peuple avec le référendum d'initiative citoyenne ».",
+      "nature": "declaration",
+      "source_url": "https://melenchon2027.fr/lettre-au-peuple-de-france/",
+      "source_date": "2026-05-05"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer un droit de révocation de tout élu",
+      "detail": "Droit pour les citoyens de « révoquer aussi tout élu ».",
+      "nature": "declaration",
+      "source_url": "https://melenchon2027.fr/lettre-au-peuple-de-france/",
+      "source_date": "2026-05-05"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Abaisser l'âge du droit de vote à 16 ans",
+      "detail": "Promesse renouvelée au meeting de Clermont-Ferrand du 11 octobre 2026.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html",
+      "source_date": "2026-10-11"
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup",
+      "detail": "Abrogation « au plus vite » de la plateforme d'orientation post-bac.",
+      "nature": "declaration",
+      "source_url": "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html",
+      "source_date": "2026-10-11"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir la « règle des quatre ans » pour le bac professionnel",
+      "detail": "Réforme de l'enseignement professionnel annoncée au meeting de Clermont-Ferrand.",
+      "nature": "declaration",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-suppression-de-parcoursup-droit-de-vote-a-16-ans-jean-luc-melenchon-multiplie-les-propositions-pour-les-jeunes-magic-CNT000002sCYOg.html",
+      "source_date": "2026-10-11"
+    },
+    {
+      "theme": "education",
+      "titre": "Créer une filière unique du CAP à la licence professionnelle",
+      "detail": "Annoncé à Clermont-Ferrand ; le plan ruralité prévoit aussi une filière CAP-licence pro pour les métiers de la rénovation.",
+      "nature": "declaration",
+      "source_url": "https://actu.orange.fr/politique/presidentielle-2027-suppression-de-parcoursup-droit-de-vote-a-16-ans-jean-luc-melenchon-multiplie-les-propositions-pour-les-jeunes-magic-CNT000002sCYOg.html",
+      "source_date": "2026-10-11"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du nucléaire, sans référendum préalable obligatoire",
+      "detail": "Sur Blast (fin mai 2026) : « on sortira du nucléaire, il n'y a pas besoin de référendum » ; un référendum resterait possible pour accélérer.",
+      "nature": "declaration",
+      "source_url": "https://www.21news.be/melenchon-si-je-suis-elu-president-on-sortira-du-nucleaire/",
+      "source_date": "2026-05-28"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Plafonner le prix des carburants à 1,70 € le litre",
+      "detail": "Prix maximal imposé par l'État via l'article L410-2 du Code de commerce en période de crise.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/jean-luc-melenchon-denonce-un-gouvernement-depasse-face-a-la-flambee-des-prix-des-carburants",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Plafonner par la loi la marge des raffineurs",
+      "detail": "Mesure associée au prix maximal à la pompe pour ne pas fragiliser les stations-service.",
+      "nature": "declaration",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/jean-luc-melenchon-denonce-un-gouvernement-depasse-face-a-la-flambee-des-prix-des-carburants",
+      "source_date": "2026-09-23"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer une « conscription écologique » et une garde régionale de sécurité civile",
+      "detail": "Conscrits renforçant les équipes permanentes lors des crises (notamment incendies) ; remplace la « conscription citoyenne » de 2022.",
+      "nature": "declaration",
+      "source_url": "https://fr.euronews.com/my-europe/2026/08/23/jean-luc-melenchon-cherche-a-couper-lherbe-sous-le-pied-des-ecologistes",
+      "source_date": "2026-08-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Remplacer les régions actuelles par des « éco-régions »",
+      "detail": "Régions redécoupées selon des critères écologiques (bassins versants, massifs, façades maritimes).",
+      "nature": "declaration",
+      "source_url": "https://fr.euronews.com/my-europe/2026/08/23/jean-luc-melenchon-cherche-a-couper-lherbe-sous-le-pied-des-ecologistes",
+      "source_date": "2026-08-23"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les métropoles et rendre aux communes le libre choix d'association",
+      "detail": "Abrogation des lois ayant organisé la concentration des pouvoirs locaux ; refus des fusions forcées de communes.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rééquilibrer la dotation globale de fonctionnement et l'indexer sur l'inflation",
+      "detail": "Révision des dotations aux communes ; hausse de la dotation d'équipement des territoires ruraux.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Créer un fonds de soutien aux communes rurales",
+      "detail": "Fonds destiné notamment à recruter et revaloriser les agents communaux.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Rétablir une taxation locale tenant compte des revenus",
+      "detail": "Barème tenant compte des revenus et des commodités des logements.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer une taxe unique et progressive sur les logements vacants",
+      "detail": "Progressive selon le nombre de logements vacants détenus.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "institutions",
+      "titre": "Renforcer le statut de l'élu local au-delà de la loi de décembre 2025",
+      "detail": "Maintien des droits sociaux et trimestres de retraite, formation, protection contre les violences ; parité imposée dans les exécutifs municipaux et intercommunaux.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Donner aux communes un droit de préemption sur les zones stratégiques",
+      "detail": "Pour la planification écologique : carrières, énergies renouvelables, protection des forêts.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Garantir une gestion publique de l'eau et prioriser les usages essentiels",
+      "detail": "Priorité aux usages domestiques et agricoles nourriciers en cas de tension sur la ressource.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Protéger le foncier agricole, forestier et naturel (zéro artificialisation nette)",
+      "detail": "Plan de protection généralisée pour mettre en œuvre le ZAN dans l'Hexagone ; sanctuarisation des forêts publiques.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Stopper les fermetures de services publics et lancer un plan de redéploiement",
+      "detail": "Bureaux de poste, gares, hôpitaux, écoles, tribunaux, Trésor public ; services publics itinérants.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "territoires",
+      "titre": "Rouvrir des guichets physiques et garantir les démarches papier",
+      "detail": "Refus du « tout numérique » dans l'accès aux services publics.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Limiter à 15 minutes les temps de transport scolaire en zone rurale",
+      "detail": "Densification du maillage scolaire, maintien des écoles à classe unique, abrogation des « conventions ruralité ».",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre les transports scolaires gratuits",
+      "detail": "Gratuité et accessibilité pour tous les élèves.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "education",
+      "titre": "Rétablir un service public national de l'orientation",
+      "detail": "Avec des forums métiers itinérants pour les jeunes ruraux.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "sante",
+      "titre": "Garantir un service de santé public à moins de 30 minutes de chacun",
+      "detail": "Réouverture progressive de services d'urgences, de maternités et d'Ehpad publics.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "sante",
+      "titre": "Réguler l'installation des médecins et recruter des médecins publics",
+      "detail": "Maillage de centres de santé publics salariés et de maisons de santé ; réouverture de pharmacies.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "sante",
+      "titre": "Créer un service public de la dépendance",
+      "detail": "Pour les personnes âgées à domicile ou en établissement, avec des équipes de soins à domicile.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un service public de la petite enfance",
+      "detail": "Adapté aux contraintes horaires des travailleurs en zone rurale.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "sante",
+      "titre": "Instaurer des zones tampons sans pesticides autour des lieux de vie",
+      "detail": "Autour des habitations, crèches, écoles et hôpitaux ; plan d'éradication des maladies chroniques liées aux pollutions.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "societe",
+      "titre": "Garantir un accès effectif à l'IVG à proximité du domicile",
+      "detail": "Y compris par des consultations itinérantes ; financement sanctuarisé des centres de planification et du Planning familial.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Créer de nouvelles brigades de gendarmerie de proximité en zone rurale",
+      "detail": "Pour garantir un accès de proximité au dépôt de plainte, notamment pour les victimes de violences.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Renationaliser la SNCF et mettre fin à la mise en concurrence ferroviaire",
+      "detail": "Avec un pôle public des transports, la réouverture des lignes du quotidien et plus de trains.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Diffuser des voitures électriques légères par le leasing social",
+      "detail": "Via la commande publique et la location longue durée ; soutien aux garages solidaires.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Achever la couverture fibre et mobile par des réseaux sous contrôle public",
+      "detail": "Wi-Fi public gratuit dans les mairies, bibliothèques, gares et maisons France services.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Instaurer une garantie d'emploi pour les chômeurs de longue durée",
+      "detail": "Embauche proposée au moins au SMIC revalorisé dans un secteur utile.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "economie",
+      "titre": "Conditionner les aides aux entreprises à la localisation et à l'emploi",
+      "detail": "Critères de localisation dans les territoires fragiles et de maintien des emplois.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "economie",
+      "titre": "Adapter le code des marchés publics pour favoriser les filières locales",
+      "detail": "Permettre aux collectivités des appels d'offres adaptés aux filières locales ; soutien aux coopératives (SCIC, SCOP).",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Développer les circuits courts et les coopératives de producteurs locaux",
+      "detail": "Priorité aux agriculteurs locaux sur les marchés ; petites structures de transformation alimentaire de proximité.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "logement",
+      "titre": "Plafonner le nombre de meublés touristiques dans les zones tendues",
+      "detail": "Quota maximal de locations touristiques pour lutter contre la spéculation.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Lancer un plan d'urgence pour les équipements sportifs de proximité",
+      "detail": "Construction et rénovation (piscines, salles, skateparks) et transports pour y accéder.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un plan national contre l'isolement des personnes âgées en zone rurale",
+      "detail": "Visites à domicile et soutien aux réseaux de solidarité de voisinage.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "source_date": "2026-10-09"
+    },
+    {
+      "theme": "logement",
+      "titre": "Produire 400 000 logements abordables par an, dont 200 000 publics",
+      "detail": "Dont 140 000 logements très sociaux (PLAI), 40 000 pour seniors, 30 000 pour jeunes, 10 000 d'hébergement d'urgence.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Mobiliser 150 000 logements existants par an",
+      "detail": "Réquisition de logements vacants, taxation, limitation d'Airbnb ; 50 000 bureaux et locaux transformés en logements par an.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Durcir les sanctions et relever les objectifs de la loi SRU",
+      "detail": "Soutien financier accru aux communes qui construisent des logements abordables.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Isoler au moins 700 000 logements par an",
+      "detail": "Aide publique couvrant jusqu'à 100 % des travaux pour les plus modestes, dégressive ensuite, hors multipropriétaires de plus de 5 logements.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Créer un droit opposable aux travaux de confort thermique pour les locataires",
+      "detail": "Plan d'urgence canicule dès 2027 : volets, protections solaires, brasseurs d'air, en priorité dans le logement public.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "logement",
+      "titre": "Développer l'accession à la propriété non spéculative",
+      "detail": "Bail réel solidaire, prêts du pôle public bancaire et encadrement des prix du foncier.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Remplacer 400 000 chaudières au fioul et 350 000 au gaz par an",
+      "detail": "Objectif de quasi-disparition du fioul en 2032, avec aides renforcées pour les ménages populaires.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Porter à 50 % la part des matériaux biosourcés dans la commande publique",
+      "detail": "Objectif 2032 pour les rénovations lourdes et constructions publiques (bois, paille, terre crue).",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Former 250 000 salariés à la rénovation et à la construction bas-carbone",
+      "detail": "Objectif d'ici 2030 ; le plan BTP-logement doit créer plus de 300 000 emplois.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Doubler le budget public d'entretien du patrimoine",
+      "detail": "Objectif de doubler le nombre annuel de monuments dont l'état s'améliore.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Investir 12 milliards d'euros publics de plus par an dans le BTP et le logement",
+      "detail": "Investissements supplémentaires de l'État, complétés par le pôle public bancaire et d'autres opérateurs.",
+      "nature": "programme",
+      "source_url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "source_date": "2026-09-24"
+    }
+  ],
+  "sources_consultees": [
+    "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-primaire-est-finie-lance-jean-luc-melenchon-au-reste-de-la-gauche-pour-son-premier-meeting-de-campagne-a-saint-denis_8049131.html",
+    "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+    "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-jean-luc-melenchon-lance-sa-campagne-a-saint-denis_8049941.html",
+    "https://melenchon2027.fr/lettre-au-peuple-de-france/",
+    "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html",
+    "https://actu.orange.fr/politique/presidentielle-2027-suppression-de-parcoursup-droit-de-vote-a-16-ans-jean-luc-melenchon-multiplie-les-propositions-pour-les-jeunes-magic-CNT000002sCYOg.html",
+    "https://www.21news.be/melenchon-si-je-suis-elu-president-on-sortira-du-nucleaire/",
+    "https://www.publicsenat.fr/actualites/politique/jean-luc-melenchon-denonce-un-gouvernement-depasse-face-a-la-flambee-des-prix-des-carburants",
+    "https://fr.euronews.com/my-europe/2026/08/23/jean-luc-melenchon-cherche-a-couper-lherbe-sous-le-pied-des-ecologistes",
+    "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+    "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+    "https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera",
+    "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+    "https://melenchon2027.fr/programme/decouvrir/",
+    "https://melenchon2027.fr/programme2025/livre/",
+    "https://melenchon2027.fr/programme/plans-thematiques/",
+    "https://melenchon2027.fr/programme/plans-investissement/",
+    "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+    "https://www.franceinfo.fr/politique/direct-presidentielle-2027-jean-luc-melenchon-tient-son-premier-meeting-de-campagne-cet-apres-midi-a-saint-denis_8048855.html"
+  ],
+  "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1. La version 2027 de L'Avenir en commun (5e édition, programme de la « Nouvelle France », 1 069 mesures annoncées, six chapitres) sort le 6 novembre 2026 et sera présentée le 7 novembre au Bourget : elle n'est pas encore publiée. L'édition de janvier 2025 reste listée sur melenchon2027.fr, mais ses pages de chapitres renvoient une erreur 404 (« en cours de réactualisation ») : on n'a donc pas pu la citer mesure par mesure. Les propositions retenues viennent des documents de campagne publiés en 2026 (plan thématique ruralité, plan d'investissement BTP-logement, Lettre au peuple de France) et de déclarations rapportées par la presse en 2026. Incertitudes : le SMIC à 1 700 € (brut ou net non précisé ; l'édition 2025 parlait de 1 600 € net) ; la déclaration sur le nucléaire vient d'un média belge (21news) qui reprend une interview à Blast. Ce fichier sera à réviser après le 6 novembre 2026.",
+  "verifie_le": "2026-10-12"
+}

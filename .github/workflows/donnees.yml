@@ -1,0 +1,20 @@
+name: Validation des données
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  valider:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Valider les fiches
+        run: python3 scripts/build_data.py --check
+      - name: Vérifier que data/programmes.json est à jour
+        run: |
+          python3 scripts/build_data.py
+          git diff --exit-code data/programmes.json || (echo "data/programmes.json n'est pas à jour : relancez python3 scripts/build_data.py" && exit 1)

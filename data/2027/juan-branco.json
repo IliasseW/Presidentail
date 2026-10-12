@@ -1,0 +1,441 @@
+{
+  "slug": "juan-branco",
+  "nom": "Juan Branco",
+  "parti": "Les Ruches (Ruches Françaises)",
+  "bord": "divers",
+  "statut_candidature": "declare",
+  "date_declaration": "2025-12-19",
+  "programme": {
+    "statut": "complet",
+    "titre": "Le projet — « La Voie » (845 mesures)",
+    "url": "https://ruches.org/le-projet",
+    "date_publication": null
+  },
+  "propositions": [
+    {
+      "theme": "institutions",
+      "titre": "Instaurer le référendum d'initiative citoyenne (RIC) en toutes matières",
+      "detail": "RIC « en toutes matières » sur le modèle suisse, annoncé dès la déclaration de candidature.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Instaurer des mandats impératifs et révocables",
+      "detail": "Mandat révocable des élus par les électeurs, présenté comme un pilier de la « souveraineté populaire ».",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Convoquer une assemblée constituante pour une nouvelle Constitution",
+      "detail": "Assemblée constituante siégeant 12 mois pour changer de régime politique.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Fusionner les trois cours suprêmes en une « Cour des peuples »",
+      "detail": "Fusion du Conseil constitutionnel, de la Cour de cassation et du Conseil d'État, et création d'un « défenseur des peuples » élu pour neuf ans, absorbant notamment le CSM.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer l'article 49.3",
+      "detail": "Suppression des procédures du 49.3 dans le volet « Démocratie » du projet.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Supprimer les régions",
+      "detail": "Suppression de l'échelon régional, dans le cadre du pilier « Libérer ».",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "institutions",
+      "titre": "Déménager la présidence de la République au palais du Luxembourg",
+      "detail": "Mesure du volet « Géographie des pouvoirs », qui prévoit aussi une tutelle de Paris pendant trois ans.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Organiser des référendums sur la sortie de l'UE, de l'euro et de Schengen",
+      "detail": "Référendum (article 11) sur la sortie de l'Union européenne, de l'euro, du Conseil de l'Europe ou de Schengen ; création d'unions des peuples européens et francophones.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Bloquer les négociations de traités de libre-échange",
+      "detail": "Blocage des négociations commerciales et politique douanière fondée sur des critères écologiques, sanitaires et sociaux.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "europe_international",
+      "titre": "Taxer les importations des pays fortement consommateurs de charbon",
+      "detail": "Création d'une taxe à l'importation (TCI) proportionnelle à la part du charbon dans la consommation énergétique du pays exportateur, et d'une taxe kilométrique aux frontières.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Organiser un référendum sur la sortie de l'OTAN",
+      "detail": "Référendum sur la sortie de l'OTAN, abandon de l'interopérabilité systématique avec les systèmes OTAN, doctrine de neutralité et de non-alignement.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Arrêter les livraisons d'armes à l'Ukraine",
+      "detail": "Mesure inscrite dans la réforme « Extérieur et Défense ».",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Organiser un référendum sur un service obligatoire civil ou militaire",
+      "detail": "Service d'État universel avec option civile ou militaire, soumis à référendum.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "defense",
+      "titre": "Produire un million de drones par an et viser 300 avions de combat",
+      "detail": "Objectifs capacitaires : capacité de production d'un million de drones annuels et flotte de 300 avions de combat.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Nationaliser l'électricité, l'eau, les télécoms et les autoroutes",
+      "detail": "Nationalisations listées dans le pilier « Souverainiser » (électricité, eau, santé, télécoms, autoroutes).",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Supprimer plus de 300 taxes, cotisations et impôts",
+      "detail": "Simplification fiscale massive (dont « suppression de 267 taxes » dans la réforme Économie).",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Rétablir l'ISF avec un précompte sur les droits de succession",
+      "detail": "Rétablissement de l'impôt sur la fortune adossé aux droits de succession.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Exonérer de droits de succession 90 % des foyers",
+      "detail": "Réforme de la fiscalité de l'héritage : fin des droits de mutation à titre gratuit pour 90 % des foyers, taux très élevés au-delà de certains montants.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Augmenter de 10 points la TVA sur les produits de luxe",
+      "detail": "Hausse de dix points de la TVA sur le luxe et les aliments ultra-transformés ; TVA sociale sur les biens non essentiels pour baisser les cotisations sur les salaires.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "economie",
+      "titre": "Élire le gouverneur de la Banque de France et contrôler les changes",
+      "detail": "Élection du gouverneur de la Banque de France, rétablissement du circuit du Trésor, contrôle des changes et des capitaux.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Baisser les prélèvements obligatoires et les dépenses publiques",
+      "detail": "Baisse des prélèvements (sauf pour le dernier décile) et fusion de plus de 100 organismes administratifs et 500 opérateurs d'État.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "finances_publiques",
+      "titre": "Procéder à une purge partielle de la dette publique",
+      "detail": "« Purge partielle des dettes d'État » et émission d'obligations d'État destinées aux citoyens pour financer les grands investissements.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "pouvoir_achat",
+      "titre": "Porter le SMIC à un minimum national de 1 500 euros net",
+      "detail": "« Déconcentration du SMIC » avec un seuil minimal national relevé à 1 500 € net.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Fusionner les caisses de retraite publiques et privées",
+      "detail": "Alignement des régimes et des taux de cotisation, fin des complémentaires publiques ; suppression de l'abattement fiscal de 10 % sur les pensions.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "travail_retraites",
+      "titre": "Remplacer Unédic et France Travail par une caisse de sécurité professionnelle",
+      "detail": "Allocations chômage dégressives dès la première année et ouverture de trois mois de droits en cas de démission.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Ouvrir le RSA dès 18 ans et le déconditionnaliser",
+      "detail": "Extension du RSA aux jeunes à partir de 18 ans, suppression des conditions d'activité, automaticité des minima sociaux fusionnés en un revenu minimal universel.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Créer un statut de l'aidant et recentraliser la politique du handicap",
+      "detail": "Guichet unique du handicap, nationalisation des IME, dépistage des troubles « dys » en CP et CM1.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "social",
+      "titre": "Mettre l'Aide sociale à l'enfance sous tutelle de l'État",
+      "detail": "Fin de la départementalisation de la protection de l'enfance, création d'un Code de l'enfance, prise en charge jusqu'à 25 ans.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Abolir les complémentaires santé au profit d'un service public universel",
+      "detail": "Abolition des complémentaires santé et mutuelles, service public de santé universel.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Lancer un plan d'urgence contre les déserts médicaux",
+      "detail": "Plan d'éradication des déserts médicaux ; fin de l'intérim hospitalier remplacé par des obligations de service public.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Supprimer les agences régionales de santé",
+      "detail": "Suppression des ARS et fusion de nombreuses agences et opérateurs du secteur de la santé.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "sante",
+      "titre": "Organiser un référendum sur la suppression des dépassements d'honoraires",
+      "detail": "Mesure de la réforme Santé ; prévoit aussi le remboursement intégral des soins dentaires.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Rendre les études universitaires réellement gratuites",
+      "detail": "Gratuité pour tout résident et hausse immédiate de 30 % des budgets universitaires, financée par la suppression du crédit d'impôt recherche.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "education",
+      "titre": "Supprimer Parcoursup et abroger la loi LRU",
+      "detail": "Fin de Parcoursup et des « MIG (ex-SNU) », abrogation de la LRU et des responsabilités et compétences élargies.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Doubler les budgets de la recherche et de l'enseignement",
+      "detail": "Objectif du pilier « Investir » du projet.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "numerique_recherche",
+      "titre": "Exproprier les opérateurs télécoms au profit d'un opérateur unique",
+      "detail": "Création d'un opérateur public unique des réseaux et télécoms et plan d'indépendance numérique sur 20 ans.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Municipaliser la police nationale et supprimer la BAC",
+      "detail": "Municipalisation de la police nationale hors police judiciaire et maintien de l'ordre ; doublement des agents des douanes.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Limiter la garde à vue à 24 heures et généraliser les jurés citoyens",
+      "detail": "Retour de la collégialité, jurés citoyens, prescriptions ramenées à 3 ans (délits) et 10 ans (crimes).",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "securite_justice",
+      "titre": "Amnistier les gilets jaunes et créer des comités de poursuites",
+      "detail": "Volet « Fin de l'impunité » : amnistie de militants, comités de poursuites (Covid-19, violences politiques, infractions économiques), commissions d'enquête sur la corruption.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Conditionner le regroupement familial et traiter l'asile au niveau consulaire",
+      "detail": "Asile à deux niveaux dont le second dépend de l'origine géographique ; déconcentration du traitement des demandes dans les consulats.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "immigration",
+      "titre": "Fixer des critères objectifs d'intégration pour les étrangers",
+      "detail": "Obligations de service à la nation pour les régularisations ; réduction des durées de rétention et TIG systématiques pour infraction au séjour.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Construire 14 réacteurs EPR2",
+      "detail": "Relance nucléaire avec 14 EPR2, fin de la privatisation des projets SMR, stockage des déchets en subsurface.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Sortir du marché européen de l'électricité",
+      "detail": "Sortie du marché européen et nationalisation de la distribution d'électricité.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "ecologie_energie",
+      "titre": "Abolir les zones à faibles émissions (ZFE)",
+      "detail": "Abolition des ZFE ; amendes ICPE relevées à 500 000 € contre 15 000 € actuellement.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Plafonner les aides agricoles à 70 000 euros par actif",
+      "detail": "Modèle d'aides inspiré de la Suisse avec sept critères, plafonnement dégressif à 70 000 € par actif.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "agriculture",
+      "titre": "Interdire sous cinq ans les pesticides CMR1 et perturbateurs endocriniens",
+      "detail": "Interdiction progressive des élevages en cage et des importations d'aliments pour bétail (soja, maïs) ; indemnisation des victimes de pesticides, à commencer par la chlordécone.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Remplacer les APL par une garantie universelle des loyers",
+      "detail": "Suppression des APL, ALF et ALS au profit d'une garantie universelle des loyers ; abrogation de la loi ELAN.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "logement",
+      "titre": "Surtaxer les multipropriétaires, doublement pour les logements vacants",
+      "detail": "Surtaxe visant les 3 % de Français polypropriétaires ; coefficient doublé pour les logements vacants et triplé pour les meublés touristiques en zone tendue.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Organiser un référendum sur l'indépendance des médias",
+      "detail": "Fin du contrôle des grandes fortunes sur les médias, avec transfert gratuit des participations des grands actionnaires.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "culture_medias",
+      "titre": "Supprimer les aides à la presse et le Pass culture",
+      "detail": "Suppression des aides à la presse, du Pass culture et de la niche fiscale des journalistes ; licence globale et fin de la publicité sur les radios publiques.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "territoires",
+      "titre": "Ouvrir 4 000 maisons de services publics",
+      "detail": "Services de base garantis dans chaque commune de plus de 3 000 habitants.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    },
+    {
+      "theme": "societe",
+      "titre": "Soumettre à référendum le régime de la laïcité",
+      "detail": "Choix référendaire entre confirmation de la laïcité et régime concordataire ; options référendaires également sur les drogues et la prostitution.",
+      "nature": "programme",
+      "source_url": "https://ruches.org/le-projet",
+      "source_date": null
+    }
+  ],
+  "sources_consultees": [
+    "https://ruches.org",
+    "https://ruches.org/le-projet",
+    "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+    "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+    "https://votons-2027.fr/candidats/branco/programme"
+  ],
+  "notes": "Candidature annoncée sur Sud Radio le 19/12/2025 (plus de 300 propositions annoncées à l'époque, dont RIC, mandats révocatoires et préparation de la sortie de l'UE). Le programme complet (« La Voie », 845 mesures, 6 piliers et 14 réformes sectorielles) est publié sur ruches.org/le-projet avec un PDF (ruches.org/projet-1784217879253.pdf, horodatage suggérant le 16/07/2026) ; aucune date de publication explicite sur la page. Sélection de 52 mesures représentatives, pas l'intégralité. Lecture via outil de synthèse d'une page très longue (~144 000 caractères) : les formulations et chiffres mériteraient une relecture sur le PDF. Plusieurs mesures sont présentées comme des choix soumis à référendum plutôt que comme des positions arrêtées. Bord difficile à classer (mesures de gauche radicale et souverainistes) : « divers » retenu. Parrainages non acquis.",
+  "verifie_le": "2026-10-12"
+}
