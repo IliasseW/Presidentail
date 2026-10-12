@@ -1,0 +1,1192 @@
+{
+ "personnes_nouvelles": [
+  {
+   "slug": "vincent-bollore",
+   "nom": "Vincent Bolloré",
+   "genre": "acteur",
+   "description": "Industriel, actionnaire de contrôle du groupe Bolloré (Vivendi, Canal+, CNews, Louis Hachette Group : Europe 1, JDD, Fayard)"
+  },
+  {
+   "slug": "yannick-bollore",
+   "nom": "Yannick Bolloré",
+   "genre": "acteur",
+   "description": "Président du conseil de surveillance de Vivendi, administrateur de Louis Hachette Group, fils de Vincent Bolloré"
+  },
+  {
+   "slug": "xavier-niel",
+   "nom": "Xavier Niel",
+   "genre": "acteur",
+   "description": "Fondateur d'Iliad (Free), actionnaire de référence du groupe Le Monde, propriétaire de Nice-Matin"
+  },
+  {
+   "slug": "matthieu-pigasse",
+   "nom": "Matthieu Pigasse",
+   "genre": "acteur",
+   "description": "Banquier d'affaires (Lazard puis Centerview), actionnaire du groupe Le Monde, propriétaire des Inrockuptibles et de Radio Nova (groupe Combat)"
+  },
+  {
+   "slug": "daniel-kretinsky",
+   "nom": "Daniel Křetínský",
+   "genre": "acteur",
+   "description": "Homme d'affaires tchèque, propriétaire de CMI France (Elle, Marianne, Télé 7 jours) et d'Editis, ex-actionnaire du Monde"
+  },
+  {
+   "slug": "bernard-arnault",
+   "nom": "Bernard Arnault",
+   "genre": "acteur",
+   "description": "PDG de LVMH, propriétaire des Échos, du Parisien et de Paris Match"
+  },
+  {
+   "slug": "patrick-drahi",
+   "nom": "Patrick Drahi",
+   "genre": "acteur",
+   "description": "Fondateur d'Altice, propriétaire de BFM TV et RMC jusqu'en 2024, ex-actionnaire de Libération"
+  },
+  {
+   "slug": "rodolphe-saade",
+   "nom": "Rodolphe Saadé",
+   "genre": "acteur",
+   "description": "PDG de CMA CGM, propriétaire de BFM TV/RMC, La Provence, La Tribune et Brut via CMA Media"
+  },
+  {
+   "slug": "pierre-edouard-sterin",
+   "nom": "Pierre-Édouard Stérin",
+   "genre": "acteur",
+   "description": "Homme d'affaires, fondateur de Smartbox et du Fonds du Bien commun, entré au capital de Valeurs actuelles en 2025"
+  },
+  {
+   "slug": "martin-bouygues",
+   "nom": "Martin Bouygues",
+   "genre": "acteur",
+   "description": "Président du groupe Bouygues, actionnaire de contrôle de TF1"
+  },
+  {
+   "slug": "serge-dassault",
+   "nom": "Serge Dassault",
+   "genre": "personnalite",
+   "description": "Industriel (1925-2018), propriétaire du Figaro et sénateur UMP"
+  },
+  {
+   "slug": "lea-salame",
+   "nom": "Léa Salamé",
+   "genre": "acteur",
+   "description": "Journaliste (France Inter 2014-2025, France 2)"
+  },
+  {
+   "slug": "valerie-trierweiler",
+   "nom": "Valérie Trierweiler",
+   "genre": "acteur",
+   "description": "Journaliste (Paris Match, Direct 8), compagne de François Hollande de 2010 à 2014"
+  },
+  {
+   "slug": "christine-kelly",
+   "nom": "Christine Kelly",
+   "genre": "acteur",
+   "description": "Journaliste, ex-membre du CSA, présentatrice de « Face à l'info » sur CNews"
+  },
+  {
+   "slug": "eric-naulleau",
+   "nom": "Éric Naulleau",
+   "genre": "acteur",
+   "description": "Éditeur et chroniqueur, coanimateur de « Zemmour et Naulleau » (Paris Première)"
+  },
+  {
+   "slug": "cyril-hanouna",
+   "nom": "Cyril Hanouna",
+   "genre": "acteur",
+   "description": "Animateur et producteur (TPMP sur C8, Europe 1, groupe M6)"
+  },
+  {
+   "slug": "bruno-roger-petit",
+   "nom": "Bruno Roger-Petit",
+   "genre": "acteur",
+   "description": "Journaliste devenu porte-parole puis conseiller mémoire de l'Élysée"
+  },
+  {
+   "slug": "sibyle-veil",
+   "nom": "Sibyle Veil",
+   "genre": "acteur",
+   "description": "Présidente-directrice générale de Radio France depuis 2018, énarque de la promotion Senghor"
+  },
+  {
+   "slug": "delphine-ernotte",
+   "nom": "Delphine Ernotte",
+   "genre": "acteur",
+   "description": "Présidente de France Télévisions depuis 2015"
+  },
+  {
+   "slug": "martin-ajdari",
+   "nom": "Martin Ajdari",
+   "genre": "acteur",
+   "description": "Haut fonctionnaire, président de l'Arcom depuis février 2025"
+  },
+  {
+   "slug": "lise-boell",
+   "nom": "Lise Boëll",
+   "genre": "acteur",
+   "description": "Éditrice, directrice de Fayard depuis 2024 (ex-Albin Michel et Plon)"
+  },
+  {
+   "slug": "geoffroy-lejeune",
+   "nom": "Geoffroy Lejeune",
+   "genre": "acteur",
+   "description": "Journaliste, directeur de la rédaction du JDD depuis 2023 (ex-Valeurs actuelles)"
+  },
+  {
+   "slug": "claude-perdriel",
+   "nom": "Claude Perdriel",
+   "genre": "acteur",
+   "description": "Patron de presse, cofondateur du Nouvel Observateur, actionnaire du Nouveau Magazine littéraire"
+  },
+  {
+   "slug": "daniel-mermet",
+   "nom": "Daniel Mermet",
+   "genre": "acteur",
+   "description": "Journaliste et producteur de « Là-bas si j'y suis » sur France Inter"
+  },
+  {
+   "slug": "gerard-larcher",
+   "nom": "Gérard Larcher",
+   "genre": "personnalite",
+   "description": "Président du Sénat (LR)"
+  },
+  {
+   "slug": "laurent-fabius",
+   "nom": "Laurent Fabius",
+   "genre": "personnalite",
+   "description": "Ancien Premier ministre et ministre de l'Économie (PS)"
+  },
+  {
+   "slug": "aurelie-filippetti",
+   "nom": "Aurélie Filippetti",
+   "genre": "personnalite",
+   "description": "Ancienne ministre de la Culture et de la Communication (2012-2014)"
+  }
+ ],
+ "organisations_nouvelles": [
+  {
+   "id": "groupe-bollore",
+   "nom": "Groupe Bolloré",
+   "type": "entreprise"
+  },
+  {
+   "id": "vivendi",
+   "nom": "Vivendi",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-canal-plus",
+   "nom": "Groupe Canal+",
+   "type": "media"
+  },
+  {
+   "id": "cnews",
+   "nom": "CNews (ex-I-Télé)",
+   "type": "media"
+  },
+  {
+   "id": "c8",
+   "nom": "C8 (ex-Direct 8, arrêtée en 2025)",
+   "type": "media"
+  },
+  {
+   "id": "louis-hachette-group",
+   "nom": "Louis Hachette Group (Lagardère, Prisma Media)",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-lagardere",
+   "nom": "Groupe Lagardère (Europe 1, JDD, Hachette Livre)",
+   "type": "entreprise"
+  },
+  {
+   "id": "europe-1",
+   "nom": "Europe 1",
+   "type": "media"
+  },
+  {
+   "id": "le-journal-du-dimanche",
+   "nom": "Le Journal du dimanche",
+   "type": "media"
+  },
+  {
+   "id": "fayard",
+   "nom": "Éditions Fayard (Hachette Livre)",
+   "type": "entreprise"
+  },
+  {
+   "id": "paris-match",
+   "nom": "Paris Match",
+   "type": "media"
+  },
+  {
+   "id": "groupe-les-echos-le-parisien",
+   "nom": "Groupe Les Échos-Le Parisien (LVMH)",
+   "type": "media"
+  },
+  {
+   "id": "groupe-le-monde",
+   "nom": "Groupe Le Monde (Le Monde, L'Obs, Télérama, Courrier international)",
+   "type": "media"
+  },
+  {
+   "id": "mediawan",
+   "nom": "Mediawan",
+   "type": "entreprise"
+  },
+  {
+   "id": "groupe-nice-matin",
+   "nom": "Groupe Nice-Matin",
+   "type": "media"
+  },
+  {
+   "id": "nouveau-magazine-litteraire",
+   "nom": "Le Nouveau Magazine littéraire",
+   "type": "media"
+  },
+  {
+   "id": "altice-bfm",
+   "nom": "BFM TV / RMC (Altice Media, devenu RMC BFM)",
+   "type": "media"
+  },
+  {
+   "id": "cma-media",
+   "nom": "CMA Media (La Provence, Corse-Matin, La Tribune, Brut)",
+   "type": "media"
+  },
+  {
+   "id": "liberation",
+   "nom": "Libération",
+   "type": "media"
+  },
+  {
+   "id": "groupe-tf1",
+   "nom": "Groupe TF1 (TF1, LCI, TMC)",
+   "type": "media"
+  },
+  {
+   "id": "groupe-m6",
+   "nom": "Groupe M6 (M6, W9, Paris Première, RTL)",
+   "type": "media"
+  },
+  {
+   "id": "groupe-figaro",
+   "nom": "Groupe Figaro (Le Figaro, Le Figaro Magazine ; groupe Dassault)",
+   "type": "media"
+  },
+  {
+   "id": "cmi-france",
+   "nom": "CMI France (Elle, Marianne, Télé 7 jours, Franc-Tireur)",
+   "type": "media"
+  },
+  {
+   "id": "editis",
+   "nom": "Editis",
+   "type": "entreprise"
+  },
+  {
+   "id": "valeurs-actuelles",
+   "nom": "Valeurs actuelles",
+   "type": "media"
+  },
+  {
+   "id": "france-televisions",
+   "nom": "France Télévisions",
+   "type": "media"
+  },
+  {
+   "id": "radio-france",
+   "nom": "Radio France (France Inter, franceinfo)",
+   "type": "media"
+  },
+  {
+   "id": "arcom",
+   "nom": "Arcom (ex-CSA)",
+   "type": "autre"
+  },
+  {
+   "id": "esj-paris",
+   "nom": "École supérieure de journalisme de Paris (ESJ Paris)",
+   "type": "formation"
+  },
+  {
+   "id": "le-media",
+   "nom": "Le Média",
+   "type": "media"
+  },
+  {
+   "id": "fakir",
+   "nom": "Fakir (journal)",
+   "type": "media"
+  },
+  {
+   "id": "l-humanite",
+   "nom": "L'Humanité",
+   "type": "media"
+  },
+  {
+   "id": "alouette",
+   "nom": "Radio Alouette",
+   "type": "media"
+  },
+  {
+   "id": "les-inrockuptibles",
+   "nom": "Les Inrockuptibles (groupe Combat)",
+   "type": "media"
+  },
+  {
+   "id": "ena-promotion-senghor",
+   "nom": "ENA, promotion Léopold Sédar Senghor (2002-2004)",
+   "type": "formation"
+  }
+ ],
+ "parcours": [
+  {
+   "personne": "vincent-bollore",
+   "organisation": "groupe-bollore",
+   "type": "entreprise",
+   "role": "Actionnaire majoritaire, ancien PDG",
+   "debut": null,
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "vivendi",
+   "type": "entreprise",
+   "role": "Président du conseil de surveillance",
+   "debut": "2014-06",
+   "fin": "2018-04",
+   "source_url": "https://fr.wikipedia.org/wiki/Vivendi"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "c8",
+   "type": "media",
+   "role": "Fondateur de Direct 8 (lancée le 31 mars 2005, cédée à Canal+ en 2012)",
+   "debut": "2005-03",
+   "fin": "2012-09",
+   "source_url": "https://fr.wikipedia.org/wiki/C8_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "cnews",
+   "type": "media",
+   "role": "Actionnaire de contrôle indirect (via Vivendi puis Canal+)",
+   "debut": "2015",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Vivendi"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "louis-hachette-group",
+   "type": "entreprise",
+   "role": "Actionnaire principal via Bolloré SE (31 % en mai 2026)",
+   "debut": "2024-12",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Louis_Hachette_Group"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "groupe-lagardere",
+   "type": "entreprise",
+   "role": "Actionnaire de contrôle indirect (Vivendi puis Louis Hachette Group, 66,5 % de Lagardère)",
+   "debut": "2023",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Louis_Hachette_Group"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "paris-match",
+   "type": "media",
+   "role": "Actionnaire de contrôle indirect via Lagardère News, jusqu'à la cession à LVMH",
+   "debut": "2023",
+   "fin": "2024-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Paris_Match"
+  },
+  {
+   "personne": "vincent-bollore",
+   "organisation": "esj-paris",
+   "type": "formation",
+   "role": "Actionnaire via la Compagnie de l'Odet (consortium de reprise)",
+   "debut": "2024-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_journalisme_de_Paris"
+  },
+  {
+   "personne": "yannick-bollore",
+   "organisation": "vivendi",
+   "type": "entreprise",
+   "role": "Président du conseil de surveillance",
+   "debut": "2018-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Vivendi"
+  },
+  {
+   "personne": "yannick-bollore",
+   "organisation": "louis-hachette-group",
+   "type": "entreprise",
+   "role": "Administrateur et cofondateur",
+   "debut": "2024-12",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Louis_Hachette_Group"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "groupe-le-monde",
+   "type": "media",
+   "role": "Actionnaire (Le Monde libre), actions transférées au Fonds pour l'indépendance de la presse en 2024",
+   "debut": "2010-06",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Groupe_Le_Monde"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "mediawan",
+   "type": "entreprise",
+   "role": "Cofondateur (avec Matthieu Pigasse et Pierre-Antoine Capton)",
+   "debut": "2016-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "groupe-nice-matin",
+   "type": "media",
+   "role": "Propriétaire (100 %)",
+   "debut": "2020-02",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "personne": "xavier-niel",
+   "organisation": "nouveau-magazine-litteraire",
+   "type": "media",
+   "role": "Actionnaire minoritaire",
+   "debut": "2017-12",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "groupe-le-monde",
+   "type": "media",
+   "role": "Actionnaire via Le Nouveau Monde (participation réduite en 2018 et 2022)",
+   "debut": "2010-06",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "mediawan",
+   "type": "entreprise",
+   "role": "Cofondateur",
+   "debut": "2016-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "personne": "matthieu-pigasse",
+   "organisation": "les-inrockuptibles",
+   "type": "media",
+   "role": "Propriétaire",
+   "debut": "2009",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "groupe-le-monde",
+   "type": "media",
+   "role": "Actionnaire via Le Nouveau Monde puis Le Monde libre, parts cédées à Xavier Niel",
+   "debut": "2018-10",
+   "fin": "2023-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "cmi-france",
+   "type": "media",
+   "role": "Propriétaire (Czech Media Invest)",
+   "debut": "2018-04",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+  },
+  {
+   "personne": "daniel-kretinsky",
+   "organisation": "editis",
+   "type": "entreprise",
+   "role": "Propriétaire (rachat à Vivendi)",
+   "debut": "2023",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+  },
+  {
+   "personne": "bernard-arnault",
+   "organisation": "groupe-les-echos-le-parisien",
+   "type": "media",
+   "role": "Propriétaire via LVMH (Les Échos en 2007, Le Parisien en 2015)",
+   "debut": "2007-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Groupe_Les_%C3%89chos-Le_Parisien"
+  },
+  {
+   "personne": "bernard-arnault",
+   "organisation": "paris-match",
+   "type": "media",
+   "role": "Propriétaire via LVMH (rachat à Lagardère, 120 M€)",
+   "debut": "2024-10",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Paris_Match"
+  },
+  {
+   "personne": "bernard-arnault",
+   "organisation": "esj-paris",
+   "type": "formation",
+   "role": "Actionnaire via la Financière Agache (consortium de reprise)",
+   "debut": "2024-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_journalisme_de_Paris"
+  },
+  {
+   "personne": "patrick-drahi",
+   "organisation": "altice-bfm",
+   "type": "media",
+   "role": "Propriétaire via Altice (BFM TV, RMC), cédé à CMA CGM",
+   "debut": "2015-07",
+   "fin": "2024-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Patrick_Drahi"
+  },
+  {
+   "personne": "patrick-drahi",
+   "organisation": "liberation",
+   "type": "media",
+   "role": "Coactionnaire de contrôle (avec Bruno Ledoux), puis transfert à un fonds de dotation",
+   "debut": "2014-07",
+   "fin": "2020-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_(journal)"
+  },
+  {
+   "personne": "rodolphe-saade",
+   "organisation": "altice-bfm",
+   "type": "media",
+   "role": "Propriétaire via CMA CGM (rachat d'Altice Media, 1,55 Md€)",
+   "debut": "2024-07",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "personne": "rodolphe-saade",
+   "organisation": "cma-media",
+   "type": "media",
+   "role": "Propriétaire via CMA CGM (La Provence, Corse-Matin, La Tribune en 2023, Brut en 2025)",
+   "debut": "2022",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "personne": "rodolphe-saade",
+   "organisation": "esj-paris",
+   "type": "formation",
+   "role": "Actionnaire via CMA Média (consortium de reprise)",
+   "debut": "2024-11",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_journalisme_de_Paris"
+  },
+  {
+   "personne": "pierre-edouard-sterin",
+   "organisation": "valeurs-actuelles",
+   "type": "media",
+   "role": "Actionnaire (entrée au capital annoncée le 26 septembre 2025 avec Benjamin La Combe et la famille Caude)",
+   "debut": "2025-09",
+   "fin": null,
+   "source_url": "https://www.ozap.com/actu/apres-avoir-echoue-a-acquerir-marianne-et-gala-le-milliardaire-catholique-conservateur-pierre-edouard-sterin-met-la-main-sur-valeurs-actuelles/651792"
+  },
+  {
+   "personne": "martin-bouygues",
+   "organisation": "groupe-tf1",
+   "type": "media",
+   "role": "Administrateur de TF1 ; PDG (1989-2021) puis président (depuis 2021) de Bouygues, actionnaire de contrôle",
+   "debut": "1987-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Bouygues"
+  },
+  {
+   "personne": "serge-dassault",
+   "organisation": "groupe-figaro",
+   "type": "media",
+   "role": "Propriétaire (groupe Dassault, via la Socpresse)",
+   "debut": "2004",
+   "fin": "2018-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Serge_Dassault"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "groupe-figaro",
+   "type": "media",
+   "role": "Journaliste politique (1996-2009) puis chroniqueur (Figaro Magazine et pages livres jusqu'en 2021)",
+   "debut": "1996",
+   "fin": "2021-09",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "cnews",
+   "type": "media",
+   "role": "Débatteur sur I-Télé (« Ça se dispute », 2003-2014) puis éditorialiste de « Face à l'info » (2019-2021)",
+   "debut": "2003",
+   "fin": "2021-09",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "groupe-m6",
+   "type": "media",
+   "role": "Chroniqueur sur RTL (2010-2019) et coanimateur de « Zemmour et Naulleau » sur Paris Première (2011-2021)",
+   "debut": "2010",
+   "fin": "2021",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Chroniqueur de « On n'est pas couché » (France 2)",
+   "debut": "2006",
+   "fin": "2011",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "fayard",
+   "type": "media",
+   "role": "Auteur (La messe n'est pas dite, 2025)",
+   "debut": "2025-10",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Librairie_Arth%C3%A8me_Fayard"
+  },
+  {
+   "personne": "eric-zemmour",
+   "organisation": "groupe-canal-plus",
+   "type": "media",
+   "role": "Auteur adapté : série documentaire tirée du « Suicide français » en développement pour Planète+",
+   "debut": "2024-10",
+   "fin": null,
+   "source_url": "https://www.ozap.com/actu/un-suicide-francais-le-groupe-canal-de-vincent-bollore-va-adapter-le-livre-deric-zemmour/647200"
+  },
+  {
+   "personne": "philippe-de-villiers",
+   "organisation": "cnews",
+   "type": "media",
+   "role": "Invité principal de l'émission hebdomadaire « Face à Philippe de Villiers »",
+   "debut": "2023",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Philippe_de_Villiers"
+  },
+  {
+   "personne": "philippe-de-villiers",
+   "organisation": "fayard",
+   "type": "media",
+   "role": "Auteur (Populicide, 2025)",
+   "debut": "2025-10",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Librairie_Arth%C3%A8me_Fayard"
+  },
+  {
+   "personne": "jordan-bardella",
+   "organisation": "fayard",
+   "type": "media",
+   "role": "Auteur (Ce que je cherche, 2024 ; Ce que veulent les Français, 2025)",
+   "debut": "2024-10",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Librairie_Arth%C3%A8me_Fayard"
+  },
+  {
+   "personne": "marion-marechal",
+   "organisation": "fayard",
+   "type": "media",
+   "role": "Autrice (Si tu te sens Le Pen)",
+   "debut": "2026-01",
+   "fin": null,
+   "source_url": "https://www.ozap.com/actu/quelle-sante-bertrand-chameroy-se-paye-les-editions-fayard-et-lavalanche-de-titres-ecrits-par-des-politiques-dextreme-droite/653405"
+  },
+  {
+   "personne": "nicolas-sarkozy",
+   "organisation": "fayard",
+   "type": "media",
+   "role": "Auteur (Le Journal d'un prisonnier, décembre 2025)",
+   "debut": "2025-12",
+   "fin": null,
+   "source_url": "https://www.livreshebdo.fr/article/fayard-va-publier-le-recit-de-la-detention-de-nicolas-sarkozy"
+  },
+  {
+   "personne": "nicolas-sarkozy",
+   "organisation": "groupe-lagardere",
+   "type": "entreprise",
+   "role": "Membre du conseil de surveillance puis du conseil d'administration",
+   "debut": "2020-02",
+   "fin": null,
+   "source_url": "https://actualitte.com/article/127669/edition/nicolas-sarkozy-est-il-le-nelson-mandela-francais"
+  },
+  {
+   "personne": "segolene-royal",
+   "organisation": "c8",
+   "type": "media",
+   "role": "Intervenante hebdomadaire dans « Touche pas à mon poste ! » (chronique « Ségolène explique »)",
+   "debut": "2023-09",
+   "fin": "2024",
+   "source_url": "https://www.ozap.com/actu/cyril-hanouna-recrute-segolene-royal-pour-son-nouveau-magazine-politique-sur-c8/633547"
+  },
+  {
+   "personne": "raphael-glucksmann",
+   "organisation": "nouveau-magazine-litteraire",
+   "type": "media",
+   "role": "Directeur de la rédaction, licencié en août 2018",
+   "debut": "2017-12",
+   "fin": "2018-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "personne": "raphael-glucksmann",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Chroniqueur de « Questions politiques » (France Inter / franceinfo)",
+   "debut": "2017",
+   "fin": "2018-11",
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "personne": "francois-ruffin",
+   "organisation": "fakir",
+   "type": "media",
+   "role": "Fondateur et rédacteur en chef",
+   "debut": "1999",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  },
+  {
+   "personne": "francois-ruffin",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Reporter de « Là-bas si j'y suis » (France Inter)",
+   "debut": "2005",
+   "fin": "2012",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  },
+  {
+   "personne": "sophia-chikirou",
+   "organisation": "le-media",
+   "type": "media",
+   "role": "Cofondatrice, présidente et directrice de la publication",
+   "debut": "2017-10",
+   "fin": "2018-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Le_M%C3%A9dia"
+  },
+  {
+   "personne": "fabien-roussel",
+   "organisation": "l-humanite",
+   "type": "media",
+   "role": "Stagiaire puis journaliste iconographe",
+   "debut": "1989",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+  },
+  {
+   "personne": "fabien-roussel",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Pigiste (« Au bout de la rue », France 3 Lorraine et Champagne-Ardenne)",
+   "debut": "1995",
+   "fin": "1996",
+   "source_url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+  },
+  {
+   "personne": "edouard-philippe",
+   "organisation": "liberation",
+   "type": "media",
+   "role": "Chroniqueur de la campagne présidentielle",
+   "debut": "2017-03",
+   "fin": "2017-05",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+  },
+  {
+   "personne": "bruno-retailleau",
+   "organisation": "alouette",
+   "type": "media",
+   "role": "Directeur général adjoint de la radio locale Alouette (Les Herbiers)",
+   "debut": "1985",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau"
+  },
+  {
+   "personne": "lea-salame",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Intervieweuse et coanimatrice de la matinale de France Inter",
+   "debut": "2014",
+   "fin": "2025-06",
+   "source_url": "https://fr.wikipedia.org/wiki/L%C3%A9a_Salam%C3%A9"
+  },
+  {
+   "personne": "lea-salame",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Présentatrice du journal de 20 heures de France 2 (retrait annoncé le 24 août 2026)",
+   "debut": "2025-09",
+   "fin": "2026-08",
+   "source_url": "https://fr.wikipedia.org/wiki/L%C3%A9a_Salam%C3%A9"
+  },
+  {
+   "personne": "valerie-trierweiler",
+   "organisation": "paris-match",
+   "type": "media",
+   "role": "Journaliste politique puis grand reporter",
+   "debut": "1989",
+   "fin": "2020-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler"
+  },
+  {
+   "personne": "valerie-trierweiler",
+   "organisation": "c8",
+   "type": "media",
+   "role": "Présentatrice d'émissions politiques sur Direct 8 (« Le Grand 8 », « Politiquement parlant »)",
+   "debut": "2005",
+   "fin": "2011",
+   "source_url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler"
+  },
+  {
+   "personne": "christine-kelly",
+   "organisation": "arcom",
+   "type": "autre",
+   "role": "Membre du Conseil supérieur de l'audiovisuel",
+   "debut": "2009-01",
+   "fin": "2015",
+   "source_url": "https://fr.wikipedia.org/wiki/Christine_Kelly"
+  },
+  {
+   "personne": "christine-kelly",
+   "organisation": "cnews",
+   "type": "media",
+   "role": "Présentatrice de « Face à l'info »",
+   "debut": "2019-10",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Christine_Kelly"
+  },
+  {
+   "personne": "eric-naulleau",
+   "organisation": "groupe-m6",
+   "type": "media",
+   "role": "Coanimateur de « Zemmour et Naulleau » (Paris Première)",
+   "debut": "2011",
+   "fin": "2021",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "personne": "cyril-hanouna",
+   "organisation": "c8",
+   "type": "media",
+   "role": "Animateur de « Touche pas à mon poste ! » jusqu'à l'arrêt de la chaîne",
+   "debut": "2012",
+   "fin": "2025-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Cyril_Hanouna"
+  },
+  {
+   "personne": "cyril-hanouna",
+   "organisation": "europe-1",
+   "type": "media",
+   "role": "Animateur",
+   "debut": "2024",
+   "fin": "2025",
+   "source_url": "https://fr.wikipedia.org/wiki/Cyril_Hanouna"
+  },
+  {
+   "personne": "cyril-hanouna",
+   "organisation": "groupe-m6",
+   "type": "media",
+   "role": "Animateur (W9, Fun Radio)",
+   "debut": "2025",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Cyril_Hanouna"
+  },
+  {
+   "personne": "bruno-roger-petit",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Journaliste politique puis présentateur (Antenne 2 / France 2)",
+   "debut": "1988",
+   "fin": "1998",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Roger-Petit"
+  },
+  {
+   "personne": "sibyle-veil",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Directrice déléguée (2015-2018) puis présidente-directrice générale (nommée par le CSA, reconduite par l'Arcom en 2022)",
+   "debut": "2015-09",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Sibyle_Veil"
+  },
+  {
+   "personne": "sibyle-veil",
+   "organisation": "ena-promotion-senghor",
+   "type": "formation",
+   "role": "Élève (promotion Léopold Sédar Senghor, 2004)",
+   "debut": "2002",
+   "fin": "2004",
+   "source_url": "https://fr.wikipedia.org/wiki/Sibyle_Veil"
+  },
+  {
+   "personne": "delphine-ernotte",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Présidente (élue par le CSA en 2015, reconduite en 2020 et le 14 mai 2025 par l'Arcom)",
+   "debut": "2015-08",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Delphine_Ernotte"
+  },
+  {
+   "personne": "martin-ajdari",
+   "organisation": "arcom",
+   "type": "autre",
+   "role": "Président (proposé par Emmanuel Macron)",
+   "debut": "2025-02",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "personne": "martin-ajdari",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Directeur général délégué",
+   "debut": "2004",
+   "fin": "2009",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "personne": "martin-ajdari",
+   "organisation": "france-televisions",
+   "type": "media",
+   "role": "Directeur général délégué aux ressources et secrétaire général",
+   "debut": "2010",
+   "fin": "2014",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "personne": "lise-boell",
+   "organisation": "fayard",
+   "type": "entreprise",
+   "role": "Directrice (nommée après l'éviction d'Isabelle Saporta)",
+   "debut": "2024-06",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Lise_Bo%C3%ABll"
+  },
+  {
+   "personne": "geoffroy-lejeune",
+   "organisation": "valeurs-actuelles",
+   "type": "media",
+   "role": "Directeur de la rédaction",
+   "debut": "2016",
+   "fin": "2023-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Geoffroy_Lejeune"
+  },
+  {
+   "personne": "geoffroy-lejeune",
+   "organisation": "le-journal-du-dimanche",
+   "type": "media",
+   "role": "Directeur de la rédaction",
+   "debut": "2023-08",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Geoffroy_Lejeune"
+  },
+  {
+   "personne": "claude-perdriel",
+   "organisation": "nouveau-magazine-litteraire",
+   "type": "media",
+   "role": "Actionnaire",
+   "debut": "2017-12",
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "personne": "daniel-mermet",
+   "organisation": "radio-france",
+   "type": "media",
+   "role": "Producteur de « Là-bas si j'y suis » (France Inter)",
+   "debut": null,
+   "fin": null,
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  }
+ ],
+ "relations": [
+  {
+   "source": "christine-kelly",
+   "cible": "eric-zemmour",
+   "type": "professionnel",
+   "description": "Présente « Face à l'info » sur CNews, dont Éric Zemmour est le chroniqueur vedette d'octobre 2019 à septembre 2021.",
+   "date": "2019-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Christine_Kelly"
+  },
+  {
+   "source": "gerard-larcher",
+   "cible": "christine-kelly",
+   "type": "nomination",
+   "description": "Nomme Christine Kelly membre du CSA le 24 janvier 2009, en tant que président du Sénat.",
+   "date": "2009-01",
+   "source_url": "https://fr.wikipedia.org/wiki/Christine_Kelly"
+  },
+  {
+   "source": "eric-naulleau",
+   "cible": "eric-zemmour",
+   "type": "professionnel",
+   "description": "Coanime avec Éric Zemmour l'émission « Zemmour et Naulleau » sur Paris Première de 2011 à 2021.",
+   "date": "2011",
+   "source_url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+  },
+  {
+   "source": "lise-boell",
+   "cible": "eric-zemmour",
+   "type": "professionnel",
+   "description": "Éditrice d'Éric Zemmour chez Albin Michel ; quitte la maison en juillet 2021 après son refus de publier « La France n'a pas dit son dernier mot ».",
+   "date": "2021-07",
+   "source_url": "https://fr.wikipedia.org/wiki/Lise_Bo%C3%ABll"
+  },
+  {
+   "source": "lise-boell",
+   "cible": "jordan-bardella",
+   "type": "professionnel",
+   "description": "Publie chez Fayard, à l'automne 2024, le premier livre de Jordan Bardella, « Ce que je cherche ».",
+   "date": "2024-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Lise_Bo%C3%ABll"
+  },
+  {
+   "source": "lise-boell",
+   "cible": "philippe-de-villiers",
+   "type": "professionnel",
+   "description": "Éditrice de longue date de Philippe de Villiers, publié chez Fayard (Populicide, 2025).",
+   "date": "2025-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Lise_Bo%C3%ABll"
+  },
+  {
+   "source": "segolene-royal",
+   "cible": "cyril-hanouna",
+   "type": "professionnel",
+   "description": "Recrutée par Cyril Hanouna pour une chronique hebdomadaire dans « Touche pas à mon poste ! » sur C8 à partir du 14 septembre 2023.",
+   "date": "2023-09",
+   "source_url": "https://www.ozap.com/actu/cyril-hanouna-recrute-segolene-royal-pour-son-nouveau-magazine-politique-sur-c8/633547"
+  },
+  {
+   "source": "matthieu-pigasse",
+   "cible": "xavier-niel",
+   "type": "professionnel",
+   "description": "Prend avec Xavier Niel et Pierre Bergé le contrôle du Monde (2010), cofonde Mediawan avec lui (2016) et lui cède l'essentiel de ses parts du Monde (2022).",
+   "date": "2010-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse"
+  },
+  {
+   "source": "daniel-kretinsky",
+   "cible": "matthieu-pigasse",
+   "type": "professionnel",
+   "description": "Rachète 49 % de la holding Le Nouveau Monde de Matthieu Pigasse, actionnaire du Monde, le 25 octobre 2018.",
+   "date": "2018-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Groupe_Le_Monde"
+  },
+  {
+   "source": "daniel-kretinsky",
+   "cible": "xavier-niel",
+   "type": "professionnel",
+   "description": "Cède ses parts du groupe Le Monde à Xavier Niel le 23 septembre 2023.",
+   "date": "2023-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+  },
+  {
+   "source": "patrick-drahi",
+   "cible": "rodolphe-saade",
+   "type": "professionnel",
+   "description": "Cède à CMA CGM (Rodolphe Saadé) Altice Media (BFM TV, RMC), rachat annoncé le 15 mars 2024 pour 1,55 Md€ et finalisé en juillet 2024.",
+   "date": "2024-03",
+   "source_url": "https://fr.wikipedia.org/wiki/Rodolphe_Saad%C3%A9"
+  },
+  {
+   "source": "rodolphe-saade",
+   "cible": "xavier-niel",
+   "type": "professionnel",
+   "description": "Rachète en août 2022 la participation de 11 % de Nice-Matin (Xavier Niel) dans La Provence.",
+   "date": "2022-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Xavier_Niel"
+  },
+  {
+   "source": "vincent-bollore",
+   "cible": "bernard-arnault",
+   "type": "professionnel",
+   "description": "Lagardère News, contrôlé par Vincent Bolloré, cède Paris Match à LVMH (Bernard Arnault) le 1er octobre 2024.",
+   "date": "2024-10",
+   "source_url": "https://fr.wikipedia.org/wiki/Paris_Match"
+  },
+  {
+   "source": "emmanuel-macron",
+   "cible": "martin-ajdari",
+   "type": "nomination",
+   "description": "Propose Martin Ajdari à la présidence de l'Arcom le 28 novembre 2024 ; entrée en fonction le 2 février 2025.",
+   "date": "2024-11",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "source": "martin-ajdari",
+   "cible": "laurent-fabius",
+   "type": "collaborateur",
+   "description": "Conseiller technique au cabinet de Laurent Fabius, ministre de l'Économie (2000-2002).",
+   "date": "2000",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "source": "martin-ajdari",
+   "cible": "aurelie-filippetti",
+   "type": "collaborateur",
+   "description": "Directeur de cabinet d'Aurélie Filippetti, ministre de la Culture et de la Communication (mai-août 2014).",
+   "date": "2014-05",
+   "source_url": "https://fr.wikipedia.org/wiki/Martin_Ajdari"
+  },
+  {
+   "source": "emmanuel-macron",
+   "cible": "bruno-roger-petit",
+   "type": "nomination",
+   "description": "Nomme le journaliste Bruno Roger-Petit porte-parole de l'Élysée (septembre 2017), puis conseiller mémoire (octobre 2018).",
+   "date": "2017-09",
+   "source_url": "https://fr.wikipedia.org/wiki/Bruno_Roger-Petit"
+  },
+  {
+   "source": "sibyle-veil",
+   "cible": "nicolas-sarkozy",
+   "type": "collaborateur",
+   "description": "Conseillère au cabinet du président Nicolas Sarkozy, chargée du Travail, de la Santé et du Logement (2007-2010).",
+   "date": "2007-06",
+   "source_url": "https://fr.wikipedia.org/wiki/Sibyle_Veil"
+  },
+  {
+   "source": "raphael-glucksmann",
+   "cible": "claude-perdriel",
+   "type": "rupture",
+   "description": "Licencié en août 2018 de la direction du Nouveau Magazine littéraire, dont Claude Perdriel est actionnaire ; Claude Perdriel invoque les résultats, Raphaël Glucksmann ses critiques d'Emmanuel Macron.",
+   "date": "2018-08",
+   "source_url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+  },
+  {
+   "source": "francois-ruffin",
+   "cible": "daniel-mermet",
+   "type": "professionnel",
+   "description": "Reporter de l'émission « Là-bas si j'y suis » produite par Daniel Mermet sur France Inter (2005-2012).",
+   "date": "2005",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  },
+  {
+   "source": "francois-ruffin",
+   "cible": "bernard-arnault",
+   "type": "rival",
+   "description": "Réalise « Merci patron ! » (2016, César du documentaire), film critique envers Bernard Arnault et LVMH.",
+   "date": "2016-02",
+   "source_url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  }
+ ],
+ "notes": "État au 12 octobre 2026. Groupe Le Monde : Kretinsky est sorti en septembre 2023 (parts rachetées par Niel) ; Niel a transféré en 2024 la quasi-totalité de ses actions au Fonds pour l'indépendance de la presse (il en garde le contrôle selon Mediapart) ; Pigasse a cédé l'essentiel de ses parts à Niel en 2022 mais garde Le Nouveau Monde ; la sortie annoncée de Prisa et le transfert des parts de Madison Cox ne sont pas confirmés. Vivendi scindé le 9 décembre 2024 : Canal+ (CNews), Havas et Louis Hachette Group (Lagardère : Europe 1, JDD, Fayard ; Prisma Media) ; Bolloré y est actionnaire de référence sans contrôle juridique déclaré de LHG (31 %). C8 a cessé d'émettre le 28 février 2025 (fréquence non renouvelée par l'Arcom) et la fréquence est attribuée à T18 (CMI France, Kretinsky). Paris Match est passé de Lagardère à LVMH le 1er octobre 2024. Altice Media (BFM TV, RMC) est passé à CMA CGM en juillet 2024 ; Brut racheté par Saadé en septembre 2025 ; une négociation sur RMC Sport (juin 2026) et une participation de 11 % dans M6 attribuée à CMA Media ne sont pas confirmées. Stérin : entrée au capital de Valeurs actuelles annoncée le 26 septembre 2025 (finalisation non vérifiée) ; tentative de rachat de Marianne abandonnée en 2024 ; non cité parmi les actionnaires de l'ESJ Paris (Dassault y est via le fonds Koodenvoi de la famille Habert-Dassault). Xavier Niel est candidat au rachat de « 60 Millions de consommateurs » (offre en examen en septembre 2026, non intégrée). Participation de Kretinsky dans TF1 (5 % en 2021) non vérifiée en 2026, non intégrée. Doublons volontairement omis (déjà dans familles.json / economie.json) : couples Glucksmann-Salamé, Hollande-Trierweiler, Niel-Delphine Arnault, liens familiaux Arnault et Bolloré, collaborations de Pigasse avec Strauss-Kahn, Fabius et Ségolène Royal (2007). Liens écartés : amitiés ou proximités rapportées (Bolloré-Sarkozy, Saadé-Macron, Bolloré-Zemmour), parrainages et témoins de mariage, enfants ; date du début du couple Niel-Arnault et éventuel mariage non vérifiés. Juan Branco, Sarah Knafo et Marion Maréchal (hors son livre chez Fayard) n'ont pas d'emploi médiatique documenté retenu. La chronique de Ségolène Royal dans TPMP est attestée jusqu'en mars 2024 au moins (fin exacte inconnue). Edouard Philippe : chronique de la campagne 2017 dans Libération, alors contrôlée par Patrick Drahi et Bruno Ledoux.",
+ "verifie_le": "2026-10-12"
+}
