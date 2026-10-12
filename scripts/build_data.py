@@ -96,6 +96,84 @@ def load_affaires(slugs):
     return out, errors
 
 
+# ---------- réseau des liens (data/reseau/) ----------
+TYPES_PARCOURS = {"gouvernement", "parti", "alliance", "election", "mouvement", "autre"}
+TYPES_RELATION = {"collaborateur", "soutien", "rupture", "rival", "nomination", "succession", "famille"}
+PRESIDENTS = {"francois-mitterrand": "François Mitterrand", "jacques-chirac": "Jacques Chirac",
+              "nicolas-sarkozy": "Nicolas Sarkozy", "francois-hollande": "François Hollande",
+              "emmanuel-macron": "Emmanuel Macron"}
+
+
+def build_reseau(cands):
+    """Assemble data/reseau/*.json en un graphe {noeuds, liens} pour la page Réseau."""
+    errors, warnings = [], []
+    rdir = os.path.join(DATA, "reseau")
+    orgs = {o["id"]: o for o in json.load(open(os.path.join(rdir, "organisations.json"), encoding="utf-8"))}
+    fiches = []
+    for path in sorted(glob.glob(os.path.join(rdir, "*.json"))):
+        if os.path.basename(path) == "organisations.json":
+            continue
+        try:
+            fiches.append(json.load(open(path, encoding="utf-8")))
+        except json.JSONDecodeError as e:
+            errors.append(f"reseau/{os.path.basename(path)}: JSON invalide ({e})")
+    for f in fiches:
+        for o in f.get("organisations_nouvelles") or []:
+            orgs.setdefault(o["id"], o)
+
+    # Personnes : candidats 2027 d'abord, puis personnalités citées.
+    personnes = {c["slug"]: {"id": c["slug"], "nom": c["nom"], "genre": "candidat", "parti": c.get("parti"),
+                             "bord": c.get("bord"), "statut": c.get("statut_candidature")} for c in cands}
+    for f in fiches:
+        for p in f.get("personnes_nouvelles") or []:
+            if p["slug"] not in personnes:
+                personnes[p["slug"]] = {"id": p["slug"], "nom": p["nom"], "genre": "personnalite",
+                                        "description": p.get("description")}
+    for slug, nom in PRESIDENTS.items():
+        personnes.setdefault(slug, {"id": slug, "nom": nom, "genre": "personnalite",
+                                    "description": "Président de la République"})
+
+    liens, vus = [], set()
+    for f in fiches:
+        src = f.get("slug")
+        if src not in personnes:
+            errors.append(f"reseau/{src}.json : slug inconnu")
+            continue
+        for e in f.get("parcours") or []:
+            if e.get("organisation") not in orgs:
+                errors.append(f"reseau/{src}.json : organisation inconnue {e.get('organisation')!r}")
+                continue
+            if e.get("type") not in TYPES_PARCOURS:
+                warnings.append(f"reseau/{src}.json : type de parcours inconnu {e.get('type')!r}")
+            liens.append({"source": src, "cible": e["organisation"], "nature": "parcours", "type": e.get("type"),
+                          "role": e.get("role"), "debut": e.get("debut"), "fin": e.get("fin"),
+                          "source_url": e.get("source_url")})
+        for r in f.get("relations") or []:
+            cible = r.get("cible")
+            if r.get("type") not in TYPES_RELATION:
+                errors.append(f"reseau/{src}.json : type de relation inconnu {r.get('type')!r}")
+                continue
+            if cible not in personnes:
+                personnes[cible] = {"id": cible, "nom": r.get("cible_nom") or cible, "genre": "personnalite"}
+            # Une relation déclarée des deux côtés n'est gardée qu'une fois.
+            cle = (tuple(sorted((src, cible))), r["type"], (r.get("date") or "")[:4])
+            if cle in vus:
+                continue
+            vus.add(cle)
+            liens.append({"source": src, "cible": cible, "nature": "relation", "type": r["type"],
+                          "description": r.get("description"), "date": r.get("date"),
+                          "source_url": r.get("source_url")})
+    # Le président qui a nommé chaque gouvernement.
+    for o in orgs.values():
+        if o.get("type") == "gouvernement" and o.get("president") in personnes:
+            liens.append({"source": o["president"], "cible": o["id"], "nature": "parcours", "type": "gouvernement",
+                          "role": "Président de la République", "debut": o.get("debut"), "fin": o.get("fin")})
+
+    utilises = {l["cible"] for l in liens} | {l["source"] for l in liens}
+    noeuds = list(personnes.values()) + [{**o, "genre": "organisation"} for o in orgs.values() if o["id"] in utilises]
+    return {"noeuds": noeuds, "liens": liens}, errors, warnings
+
+
 def main():
     check_only = "--check" in sys.argv
     all_cands, all_errors, all_warnings = [], [], []
@@ -108,6 +186,10 @@ def main():
     affaires, errors = load_affaires({c["slug"] for c in all_cands})
     all_errors += errors
     print(f"affaires : {len(affaires)} fiches, {sum(len(a['affaires'] or []) for a in affaires.values())} affaires")
+    reseau, errors, warnings = build_reseau([c for c in all_cands if c["annee"] == 2027])
+    all_errors += errors
+    all_warnings += warnings
+    print(f"réseau : {len(reseau['noeuds'])} nœuds, {len(reseau['liens'])} liens")
     for w in all_warnings:
         print("avertissement :", w)
     for e in all_errors:
@@ -125,7 +207,9 @@ def main():
     }
     with open(os.path.join(DATA, "programmes.json"), "w", encoding="utf-8") as f:
         json.dump(bundle, f, ensure_ascii=False, separators=(",", ":"))
-    print("data/programmes.json écrit")
+    with open(os.path.join(DATA, "reseau.json"), "w", encoding="utf-8") as f:
+        json.dump({"genere_le": bundle["genere_le"], **reseau}, f, ensure_ascii=False, separators=(",", ":"))
+    print("data/programmes.json et data/reseau.json écrits")
 
 
 if __name__ == "__main__":

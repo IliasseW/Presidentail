@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Réseau des candidats 2027</title>
+  <meta name="description" content="Graphe des liens politiques entre les candidats à la présidentielle 2027 : gouvernements, partis, soutiens, ruptures, rivalités.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <nav class="site-nav" aria-label="Pages"><a href="index.html">Comparateur des programmes</a><a href="reseau.html" aria-current="page">Réseau des candidats</a></nav>
+      <h1>Réseau des candidats</h1>
+      <p class="lede">Gouvernements, partis, soutiens, ruptures et rivalités : cliquez sur un nœud pour voir son parcours, ou reliez deux personnes pour trouver ce qui les connecte.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filtres du réseau">
+      <div class="control-block">
+        <h2>Relier deux personnes</h2>
+        <form id="path-form" class="path-form">
+          <input list="people" id="from" placeholder="Première personne" aria-label="Première personne" autocomplete="off">
+          <input list="people" id="to" placeholder="Deuxième personne" aria-label="Deuxième personne" autocomplete="off">
+          <button type="submit" class="btn">Trouver le lien</button>
+          <datalist id="people"></datalist>
+        </form>
+      </div>
+      <div class="control-block">
+        <h2>Liens affichés</h2>
+        <div id="filters" class="chips" role="group" aria-label="Types de liens"></div>
+      </div>
+    </section>
+
+    <div class="network">
+      <div class="graph-box">
+        <svg id="graph" role="img" aria-label="Graphe des liens entre candidats, personnalités et organisations"></svg>
+        <div id="tooltip" class="tooltip" hidden></div>
+        <div class="graph-tools">
+          <button type="button" id="zoom-in" class="btn btn-ghost btn-small" aria-label="Zoomer">+</button>
+          <button type="button" id="zoom-out" class="btn btn-ghost btn-small" aria-label="Dézoomer">−</button>
+          <button type="button" id="reset" class="btn btn-ghost btn-small">Recentrer</button>
+        </div>
+        <ul class="legend" id="legend"></ul>
+      </div>
+      <aside id="panel" class="panel" aria-live="polite"></aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p id="data-date"></p>
+      <p>Seuls des liens politiques ou professionnels publics sont recensés (postes, adhésions, soutiens, ruptures, rivalités, nominations), chacun avec sa source ; aucun lien de vie privée. Les appartenances à un même gouvernement ou parti se lisent via le nœud de l'organisation.</p>
+    </div>
+  </footer>
+
+  <script src="assets/vendor/d3-7.9.0.min.js"></script>
+  <script src="assets/reseau.js"></script>
+</body>
+</html>

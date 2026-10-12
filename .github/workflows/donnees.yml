@@ -17,4 +17,4 @@ jobs:
       - name: Vérifier que data/programmes.json est à jour
         run: |
           python3 scripts/build_data.py
-          git diff --exit-code data/programmes.json || (echo "data/programmes.json n'est pas à jour : relancez python3 scripts/build_data.py" && exit 1)
+          git diff --exit-code data/programmes.json data/reseau.json || (echo "data/programmes.json ou data/reseau.json n'est pas à jour : relancez python3 scripts/build_data.py" && exit 1)

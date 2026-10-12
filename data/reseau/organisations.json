@@ -1,0 +1,318 @@
+[
+  {
+    "id": "gouvernement-beregovoy",
+    "nom": "Gouvernement Bérégovoy",
+    "type": "gouvernement",
+    "president": "francois-mitterrand",
+    "debut": "1992-04",
+    "fin": "1993-03"
+  },
+  {
+    "id": "gouvernement-balladur",
+    "nom": "Gouvernement Balladur",
+    "type": "gouvernement",
+    "president": "francois-mitterrand",
+    "debut": "1993-03",
+    "fin": "1995-05"
+  },
+  {
+    "id": "gouvernement-juppe",
+    "nom": "Gouvernement Juppé",
+    "type": "gouvernement",
+    "president": "jacques-chirac",
+    "debut": "1995-05",
+    "fin": "1997-06"
+  },
+  {
+    "id": "gouvernement-jospin",
+    "nom": "Gouvernement Jospin",
+    "type": "gouvernement",
+    "president": "jacques-chirac",
+    "debut": "1997-06",
+    "fin": "2002-05"
+  },
+  {
+    "id": "gouvernement-raffarin",
+    "nom": "Gouvernements Raffarin",
+    "type": "gouvernement",
+    "president": "jacques-chirac",
+    "debut": "2002-05",
+    "fin": "2005-05"
+  },
+  {
+    "id": "gouvernement-villepin",
+    "nom": "Gouvernement Villepin",
+    "type": "gouvernement",
+    "president": "jacques-chirac",
+    "debut": "2005-05",
+    "fin": "2007-05"
+  },
+  {
+    "id": "gouvernement-fillon",
+    "nom": "Gouvernements Fillon",
+    "type": "gouvernement",
+    "president": "nicolas-sarkozy",
+    "debut": "2007-05",
+    "fin": "2012-05"
+  },
+  {
+    "id": "gouvernement-ayrault",
+    "nom": "Gouvernements Ayrault",
+    "type": "gouvernement",
+    "president": "francois-hollande",
+    "debut": "2012-05",
+    "fin": "2014-03"
+  },
+  {
+    "id": "gouvernement-valls",
+    "nom": "Gouvernements Valls",
+    "type": "gouvernement",
+    "president": "francois-hollande",
+    "debut": "2014-03",
+    "fin": "2016-12"
+  },
+  {
+    "id": "gouvernement-cazeneuve",
+    "nom": "Gouvernement Cazeneuve",
+    "type": "gouvernement",
+    "president": "francois-hollande",
+    "debut": "2016-12",
+    "fin": "2017-05"
+  },
+  {
+    "id": "gouvernement-philippe",
+    "nom": "Gouvernements Philippe",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2017-05",
+    "fin": "2020-07"
+  },
+  {
+    "id": "gouvernement-castex",
+    "nom": "Gouvernement Castex",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2020-07",
+    "fin": "2022-05"
+  },
+  {
+    "id": "gouvernement-borne",
+    "nom": "Gouvernement Borne",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2022-05",
+    "fin": "2024-01"
+  },
+  {
+    "id": "gouvernement-attal",
+    "nom": "Gouvernement Attal",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2024-01",
+    "fin": "2024-09"
+  },
+  {
+    "id": "gouvernement-barnier",
+    "nom": "Gouvernement Barnier",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2024-09",
+    "fin": "2024-12"
+  },
+  {
+    "id": "gouvernement-bayrou",
+    "nom": "Gouvernement Bayrou",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2024-12",
+    "fin": "2025-09"
+  },
+  {
+    "id": "gouvernement-lecornu",
+    "nom": "Gouvernements Lecornu",
+    "type": "gouvernement",
+    "president": "emmanuel-macron",
+    "debut": "2025-09",
+    "fin": null
+  },
+  {
+    "id": "ps",
+    "nom": "Parti socialiste",
+    "type": "parti"
+  },
+  {
+    "id": "rpr",
+    "nom": "RPR",
+    "type": "parti"
+  },
+  {
+    "id": "udf",
+    "nom": "UDF",
+    "type": "parti"
+  },
+  {
+    "id": "ump",
+    "nom": "UMP",
+    "type": "parti"
+  },
+  {
+    "id": "lr",
+    "nom": "Les Républicains",
+    "type": "parti"
+  },
+  {
+    "id": "fn-rn",
+    "nom": "Front national / Rassemblement national",
+    "type": "parti"
+  },
+  {
+    "id": "renaissance",
+    "nom": "En Marche / LREM / Renaissance",
+    "type": "parti"
+  },
+  {
+    "id": "horizons",
+    "nom": "Horizons",
+    "type": "parti"
+  },
+  {
+    "id": "modem",
+    "nom": "MoDem",
+    "type": "parti"
+  },
+  {
+    "id": "lfi",
+    "nom": "La France insoumise",
+    "type": "parti"
+  },
+  {
+    "id": "parti-de-gauche",
+    "nom": "Parti de gauche",
+    "type": "parti"
+  },
+  {
+    "id": "pcf",
+    "nom": "Parti communiste français",
+    "type": "parti"
+  },
+  {
+    "id": "les-ecologistes",
+    "nom": "Les Verts / EELV / Les Écologistes",
+    "type": "parti"
+  },
+  {
+    "id": "generation-ecologie",
+    "nom": "Génération écologie",
+    "type": "parti"
+  },
+  {
+    "id": "place-publique",
+    "nom": "Place publique",
+    "type": "parti"
+  },
+  {
+    "id": "debout-la-france",
+    "nom": "Debout la France",
+    "type": "parti"
+  },
+  {
+    "id": "les-patriotes",
+    "nom": "Les Patriotes",
+    "type": "parti"
+  },
+  {
+    "id": "upr",
+    "nom": "Union populaire républicaine",
+    "type": "parti"
+  },
+  {
+    "id": "reconquete",
+    "nom": "Reconquête",
+    "type": "parti"
+  },
+  {
+    "id": "resistons",
+    "nom": "Résistons !",
+    "type": "parti"
+  },
+  {
+    "id": "lutte-ouvriere",
+    "nom": "Lutte ouvrière",
+    "type": "parti"
+  },
+  {
+    "id": "npa",
+    "nom": "Nouveau Parti anticapitaliste",
+    "type": "parti"
+  },
+  {
+    "id": "npa-revolutionnaires",
+    "nom": "NPA-Révolutionnaires",
+    "type": "parti"
+  },
+  {
+    "id": "revolution-permanente",
+    "nom": "Révolution permanente",
+    "type": "parti"
+  },
+  {
+    "id": "grs",
+    "nom": "Gauche républicaine et socialiste",
+    "type": "parti"
+  },
+  {
+    "id": "debout",
+    "nom": "Debout ! (Ruffin)",
+    "type": "mouvement"
+  },
+  {
+    "id": "nouvelle-energie",
+    "nom": "Nouvelle Énergie",
+    "type": "parti"
+  },
+  {
+    "id": "nous-france",
+    "nom": "Nous France",
+    "type": "mouvement"
+  },
+  {
+    "id": "la-convention",
+    "nom": "La Convention",
+    "type": "mouvement"
+  },
+  {
+    "id": "la-france-humaniste",
+    "nom": "La France humaniste",
+    "type": "mouvement"
+  },
+  {
+    "id": "mpf",
+    "nom": "Mouvement pour la France",
+    "type": "parti"
+  },
+  {
+    "id": "nupes",
+    "nom": "NUPES (2022)",
+    "type": "alliance"
+  },
+  {
+    "id": "nfp",
+    "nom": "Nouveau Front populaire (2024)",
+    "type": "alliance"
+  },
+  {
+    "id": "primaire-gauche-2026",
+    "nom": "Primaire de la gauche « Choisir 2027 » (2026)",
+    "type": "election"
+  },
+  {
+    "id": "presidentielle-2022",
+    "nom": "Élection présidentielle 2022",
+    "type": "election"
+  },
+  {
+    "id": "presidentielle-2017",
+    "nom": "Élection présidentielle 2017",
+    "type": "election"
+  }
+]

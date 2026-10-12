@@ -186,6 +186,7 @@ function renderSynthese(cols, perTheme) {
       <tbody>
         <tr><th scope="row">Statut</th>${cols.map((c) => `<td>${esc(statutLine(c))}</td>`).join("")}</tr>
         <tr><th scope="row">Programme</th>${cols.map((c) => `<td>${programmeLine(c)}${c.programme?.titre ? `<span class="prog-title">${esc(c.programme.titre)}</span>` : ""}</td>`).join("")}</tr>
+        <tr><th scope="row">Réseau</th>${cols.map((c) => `<td><a href="reseau.html#${esc(c.slug)}">Voir ses liens</a></td>`).join("")}</tr>
         <tr><th scope="row">Affaires judiciaires</th>${cols.map((c) => `<td>${affairesDetail(c)}</td>`).join("")}</tr>
         <tr><th scope="row">Notes</th>${cols.map((c) => `<td>${c.notes ? `<details><summary>Incertitudes</summary><p>${esc(c.notes)}</p></details>` : "—"}</td>`).join("")}</tr>
         ${cols.some((c) => c.annee === 2027 && BY_KEY.has(`${c.slug}@2022`)) ? `<tr><th scope="row">2022</th>${cols.map((c) =>
